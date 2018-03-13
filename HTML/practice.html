@@ -13,16 +13,7 @@
 	<sub><b>연습용</b></sub></p>
 	<h4><p><strong>현재 연습하고 있는 중입니다.</strong></p></h4>
 
-<a href="http://www.google.com" target="_blank">
-google.com 방문1</a>
-<a href="http://www.google.com" target="_self">
-google.com 방문2</a>
-    <a href="http://www.google.com" target="_parent">
-google.com 방문3</a>
-
-    <a href="http://www.google.com" target="_top">
-google.com 방문4</a>
-
+<!--배너-->
 <ul>
 	<li> <a href="https://www.google.co.kr/search?q=%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjukeDbqebZAhXLpJQKHXEcC_0Q_AUICigB&biw=1920&bih=938" target="_blank">
 		에스프레소</a> </li>
@@ -32,7 +23,7 @@ google.com 방문4</a>
 		카페라떼</a> </li>
 </ul>
 
-
+<!--메뉴-->
 <p>
 <h5>메뉴</h5>
 <hr/>
@@ -56,6 +47,7 @@ google.com 방문4</a>
 </table>
 </p>
 
+<!--시간표-->
 <p>
 <table border="1">
 	<caption>
@@ -127,9 +119,44 @@ google.com 방문4</a>
 	<tr>
 		<td>9교시</td>
 	</tr>
+</table>
+</p>
 
 
+<p>
+	<audio src = "Shots.mp3" autoplay loop controls>
+		Cannot Play
+	</audio>
+</p>
 
+<p>
+	<video stc=" " autoplay controls>
+		Cannot Play
+	</video>
+</p>
+
+<div style="height:20px;   background-color:yellow"></div>
+
+<p>
+<h3>로그인</h3>
+E-mail: <input type="email" name="email" />
+	<input type="submit" value="로그인" style="height: 70px; width: 70px;"><br/>
+Password: <input type="password" name="pass"/>
+<p>
+<pre>
+<h3>회원</h3>
+<hr/>
+<form action="input.jsp" method="post">
+E-mail:		<input type="email" name="email" placeholder="abc@abc.com"/><br/>
+Password:	<input type="password" name="pass"/><br/>
+Check Password: <input type="password" name="checkpass"/><br/>
+이름:		<input type="name" name="name"/><br/>
+성별:		<input type="radio" name="gender" value="male">남성	<input type="radio" name="gender" value="female">여성<br/>
+생일:		<input type="date" name="date"/><br/>
+		<input type="submit" value="회원가입">	<input type="reset" value="초기화">
+</pre>
+</form>
+</p>
 
 </body>
 </html>
