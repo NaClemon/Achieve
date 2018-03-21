@@ -2,6 +2,8 @@
 <html>
 <head>
 <title>My Homepage</title>
+<span class="flag-uk">&nbsp;</span>
+<!--link type="text/css" rel="stylesheet" href="style.css"-->
 </head>
 
 <body>
@@ -124,24 +126,42 @@
 
 
 <p>
-	<audio src = "Shots.mp3" autoplay loop controls>
+	<audio src = "Shots.mp3" loop controls>
 		Cannot Play
 	</audio>
 </p>
 
 <p>
-	<video stc=" " autoplay controls>
+	<video stc=" " controls>
 		Cannot Play
 	</video>
 </p>
 
-<div style="height:20px;   background-color:yellow"></div>
+
 
 <p>
 <h3>로그인</h3>
-E-mail:<input type="email" name="email" />	<input type="submit" value="로그인" style="height: 70px; width: 70px;"><br/>
-Password: <input type="password" name="pass"/><br/>
-<a href="inframe.html" target="_self">회원가입</a>
+<div>
+<div><input type="email" name="email" placeholder="Email"/></div>
+<div><input type="password" name="pass" placeholder="Password"/></div>
+<div><input type="submit" value="로그인" style="height: 70px; width: 70px;"></div>
+</div>
+<a href="new_account.html" target="_self">회원가입</a>
+
+
+<form name="input" action="getfeedback.jsp" method="get" enctype="multipart/form-data">
+고객의 의견<br/><hr/>
+<input type="file" accept="image/jpg,imabe/gif"><br/>
+<textarea name="feedback" rows="5" cols="50">
+</textarea>
+</form>
+
+<p>
+상태<input type="range" min="1" max="100" value="1">
+</p>
+<p>
+색상<input type="color" name="color"/>
+</P>
 
 
 </body>

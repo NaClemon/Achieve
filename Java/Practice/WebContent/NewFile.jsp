@@ -7,17 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hello World JSP yeah!!</h1>
-<p>현재 날짜와 시간은: <%=new java.util.Date() %></p>
-<ul>
-	<li>a</li>
-	<li>b</li>
-	<li>c</li>
-</ul>
-<div style="text-align:center">
-<hr/>
-<a href="https://google.co.kr" target="_blank">구글 메인페이지</a>
-<hr/>
-</div>
+Hello World JSP Hong Gil Dong ^^
 </body>
 </html>
