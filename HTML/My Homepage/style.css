@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-image: linear-gradient(rgba(50, 50, 50, 0.5), rgba(50, 50, 50, 0.5)), url(background.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.nav{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.nav li{
+	display: inline-block;
+}
+.nav li a{
+	color: #d9d9d9;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Arial" sans-serif;
+	font-size: 30px;
+}
+.nav li a:hover{
+	color: #ffb805;
+}
+.logo img{
+	width: 120px;
+	height: auto;
+	float: left;
+	margin-left: 20px;
+}
+.logo:hover img{
+	opacity: 0.75;
+}
+	
