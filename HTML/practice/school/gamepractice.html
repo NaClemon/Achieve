@@ -1,0 +1,89 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <style>
+            canvas{
+                background-color: yellow;
+                border: 1px solid black;
+            }
+        </style>
+    </head>
+    <body onload="init()">
+        <canvas id="myCanvas" width="500" height="200"></canvas>
+        <div id="control">
+            속도 <input id="velocity" value="30" type="number" min="0" max="100" step="1">
+            각도 <input id="angle" value="40" type="number" min="0" max="90" step="1">
+            <div id="score">점수 = 0</div>
+            <button onclick="start()">발사</button>
+        </div>
+    </body>
+    <script>
+        var cnt;
+        var velocity;
+        var angle;
+        var ballV;
+        var ballVx;
+        var ballVy;
+        var ballX = 10;
+        var ballY = 250;
+        var ballRadius = 10;
+        var score = 0;
+        var image = new Image();
+        image.src = "lawn.png";
+        var backimage = new image();
+        backimage.src = "net.png";
+        var timer;
+        
+        function drawBall(){
+            cnt.beginPath();
+            cnt.arc(ballX, ballY, ballRadius, 0, 2.0*Math.PI, true);
+            cnt.fillStyle = "red";
+            cnt.fill();
+        }
+        function drawBackground() {
+            cnt.drawImage(image, 0, 270);
+            cnt.drawImage(backimage, 450, 60);
+        }
+        function draw(){
+            cnt.clearRect(0, 0, 500, 300);
+            drawBall();
+            drawBackground();
+        }
+        function init(){
+            ballX = 10;
+            ballY = 250;
+            ballRadius = 10;
+            cnt = document.getElementById("myCanvas").getContext("2d");
+            draw();
+        }
+        function start(){
+            init();
+            velocity = Number(document.getElementById("velocity").value);
+            angle = Number(document.getElementById("angle").value);
+            var angleR = angle*Math.PI/180;
+            
+            ballVx = velocity*Math.cos(angleR);
+            ballVy = -velocity*Math.sin(angleR);
+            
+            draw();
+            timer = setInterval(calculate, 100);
+            return false;
+        }
+        function calculate(){
+            ballVy = ballVy + 1.98;
+            
+            ballX = ballX + ballVx;
+            ballY = ballY + ballVy;
+            
+            if((ballX>=450)&&(ballX<=480)&&(ballY>=60)&&(ballY<=210)){
+                score++;
+                document.getElementById("score").innerHTML = "점수 = " + score;
+                clearInterval(timer);
+            }
+            if(ballY>=300 || ballY<0){
+                clearInterval(timer);
+            }
+            draw();
+        }
+    </script>
+</html>

@@ -3,7 +3,7 @@
 	padding: 0;
 }
 header{
-	background-image: linear-gradient(rgba(50, 50, 50, 0.5), rgba(50, 50, 50, 0.5)), url(background.jpg);
+	background-image: linear-gradient(rgba(120, 120, 120, 0.6), rgba(60, 60, 60, 0.6)), url(background.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -23,6 +23,9 @@ header{
 	font-family: "Arial" sans-serif;
 	font-size: 30px;
 }
+.nav li.active a{
+	color: #ffb805;
+}
 .nav li a:hover{
 	color: #ffb805;
 }
@@ -35,4 +38,370 @@ header{
 .logo:hover img{
 	opacity: 0.75;
 }
-	
+.mainword{
+	position: absolute;
+	width: 1000px;
+	height: 60px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	cursor: default;
+}
+.mainword h1{
+	color: #fff;
+	font-size: 50px;
+	font-family: "Arial" sans-serif;
+	text-align: center;
+}
+.signinbox{
+	position: absolute;
+	width: 320px;
+	height: 420px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
+}
+.userimg{
+	position: absolute;
+	width: 100px;
+	height: auto;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+.signinbox h2{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 24px;
+}
+.signinbox p{
+	margin: 0;
+	padding: 0;
+	font-family: "Arial" sans-serif;
+	font-weight: bold;
+}
+.signinbox input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.signinbox input[type=email], input[type=password]{
+	border: 0;
+	border-bottom: 1px solid #f2f2f2;
+	background: transparent;
+	height: 30px;
+	color: rgb(255, 255, 255);
+	outline: 0;
+	font-size: 15px;
+}
+.signinbox input[type="submit"]{
+	border: 0;
+	height: 35px;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.signinbox input[type="submit"]:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+.signinbox a{
+	text-decoration: none;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+}
+.signinbox a:hover{
+	text-decoration: underline;
+	color: #ffb805;
+}
+.accountbox{
+	position: absolute;
+	width: 500px;
+	height: 600px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
+}
+.accountbox h2{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 24px;
+}
+.accountbox p{
+	margin: 0;
+	padding: 0;
+	font-family: "Arial" sans-serif;
+	font-weight: bold;
+}
+.accountbox input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.accountbox input[type=email], input[type=password], input[type=text], input[type=date]{
+	border: 0;
+	border-bottom: 1px solid #f2f2f2;
+	background: transparent;
+	height: 40px;
+	color: rgb(255, 255, 255);
+	outline: 0;
+	font-size: 15px;
+}
+.accountbox input[type="submit"]{
+	border: 0;
+	height: 35px;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.accountbox input[type="submit"]:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+.accountbox a{
+	text-decoration: none;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+}
+.accountbox a:hover{
+	text-decoration: underline;
+	color: #ffb805;
+}
+.vidbox{
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
+}
+.usingvid{
+	position: absolute;
+	width: 1024px;
+	height: 576px;
+	left: calc(50% - 512px);
+}
+.vidimg{
+	position: absolute;
+	width: 120px;
+	height: auto;
+	top: -60px;
+	left: calc(50% - 60px);
+}
+.shopnav{
+	position: absolute;
+	list-style: none;
+	top:40%;
+}
+.shopnav li{
+	color: #fff;
+	background: rgba(0, 0, 0, 0.3);
+	width: 300px;
+	height: 32px;
+	margin-bottom: 15px;
+	border: 1px solid white;
+	text-align: center;
+}
+.shopnav button{
+	border: none;
+	background: transparent;
+	color: #fff;
+	font-size: 28px;
+	font-weight: bold;
+	width: 300px;
+	height: 32px;
+}
+.shopnav button:hover{
+	cursor: pointer;
+	color: #ffb805;
+}
+.moniinform{
+	position: absolute;
+	width: 1280px;
+	height: auto;
+	transform: translate(30%, -50%);
+	color: #fff;
+	visibility: hidden;
+}
+.moniinform img{
+	width: 200px;
+	height: 200px;
+}
+.moniinform table{
+	width: 1000px;
+	height: 350px;
+	text-align: center;
+}
+.moniinform table th{
+	height: 50px;
+	background: rgba(140, 140, 140, 0.6);
+}
+.moniinform table td input{
+	border: 0;
+	width: 130px;
+	height: 35px;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.moniinform table td input:hover{
+	cursor: pointer;
+	opacity: 1;
+}
+.lapinform{
+	position: absolute;
+	width: 1280px;
+	height: auto;
+	transform: translate(30%, -59.7%);
+	color: #fff;
+	visibility: hidden;
+}
+.lapinform img{
+	width: 200px;
+	height: 200px;
+}
+.lapinform table{
+	width: 1000px;
+	height: 350px;
+	text-align: center;
+}
+.lapinform table th{
+	height: 50px;
+	background: rgba(140, 140, 140, 0.6);
+}
+.lapinform table td input{
+	border: 0;
+	width: 130px;
+	height: 35px;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.lapinform table td input:hover{
+	cursor: pointer;
+	opacity: 1;
+}
+.carttable{
+	float: right;
+	position: absolute;
+	border: 1;
+	width: 400px;
+	color: #fff;
+	top: -200%;
+	left: 450%;
+}
+.carttable h2{
+	color: #ffb805;
+}
+.carttable input[type="button"]{
+	float: right;
+	border: 0;
+	height: 25px;
+	width: auto;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.carttable input[type="button"]:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+.carttable table{
+	border-bottom: 1px;
+	width: 400px;
+	border-spacing: 10px;
+	border-bottom: 2px solid;
+}
+.sum{
+	border: 0;
+	border-bottom: 1px solid #f2f2f2;
+	background: transparent;
+	width: 100px;
+	height: 20px;
+	color: rgb(255, 255, 255);
+	outline: 0;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: "Arial" sans-serif;
+	text-align: right;
+}
+#faqbox{
+	position: absolute;
+	width: 1024px;
+	height: 576px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
+}
+#faqbox h2{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 24px;
+}
+#faqbox textarea{
+	position: absolute;
+	width: 600px;
+	height: 150px;
+	left: 50%;
+	transform: translate(-50%, 0%);
+	background: transparent;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 20px;
+}
+#faqbox input[type="submit"]{
+	border: 0;
+    width: 100px;
+	height: 35px;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+    transform: translate(665px, 170px);
+}
+#faqbox input[type="submit"]:hover{
+	opacity: 1;
+	cursor: pointer;
+}

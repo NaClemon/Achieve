@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<title>My Homepage</title>
+</head>
+<body>
+	<header>
+		<div>
+			<div class="logo">
+				<a href="loginmyhomepage.html">
+					<img class="overlay" src="logo.png">
+				</a>
+			</div>
+			<div>
+				<ul class="nav">
+					<li class="active"><a href="mypage.html">MyPage</a></li>
+					<li><a href="loginshop.html">Shop</a></li>
+					<li><a href="watchvid.html">My Video</a></li>
+					<li><a href="faq.html">FAQ</a></li>
+					<li><a href="myhomepage.html" onclick="out()">Sign Out</a></li>
+				</ul>
+			</div>
+		</div>	
+	</header>
+	<div class="signinbox">
+		<img src="signin.png" class="userimg">
+		<h2>MyPage</h2>
+		<p>Email</p><hr><br>
+		<p>manager@this.com</p><br>
+		
+		<p>Birth</p><hr><br>
+		<p>1995년 10월 18일</p><br>
+		
+		<p>Inform</p><hr><br>
+		<p>충북대학교 소프트웨어학과 3학년<p>
+	</div>
+	<script>
+		function out(){
+			alert("로그아웃 되었습니다.");
+		}
+	</script>
+</body>
+</html>

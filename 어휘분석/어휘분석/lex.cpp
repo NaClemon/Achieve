@@ -80,7 +80,7 @@ int * Lex::Lexcal()
 {
 	int i = 0;
 	int count = 0;
-	lex = new int[strlen(sentence)]{ 0, };
+	lex = new int[strlen(sentence) + 1]{ 0, };
 	while (sentence[i] != '\0')
 	{
 		int chtoken = Check_Tokentype(sentence[i]);

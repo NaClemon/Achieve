@@ -1,0 +1,95 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Practice</title>
+    </head>
+    <body>
+        <a href="#" onclick="maxopen('http://www.google.com', 'resize=1, scrollbars=1 status=1')">전체 화면 보기</a>
+        <script>
+            function maxopen(url, winattributes){
+                var maxwindow = window.open(url, "", winattributes);
+                maxwindow.moveTo(0, 0);
+                maxwindow.resizeTo(screen.availWidth, screen.availHeight);
+            }
+        </script>
+        
+        <a href="#" onclick="replace()">이동하기</a>
+        <script>
+            function replace(){
+                location.replace("http://google.com");
+            }
+        </script>
+        
+        <div>
+            <input type="button" onclick="open()" value="버튼">
+            <script>
+                function open(){
+                    for(var key in navigator){
+                        value = navigator[key];
+                        document.write(key + ": " + value + "<br>");
+                    }
+                }
+            </script>
+        </div>
+        <div id="target">
+            <form method="post">
+                <input type="radio" name="C1" value="v1" onclick="changeColor('lightblue')">파랑색
+                <input type="radio" name="C1" value="v2" onclick="changeColor('lightgreen')">녹색
+            </form>
+            <script>
+                function changeColor(c){
+                    document.getElementById("target").style.backgroundColor = c;
+                }
+            </script>
+        </div>
+            <script>
+                function onLoadDoc(){
+                    alert("문서가 로드되었습니다.");
+                    document.body.style.backgroundColor = "red";
+                }
+            </script>
+        <div onload="onLoadDoc()">
+        </div>
+        <div>
+            <form>
+                result
+                <input id="display" value="0" size="30">
+                <br>
+                <input type="button" value="7" onclick="add('7')">
+                <input type="button" value="8" onclick="add('8')">
+                <input type="button" value="9" onclick="add('9')">
+                <input type="button" value="/" onclick="add('/')">
+                <br>
+                <input type="button" value="4" onclick="add('4')">
+                <input type="button" value="5" onclick="add('5')">
+                <input type="button" value="6" onclick="add('6')">
+                <input type="button" value="*" onclick="add('*')">
+                <br>
+                <input type="button" value="1" onclick="add('1')">
+                <input type="button" value="2" onclick="add('2')">
+                <input type="button" value="3" onclick="add('3')">
+                <input type="button" value="-" onclick="add('-')">
+                <br>
+                <input type="button" value="0" onclick="add('0')">
+                <input type="button" value="+" onclick="add('+')">
+                <br>
+                <input type="button" value="Clear" onclick="clearDisplay()">
+                <input type="button" value="Enter" name="enter" onclick="compute()">
+            </form>
+            <script>
+                var expression = "";
+                function add(num){
+                    expression = expression + num;
+                    document.getElementById("display").value = expression;
+                }
+                function compute(){
+                    document.getElementById("display").value = eval(expression);
+                }
+                function clearDisplay(){
+                    expression = "";
+                    document.getElementById("display").value = "0";
+                }
+            </script>
+        </div>
+    </body>
+</html>

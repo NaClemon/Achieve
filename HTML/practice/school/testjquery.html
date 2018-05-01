@@ -1,0 +1,46 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <script src="http://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+        
+        <style>
+            body{
+                background-color: #eef;
+            }
+            div{
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <img id="dog" src="dog.png" alt="" width="120" height="120" style="display: visible; position: relative"><br>
+        <button id="mon">Show it</button>
+        <button id="tue">Hide it</button>
+        <button id="wed">Animate it</button>
+        <button id="thu">Fade in</button>
+        <button id="fri">Fade out</button>
+        <button id="sat">Method</button>
+        <script>
+            $(document).ready(function(){
+                $("button#mon").click(function(){
+                    $("#dog").show("slow");
+                });
+                $("button#tue").click(function(){
+                    $("#dog").hide("slow");
+                });
+                $("button#wed").click(function(){
+                    $("#dog").animate({left: '100px', opacity: '0.5', width: '300px', height: '300px'});
+                });
+                $("button#thu").click(function(){
+                    $("#dog").fadeIn('slow');
+                });
+                $("button#fri").click(function(){
+                    $("#dog").fadeOut('slow');
+                });
+                $("button#sat").click(function(){
+                    $("#dog").hide('slow').fadeIn('slow').animate({left: '100px', opacity: '0.7'});
+                });
+            });
+        </script>
+    </body>
+</html>
