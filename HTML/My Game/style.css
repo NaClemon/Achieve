@@ -1,0 +1,85 @@
+#main{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    visibility: visible;
+}
+#main h1{
+    position: absolute;
+	top: 18%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    font-family: "Arial";
+    font-size: 40px;
+    color: rgb(255, 204, 0);
+    text-shadow: 2px 2px rgb(204, 163, 0);
+    animation: 1s title_anim;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+#main button{
+    position: absolute;
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 12px;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(255, 204, 0);
+    color: white;
+}
+#main button{
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#main button:hover{
+    cursor: pointer;
+}
+@keyframes title_anim{
+    from {font-size: 30px;}
+    to {font-size: 40px;}
+}
+#musicchoice{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    left: calc(50% - 512px);
+    text-align: center;
+    visibility: hidden;
+    width: 1024px;
+    height: 576px;
+    border: 1px solid blue;
+}
+#musicchoice img{
+    width: 250px;
+    height: 250px;
+}
+#mus1{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    top: 20%;
+    display: inline-block;
+}
+#mus2{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    top: 20%;
+    display: inline-block;
+}
+#game{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    left: calc(50% - 512px);
+    text-align: center;
+    visibility: hidden;
+}
+#mycanvas{
+    width: 1024px;
+    height: 576px;
+    border: 1px solid blue;
+}

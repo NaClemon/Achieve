@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>My Game</title>
+        <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="main">
+            <h1 id="anim">Welcome to My Game!!</h1>
+            <button onclick="start()">Start</button>
+        </div>
+        <div id="musicchoice">
+            <h2>Music</h2>
+            <div id="mus1">
+                <img src="album.jpg">
+                <audio src="Shots.mp3"></audio>
+            </div>
+            <div id="mus2">
+                <img src="album.jpg">
+                <audio src="Trouble.mp3"></audio>
+            </div>
+        </div>
+        <div id="game" onkeydown="inputkey()">
+            <canvas id="mycanvas"></canvas>
+            
+        </div>
+        
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

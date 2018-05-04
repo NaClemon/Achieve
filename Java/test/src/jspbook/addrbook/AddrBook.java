@@ -1,10 +1,5 @@
 package jspbook.addrbook;
 
-/**
- * File : AddrBook.java
- * Desc : 주소록 프로그램 DO 클래스
- * @author 황희정(dinfree@dinfree.com)
- */
 public class AddrBook {
 	// 멤버변수 선언
 	private int ab_id;
