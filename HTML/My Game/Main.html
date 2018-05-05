@@ -10,18 +10,14 @@
             <button onclick="start()">Start</button>
         </div>
         <div id="musicchoice">
-            <h2>Music</h2>
-            <div id="mus1">
-                <img src="album.jpg">
-                <audio src="Shots.mp3"></audio>
-            </div>
-            <div id="mus2">
-                <img src="album.jpg">
-                <audio src="Trouble.mp3"></audio>
-            </div>
+            <h1>Music</h1>
+            <button id="mus1" onclick="startgame(1)"></button>
+            <button id="mus2" onclick="startgame(2)" disabled></button>
+            <img src="left-arrow.png" onclick="nextsong()">
+            <img src="right-arrow.png" onclick="previoussong()">
         </div>
-        <div id="game" onkeydown="inputkey()">
-            <canvas id="mycanvas"></canvas>
+        <div onload="init()" id="game" onkeydown="inputkey()">
+            <canvas id="mycanvas" width="1024" height="576"></canvas>
             
         </div>
         
