@@ -17,6 +17,9 @@ var imgD = new Image();
 var imgF = new Image();
 imgA.src = "font.png";
 
+var noteX;
+var noteY = 0;
+var noteV = 2;
 var perfect = 0;
 var good = 0;
 var bad = 0;
@@ -210,4 +213,13 @@ function init(){
     cnt.fill();
     cnt.closePath();
     cnt.globalAlpha = 1;
+    
+}
+
+function key_down(){
+    alert("a");
+}
+
+function note_down(){
+    noteY += noteV;
 }

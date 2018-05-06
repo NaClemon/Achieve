@@ -122,3 +122,13 @@
 #mycanvas{
     border: 1px solid blue;
 }
+#keyinput{
+    display: block;
+}
+#nowcombo{
+    position: absolute;
+    
+}
+#nowjudge{
+    position: absolute;
+}

@@ -1,11 +1,17 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
-    <head>
-        
-    </head>
-    <body>
-     
-    <audio src="Trouble.mp3" controls><img src="album.jpg"></audio>
-    </body>
-    
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("div:first").keydown(function(event){
+    	if(event.keyCode == 65)
+        	alert("a");
+    });
+});
+</script>
+</head>
+<body>
+ <div id="game"></div>
+</body>
 </html>

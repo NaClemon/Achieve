@@ -3,6 +3,7 @@
     <head>
         <title>My Game</title>
         <link href="style.css" rel="stylesheet" type="text/css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     </head>
     <body>
         <div id="main">
@@ -16,9 +17,11 @@
             <img src="left-arrow.png" onclick="nextsong()">
             <img src="right-arrow.png" onclick="previoussong()">
         </div>
-        <div onload="init()" id="game" onkeydown="inputkey()">
+        <div onload="init()" id="game" onkeydown="key_down()">
             <canvas id="mycanvas" width="1024" height="576"></canvas>
-            
+            <input type="text" id="keyinput">
+            <input type="text" id="nowcombo" readonly>
+            <input type="text" id="nowjudge" readonly>
         </div>
         
         <script type="text/javascript" src="script.js"></script>
