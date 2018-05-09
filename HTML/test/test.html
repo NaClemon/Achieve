@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
-<head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-    $("div:first").keydown(function(event){
-    	if(event.keyCode == 65)
-        	alert("a");
-    });
-});
-</script>
-</head>
-<body>
- <div id="game"></div>
-</body>
+    <body>
+        <h1 id="text"></h1>
+        <input type="button" onclick="a()">
+        <script>
+            var ab = 0;
+            function a(){
+                ab += 1;
+                var t = document.getElementById("text");
+                var tm = ab + " combo";
+                t.innerHTML = tm;
+            }
+        </script>
+    </body>
 </html>

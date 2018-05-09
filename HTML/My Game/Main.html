@@ -17,13 +17,21 @@
             <img src="left-arrow.png" onclick="nextsong()">
             <img src="right-arrow.png" onclick="previoussong()">
         </div>
-        <div onload="init()" id="game" onkeydown="key_down()">
+        <div onload="init()" id="game">
             <canvas id="mycanvas" width="1024" height="576"></canvas>
-            <input type="text" id="keyinput">
-            <input type="text" id="nowcombo" readonly>
-            <input type="text" id="nowjudge" readonly>
+            <h1 id="nowcombo">1 combo</h1>
+            <h1 id="nowjudge">good</h1>
+            <div id="note1"></div>
+            <div id="line1"></div>
+            <div id="note2"></div>
+            <div id="line2"></div>
+            <div id="note3"></div>
+            <div id="line3"></div>
+            <div id="note4"></div>
+            <div id="line4"></div>
         </div>
         
         <script type="text/javascript" src="script.js"></script>
+        <script src="note.js"></script>
     </body>
 </html>

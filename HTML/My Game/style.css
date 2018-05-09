@@ -28,8 +28,6 @@
     height: 40px;
     background-color: rgb(255, 204, 0);
     color: white;
-}
-#main button{
 	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -127,8 +125,100 @@
 }
 #nowcombo{
     position: absolute;
-    
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 35px;
+	background: linear-gradient(to bottom right, #ffff33, #ff3300);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 #nowjudge{
     position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 27px;
+}
+#note1{
+    position: absolute;
+    border: 1px solid black;
+    width: 135px;
+    height: 16px;
+    border-radius: 20px;
+    background: radial-gradient(#ff9900 20%, #ffff1a, #ffffcc 80%);
+    top: -10%;
+    left: 212px;
+}
+#line1{
+    position: absolute;
+    width: 135px;
+    height: 521px;
+    top: 0;
+    left: 213px;
+    background-color: #d9d9d9;
+    opacity: 0.3;
+    z-index: -20;
+}
+#note2{
+    position: absolute;
+    border: 1px solid black;
+    width: 135px;
+    height: 16px;
+    border-radius: 20px;
+    background: radial-gradient(#ff9900 20%, #ffff1a, #ffffcc 80%);
+    top: -10%;
+    left: 367px;
+}
+#line2{
+    position: absolute;
+    width: 135px;
+    height: 521px;
+    top: 0;
+    left: 368px;
+    background-color: #d9d9d9;
+    opacity: 0.3;
+    z-index: -20;
+}
+#note3{
+    position: absolute;
+    border: 1px solid black;
+    width: 135px;
+    height: 16px;
+    border-radius: 20px;
+    background: radial-gradient(#ff9900 20%, #ffff1a, #ffffcc 80%);
+    top: -10%;
+    left: 522px;
+}
+#line3{
+    position: absolute;
+    width: 135px;
+    height: 521px;
+    top: 0;
+    left: 523px;
+    background-color: #d9d9d9;
+    opacity: 0.3;
+    z-index: -20;
+}
+#note4{
+    position: absolute;
+    border: 1px solid black;
+    width: 135px;
+    height: 16px;
+    border-radius: 20px;
+    background: radial-gradient(#ff9900 20%, #ffff1a, #ffffcc 80%);
+    top: -10%;
+    left: 677px;
+}
+#line4{
+    position: absolute;
+    width: 135px;
+    height: 521px;
+    top: 0;
+    left: 678px;
+    background-color: #d9d9d9;
+    opacity: 0.3;
+    z-index: -20;
 }
