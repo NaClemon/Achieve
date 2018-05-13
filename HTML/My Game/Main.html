@@ -17,10 +17,11 @@
             <img src="left-arrow.png" onclick="nextsong()">
             <img src="right-arrow.png" onclick="previoussong()">
         </div>
-        <div onload="init()" id="game">
+        <div id="game">
             <canvas id="mycanvas" width="1024" height="576"></canvas>
-            <h1 id="nowcombo">1 combo</h1>
-            <h1 id="nowjudge">good</h1>
+            <h1 id="nowcombo"></h1>
+            <h1 id="nowjudge"></h1>
+            <div id="judgeline"></div>
             <div id="note1"></div>
             <div id="line1"></div>
             <div id="note2"></div>
@@ -29,6 +30,16 @@
             <div id="line3"></div>
             <div id="note4"></div>
             <div id="line4"></div>
+        </div>
+        <div id="result">
+            <h1>Score: </h1><hr>
+            <h3>Combo: </h3>
+            <h3>Perfect: </h3>
+            <h3>Good: </h3>
+            <h3>Bad: </h3>
+            <h3>Miss: </h3><hr>
+            <h1>Rank: </h1>
+            <button id="out" onclick="gomain()">Check</button>
         </div>
         
         <script type="text/javascript" src="script.js"></script>
