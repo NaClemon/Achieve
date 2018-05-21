@@ -19,14 +19,12 @@ public class name extends HttpServlet {
     /**
      * @see HttpServlet#HttpServlet()
      */
-   
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		
 		reqName(request, response);
 	}
 
@@ -35,11 +33,9 @@ public class name extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		
 		reqName(request, response);
 	}
 
-	
 	public void reqName(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		request.setCharacterEncoding("utf-8");					// 파라미터로 전달되는 데이터의 한글 처리
 		response.setContentType("text/html; charset=UTF-8");
@@ -51,5 +47,4 @@ public class name extends HttpServlet {
 		RequestDispatcher dis = request.getRequestDispatcher("Name.jsp");
 		dis.forward(request, response);
 	}
-	
 }

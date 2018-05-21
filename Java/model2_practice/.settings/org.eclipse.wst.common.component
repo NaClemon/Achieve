@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="model2-practice">
+    <wb-module deploy-name="model2_practice">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="model2-practice"/>
-        <property name="java-output-path" value="/model2-practice/build/classes"/>
+        <property name="context-root" value="model2_practice"/>
+        <property name="java-output-path" value="/model2_practice/build/classes"/>
     </wb-module>
 </project-modules>

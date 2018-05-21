@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-	<center>
+<center>
 		<h2>이름</h2>
 		<form action="name.do" method="post">
 			<table width="300" border="1">
