@@ -35,10 +35,11 @@ void	powstmt(int, int, int);
 void	rootstmt(int, int);
 void	ifstmt();
 void	whilestmt();
-void	equalstmt(int, int);
+void	equalstmt(int, int, int);
 void	nequalstmt(int, int);
 void	bthanstmt(int, int);
 void	sthanstmt(int, int);
+void	labelstmt();
 int		insertsym(char *);
 %}
 
@@ -49,6 +50,7 @@ int		insertsym(char *);
 %left BIGTHAN SMALLTHAN
 %left ADD SUB
 %left MULTI DIV
+%left POW ROOT
 
 %%
 program		:	START stmt_list END		{ if (errorcnt==0) dwgen(); }
@@ -59,15 +61,16 @@ stmt_list	:	stmt_list stmt
 			| 	error STMTEND	{ errorcnt++; yyerrok; }
 			;
 
-stmt	:	IF A THEN stmt
-		|	A WHILE stmt
-		|	ID ASSGN expr STMTEND	{ $$=$1; assgnstmt($1, $3); }
+stmt	:	IF { ifstmt(); } A THEN stmt		{ labelstmt(); }
+		|	A WHILE stmt			//{ whilestmt(); }
+		|	ID ASSGN expr STMTEND stmt	{ $$=$1; assgnstmt($1, $3); }
+		|	/* null */
 		;
 			
-A		:	Z CONAND Z EQUAL
-		|	Z CONAND Z NEQUAL
-		|	Z IS Z BIGTHAN
-		|	Z IS Z SMALLTHAN
+A		:	Z CONAND Z EQUAL		{ $$=gentemp(); equalstmt($$, $1, $3); }
+		|	Z CONAND Z NEQUAL		//{ $$=gentemp(); nequalstmt($1, $3); }
+		|	Z IS Z BIGTHAN			//{ $$=gentemp(); bthanstmt($1, $3); }
+		|	Z IS Z SMALLTHAN		//{ $$=gentemp(); sthanstmt($1, $3); }
 		;
 			
 expr	:	expr ADD B		{ $$=gentemp(); addstmt($$, $1, $3); }
@@ -80,8 +83,8 @@ B		:	B MULTI C		{ $$=gentemp(); multistmt($$, $1, $3); }
 		|	C
 		;
 		
-C		:	Z OF C POW		{ $$=gentemp(); powstmt($$, $1, $3); }
-		|	ROOT C			{ $$=gentemp(); rootstmt($$, $2); }
+C		:	Z OF NUM POW		{ $$=gentemp(); powstmt($$, $1, $3); }
+		|	ROOT NUM			{ $$=gentemp(); rootstmt($$, $2); }
 		|	Z
 		;
 		
@@ -213,13 +216,58 @@ int first;
 		temp = next;
 		next = 0.5*(next + ((double)first/next));
 		
-		if(temp-next<0.0001 || temp-next>-0.0001)
+		if((temp-next)<0.0001 || (temp-next)<-0.0001)
 			break;
 	}
 	fprintf(fp, "$ -- ROOT STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[t]);
+	fprintf(fp, "PUSH %d\n", (int)next);
+}
+
+void ifstmt()
+{
+	fprintf(fp, "$ -- IF STMT --\n");
+	ifcount++;
+}
+
+void equalstmt(t, first, second)
+int t;
+int first;
+int second;
+{
 	fprintf(fp, "LVALUE %s\n", symtbl[t]); 
-	fprintf(fp, "RVALUE %f\n", next);
+	fprintf(fp, "RVALUE %s\n", symtbl[first]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[second]); 
+	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
+	if(first == second)
+		fprintf(fp, "GOTO iflabel%d\n", ifcount);
+}
+/*
+void nequalstmt(int, int)
+int first;
+int second;
+{
+	
+}
+
+void bthanstmt(int, int)
+int first;
+int second;
+{
+	
+}
+
+void sthanstmt(int, int)
+int first;
+int second;
+{
+	
+}*/
+
+void labelstmt()
+{
+	fprintf(fp, "LABEL iflabel%d\n", ifcount);
 }
 
 int gentemp()
