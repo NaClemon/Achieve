@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{3CBE751C-EB3A-46CA-B6EC-BCE47CA5E7EF}</ProjectGuid>
+    <ProjectGuid>{A1E0D854-0576-49B7-BB0A-7BE5248895A9}</ProjectGuid>
     <RootNamespace>cbu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
