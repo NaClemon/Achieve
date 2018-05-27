@@ -26,11 +26,16 @@ extern int loopcount = 0;
 void	dwgen();
 int		gentemp();
 void	assgnstmt(int, int);
+void	addassgnstmt(int, int);
+void	subassgnstmt(int, int);
+void	mulassgnstmt(int, int);
+void	divassgnstmt(int, int);
 void	numassgn(int, int);
 void	addstmt(int, int, int);
 void	substmt(int, int, int);
 void	multistmt(int, int, int);
 void	divstmt(int, int, int);
+void	modstmt(int, int, int);
 void	powstmt(int, int, int);
 void	rootstmt(int, int);
 void	ifstmt();
@@ -39,6 +44,8 @@ void	equalstmt(int, int);
 void	nequalstmt(int, int);
 void	bthanstmt(int, int);
 void	sthanstmt(int, int);
+void	bethanstmt(int, int);
+void	sethanstmt(int, int);
 void	outstmt();
 void	loopstmt();
 void	increasestmt(int, int);
@@ -46,13 +53,16 @@ void	decreasestmt(int, int);
 int		insertsym(char *);
 %}
 
-%token	ADD SUB MULTI DIV OF POW ROOT IF THEN IS CONAND WHILE EQUAL NEQUAL BIGTHAN SMALLTHAN ASSGN STMTEND START END ID NUM INCOPE DECOPE STARTLOOP
+%token	ADD SUB MULTI DIV OF POW ROOT IF THEN IS CONAND WHILE EQUAL NEQUAL BIGTHAN SMALLTHAN ASSGN STMTEND START END ID NUM INCOPE DECOPE STARTLOOP LBRA RBRA BIGETHAN SMALLETHAN MOD AND OR
+%token	ADDASGN SUBASSGN MULASSGN DIVASSGN
 
-%right ASSGN
+%right ASSGN ADDASGN SUBASSGN MULASSGN DIVASSGN
+%left OR
+%left AND
 %left EQUAL NEQUAL
-%left BIGTHAN SMALLTHAN
+%left BIGTHAN SMALLTHAN BIGETHAN SMALLETHAN
 %left ADD SUB
-%left MULTI DIV
+%left MULTI DIV MOD
 %left POW ROOT
 %right INCOPE DECOPE
 
@@ -65,16 +75,31 @@ stmt_list	:	stmt_list stmt
 			| 	error STMTEND	{ errorcnt++; yyerrok; }
 			;
 
-stmt	:	IF { ifstmt(); } A THEN stmt { outstmt(); }
-		|	STARTLOOP { whilestmt(); } A WHILE stmt { loopstmt(); }
-		|	ID ASSGN expr STMTEND				{ $$=$1; assgnstmt($1, $3); }
+stmt	:	IF { ifstmt(); } F THEN LBRA stmt RBRA { outstmt(); } stmt
+		|	STARTLOOP { whilestmt(); } F WHILE LBRA stmt RBRA { loopstmt(); } stmt
+		|	E stmt
+		|	/* null */
+		;
+
+F		:	A AND F
+		|	A OR F
+		|	A
+		;
+		
+E		:	ID ASSGN expr STMTEND				{ $$=$1; assgnstmt($1, $3); }
+		|	ID ADDASGN expr STMTEND				{ $$=$1; addassgnstmt($1, $3); }
+		|	ID SUBASSGN expr STMTEND			{ $$=$1; subassgnstmt($1, $3); }
+		|	ID MULASSGN expr STMTEND			{ $$=$1; mulassgnstmt($1, $3); }
+		|	ID SUBASSGN expr STMTEND			{ $$=$1; divassgnstmt($1, $3); }
 		|	D STMTEND
 		;
-			
+		
 A		:	Z CONAND Z IS EQUAL			{ equalstmt($1, $3); }
 		|	Z CONAND Z IS NEQUAL		{ nequalstmt($1, $3); }
 		|	Z IS Z BIGTHAN				{ bthanstmt($1, $3); }
 		|	Z IS Z SMALLTHAN			{ sthanstmt($1, $3); }
+		|	Z IS Z BIGETHAN				{ bethanstmt($1, $3); }
+		|	Z IS Z SMALLETHAN			{ sethanstmt($1, $3); }
 		;
 			
 expr	:	expr ADD B		{ $$=gentemp(); addstmt($$, $1, $3); }
@@ -84,6 +109,7 @@ expr	:	expr ADD B		{ $$=gentemp(); addstmt($$, $1, $3); }
 		
 B		:	B MULTI C		{ $$=gentemp(); multistmt($$, $1, $3); }
 		|	B DIV C			{ $$=gentemp(); divstmt($$, $1, $3); }
+		|	B MOD C			{ $$=gentemp(); modstmt($$, $1, $3); }
 		|	C
 		;
 		
@@ -142,6 +168,54 @@ int right;
 	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
 	fprintf(fp, ":=\n");
 }
+
+void addassgnstmt(left, right)
+int left;
+int right;
+{
+	fprintf(fp, "$ -- ID ADDASSIGNMENT STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
+	fprintf(fp, "+\n");
+	fprintf(fp, ":=\n");
+}
+
+void subassgnstmt(left, right)
+int left;
+int right;
+{
+	fprintf(fp, "$ -- ID SUBASSIGNMENT STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
+	fprintf(fp, "-\n");
+	fprintf(fp, ":=\n");
+}
+
+void mulassgnstmt(left, right)
+int left;
+int right;
+{
+	fprintf(fp, "$ -- ID MULASSIGNMENT STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
+	fprintf(fp, "*\n");
+	fprintf(fp, ":=\n");
+}
+
+void divassgnstmt(left, right)
+int left;
+int right;
+{
+	fprintf(fp, "$ -- ID DIVASSIGNMENT STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[left]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
+	fprintf(fp, "/\n");
+	fprintf(fp, ":=\n");
+}
 	
 void addstmt(t, first, second)
 int t;
@@ -192,6 +266,23 @@ int second;
 	fprintf(fp, "RVALUE %s\n", symtbl[first]); 
 	fprintf(fp, "RVALUE %s\n", symtbl[second]); 
 	fprintf(fp, "/\n");
+	fprintf(fp, ":=\n");
+}
+
+void modstmt(t, first, second)
+int t;
+int first;
+int second;
+{
+	fprintf(fp, "$ -- MOD STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[t]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[first]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "RVALUE %s\n", symtbl[first]); 
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "/\n");
+	fprintf(fp, "*\n");
+	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
 }
 
@@ -273,7 +364,7 @@ int second;
 	fprintf(fp, "RVALUE %s\n", symtbl[first]);
 	fprintf(fp, "RVALUE %s\n", symtbl[second]);
 	fprintf(fp, "-\n");
-	fprintf(fp, "GOMINUS out%d\n", outcount);
+	fprintf(fp, "GOFALSE out%d\n", outcount);
 }
 
 void sthanstmt(first, second)
@@ -283,9 +374,27 @@ int second;
 	fprintf(fp, "RVALUE %s\n", symtbl[first]);
 	fprintf(fp, "RVALUE %s\n", symtbl[second]);
 	fprintf(fp, "-\n");
-	fprintf(fp, "GOPLUS out%d\n", outcount);
+	fprintf(fp, "GOFALSE out%d\n", outcount);
+}
+void bethanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOMINUS out%d\n", outcount);
 }
 
+void sethanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOPLUS out%d\n", outcount);
+}
 void outstmt()
 {
 	fprintf(fp, "LABEL out%d\n", outcount);

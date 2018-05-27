@@ -63,7 +63,14 @@
      NUM = 279,
      INCOPE = 280,
      DECOPE = 281,
-     STARTLOOP = 282
+     STARTLOOP = 282,
+     LBRA = 283,
+     RBRA = 284,
+     BIGETHAN = 285,
+     SMALLETHAN = 286,
+     MOD = 287,
+     AND = 288,
+     OR = 289
    };
 #endif
 
