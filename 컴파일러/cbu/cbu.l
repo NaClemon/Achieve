@@ -52,6 +52,7 @@ id			{letter}({letter}|{digit})*
 곱하기는		{return(MULASSGN);}
 나누기는		{return(DIVASSGN);}
 반복			{return(STARTLOOP);}
+번			{return(COUNT);}
 ;			{return(STMTEND); }
 시작			{return(START);}
 "("			{return(LBRA);}

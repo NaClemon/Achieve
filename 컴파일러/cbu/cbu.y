@@ -22,6 +22,7 @@ extern int maxsym;
 extern int lineno;
 extern int outcount = 0;
 extern int loopcount = 0;
+extern int counttemp = 1;
 
 void	dwgen();
 int		gentemp();
@@ -48,15 +49,16 @@ void	bethanstmt(int, int);
 void	sethanstmt(int, int);
 void	outstmt();
 void	loopstmt();
+void	countstmt(int);
 void	increasestmt(int, int);
 void	decreasestmt(int, int);
 int		insertsym(char *);
 %}
 
 %token	ADD SUB MULTI DIV OF POW ROOT IF THEN IS CONAND WHILE EQUAL NEQUAL BIGTHAN SMALLTHAN ASSGN STMTEND START END ID NUM INCOPE DECOPE STARTLOOP LBRA RBRA BIGETHAN SMALLETHAN MOD AND OR
-%token	ADDASGN SUBASSGN MULASSGN DIVASSGN
+%token	ADDASSGN SUBASSGN MULASSGN DIVASSGN COUNT
 
-%right ASSGN ADDASGN SUBASSGN MULASSGN DIVASSGN
+%right ASSGN ADDASSGN SUBASSGN MULASSGN DIVASSGN
 %left OR
 %left AND
 %left EQUAL NEQUAL
@@ -77,6 +79,7 @@ stmt_list	:	stmt_list stmt
 
 stmt	:	IF { ifstmt(); } F THEN LBRA stmt RBRA { outstmt(); } stmt
 		|	STARTLOOP { whilestmt(); } F WHILE LBRA stmt RBRA { loopstmt(); } stmt
+		|	STARTLOOP { whilestmt(); } NUM COUNT { countstmt($2); } LBRA stmt RBRA { loopstmt(); } stmt
 		|	E stmt
 		|	/* null */
 		;
@@ -87,7 +90,7 @@ F		:	A AND F
 		;
 		
 E		:	ID ASSGN expr STMTEND				{ $$=$1; assgnstmt($1, $3); }
-		|	ID ADDASGN expr STMTEND				{ $$=$1; addassgnstmt($1, $3); }
+		|	ID ADDASSGN expr STMTEND			{ $$=$1; addassgnstmt($1, $3); }
 		|	ID SUBASSGN expr STMTEND			{ $$=$1; subassgnstmt($1, $3); }
 		|	ID MULASSGN expr STMTEND			{ $$=$1; mulassgnstmt($1, $3); }
 		|	ID SUBASSGN expr STMTEND			{ $$=$1; divassgnstmt($1, $3); }
@@ -335,6 +338,19 @@ void whilestmt()
 	outcount++;
 	fprintf(fp, "$ -- WHILE STMT --\n");
 	fprintf(fp, "LABEL loop%d\n", loopcount);
+}
+
+void countstmt(i)
+int i;
+{
+	int temp = tsymbolcnt;
+	fprintf(fp, "RVALUE loopcount\n");
+	fprintf(fp, "PUSH 1\n");
+	fprintf(fp, ":=\n");
+	fprintf(fp, "RVALUE loopcount\n");
+	fprintf(fp, "RVALUE %S\n", symtbl[temp]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOTRUE out%d\n", outcount);
 }
 
 void equalstmt(first, second)

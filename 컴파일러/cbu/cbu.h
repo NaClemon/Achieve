@@ -70,7 +70,11 @@
      SMALLETHAN = 286,
      MOD = 287,
      AND = 288,
-     OR = 289
+     OR = 289,
+     ADDASSGN = 290,
+     SUBASSGN = 291,
+     MULASSGN = 292,
+     DIVASSGN = 293
    };
 #endif
 
