@@ -70,11 +70,21 @@
      SMALLETHAN = 286,
      MOD = 287,
      AND = 288,
-     OR = 289,
-     ADDASSGN = 290,
-     SUBASSGN = 291,
-     MULASSGN = 292,
-     DIVASSGN = 293
+     ADDASSGN = 289,
+     SUBASSGN = 290,
+     MULASSGN = 291,
+     DIVASSGN = 292,
+     ELSE = 293,
+     ELSEIF = 294,
+     COUNT = 295,
+     BREAK = 296,
+     SWITCH = 297,
+     CASE = 298,
+     COLON = 299,
+     OUT = 300,
+     SWITEND = 301,
+     SCAN = 302,
+     PRINT = 303
    };
 #endif
 

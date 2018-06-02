@@ -16,22 +16,30 @@
 int tsymbolcnt=0;
 int errorcnt=0;
 FILE *fp;
+int switchnum;
 
 extern char symtbl[MAXSYM][MAXSYMLEN];
 extern int maxsym;
 extern int lineno;
 extern int outcount = 0;
 extern int loopcount = 0;
-extern int counttemp = 1;
+extern int ifmulti = 0;
+extern int loopmulti = 0;
+extern int ifloop = 0;
+extern int switchmix = 0;
+extern int switchcount = 0;
 
 void	dwgen();
 int		gentemp();
+/* 대입 */
 void	assgnstmt(int, int);
 void	addassgnstmt(int, int);
 void	subassgnstmt(int, int);
 void	mulassgnstmt(int, int);
 void	divassgnstmt(int, int);
 void	numassgn(int, int);
+
+/* 연산 */
 void	addstmt(int, int, int);
 void	substmt(int, int, int);
 void	multistmt(int, int, int);
@@ -39,27 +47,43 @@ void	divstmt(int, int, int);
 void	modstmt(int, int, int);
 void	powstmt(int, int, int);
 void	rootstmt(int, int);
+void	increasestmt(int, int);
+void	decreasestmt(int, int);
+
+/* 반복 및 조건 */
 void	ifstmt();
+void	elseifstmt();
 void	whilestmt();
+void	outstmt();
+void	loopstmt();
+void	countstmt(int, int);
+void	casestmt(int);
+void	breakstmt();
+
+/* 비교 */
 void	equalstmt(int, int);
 void	nequalstmt(int, int);
 void	bthanstmt(int, int);
 void	sthanstmt(int, int);
 void	bethanstmt(int, int);
 void	sethanstmt(int, int);
-void	outstmt();
-void	loopstmt();
-void	countstmt(int);
-void	increasestmt(int, int);
-void	decreasestmt(int, int);
+
+/* 스위치 */
+void	switchstmt(int);
+void	switchoutstmt();
+void	switchend();
+
+/* 입출력 */
+void	printstmt(int);
+void	scanstmt(int);
+
 int		insertsym(char *);
 %}
 
-%token	ADD SUB MULTI DIV OF POW ROOT IF THEN IS CONAND WHILE EQUAL NEQUAL BIGTHAN SMALLTHAN ASSGN STMTEND START END ID NUM INCOPE DECOPE STARTLOOP LBRA RBRA BIGETHAN SMALLETHAN MOD AND OR
-%token	ADDASSGN SUBASSGN MULASSGN DIVASSGN COUNT
+%token	ADD SUB MULTI DIV OF POW ROOT IF THEN IS CONAND WHILE EQUAL NEQUAL BIGTHAN SMALLTHAN ASSGN STMTEND START END ID NUM INCOPE DECOPE STARTLOOP LBRA RBRA BIGETHAN SMALLETHAN MOD AND
+%token	ADDASSGN SUBASSGN MULASSGN DIVASSGN ELSE ELSEIF COUNT BREAK SWITCH CASE COLON OUT SWITEND SCAN PRINT
 
 %right ASSGN ADDASSGN SUBASSGN MULASSGN DIVASSGN
-%left OR
 %left AND
 %left EQUAL NEQUAL
 %left BIGTHAN SMALLTHAN BIGETHAN SMALLETHAN
@@ -77,56 +101,74 @@ stmt_list	:	stmt_list stmt
 			| 	error STMTEND	{ errorcnt++; yyerrok; }
 			;
 
-stmt	:	IF { ifstmt(); } F THEN LBRA stmt RBRA { outstmt(); } stmt
-		|	STARTLOOP { whilestmt(); } F WHILE LBRA stmt RBRA { loopstmt(); } stmt
-		|	STARTLOOP { whilestmt(); } NUM COUNT { countstmt($2); } LBRA stmt RBRA { loopstmt(); } stmt
-		|	E stmt
+stmt	:	IF { ifstmt(); } logic THEN LBRA stmt escape RBRA mulst stmt
+		|	STARTLOOP { whilestmt(); } logic WHILE LBRA stmt RBRA { loopstmt(); } stmt
+		|	idum COUNT STARTLOOP { whilestmt(); $$=gentemp(); countstmt($$, $1); } LBRA stmt RBRA { loopstmt(); } stmt
+		|	subst stmt
+		|	choic
+		|	/* null */
+		;
+		
+choic	:	SWITCH LBRA ID RBRA { switchstmt($3); } CASE NUM COLON { $$=gentemp(); numassgn($$, $6); casestmt($$); } subst OUT { switchoutstmt(); } chca
+		;
+		
+chca	:	CASE NUM COLON { $$=gentemp(); numassgn($$, $2); casestmt($$); } subst OUT { switchoutstmt(); } chca 
+		|	SWITEND { switchend(); }
+		;
+		
+escape	:	BREAK STMTEND { breakstmt(); }
 		|	/* null */
 		;
 
-F		:	A AND F
-		|	A OR F
-		|	A
+mulst	:	ELSEIF { elseifstmt(); outstmt(); } logic THEN LBRA stmt escape RBRA  mulst
+		|	ELSE { outstmt(); } LBRA stmt escape RBRA
+		|	/* null */ { outstmt(); }
 		;
 		
-E		:	ID ASSGN expr STMTEND				{ $$=$1; assgnstmt($1, $3); }
+logic	:	comp AND logic
+		|	comp
+		;
+		
+subst	:	ID ASSGN expr STMTEND				{ $$=$1; assgnstmt($1, $3); }
 		|	ID ADDASSGN expr STMTEND			{ $$=$1; addassgnstmt($1, $3); }
 		|	ID SUBASSGN expr STMTEND			{ $$=$1; subassgnstmt($1, $3); }
 		|	ID MULASSGN expr STMTEND			{ $$=$1; mulassgnstmt($1, $3); }
 		|	ID SUBASSGN expr STMTEND			{ $$=$1; divassgnstmt($1, $3); }
-		|	D STMTEND
+		|	inde STMTEND
+		|	SCAN ID	STMTEND						{ scanstmt($2); }
+		|	PRINT ID STMTEND					{ printstmt($2); }
 		;
 		
-A		:	Z CONAND Z IS EQUAL			{ equalstmt($1, $3); }
-		|	Z CONAND Z IS NEQUAL		{ nequalstmt($1, $3); }
-		|	Z IS Z BIGTHAN				{ bthanstmt($1, $3); }
-		|	Z IS Z SMALLTHAN			{ sthanstmt($1, $3); }
-		|	Z IS Z BIGETHAN				{ bethanstmt($1, $3); }
-		|	Z IS Z SMALLETHAN			{ sethanstmt($1, $3); }
+comp	:	idum CONAND idum IS EQUAL			{ equalstmt($1, $3); }
+		|	idum CONAND idum IS NEQUAL			{ nequalstmt($1, $3); }
+		|	idum IS idum BIGTHAN				{ bthanstmt($1, $3); }
+		|	idum IS idum SMALLTHAN				{ sthanstmt($1, $3); }
+		|	idum IS idum BIGETHAN				{ bethanstmt($1, $3); }
+		|	idum IS idum SMALLETHAN				{ sethanstmt($1, $3); }
 		;
 			
-expr	:	expr ADD B		{ $$=gentemp(); addstmt($$, $1, $3); }
-		|	expr SUB B		{ $$=gentemp(); substmt($$, $1, $3); }
-		|	B
+expr	:	expr ADD tim		{ $$=gentemp(); addstmt($$, $1, $3); }
+		|	expr SUB tim		{ $$=gentemp(); substmt($$, $1, $3); }
+		|	tim
 		;
 		
-B		:	B MULTI C		{ $$=gentemp(); multistmt($$, $1, $3); }
-		|	B DIV C			{ $$=gentemp(); divstmt($$, $1, $3); }
-		|	B MOD C			{ $$=gentemp(); modstmt($$, $1, $3); }
-		|	C
+tim		:	tim MULTI squ		{ $$=gentemp(); multistmt($$, $1, $3); }
+		|	tim DIV squ			{ $$=gentemp(); divstmt($$, $1, $3); }
+		|	tim MOD squ			{ $$=gentemp(); modstmt($$, $1, $3); }
+		|	squ
 		;
 		
-C		:	Z OF NUM POW		{ $$=gentemp(); powstmt($$, $1, $3); }
+squ		:	idum OF NUM POW		{ $$=gentemp(); powstmt($$, $1, $3); }
 		|	ROOT NUM			{ $$=gentemp(); rootstmt($$, $2); }
-		|	Z
+		|	idum
 		;
 		
-D		:	INCOPE Z			{ $$=gentemp(); increasestmt($$, $2); }
-		|	DECOPE Z			{ $$=gentemp(); decreasestmt($$, $2); }
+inde	:	INCOPE idum				{ $$=gentemp(); increasestmt($$, $2); }
+		|	DECOPE idum				{ $$=gentemp(); decreasestmt($$, $2); }
 		;
 		
-Z		:	ID	
-		|	NUM		{ $$=gentemp(); numassgn($$, $1); }
+idum	:	ID	
+		|	NUM			{ $$=gentemp(); numassgn($$, $1); }
 		;
 
 
@@ -134,7 +176,7 @@ Z		:	ID
 main() 
 {
 	printf("\nsample CBU compiler v1.0\n");
-	printf("(C) Copyright by Jae Sung Lee (jasonlee@cbnu.ac.kr), 2001.\n");
+	printf("Edited by Kwangho Son\n");
 
 	fp=fopen("a.asm", "w");
 	
@@ -158,9 +200,11 @@ int num;
 {
 	fprintf(fp, "$ -- NUM ASSIGNMENT STMT --\n");
 	fprintf(fp, "LVALUE %s\n", symtbl[idx]); 
-	fprintf(fp, "PUSH %d\n", num); 
+	fprintf(fp, "PUSH %d\n", num);
 	fprintf(fp, ":=\n");
 }
+
+/* 대입 관련 */
 
 void assgnstmt(left, right)
 int left;
@@ -171,7 +215,6 @@ int right;
 	fprintf(fp, "RVALUE %s\n", symtbl[right]); 
 	fprintf(fp, ":=\n");
 }
-
 void addassgnstmt(left, right)
 int left;
 int right;
@@ -183,7 +226,6 @@ int right;
 	fprintf(fp, "+\n");
 	fprintf(fp, ":=\n");
 }
-
 void subassgnstmt(left, right)
 int left;
 int right;
@@ -195,7 +237,6 @@ int right;
 	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
 }
-
 void mulassgnstmt(left, right)
 int left;
 int right;
@@ -207,7 +248,6 @@ int right;
 	fprintf(fp, "*\n");
 	fprintf(fp, ":=\n");
 }
-
 void divassgnstmt(left, right)
 int left;
 int right;
@@ -219,7 +259,10 @@ int right;
 	fprintf(fp, "/\n");
 	fprintf(fp, ":=\n");
 }
-	
+
+
+/* 연산 관련 */
+
 void addstmt(t, first, second)
 int t;
 int first;
@@ -232,7 +275,6 @@ int second;
 	fprintf(fp, "+\n");
 	fprintf(fp, ":=\n");
 }
-
 void substmt(t, first, second)
 int t;
 int first;
@@ -245,7 +287,6 @@ int second;
 	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
 }
-
 void multistmt(t, first, second)
 int t;
 int first;
@@ -258,7 +299,6 @@ int second;
 	fprintf(fp, "*\n");
 	fprintf(fp, ":=\n");
 }
-
 void divstmt(t, first, second)
 int t;
 int first;
@@ -271,7 +311,6 @@ int second;
 	fprintf(fp, "/\n");
 	fprintf(fp, ":=\n");
 }
-
 void modstmt(t, first, second)
 int t;
 int first;
@@ -288,7 +327,6 @@ int second;
 	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
 }
-
 void powstmt(t, first, second)
 int t;
 int first;
@@ -305,7 +343,6 @@ int second;
 	}
 	fprintf(fp, ":=\n");
 }
-
 void rootstmt(t, first)
 int t;
 int first;
@@ -325,103 +362,6 @@ int first;
 	fprintf(fp, "LVALUE %s\n", symtbl[t]);
 	fprintf(fp, "PUSH %d\n", (int)next);
 }
-
-void ifstmt()
-{
-	outcount++;
-	fprintf(fp, "$ -- IF STMT --\n");
-}
-
-void whilestmt()
-{
-	loopcount++;
-	outcount++;
-	fprintf(fp, "$ -- WHILE STMT --\n");
-	fprintf(fp, "LABEL loop%d\n", loopcount);
-}
-
-void countstmt(i)
-int i;
-{
-	int temp = tsymbolcnt;
-	fprintf(fp, "RVALUE loopcount\n");
-	fprintf(fp, "PUSH 1\n");
-	fprintf(fp, ":=\n");
-	fprintf(fp, "RVALUE loopcount\n");
-	fprintf(fp, "RVALUE %S\n", symtbl[temp]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOTRUE out%d\n", outcount);
-}
-
-void equalstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOTRUE out%d\n", outcount);
-}
-
-void nequalstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOFALSE out%d\n", outcount);
-}
-
-void bthanstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOFALSE out%d\n", outcount);
-}
-
-void sthanstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOFALSE out%d\n", outcount);
-}
-void bethanstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOMINUS out%d\n", outcount);
-}
-
-void sethanstmt(first, second)
-int first;
-int second;
-{
-	fprintf(fp, "RVALUE %s\n", symtbl[first]);
-	fprintf(fp, "RVALUE %s\n", symtbl[second]);
-	fprintf(fp, "-\n");
-	fprintf(fp, "GOPLUS out%d\n", outcount);
-}
-void outstmt()
-{
-	fprintf(fp, "LABEL out%d\n", outcount);
-}
-
-void loopstmt()
-{
-	fprintf(fp, "GOTO loop%d\n", loopcount);
-	fprintf(fp, "LABEL out%d\n", outcount);
-}
-
 void increasestmt(t, first)
 int t;
 int first;
@@ -451,6 +391,244 @@ int first;
 	fprintf(fp, "-\n");
 	fprintf(fp, ":=\n");
 }
+
+/* 비교 연산 */
+
+void equalstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOTRUE out%d\n", outcount);
+}
+void nequalstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOFALSE out%d\n", outcount);
+}
+void bthanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOMINUS out%d\n", outcount);
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOFALSE out%d\n", outcount);
+}
+void sthanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOPLUS out%d\n", outcount);
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOFALSE out%d\n", outcount);
+}
+void bethanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOMINUS out%d\n", outcount);
+}
+void sethanstmt(first, second)
+int first;
+int second;
+{
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[second]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOPLUS out%d\n", outcount);
+}
+
+
+/* 반복 및 조건 */
+
+void ifstmt()
+{
+	outcount++;
+	ifloop = 1;
+	fprintf(fp, "$ -- IF STMT --\n");
+}
+
+void whilestmt()
+{
+	loopcount++;
+	outcount++;
+	loopmulti = 1;
+	fprintf(fp, "$ -- WHILE STMT --\n");
+	fprintf(fp, "LABEL loop%d\n", loopcount);
+}
+
+void outstmt()
+{
+	if(switchmix = 0)
+	{
+		if(ifmulti == 0)
+			fprintf(fp, "LABEL out%d\n", outcount);
+		else if (ifmulti == 1)
+			fprintf(fp, "LABEL out%d\n", outcount - 1);
+	}
+	else
+	{
+		if(ifmulti == 0)
+			fprintf(fp, "LABEL out%d\n", outcount - switchcount);
+		else if (ifmulti == 1)
+			fprintf(fp, "LABEL out%d\n", outcount - switchcount - 1);
+	}
+	ifmulti = 0;
+	switchmix = 0;
+	switchcount = 0;
+}
+
+void loopstmt()
+{
+	if(switchmix == 0)
+	{
+		if(loopmulti == 1)
+		{
+			fprintf(fp, "GOTO loop%d\n", loopcount);
+			if(ifloop == 1)
+				fprintf(fp, "LABEL out%d\n", outcount - 1);
+			else
+				fprintf(fp, "LABEL out%d\n", outcount);
+		}
+		else
+		{
+			fprintf(fp, "GOTO loop%d\n", loopcount - 1);
+			if(ifloop == 1)
+				fprintf(fp, "LABEL out%d\n", outcount - 2);
+			else
+				fprintf(fp, "LABEL out%d\n", outcount - 1);
+		}
+	}
+	else
+	{
+		if(loopmulti == 1)
+		{
+			fprintf(fp, "GOTO loop%d\n", loopcount);
+			if(ifloop == 1)
+				fprintf(fp, "LABEL out%d\n", outcount - switchcount - 1);
+			else
+				fprintf(fp, "LABEL out%d\n", outcount - switchcount);
+		}
+		else
+		{
+			fprintf(fp, "GOTO loop%d\n", loopcount - 1);
+			if(ifloop == 1)
+				fprintf(fp, "LABEL out%d\n", outcount - switchcount - 2);
+			else
+				fprintf(fp, "LABEL out%d\n", outcount - switchcount - 1);
+		}
+	}
+	loopmulti = 0;
+	switchmix = 0;
+	switchcount = 0;
+}
+
+void elseifstmt()
+{
+	outcount++;
+	fprintf(fp, "GOTO out%d\n", outcount);
+	ifmulti = 1;
+}
+
+void breakstmt()
+{
+	fprintf(fp, "GOTO out%d\n", outcount - 1);
+}
+
+void countstmt(t, first)
+int t;
+int first;
+{
+	fprintf(fp, "LVALUE %s\n", symtbl[t]);
+	fprintf(fp, "PUSH 1\n");
+	fprintf(fp, ":=\n");
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[t]); 
+	fprintf(fp, "GOFALSE out%d\n", outcount);
+	fprintf(fp, "LVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[first]);
+	fprintf(fp, "RVALUE %s\n", symtbl[t]);
+	fprintf(fp, "-\n");
+	fprintf(fp, ":=\n");
+}
+
+
+/* 스위치문 */
+
+void switchstmt(num)
+int num;
+{
+	fprintf(fp, "$ -- SWITCH STMT --\n");
+	switchnum = num;
+	switchmix = 1;
+}
+
+void casestmt(t)
+int t;
+{
+	outcount++;
+	switchcount++;
+	fprintf(fp, "RVALUE %s\n", symtbl[switchnum]);
+	fprintf(fp, "RVALUE %s\n", symtbl[t]);
+	fprintf(fp, "-\n");
+	fprintf(fp, "GOTRUE out%d\n", outcount);
+}
+
+void switchoutstmt()
+{
+	fprintf(fp, "GOTO BOUT\n");
+	fprintf(fp, "LABEL out%d\n", outcount);
+}
+
+void switchend()
+{
+	fprintf(fp, "LABEL BOUT\n");
+}
+
+
+
+/* 입출력 */
+
+void printstmt(id)
+int id;
+{
+	fprintf(fp, "$ -- PRINT STMT --\n");
+	fprintf(fp, "RVALUE %s\n", symtbl[id]);
+	fprintf(fp, "OUTNUM\n");
+}
+
+void scanstmt(id)
+int id;
+{
+	fprintf(fp, "$ -- SCAN STMT --\n");
+	fprintf(fp, "LVALUE %s\n", symtbl[id]);
+	fprintf(fp, "INNUM\n");
+	fprintf(fp, ":=\n");
+}
+
+
+
+
+
 
 int gentemp()
 {

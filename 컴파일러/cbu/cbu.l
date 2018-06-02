@@ -30,13 +30,14 @@ id			{letter}({letter}|{digit})*
 제곱			{return(POW);}
 루트			{return(ROOT);}
 만약			{return(IF);}
+그렇지않으면		{return(ELSE);}
+아니면			{return(ELSEIF);}
 면			{return(THEN);}
 가			{return(IS);}
 이			{return(IS);}
 와			{return(CONAND);}
 과			{return(CONAND);}
 그리고			{return(AND);}
-또는			{return(OR);}
 증가			{return(INCOPE);}
 감소			{return(DECOPE);}
 일동안			{return(WHILE);}
@@ -53,8 +54,16 @@ id			{letter}({letter}|{digit})*
 나누기는		{return(DIVASSGN);}
 반복			{return(STARTLOOP);}
 번			{return(COUNT);}
-;			{return(STMTEND); }
+스위치			{return(SWITCH);}
+마지막			{return(SWITEND);}
+경우			{return(CASE);}
+":"			{return(COLON);}
+;			{return(STMTEND);}
 시작			{return(START);}
+그만			{return(BREAK);}
+탈출			{return(OUT);}
+입력			{return(SCAN);}
+출력			{return(PRINT);}
 "("			{return(LBRA);}
 ")"			{return(RBRA);}
 끝			{return(END);}
