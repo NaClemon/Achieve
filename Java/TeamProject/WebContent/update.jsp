@@ -100,17 +100,17 @@
 				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 blog-post" id="scheform">
 					<div id="writepg">
 						<form action="update.do" method="post">
-							<input type="hidden" name="num" value="${retrieve.num }">
+							<input type="hidden" name="num" value="${update.num }">
 							<div class="form-horizontal">
 								<h2>월요일</h2>
 								<div class="form-inline form-group" style="padding-left: 30px">
 									<div class="form-group">
 										<label for="mon_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="mon_athle1" name="mon_athle1_name" value="${retrieve.mon_athle1_name }">
+										<input type="text" class="form-control" id="mon_athle1" name="mon_athle1_name" value="${update.mon_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="mon_athle1_many">
-											<option selected>${retrieve.mon_athle1_many }</option>
+											<option selected>${update.mon_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -122,7 +122,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="mon_athle1_set">
-											<option selected>${retrieve.mon_athle1_set }</option>
+											<option selected>${update.mon_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -138,10 +138,10 @@
 									<div class="form-group">
 										<label for="mon_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="mon_athle2" name="mon_athle2_name" value="${retrieve.mon_athle2_name }">
+										<input type="text" class="form-control" id="mon_athle2" name="mon_athle2_name" value="${update.mon_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="mon_athle2_many">
-											<option selected>${retrieve.mon_athle2_many }</option>
+											<option selected>${update.mon_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -153,7 +153,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="mon_athle2_set">
-											<option selected>${retrieve.mon_athle2_set }</option>
+											<option selected>${update.mon_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -166,7 +166,7 @@
 									</div>
 								</div>
 								<label for="mon_meal">식단</label>
-								<textarea class="form-control" id="mon_meal" name="mon_meal" rows="6">${retrieve.mon_meal }</textarea>
+								<textarea class="form-control" id="mon_meal" name="mon_meal" rows="6">${update.mon_meal }</textarea>
 								</div>
 							<br>
 							<br>
@@ -176,10 +176,10 @@
 									<div class="form-group">
 										<label for="tue_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="tue_athle1" name="tue_athle1_name" value="${retrieve.tue_athle1_name }">
+										<input type="text" class="form-control" id="tue_athle1" name="tue_athle1_name" value="${update.tue_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="tue_athle1_many">
-											<option selected>${retrieve.tue_athle1_many }</option>
+											<option selected>${update.tue_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -191,7 +191,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="tue_athle1_set">
-											<option selected>${retrieve.tue_athle1_set }</option>
+											<option selected>${update.tue_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -207,10 +207,10 @@
 									<div class="form-group">
 										<label for="tue_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="tue_athle2" name="tue_athle2_name" value="${retrieve.tue_athle2_name }">
+										<input type="text" class="form-control" id="tue_athle2" name="tue_athle2_name" value="${update.tue_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="tue_athle2_many">
-											<option selected>${retrieve.tue_athle2_many }</option>
+											<option selected>${update.tue_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -222,7 +222,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="tue_athle2_set">
-											<option selected>${retrieve.tue_athle2_set }</option>
+											<option selected>${update.tue_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -235,7 +235,7 @@
 									</div>
 								</div>
 								<label for="tue_meal">식단</label>
-								<textarea class="form-control" id="tue_meal" name="tue_meal" rows="6">${retrieve.tue_meal }</textarea>
+								<textarea class="form-control" id="tue_meal" name="tue_meal" rows="6">${update.tue_meal }</textarea>
 								</div>
 							<br>
 							<br>
@@ -245,10 +245,10 @@
 									<div class="form-group">
 										<label for="wed_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="wed_athle1" name="wed_athle1_name" value="${retrieve.wed_athle1_name }">
+										<input type="text" class="form-control" id="wed_athle1" name="wed_athle1_name" value="${update.wed_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="wed_athle1_many">
-											<option selected>${retrieve.wed_athle1_many }</option>
+											<option selected>${update.wed_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -260,7 +260,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="wed_athle1_set">
-											<option selected>${retrieve.wed_athle1_set }</option>
+											<option selected>${update.wed_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -276,10 +276,10 @@
 									<div class="form-group">
 										<label for="wed_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="wed_athle2" name="wed_athle2_name" value="${retrieve.wed_athle2_name }">
+										<input type="text" class="form-control" id="wed_athle2" name="wed_athle2_name" value="${update.wed_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="wed_athle2_many">
-											<option selected>${retrieve.wed_athle2_many }</option>
+											<option selected>${update.wed_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -291,7 +291,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="wed_athle2_set">
-											<option selected>${retrieve.wed_athle2_set }</option>
+											<option selected>${update.wed_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -304,7 +304,7 @@
 									</div>
 								</div>
 								<label for="wed_meal">식단</label>
-								<textarea class="form-control" id="wed_meal" name="wed_meal" rows="6">${retrieve.wed_meal }</textarea>
+								<textarea class="form-control" id="wed_meal" name="wed_meal" rows="6">${update.wed_meal }</textarea>
 								</div>
 							<br>
 							<br><div class="form-horizontal">
@@ -313,10 +313,10 @@
 									<div class="form-group">
 										<label for="thu_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="thu_athle1" name="thu_athle1_name" value="${retrieve.thu_athle1_name }">
+										<input type="text" class="form-control" id="thu_athle1" name="thu_athle1_name" value="${update.thu_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="thu_athle1_many">
-											<option selected>${retrieve.thu_athle1_many }</option>
+											<option selected>${update.thu_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -328,7 +328,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="thu_athle1_set">
-											<option selected>${retrieve.thu_athle1_set }</option>
+											<option selected>${update.thu_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -344,10 +344,10 @@
 									<div class="form-group">
 										<label for="thu_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="thu_athle2" name="thu_athle2_name" value="${retrieve.thu_athle2_name }">
+										<input type="text" class="form-control" id="thu_athle2" name="thu_athle2_name" value="${update.thu_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="thu_athle2_many">
-											<option selected>${retrieve.thu_athle2_many }</option>
+											<option selected>${update.thu_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -359,7 +359,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="thu_athle2_set">
-											<option selected>${retrieve.thu_athle2_set }</option>
+											<option selected>${update.thu_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -372,7 +372,7 @@
 									</div>
 								</div>
 								<label for="thu_meal">식단</label>
-								<textarea class="form-control" id="thu_meal" name="thu_meal" rows="6">${retrieve.thu_meal }</textarea>
+								<textarea class="form-control" id="thu_meal" name="thu_meal" rows="6">${update.thu_meal }</textarea>
 								</div>
 							<br>
 							<br>
@@ -382,10 +382,10 @@
 									<div class="form-group">
 										<label for="fri_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="fri_athle1" name="fri_athle1_name" value="${retrieve.fri_athle1_name }">
+										<input type="text" class="form-control" id="fri_athle1" name="fri_athle1_name" value="${update.fri_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="fri_athle1_many">
-											<option selected>${retrieve.fri_athle1_many }</option>
+											<option selected>${update.fri_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -397,7 +397,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="fri_athle1_set">
-											<option selected>${retrieve.fri_athle1_set }</option>
+											<option selected>${update.fri_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -413,10 +413,10 @@
 									<div class="form-group">
 										<label for="fri_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="fri_athle2" name="fri_athle2_name" value="${retrieve.fri_athle2_name }">
+										<input type="text" class="form-control" id="fri_athle2" name="fri_athle2_name" value="${update.fri_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="fri_athle2_many">
-											<option selected>${retrieve.fri_athle2_many }</option>
+											<option selected>${update.fri_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -428,7 +428,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="fri_athle2_set">
-											<option selected>${retrieve.fri_athle2_set }</option>
+											<option selected>${update.fri_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -441,7 +441,7 @@
 									</div>
 								</div>
 								<label for="fri_meal">식단</label>
-								<textarea class="form-control" id="fri_meal" name="fri_meal" rows="6">${retrieve.fri_meal }</textarea>
+								<textarea class="form-control" id="fri_meal" name="fri_meal" rows="6">${update.fri_meal }</textarea>
 								</div>
 							<br>
 							<br>
@@ -451,10 +451,10 @@
 									<div class="form-group">
 										<label for="sat_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="sat_athle1" name="sat_athle1_name" value="${retrieve.sat_athle1_name }">
+										<input type="text" class="form-control" id="sat_athle1" name="sat_athle1_name" value="${update.sat_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="sat_athle1_many">
-											<option selected>${retrieve.sat_athle1_many }</option>
+											<option selected>${update.sat_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -466,7 +466,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="sat_athle1_set">
-											<option selected>${retrieve.sat_athle1_set }</option>
+											<option selected>${update.sat_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -482,10 +482,10 @@
 									<div class="form-group">
 										<label for="sat_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="sat_athle2" name="sat_athle2_name" value="${retrieve.sat_athle2_name }">
+										<input type="text" class="form-control" id="sat_athle2" name="sat_athle2_name" value="${update.sat_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="sat_athle2_many">
-											<option selected>${retrieve.sat_athle2_many }</option>
+											<option selected>${update.sat_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -497,7 +497,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="sat_athle2_set">
-											<option selected>${retrieve.sat_athle2_set }</option>
+											<option selected>${update.sat_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -510,7 +510,7 @@
 									</div>
 								</div>
 								<label for="sat_meal">식단</label>
-								<textarea class="form-control" id="sat_meal" name="sat_meal" rows="6">${retrieve.sat_meal }</textarea>
+								<textarea class="form-control" id="sat_meal" name="sat_meal" rows="6">${update.sat_meal }</textarea>
 								</div>
 							<br>
 							<br>
@@ -520,10 +520,10 @@
 									<div class="form-group">
 										<label for="sun_athle1">1.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="sun_athle1" name="sun_athle1_name" value="${retrieve.sun_athle1_name }">
+										<input type="text" class="form-control" id="sun_athle1" name="sun_athle1_name" value="${update.sun_athle1_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="sun_athle1_many">
-											<option selected>${retrieve.sun_athle1_many }</option>
+											<option selected>${update.sun_athle1_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -535,7 +535,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="sun_athle1_set">
-											<option selected>${retrieve.sun_athle1_set }</option>
+											<option selected>${update.sun_athle1_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -551,10 +551,10 @@
 									<div class="form-group">
 										<label for="sun_athle2">2.</label>
 										&nbsp;&nbsp;
-										<input type="text" class="form-control" id="sun_athle2" name="sun_athle2_name" value="${retrieve.sun_athle2_name }">
+										<input type="text" class="form-control" id="sun_athle2" name="sun_athle2_name" value="${update.sun_athle2_name }">
 										&nbsp;&nbsp;
 										<select class="form-control" name="sun_athle2_many">
-											<option selected>${retrieve.sun_athle2_many }</option>
+											<option selected>${update.sun_athle2_many }</option>
 											<option>5</option>
 											<option>10</option>
 											<option>15</option>
@@ -566,7 +566,7 @@
 										</select> 개
 										&nbsp;&nbsp;
 										<select class="form-control" name="sun_athle2_set">
-											<option selected>${retrieve.sun_athle2_set }</option>
+											<option selected>${update.sun_athle2_set }</option>
 											<option>3</option>
 											<option>4</option>
 											<option>5</option>
@@ -579,7 +579,7 @@
 									</div>
 								</div>
 								<label for="sun_meal">식단</label>
-								<textarea class="form-control" id="sun_meal" name="sun_meal" rows="6">${retrieve.sun_meal }</textarea>
+								<textarea class="form-control" id="sun_meal" name="sun_meal" rows="6">${update.sun_meal }</textarea>
 								</div>
 							<br>
 							<br>

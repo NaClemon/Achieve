@@ -37,6 +37,8 @@ public class BoardFrontController extends HttpServlet {
 		
 		
 		if(com.equals("/writeui.do")) {
+			command = new BoardWriteuiCommand();
+			command.execute(request, response);
 			nextPage = "write.jsp";
 		}
 		if(com.equals("/write.do")) {
@@ -55,6 +57,8 @@ public class BoardFrontController extends HttpServlet {
 			nextPage = "retrieve.jsp";
 		}
 		if(com.equals("/updateui.do")) {
+			command = new BoardUpdateuiCommand();
+			command.execute(request, response);
 			nextPage = "update.jsp";
 		}
 		if(com.equals("/update.do")) {

@@ -1,12 +1,15 @@
 package control;
 
+import java.util.ArrayList;
+
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import control.BoardDAO;
 
 
 public class BoardWriteCommand implements BoardCommand {
-	public void execute(HttpServletRequest request, HttpServletResponse response) {
+	public void execute(HttpServletRequest request, HttpServletResponse response) {		
+		
 		String mon_athle1_name = request.getParameter("mon_athle1_name");
 		int mon_athle1_many = Integer.parseInt(request.getParameter("mon_athle1_many"));
 		int mon_athle1_set = Integer.parseInt(request.getParameter("mon_athle1_set"));
@@ -59,6 +62,7 @@ public class BoardWriteCommand implements BoardCommand {
 		
 		
 		BoardDAO dao = new BoardDAO();
+		
 		dao.write(mon_athle1_name, mon_athle1_many, mon_athle1_set, mon_athle2_name, mon_athle2_many, mon_athle2_set, mon_meal,
 				tue_athle1_name, tue_athle1_many, tue_athle1_set, tue_athle2_name, tue_athle2_many, tue_athle2_set, tue_meal,
 				wed_athle1_name, wed_athle1_many, wed_athle1_set, wed_athle2_name, wed_athle2_many, wed_athle2_set, wed_meal,

@@ -91,7 +91,7 @@
                             </h1>
 							<ul>
 								<c:forEach items="${list }" var="dto">
-								<li><a href="retrieve.do?num=${dto.num }">스케줄 ${dto.num }</a>
+									<li><a href="retrieve.do?num=${dto.num }">스케줄 ${dto.num }</a>
 								</c:forEach>
 							</ul>
 						</div>											
