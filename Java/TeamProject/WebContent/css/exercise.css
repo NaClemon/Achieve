@@ -1,0 +1,50 @@
+.exli{
+    text-align: center;
+}
+
+.li1{
+    display: inline;
+    color: white;
+    background-color: rgb(194, 140, 78);
+    border: solid 3px;
+    border-radius: 100px;
+    padding: 15px;
+    padding-right: 23px;
+    padding-left: 23px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.exchart{  
+ margin-top: 40px;
+ height: 100vh;
+ text-align: center;
+ margin-bottom: 50px;
+}
+
+.exercise_1{
+ float: left;
+ width: 49%;
+ height: 100%;
+ overflow: auto;
+ border: solid 2px;
+}
+
+.food_1{
+ float: right;
+ width: 49%;
+ height: 100%;
+ border: solid 2px;
+}
+
+.clears{
+    clear: both;
+}
+
+#im1{
+
+}
+
+#backimg{
+    background-image: url("health.jpg")
+}

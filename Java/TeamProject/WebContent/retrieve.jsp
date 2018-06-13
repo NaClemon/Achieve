@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="css/flaticon.css">
 <link rel="stylesheet" href="css/animate.css">
 <link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/meanmenu.min.css">
 <link rel="stylesheet" href="css/responsive.css">	
 <title>JSP 게시판 웹 사이트</title>
