@@ -150,7 +150,7 @@
 						<br>
 						<div style="text-align: right; letter-spacing: 15px">
 							<input type="button" class="btn btn-warning" value="수정" onclick="location.href='updateui.do?num=${retrieve.num }'">
-							<input type="button" class="btn btn-danger" value="삭제" onclick="location.href='delete.do?num=${retrieve.num }'">
+							<input type="button" class="btn btn-danger" value="삭제" onclick="location.href='delete.do?num=${retrieve.num },userID=${retrieve.userID }'">
 						</div>
 					</div>
 				</div>							

@@ -8,8 +8,9 @@ import control.BoardDAO;
 public class BoardDeleteCommand implements BoardCommand {
 	public void execute(HttpServletRequest request, HttpServletResponse response) {
 		String num = request.getParameter("num");
+		String userID = request.getParameter("userID");
 		
         BoardDAO  dao = new BoardDAO();
-        dao.delete( num );
+        dao.delete(num, userID);
 	}
 }

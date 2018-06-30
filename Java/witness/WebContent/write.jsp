@@ -89,6 +89,15 @@
 					<div id="writepg">
 						<form action="write.do"	method="post">
 							<div class="form-horizontal">
+								<input type="hidden" name="userID" value="${update.userID }">
+								<input type="hidden" name="userPassword" value="${update.userPassword }">
+								<input type="hidden" name="userName" value="${update.userName }">
+								<input type="hidden" name="userEmail" value="${update.userEmail }">
+								<input type="hidden" name="userGender" value="${update.userGender }">
+								<input type="hidden" name="userHeight" value="${update.userHeight }">
+								<input type="hidden" name="userWeight" value="${update.userWeight }">
+								<input type="hidden" name="number" value="${update.number }">
+								
 								<h2>월요일</h2>
 								<div class="form-inline form-group" style="padding-left: 30px">
 									<div class="form-group">

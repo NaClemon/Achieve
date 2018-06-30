@@ -10,6 +10,13 @@ import control.BoardDAO;
 public class BoardWriteCommand implements BoardCommand {
 	public void execute(HttpServletRequest request, HttpServletResponse response) {		
 		
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
+		String userID = request.getParameter("userID");
 		String mon_athle1_name = request.getParameter("mon_athle1_name");
 		int mon_athle1_many = Integer.parseInt(request.getParameter("mon_athle1_many"));
 		int mon_athle1_set = Integer.parseInt(request.getParameter("mon_athle1_set"));

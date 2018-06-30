@@ -150,7 +150,7 @@ public class BoardDAO {
 		}
 	}
 	
-	public void update(String num, String mon_athle1_name, int mon_athle1_many, int mon_athle1_set, String mon_athle2_name, int mon_athle2_many, int mon_athle2_set, String mon_meal,
+	public void update(String num, String userID, String mon_athle1_name, int mon_athle1_many, int mon_athle1_set, String mon_athle2_name, int mon_athle2_many, int mon_athle2_set, String mon_meal,
 			String tue_athle1_name, int tue_athle1_many, int tue_athle1_set, String tue_athle2_name, int tue_athle2_many, int tue_athle2_set, String tue_meal,
 			String wed_athle1_name, int wed_athle1_many, int wed_athle1_set, String wed_athle2_name, int wed_athle2_many, int wed_athle2_set, String wed_meal,
 			String thu_athle1_name, int thu_athle1_many, int thu_athle1_set, String thu_athle2_name, int thu_athle2_many, int thu_athle2_set, String thu_meal,
@@ -165,7 +165,7 @@ public class BoardDAO {
 					"thu_athle1_name=?, thu_athle1_many=?, thu_athle1_set=?, thu_athle2_name=?, thu_athle2_many=?, thu_athle2_set=?, thu_meal=?,\r\n"+ 
 					"fri_athle1_name=?, fri_athle1_many=?, fri_athle1_set=?, fri_athle2_name=?, fri_athle2_many=?, fri_athle2_set=?, fri_meal=?,\r\n" + 
 					"sat_athle1_name=?, sat_athle1_many=?, sat_athle1_set=?, sat_athle2_name=?, sat_athle2_many=?, sat_athle2_set=?, sat_meal=?,\r\n" + 
-					"sun_athle1_name=?, sun_athle1_many=?, sun_athle1_set=?, sun_athle2_name=?, sun_athle2_many=?, sun_athle2_set=?, sun_meal=? WHERE num=?";
+					"sun_athle1_name=?, sun_athle1_many=?, sun_athle1_set=?, sun_athle2_name=?, sun_athle2_many=?, sun_athle2_set=?, sun_meal=? WHERE num=? AND userID=?";
 			
 pstmt = con.prepareStatement(query);
 			
@@ -219,6 +219,7 @@ pstmt = con.prepareStatement(query);
 			pstmt.setInt(48, sun_athle2_set);
 			pstmt.setString(49, sun_meal);
 			pstmt.setInt(50, Integer.parseInt(num));
+			pstmt.setString(51, userID);
 			
 			int n = pstmt.executeUpdate();
 		} catch(Exception e) {
@@ -228,10 +229,10 @@ pstmt = con.prepareStatement(query);
 		}
 	}
 	
-	public void delete(String _num) {
+	public void delete(String _num, String userID) {
 		try {
 			connect();
-			String query = "Delete FROM schedule WHERE num = ?";
+			String query = "Delete FROM schedule WHERE num = ? AND userID = ?";
 			
 			pstmt = con.prepareStatement(query);
 			pstmt.setInt(1, Integer.parseInt(_num));
@@ -243,14 +244,14 @@ pstmt = con.prepareStatement(query);
 		}
 	}
 	
-	public BoardDTO retrieve(String _num) {
+	public BoardDTO retrieve(String _num, String userID) {
 		
 		ResultSet rs = null;
 		BoardDTO data = new BoardDTO();
 		
 		try {
 			connect();
-			String query = "SELECT * FROM schedule WHERE num = ?";
+			String query = "SELECT * FROM schedule WHERE num = ? AND userID = ?";
 			pstmt = con.prepareStatement(query);
 			pstmt.setInt(1, Integer.parseInt(_num));
 			rs = pstmt.executeQuery();

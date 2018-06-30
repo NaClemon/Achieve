@@ -3,57 +3,81 @@ package user;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.sql.PreparedStatement;
 
 public class UserDAO {
+	ResultSet rs;
 	
-	private Connection conn;
-	private PreparedStatement pstmt;
-	private ResultSet rs;
+	Connection con = null;
+	PreparedStatement pstmt = null;
 	
-	public UserDAO() {
+	String jdbc_driver = "com.mysql.cj.jdbc.Driver";
+	String jdbc_url = "jdbc:mysql://localhost:3306/jspdb?serverTimezone=UTC";
+	
+	void connect() {
 		try {
-			String dbURL = "jdbc:mysql://localhost:3306/WITNESS";
-			String dbID = "root";
-			String dbPassword = "wodnd1234";
-		    Class.forName("com.mysql.jdbc.Driver");
-		    conn = DriverManager.getConnection(dbURL, dbID, dbPassword);
-		   } catch (Exception e) {
-		      e.printStackTrace();
-		   }
+			Class.forName(jdbc_driver);
+			con = DriverManager.getConnection(jdbc_url, "root", "dbqldhk@038");
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
 	}
 	
+	void disconnect() {
+		if(pstmt != null) {
+			try {
+				pstmt.close();
+			} catch(SQLException e) {
+				e.printStackTrace();
+			}
+		}
+		if(con != null) {
+			try {
+				con.close();
+			} catch(SQLException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	
+	
 	public int login(String userID, String userPassword) {
-		 String SQL = "SELECT userPassword FROM USER WHERE userID = ?";
-		
+		 
 		try {
-			pstmt = conn.prepareStatement(SQL);
+			connect();
+			String SQL = "SELECT userPassword FROM schedule WHERE userID = ?";
+			pstmt = con.prepareStatement(SQL);
 			pstmt.setString(1, userID);
 			rs = pstmt.executeQuery();
 			if(rs.next()) {
 				if(rs.getString(1).equals(userPassword))
-					return 1;		//·Î±×ÀÎÀ» ¼º°øÇÑ °æ¿ì
+					return 1;		//ï¿½Î±ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 				else
-					return 0;		//ºñ¹Ð¹øÈ£°¡ ¸ÂÁö ¾Ê´Â °æ¿ì
+					return 0;		//ï¿½ï¿½Ð¹ï¿½È£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ê´ï¿½ ï¿½ï¿½ï¿½
 			}
-			return -1;		//¾ÆÀÌµð°¡ ¾ø¾î¿ä
+			return -1;		//ï¿½ï¿½ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
 		}  
 		catch (Exception e)
 		{
 			 e.printStackTrace();
 			
+		} finally {
+			disconnect();
 		}
 		
-		//µðºñ ¿¬µ¿È®ÀÎ---------->
+		//ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½È®ï¿½ï¿½---------->
 		System.out.println("123123");
-		return -2;		//µ¥ÀÌÅÍ º£ÀÌ½º ¿À·ù ÀÔ´Ï´Ù
+		return -2;		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô´Ï´ï¿½
 		
 	}
 	
 	public int join(User user) {
-		String SQL = " INSERT INTO USER VALUES(?,?,?,?,?,?.?)";
+		
 		try {
-			pstmt=conn.prepareStatement(SQL);
+			connect();
+			String SQL = " INSERT INTO schedule (userID, userPassword, userName, userEmail, userGender, userHeight, userWeight, number) VALUES(?,?,?,?,?,?,?,?)";
+			pstmt=con.prepareStatement(SQL);
 			pstmt.setString(1, user.getUserID());
 			pstmt.setString(2, user.getUserPassword());
 			pstmt.setString(3, user.getUserName());
@@ -64,8 +88,10 @@ public class UserDAO {
 			return pstmt.executeUpdate();
 		}catch(Exception e) {
 			e.printStackTrace();
+		} finally {
+			disconnect();
 		}
-		return -1;		//¾ÆÀÌµð°¡ ¾ø´Â °æ¿ì
+		return -1;		//ï¿½ï¿½ï¿½Ìµï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 	}
 }
 
