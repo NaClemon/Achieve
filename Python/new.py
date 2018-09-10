@@ -1,1 +1,2 @@
-print("Hello World!")
+str = "Hello"
+print(str * 100)
