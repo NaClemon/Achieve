@@ -1,0 +1,108 @@
+<!DOCTYPE>
+<html>
+    <head>
+    </head>
+    <body>
+        <div>
+            <ul>
+                <li>List item1</li>
+                <li>List item2</li>
+                <li>List item3</li>
+                <li>List item4</li>
+                <li>List item5</li>
+            </ul>
+            <script>
+                var list = document.getElementsByTagName('ul')[0];
+                var allitems = list.getElementsByTagName('li');
+
+                for(var i=0, length=allitems.length; i<length; i++){
+                    alert(allitems[i].firstChild.data);
+                }
+            </script>
+        </div>
+        <div>
+            <div id="ex">여기가 div로 선언되었습니다.</div>
+            <a href="#" onclick="get()">div 요소 내용 출력하기</a><br/>
+            <a href="#" onclick="set('변경되었습니다.')">div 요소 내용 변경하기</a>
+            <script>
+                function get(){
+                    var val = document.getElementById("ex").innerHTML;
+                    alert(val);
+                }
+                function set(v){
+                    document.getElementById("ex").innerHTML = v;
+                }
+            </script>
+        </div>
+        <div>
+            <div id="target1">
+                <p id="p1">첫번째 단락</p>
+                <p id="p2">두번째 단락</p>
+            </div>
+            <button onclick="removeNode()">누르세요!</button>
+            <script>
+                function removeNode(){
+                    var parent = document.getElementById("target1");
+                    var child = document.getElementById("p1");
+                    parent.removeChild(child);
+                }
+            </script>
+        </div>
+        <div>
+            <div id="target2" onclick="addtext('동적으로 텍스트가 추가됩니다.')" style="font: 20px bold;">여기를 클릭하세요. </div>
+            <script>
+                function addtext(t){
+                    if(document.createTextNode){
+                        var node = document.createTextNode(t);
+                        document.getElementById("target2").appendChild(node);
+                    }
+                }
+            </script>
+        </div>
+        <div>
+            <p id="n1">This is a paragraph.</p>
+            <input type="button" onclick="changeStyle()" value="눌러보세요"/>
+            <script>
+                function changeStyle(){
+                    document.getElementById("n1").style.color="red";
+                    document.getElementById("n1").style.fontFamily="Arial";
+                    document.getElementById("n1").style.fontStyle="italic";
+                }
+            </script>
+        </div>
+        <div>
+            <form>
+                <input type="button" value="구글창 열기" onclick="window.open('http://www.google.com', '_blank', 'width=300, height=300', true)">
+            </form>
+        </div>
+        <div>
+            <p>버튼을 누르면 3초 후에 경고 박스가 화면에 표시됩니다.</p>
+            <button onclick="showAlert()">눌러보세요</button>
+            <script>
+                function showAlert(){
+                    setTimeout(function(){alert("setTimeout()을 사용하여 표시됩니다.")}, 3000);
+                }
+            </script>
+        </div>
+        <div onload="changeColor()">
+            <div id="target3">
+                <p>This is a Text.</p>
+            </div>
+            <button onclick="stopTextColor()">중지</button>
+            <script>
+                var id;
+                function changeColor(){
+                    id = setInterval(flashText, 500);
+                }
+                function flashText(){
+                    var elem = document.getElementById("target3");
+                    elem.style.color = (elem.style.color == "red")?"blue":"red";
+                    elem.style.backgroundColor = (elem.style.backgroundColor == "green")?"yellow":"green";
+                }
+                function stopTextColor(){
+                    clearInterval(id);
+                }
+            </script>
+        </div>
+    </body>
+</html>

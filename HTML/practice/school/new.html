@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="cnew.css">
+		<title>HomePage</title>
+	</head>
+	
+	<body>
+		<header><h2>My HomePage</h2></header>
+		<nav>
+			<h3>Links</h3>
+			<ul>
+				<li><a href="www.naver.com">Naver</a></li>
+				<li><a href="www.google.co.kr">Google</a></li>
+			</ul>
+			<img src="coffee.gif">
+		</nav>
+		<section>
+			<p>마우스를 올려보세요.</p>
+		</section>
+		<footer>				
+		</footer>
+		<div id="but">
+			<button type="button" onclick="alert('반갑습니다.')">버튼을 누르세요!</button>
+		</div>
+		
+		<script>
+			var computerNumber = Math.floor((Math.random()*100) + 1);
+			var nGuesses = 0;
+			
+			function guess(){
+				var result = "";
+				
+				var number = parseInt(document.getElementById("user").value);
+				nGuesses++;
+				
+				if(number == computerNumber) result = "성공입니다.";
+				else if(number < computerNumber) result = "낮습니다";
+				else result = "높습니다.";
+				
+				document.getElementById("result").value = result;
+				document.getElementById("guesses").value = nGuesses;
+				return true;
+			}
+		</script>
+		
+		<h2>숫자 맞추기 게임</h2>
+		
+		<form>
+        숫자:
+        <input type="text" id="user" size="5">
+        <input type="button" value="확인" onclick="guess();">
+        추측횟수:
+        <input type="text" id="guesses" size="5">
+        힌트:
+        <input type="text" id="result" size="16">
+		</form>
+
+		
+		
+		<button onclick="alarm('홍길동', '부장')">눌러보세요.</button>
+		
+		<script>
+			function alarm(name, pos){
+				alert(name + " " + pos + "님 반갑습니다.");
+			}
+		</script>
+		
+		
+		<form>
+			<div>
+				입력 값: 
+				<input type="text" id="num">
+				<button onclick="mul();">확인</button>
+			</div>
+		</form>
+		<script>
+			function mul(){
+				var num = parseInt(document.getElementById("num").value);
+				document.write("<table border='1'>");
+				var i;
+				var j;
+				for(i = 1; i<num+1; i++){
+					document.write("<tr>");
+					for(j = 1; j<10; j++){
+						document.write("<td>" + i*j + "</td>");
+					}
+					document.write("</tr>");
+				}
+				document.write("</table>");
+				
+			}
+		</script>
+		<form>
+			<button onclick="btclick();">현재</button>
+		</form>
+		<script>
+			function Car(model, speed, color){
+				this.model = model;
+				this.speed = speed;
+				this.color = color;
+				this.break = function(){
+					this.speed -= 10;
+				}
+				this.accel = function(){
+					this.speed += 10;
+				}
+			}
+			myCar = new Car("car", 150, "blue");
+			function btclick(){
+				document.write("모델: " + myCar.model + " 속도: " + myCar.speed + "<br/>");
+			}
+		</script>
+		
+		<script>
+			function Point(xpos, ypos){
+				this.x = xpos;
+				this.y = ypos;
+			}
+			Point.prototype.getDistance = function(){
+				return Math.sqrt(this.x*this.x + this.y*this.y)
+			}
+			var p1 = new Point(10, 20);
+			var p2 = new Point(30, 40);
+			var d1 = p1.getDistance();
+			var d2 = p2.getDistance();
+			document.write(d1 + "<br/>");
+			document.write(d2 + '<br/>');
+		</script>
+		
+		<div>
+			<form>
+				
+			</form>
+		</div>
+		
+		
+		<script>
+			function calc(type){
+				x = Number(document.calculator.number1.value);
+				if(type == 1)
+					y = Math.sin((x*Math.PI)/180);
+				else if(type == 2)
+					y = Math.log(x);
+				else if(type == 3)
+					y = Math.sqrt(x);
+				else if(type == 4)
+					y = Math.abs(x);
+				document.calculator.total.value = y;
+			}
+		</script>
+		<form name="calculator">
+			입력: 
+			<input type="text" name="number1"><br/>
+			계산 결과: 
+			<input type="text" name="total"><br/>
+			<input type="button" value="SIN" onclick="calc(1)">
+			<input type="button" value="LOG" onclick="calc(2)">
+			<input type="button" value="SQRT" onclick="calc(3)">
+			<input type="button" value="ABS" onclick="calc(4)">
+		</form>
+		<div>
+			<script>
+				var x = [1, 2, 3];
+				var y = [4, 5, 6];
+				var joined = x.concat(y);
+				
+				document.writeln(x);
+				document.writeln(joined);
+                
+                var fruits = ["apple", "banana", "grape"];
+                document.writeln(fruits.indexOf("banana"));
+			</script>
+			
+		</div>
+        <div>
+            <h1>Number Guess</h1>
+            <p>1부터 100 사이의 숫자를 입력하시오.</p>
+            <input id="number" type="text">
+            <button type="button" onclick="test()">숫자 추측</button>
+            <p id="message"></p>
+        </div>
+        <script>
+            var solution = 53;
+            function test(){
+                try{
+                    var x = document.getElementById("number").value;
+                    if(x == "") throw "입력 없음";
+                    if(isNaN(x)) throw "숫자가 아님";
+                    if(x>solution) throw "너무 큼";
+                    if(x<solution) throw "너무 작음";
+                    if(x==solution) throw "성공";    
+                }
+                catch(error){
+                    var y = document.getElementById("message");
+                    y.innerHTML = "힌트: " + error;
+                }
+            }
+        </script>
+	</body>
+</html>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/numer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="first"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <EditText
+        android:id="@+id/number2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numer1"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="second"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number2"
+        android:layout_toStartOf="@+id/minButton"
+        android:onClick="addClick"
+        android:text="add"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <Button
+        android:id="@+id/minButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number2"
+        android:layout_toStartOf="@+id/mulButton"
+        android:onClick="minClick"
+        android:text="minus"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <Button
+        android:id="@+id/mulButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number2"
+        android:layout_toStartOf="@+id/divButton"
+        android:onClick="mulClick"
+        android:text="multiple"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <Button
+        android:id="@+id/divButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/numer1"
+        android:layout_below="@+id/number2"
+        android:onClick="divClick"
+        android:text="divide"
+        tools:layout_editor_absoluteX="280dp"
+        tools:layout_editor_absoluteY="92dp" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addButton"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="140dp" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="20dp" />
+</RelativeLayout>
