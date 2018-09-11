@@ -1,7 +1,0 @@
-﻿  lex.yy.c
-calc.l(10): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-lex.yy.c(1433): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-lex.yy.c(1496): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-lex.yy.c(1514): warning C4013: 'realloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-lex.yy.c(1524): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  calc.vcxproj -> C:\Workspace\flex-bison\calc\Debug\calc.exe
