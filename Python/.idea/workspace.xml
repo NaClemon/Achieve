@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/ipch/e55221fbed1540cf.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/ipch/e55221fbed1540cf.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Debug/Practice.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.pch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/Practice.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/pch.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/vc141.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Debug/vc141.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Practice.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-    </list>
+    <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +12,13 @@
     <session id="565149000">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -94,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +89,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
