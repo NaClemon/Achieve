@@ -66,7 +66,7 @@ def sum_many(*args):
 
 m = sum_many(1, 2, 3)
 print('m = ', m)
-
+"""
 num = []
 for i in range(0, 10):
     m = int(input())
@@ -77,3 +77,34 @@ print(temp)
 for i in temp:
     a = num.count(i)
     print("%d의 개수: %d" % (i, a))
+"""
+class Rectangle:
+    def __init__(this, length, width):
+        this.length = length
+        this.width = width
+    def RecArea(this):
+        return this.length * this.width
+
+class Circle:
+    def __init__(this, rad):
+        this.rad = rad
+    def CirArea(this):
+        return this.rad * this.rad * 3.14
+    def CirPerimeter(this):
+        return  2* 3.14 * this.rad
+
+p1 = Rectangle(1, 2)
+p2 = Circle(2)
+print(p1.RecArea())
+print(p2.CirArea())
+print(p2.CirPerimeter())
+
+class Bracket:
+    def __init__(self, open_bra, close_bra):
+        self.open_bra = open_bra
+        self.close_bra = close_bra
+    def Check(self, a, b):
+        temp = Bracket(a, b)
+        if (a=='(' or a=='{' or a=='['):
+            temp.Check(a, b)
+        temp.Check(a, b)
