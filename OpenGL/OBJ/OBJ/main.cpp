@@ -14,6 +14,12 @@ struct vertex {
 };
 
 struct face {
+	int a;
+	int b;
+	int c;
+};
+
+struct normal {
 	GLfloat x;
 	GLfloat y;
 	GLfloat z;
@@ -24,34 +30,44 @@ FileRead()
 {
 	struct vertex *v = new struct vertex[MAX];
 	struct face *f = new struct face[MAX];
+	struct normal *n = new struct normal[MAX];
+
 	ifstream input("ex.obj");
 	int vcount = 0;
 	int fcount = 0;
+	int ncount = 0;
 	
 	while (!input.eof())
 	{
-		char temp;
+		string temp;
 		input >> temp;
 
-		if (temp == 'v')
+		if (temp.compare("v") == 0)
 		{
 			input >> v[vcount].x;
 			input >> v[vcount].y;
 			input >> v[vcount].z;
 			vcount++;
 		}
-		else if (temp == 'f')
+		else if (temp.compare("f") == 0)
 		{
-			input >> f[fcount].x;
-			input >> f[fcount].y;
-			input >> f[fcount].z;
+			input >> f[fcount].a;
+			input >> f[fcount].b;
+			input >> f[fcount].c;
 			fcount++;
+		}
+		else if (temp.compare("vn") == 0)
+		{
+			input >> f[ncount].a;
+			input >> f[ncount].b;
+			input >> f[ncount].c;
+			ncount++;
 		}
 	}
 }
 
 void
-Polygon()
+Polygon(int a, int b, int c)
 {
 
 }
