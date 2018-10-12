@@ -17,6 +17,7 @@ struct face {
 	int a;
 	int b;
 	int c;
+	int d;
 };
 
 // normal 벡터를 저장할 구조체
@@ -37,34 +38,91 @@ FileRead()
 {
 
 	FILE *obj;
-	fopen_s(&obj, "ex.obj", "r");
+	fopen_s(&obj, "ex.fbx", "r");
 
 	while (!feof(obj))
 	{
 		char temp[100];
-		fscanf_s(obj, "%s", temp, sizeof(temp));
+		bool quad_polygon = false;
+		char *token;
+		fgets(temp, sizeof(temp), obj);
 
-		if (strcmp(temp, "v") == 0)
+		token = strtok(temp, ":");
+
+		if (strcmp(token, "Geometry") == 0 && !quad_polygon)
 		{
-			// vertex 좌표 저장(x, y, z)
-			fscanf_s(obj, "%f %f %f", &v[vcount].point[0], &v[vcount].point[1], &v[vcount].point[2]);
-			vcount++;
+			quad_polygon = true;
+			continue;
 		}
-		else if (strcmp(temp, "f") == 0)
+		if (strcmp(token, "Vertices") == 0)
 		{
-			// 폴리곤 생성을 위한 vertex 번호 저장
-			char tmpnum[3][50];
-			fscanf_s(obj, "%s %s %s", tmpnum[0], sizeof(tmpnum[0]), tmpnum[1], sizeof(tmpnum[1]), tmpnum[2], sizeof(tmpnum[2]));
-			f[fcount].a = atoi(tmpnum[0]);
-			f[fcount].b = atoi(tmpnum[1]);
-			f[fcount].c = atoi(tmpnum[2]);
-			fcount++;
+			char vertices[250];
+			fgets(vertices, sizeof(vertices), obj);
+
+			char * point = strtok(vertices, ":,");
+			int xyz = 0;
+
+			while (point != NULL)
+			{
+				strtok(NULL, ":,");
+				v[vcount].point[xyz] = atof(point);
+				xyz++;
+				if (xyz == 4)
+				{
+					xyz = 0;
+					vcount++;
+				}
+			}
 		}
-		else if (strcmp(temp, "vn") == 0)
+		else if (strcmp(token, "PolygonVertexIndex") == 0)
 		{
-			// normal 좌표 저장
-			fscanf_s(obj, "%f %f %f", &n[ncount].point[0], &n[ncount].point[1], &n[ncount].point[2]);
-			ncount++;
+			char index[250];
+			fgets(index, sizeof(index), obj);
+
+			char * point = strtok(index, ":,");
+			int abcd = 0;
+
+			while (point != NULL)
+			{
+				strtok(NULL, ":,");
+				int order = atoi(point);
+				switch (order)
+				{
+				case 0:
+					f[fcount].a = order;
+					break;
+				case 1:
+					f[fcount].b = order;
+					break;
+				case 2:
+					f[fcount].c = order;
+					break;
+				case 3:
+					f[fcount].d = -1 * order;
+					fcount++;
+					break;
+				}
+			}
+		}
+		else if (strcmp(token, "Normals") == 0)
+		{
+			char normal[250];
+			fgets(normal, sizeof(normal), obj);
+
+			char * point = strtok(normal, ":,");
+			int xyz = 0;
+
+			while (point != NULL)
+			{
+				strtok(NULL, ":,");
+				n[ncount].point[xyz] = atof(point);
+				xyz++;
+				if (xyz == 4)
+				{
+					xyz = 0;
+					ncount++;
+				}
+			}
 		}
 	}
 
@@ -79,7 +137,7 @@ FileRead()
 /// <param name="c">c 번째 vertex 및 normal 벡터</param>
 /// <param name="d">폴리건 생성 순으로 r 색상 -> object 파악 위함</param>
 void
-Polygon(int a, int b, int c, float d)
+Polygon(int a, int b, int c, int d, float e)
 {
 	GLfloat temp[3] = { d, 0.0, 0.0 };
 	glColor3fv(temp);
@@ -90,6 +148,9 @@ Polygon(int a, int b, int c, float d)
 	glVertex3fv(v[b].point);
 	glColor3fv(temp);
 	glNormal3fv(n[c].point);
+	glVertex3fv(v[c].point);
+	glColor3fv(temp);
+	glNormal3fv(n[d].point);
 	glVertex3fv(v[c].point);
 }
 
@@ -107,7 +168,7 @@ Cube()
 	for (int i = 0; i < fcount; i++)
 	{
 		// 폴리곤 생성 및 색 부여
-		Polygon(f[i].a - 1, f[i].b - 1, f[i].c - 1, (i*0.05) + 0.05);
+		Polygon(f[i].a - 1, f[i].b - 1, f[i].c - 1, f[i].d - 1, (i*0.05) + 0.05);
 	}
 	glEnd();
 	glutSwapBuffers();
@@ -129,7 +190,7 @@ main(int argc, char **argv)
 	glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE | GLUT_DEPTH);
 	glutInitWindowSize(500, 500);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("OBJ");
+	glutCreateWindow("fbx");
 	glClearColor(1.0, 1.0, 1.0, 1.0);
 	glOrtho(-4.0, 4.0, -4.0, 4.0, -4.0, 4.0);
 	glEnable(GL_DEPTH_TEST);

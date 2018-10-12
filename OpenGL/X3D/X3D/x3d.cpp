@@ -19,11 +19,17 @@ struct face {
 	int c;
 };
 
+struct normal {
+	GLfloat point[3];
+};
+
 struct vertex *v = new struct vertex[MAX];
 struct face *f = new struct face[MAX];
+struct normal *n = new struct normal[MAX];
 
 int vcount = 0;
 int fcount = 0;
+int ncount = 0;
 
 void
 FileRead()
@@ -80,6 +86,21 @@ FileRead()
 	}
 
 	fclose(obj);
+}
+
+void
+Normal(int a, int b, int c)
+{
+	GLfloat AB[3];
+	GLfloat AC[3];
+
+	for (int i = 0; i < 3; i++)
+	{
+		AB[i] = v[b].point[i] - v[a].point[i];
+		AC[i] = v[c].point[i] - v[a].point[i];
+	}
+
+	n[ncount].point[0] = 
 }
 
 /// <summary>
