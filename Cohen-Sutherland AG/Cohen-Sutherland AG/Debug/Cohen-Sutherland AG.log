@@ -1,0 +1,8 @@
+﻿  algorithm.cpp
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(274): warning C4101: 'fy' :참조되지 않은 지역 변수입니다.
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(275): warning C4101: 'fz' :참조되지 않은 지역 변수입니다.
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(273): warning C4101: 'fx' :참조되지 않은 지역 변수입니다.
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(271): warning C4101: 'temp_x' :참조되지 않은 지역 변수입니다.
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(271): warning C4101: 'temp_z' :참조되지 않은 지역 변수입니다.
+d:\workspace\cohen-sutherland ag\cohen-sutherland ag\algorithm.cpp(271): warning C4101: 'temp_y' :참조되지 않은 지역 변수입니다.
+  Cohen-Sutherland AG.vcxproj -> D:\Workspace\Cohen-Sutherland AG\Debug\Cohen-Sutherland AG.exe
