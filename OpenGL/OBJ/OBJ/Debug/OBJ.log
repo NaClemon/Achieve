@@ -1,3 +1,8 @@
 ﻿  main.cpp
+<<<<<<< HEAD
   LINK : D:\Workspace\OpenGL\OBJ\Debug\OBJ.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
   OBJ.vcxproj -> D:\Workspace\OpenGL\OBJ\Debug\OBJ.exe
+=======
+  LINK : C:\Workspace\OpenGL\OBJ\Debug\OBJ.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  OBJ.vcxproj -> C:\Workspace\OpenGL\OBJ\Debug\OBJ.exe
+>>>>>>> 974effd937d798fb4e9b6d6f7bb4e3930756c631
