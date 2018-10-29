@@ -262,6 +262,10 @@ Cube_Intersect(Point bn_p1, Point bn_p2, Point vector, int position[], int type)
 		}
 	}
 
+	// 결국 어떠한 값도 출력되지 않으면
+	// CheckLine에서 두점 모두 밖에 있다면
+	if (check_overlap = false)
+		cout << "없습니다.";
 }
 
 // 2개의 점에 대한 확인
@@ -277,6 +281,7 @@ CheckLine(Point bn_p1, Point bn_p2, Point vector)
 	// 두 점이 내부에 있다면 그대로 출력
 	if (bn_p1.binary == "000000" && bn_p2.binary == "000000")
 	{
+		cout << "결과: ";
 		PrintResult(bn_p1);
 		PrintResult(bn_p2);
 	}
@@ -296,6 +301,7 @@ CheckLine(Point bn_p1, Point bn_p2, Point vector)
 			}
 		}
 
+		cout << "결과: ";
 		Cube_Intersect(bn_p1, bn_p2, vector, position, 0);
 	}
 	// 마찬가지로 점 하나가 외부에 있을 경우(위와 같은 과정)
@@ -313,6 +319,7 @@ CheckLine(Point bn_p1, Point bn_p2, Point vector)
 			}
 		}
 
+		cout << "결과: ";
 		Cube_Intersect(bn_p1, bn_p2, vector, position, 1);
 	}
 	// 점이 둘다 외부에 있을 경우
@@ -321,6 +328,8 @@ CheckLine(Point bn_p1, Point bn_p2, Point vector)
 		int p1_count = 0;
 		int p2_count = 0;
 		int position[2][3] = { {-1,-1,-1}, {-1,-1,-1} };
+
+		cout << "결과: ";
 
 		// 같은 구역에 있을 경우 Cube와 접하지 않는다
 		if (bn_p1.binary == bn_p2.binary)
