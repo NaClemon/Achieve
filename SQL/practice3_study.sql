@@ -62,8 +62,8 @@ where s.std_name like '구%' and s.std_tutor is not null;
 -- Practice 4
 select s.*
 from student as s
-left join department as d on s.std_dept = d.dno
-left join professor as p on d.dean = p.prof_id
+join department as d on s.std_dept = d.dno
+join professor as p on d.dean = p.prof_id
 where p.prof_salary > 5000000;
 
 select *
