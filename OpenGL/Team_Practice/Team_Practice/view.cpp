@@ -1,7 +1,10 @@
 #include <gl/glut.h>
+#include <math.h>
 
+int w = 1280, h = 720;
 GLfloat viewx = 0.0, viewz = 0.0;
-GLfloat eyeX = 0.0, eyeY = 0.0;
+GLfloat eyeX = 0.0, eyeY = 0.0, eyeZ = 0.0;
+GLfloat ortho_length;
 
 GLfloat vertices[][3] = {
 	{-1.0,-1.0,1.0},
@@ -46,12 +49,15 @@ void
 Display()
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+	glMatrixMode(GL_PROJECTION);
+	glLoadIdentity();
+	glOrtho(-4.0, 4.0, -4.0, 4.0, -4.0 + ortho_length, 4.0 + ortho_length);
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
-	gluLookAt(viewx, 0.0, viewz, eyeX, eyeY, -100.0, 1.0, 1.0, 0.0);
-	glRotatef(45.0, 1.0, 0.0, 0.0);
+	gluLookAt(viewx, 0.0, viewz, eyeX, eyeY, eyeZ, 0.0, 1.0, 0.0);
+	/*glRotatef(45.0, 1.0, 0.0, 0.0);
 	glRotatef(45.0, 0.0, 1.0, 0.0);
-	glRotatef(45.0, 0.0, 0.0, 1.0);
+	glRotatef(45.0, 0.0, 0.0, 1.0);*/
 	colorcube();
 	glFlush();
 	glutSwapBuffers();
@@ -81,14 +87,28 @@ Keyboard(unsigned char key, int x, int y)
 	default:
 		break;
 	}
+
+	ortho_length = sqrt((viewx*viewx + viewz * viewz));
+
 	glutPostRedisplay();
 }
 
 void
 Mouse(int  x, int y)
 {
-	eyeX = x;
-	eyeY = y;
+	int mouseX = x - w/2;
+	int mouseY = y - h/2;
+
+	eyeX = 0.0;
+	eyeY = 0.0;
+	eyeZ = 0.0;
+
+	eyeX = mouseX * cosf(1.0) + mouseY * sinf(1.0);
+	eyeZ = mouseY * cosf(1.0) - mouseX * sinf(1.0);
+
+	eyeY = mouseX * cosf(1.0) - mouseY * sinf(1.0);
+	eyeZ += mouseX * sinf(1.0) + mouseY * cosf(1.0);
+
 	glutPostRedisplay();
 }
 
@@ -110,13 +130,10 @@ main(int argc, char ** argv)
 	glutInitWindowPosition(500, 300);
 	glutCreateWindow("Team Project Practice");
 	glClearColor(0.0, 0.0, 0.0, 1.0);
-	glMatrixMode(GL_PROJECTION);
-	glLoadIdentity();
-	glOrtho(-4.0, 4.0, -4.0, 4.0, -4.0, 4.0);
 	glutDisplayFunc(Display);
 	glutKeyboardFunc(Keyboard);
 	glutPassiveMotionFunc(Mouse);
-	glutEntryFunc(MouseState);
+	//glutEntryFunc(MouseState);
 	glutMainLoop();
 
 	return 0;
