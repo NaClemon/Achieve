@@ -45,8 +45,7 @@ select empname, dno, salary
 from employee as e
 where salary > (select avg(salary)
 				from employee
-                where dno = e.dno
-                group by dno);
+                where dno = e.dno);
 
 select *
 from employee
