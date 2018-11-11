@@ -40,3 +40,42 @@ insert into Customer values
 (016, 'Cristinel', '1993-08-03', '010-1860-7819'),
 (017, 'Kazuhide', '1987-04-03', '010-2890-8794'),
 (018, 'Lillian', '1999-04-30', '010-8590-6012');
+
+insert into Realestate values
+(000, 10000000, 22, '경기', '광주', '송정'),
+(001, 13000000, 18, '경기', '광주', '경안'),
+(002, 8000000, 45, '충북', '청주', '가경'),
+(003, 16000000, 23, '강원', '강릉', '내곡'),
+(004, 20000000, 11, '충북', '청주', '사창'),
+(005, 15000000, 5, '전남', '광양', '광영'),
+(006, 6000000, 33, '경북', '구미', '도량'),
+(007, 22000000, 29, '충북', '청주', '복대'),
+(008, 12000000, 15, '경북', '경주', '동천'),
+(009, 10000000, 68, '전남', '광양', '태인'),
+(010, 18000000, 28, '전북', '군산', '미룡');
+
+insert into CMPEmployee values
+(000, 'Gil', '사원', '2000000', 'enig58@gmail.com', 007),
+(001, 'Aiichiro', '차장', '2800000', 'wefn2@gmail.com', null),
+(002, 'Krisda', '과장', '3300000', 'eijy56@gmail.com', null),
+(003, 'Bader', '차장', '2600000', 'bnxcm99@gmail.com', null),
+(004, 'Berna', '사원', '2200000', 'enig58@gmail.com', 003),
+(005, 'Ger', '사장', '5500000', 'gekr@gmail.com', null),
+(006, 'Stella', '전무', '3800000', 'iuoiu245@gmail.com', null),
+(007, 'Mingdong', '상무', '3500000', 'hoijxb@gmail.com', null),
+(008, 'Martial', '차장', '2600000', 'hoj@gmail.com', null),
+(009, 'Yuichiro', '사원', '1900000', 'oeiguoiw@gmail.com', 002),
+(010, 'Tomokazu', '사원', '2300000', 'onijvoi@gmail.com', 016),
+(011, 'Seongbae', '차장', '2500000', '3598gn@gmail.com', null),
+(012, 'Weiru', '과장', '3600000', 'hoioih@gmail.com', null),
+(013, 'Munenori', '대리', '2700000', 'goieoi4@gmail.com', 008),
+(014, 'Susanna', '대리', '2600000', 'noijhoije@gmail.com', 012),
+(015, 'Evgueni', '사원', '1900000', 'noijei367@gmail.com', 006),
+(016, 'Kwangho', '차장', '2500000', 'gjhhh@gmail.com', null),
+(017, 'Taegyun', '과장', '3400000', '869vjbj@gmail.com', null),
+(018, 'Chiranjit', '사원', '2000000', 'glkjkl256@gmail.com', 001),
+(019, 'Mark', '대리', '2500000', 'lijo4566@gmail.com', 017),
+(020, 'Shao', '대리', '2600000', 'y86kje@gmail.com', 011);
+
+insert into Branch values
+()
