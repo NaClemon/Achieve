@@ -1,0 +1,25 @@
+{% estends 'content/layout.html' %}
+{% block content %}
+<form action='{% url "app_leap" %}' method="post">
+    {% csrf_token %}
+    <div class="row">
+        <div class="col m4 offset-m4">
+            <a href="https://www.timeanddate.com/date/leapyear.html" target="_blank">Exactly Which Years Are Leap Years?</a>
+            <ul>
+                <li>-In the Gregorian calendar three criteria must be taken into account to identify leap years</li>
+                <li>--The year can be evenly divided by 4</li>
+                <li>--If the year can be evenly divided by 100, it is NOT a leap year, unless</li>
+                <li>--The year is also evenly divisible by 400. Then it is a leap year</li>
+            </ul>
+            
+            <div class="input-field">
+                <input id="year" name="year" type="text" class="validate" value="{{aYear}}">
+                <label for="year">Year</label>
+            </div>
+            <input type="submit" class="btn waves-effect waves-light" value="Check">
+            
+            {% include 'content/messages.html' %}
+        </div>
+    </div>
+</form>
+{% endblock %}
