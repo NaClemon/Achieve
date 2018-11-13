@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACzMecMzFDfTeUlDOlmabOd7bpMgTQY94&callback=initMap"
+        async defer></script>
+    </head>
+    
+    <body onload="initialize()">
+        <header>
+            <div>
+                <a href="main.html">
+                    <img onmouseenter="movecursor()" onmouseout="outcursor()" class="logo" src="logo.png">
+                </a>
+                <img id="cursor" class="cursor" src="cursor.png">
+            </div>
+        </header>
+        <div class="mainword">
+            <h1 class="text-center">Son's Homepage</h1>
+        </div>
+        
+        <div>
+            <div id="map_view"></div>
+        </div>
+        
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+    
+    <script>
+        function initialize(){
+            var x = 37.391855;
+            var y = 127.228413;
+            var zoom = 16;
+            var marker = "집";
+            
+            var myLatlng = new google.maps.LatLng(x, y);
+            var mapOptions = {
+                zoom: zoom,
+                center: myLatlng,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map = new google.maps.Map(document.getElementById('map_view'), mapOptions);
+            
+            var marker = new google.maps.Marker({position: myLatlng, map: map, title: marker});
+            
+            google.maps.event.addListener(marker, 'click', function(){
+                infowindow.open(map, marker);
+            });
+        }
+    </script>
+</html>

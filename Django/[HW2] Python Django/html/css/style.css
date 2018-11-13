@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+    background-image: linear-gradient(rgba(120, 120, 120, 0.6), rgba(60, 60, 60, 0.6)), url(background.jpg);
+    height: 100vh;
+    background-size: cover;
+	background-position: center;
+}
+.mainword{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+	cursor: default;
+}
+.mainword h1{
+    color: #000000;
+    font-size: 50px;
+    font-family: "Arial" sans-serif;
+    font-style: italic;
+}
+.logo{
+	width: 120px;
+	height: auto;
+	float: left;
+	margin-left: 20px;
+}
+.cursor{
+    position: absolute;
+	width: 40px;
+	height: auto;
+    transform: translate(20px, 80px);
+    visibility: hidden;
+}
+#map_view{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+    width: 500px;
+    height: 300px;
+}
