@@ -49,12 +49,12 @@ void
 Display()
 {
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
-	/*glMatrixMode(GL_PROJECTION);
-	glLoadIdentity();
-	glOrtho(-4.0, 4.0, -4.0, 4.0, -4.0 + ortho_length, 4.0 + ortho_length);*/
-	glMatrixMode(GL_MODELVIEW);
+	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
 	gluLookAt(viewx, 0.0, viewz, eyeX, eyeY, eyeZ, 0.0, 1.0, 0.0);
+	//glOrtho(-4.0, 4.0, -4.0, 4.0, -4.0 + ortho_length, 4.0 + ortho_length);
+	glMatrixMode(GL_MODELVIEW);
+	glLoadIdentity();
 	/*glRotatef(45.0, 1.0, 0.0, 0.0);
 	glRotatef(45.0, 0.0, 1.0, 0.0);
 	glRotatef(45.0, 0.0, 0.0, 1.0);*/
@@ -132,7 +132,7 @@ main(int argc, char ** argv)
 	glClearColor(0.0, 0.0, 0.0, 1.0);
 	glutDisplayFunc(Display);
 	glutKeyboardFunc(Keyboard);
-	glutPassiveMotionFunc(Mouse);
+	//glutPassiveMotionFunc(Mouse);
 	//glutEntryFunc(MouseState);
 	glutMainLoop();
 
