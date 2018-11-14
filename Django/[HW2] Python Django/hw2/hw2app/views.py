@@ -6,7 +6,7 @@ import json
 def home(request):
     return render(request, 'content/main.html')
 
-notes = []
+notes = {'columns': ['Title', 'Note'], 'data': []}
 title = ""
 note = ""
 
@@ -18,7 +18,8 @@ def list(request):
         try:
             title = request.POST.get("title")
             note = request.POST.get("note")
-            notes.append([title, note])
+            notes['data'].append([title, note])
+            notesa = json.load(notes)
         except Exception as e:
             messages.error(request, repr(e))
-    return render(request, 'content/list.html', {'List': title, 'Note': note})
+    return render(request, 'content/list.html')
