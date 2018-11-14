@@ -19,14 +19,38 @@
             <div>
                 <ul class="nav">
                     <li><a href="intro.html">Inform</a></li>
-                    <li><a href="{% url 'note' %}">Note</a></li>
+                    <li class="active"><a href="{% url 'note' %}">Note</a></li>
                     <li><a href="home.html">Home</a></li>
                 </ul>
             </div>
         </header>
         
         <div class="mainword">
-            <h1 class="text-center">Son's Homepage</h1>
+            <h1 class="text-center">Son's Note</h1>
+        </div>
+        
+        <form class="notelist form-horizontal" action="{% url 'list' %}" method="post">
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="title">Title</label>
+                <div>
+                    <input type="text" class="form-control" id="title" placeholder="Title">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="note">Simple Note</label>
+                <div>
+                    <input type="text" class="form-control input-lg" id="note" placeholder="Simple Note">
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-success" value="Note!">
+            </div>
+        </form>
+        
+        <div>
+            {% block content %}
+            {% endblock %}
         </div>
         
         <script type="text/javascript" src="script.js"></script>

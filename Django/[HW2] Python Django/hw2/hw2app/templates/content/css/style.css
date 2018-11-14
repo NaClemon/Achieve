@@ -90,3 +90,10 @@ header{
     width: 500px;
     height: 300px;
 }
+.notelist{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 540px;
+}
