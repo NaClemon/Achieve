@@ -22,22 +22,25 @@ def loginact(request):
 def info(request):
     return render(request, 'content/intro.html')
 
-notes = {'Title': [], 'Note': []}
-title = ""
-note = ""
-
 def note(request):
+    if request.method == "POST":
+        try:
+            count = request.POST.get("count")
+            sumgrade = 0
+            sumunits = 0
+            for i in range(int(count)):
+                name = request.POST.get("name" + str(i-1))
+                grade = request.POST.get("grade" + str(i-1))
+                unit = request.POST.get("unit" + str(i-1))
+                sumgrade += float(grade)
+                sumunits += float(unit)
+            avggrade = sumgrade / sumunits
+            messages.info(request, "평균 학점" + str(int(avggrade)))
+        except Exception as e:
+            messages.error(request, repr(e))
     return render(request, 'content/note.html')
 
 def list(request):
-    if request.method == "POST":
-        try:
-            title = request.POST.get("title")
-            note = request.POST.get("note")
-            notes['Title'].append(title)
-            notes['Note'].append(note)
-        except Exception as e:
-            messages.error(request, repr(e))
     return render(request, 'content/list.html')
 
 def home(request):

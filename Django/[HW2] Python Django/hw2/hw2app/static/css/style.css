@@ -80,6 +80,19 @@ header{
     transform: translate(20px, 80px);
     visibility: hidden;
 }
+#information{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 35%;
+    transform: translate(-50%, -50%);
+}
+#information td{
+    color: #E6E6E6;
+}
+#information th{
+    opacity: 0.5;
+}
 .nav{
 	float: right;
 	list-style: none;
