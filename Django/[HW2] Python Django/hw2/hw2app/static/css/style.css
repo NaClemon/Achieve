@@ -3,7 +3,6 @@
 	padding: 0;
 }
 header{
-    background-image: linear-gradient(rgba(120, 120, 120, 0.6), rgba(60, 60, 60, 0.6)), url("background.jpg");
     height: 100vh;
     background-size: cover;
 	background-position: center;
@@ -27,6 +26,24 @@ header{
 	height: auto;
 	float: left;
 	margin-left: 20px;
+}
+#dologin{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.signinbox{
+	position: absolute;
+	width: 320px;
+	height: 420px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
 }
 .cursor{
     position: absolute;

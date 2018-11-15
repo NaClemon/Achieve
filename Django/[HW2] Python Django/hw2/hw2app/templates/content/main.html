@@ -1,26 +1,29 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <html>
     <head>
-        {% load staticfiles %}
         <meta charset="UTF-8">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
-        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css">
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACzMecMzFDfTeUlDOlmabOd7bpMgTQY94&callback=initMap"
+        async defer></script>
     </head>
     
     <body onload="initialize()">
-        <header>
+        <header style="background-image: linear-gradient(rgba(120, 120, 120, 0.8), rgba(60, 60, 60, 0.8)), url({% static 'background.jpg' %})">
             <div>
-                <a href="{% url 'home' %}">
-                    <img onmouseenter="movecursor()" onmouseout="outcursor()" class="logo" src="logo.png">
+                <a href="{% url 'main' %}">
+                    <img onmouseenter="movecursor()" onmouseout="outcursor()" class="logo" src="{% static 'logo.png' %}">
                 </a>
-                <img id="cursor" class="cursor" src="cursor.png">
+                <img id="cursor" class="cursor" src="{% static 'cursor.png' %}">
             </div>
             <div>
                 <ul class="nav">
-                    <li><a href="intro.html">Inform</a></li>
+                    <li><a href="{% url 'login' %}">Login</a></li>
+                    <li><a href="{% url 'info' %}">Inform</a></li>
                     <li><a href="{% url 'note' %}">Note</a></li>
-                    <li><a href="home.html">Home</a></li>
+                    <li><a href="{% url 'home' %}">Home</a></li>
                 </ul>
             </div>
         </header>
@@ -29,6 +32,67 @@
             <h1 class="text-center">Son's Homepage</h1>
         </div>
         
-        <script type="text/javascript" src="script.js"></script>
+        <div>
+            {% block content %}
+            {% endblock %}
+        </div>
+        
+        <script type="text/javascript" src="{% static 'script.js' %}"></script>
     </body>
+    <script>
+        function initialize(){
+            var zoom = 16;
+            
+            var content1 = '<div id="content">' +
+                            '<h3 id="firstHeading" class="firstHeading">My Home</h3>' +
+                            '<div id="bodyContent">' +
+                            '<p>경기도 광주시 태전동<br />' +
+                            'Tel. 031-xxx-xxxx</p>' +
+                            '</div>' +
+                            '</div>';
+            var myLatlng1 = new google.maps.LatLng(37.391855, 127.228413);
+            var mapOptions1 = {
+                zoom: zoom,
+                center: myLatlng1,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map1 = new google.maps.Map(document.getElementById('home_view'), mapOptions1);
+            var marker1 = new google.maps.Marker({position: myLatlng1, map: map1, title: "집"});
+            var infowindow1 = new google.maps.InfoWindow(
+                 {
+                     content: content1,
+                     maxWidth: 300
+                 }
+            );
+            google.maps.event.addListener(marker1, 'click', function(){
+                infowindow1.open(map1, marker1);
+            });
+            
+            
+            var content2 = '<div id="content">' +
+                            '<h3 id="firstHeading" class="firstHeading">Now Living</h3>' +
+                            '<div id="bodyContent">' +
+                            '<p>충북대 학생생활관 양진재<br />' +
+                            'Tel. 043-xxx-xxxx</p>' +
+                            '</div>' +
+                            '</div>';
+            var myLatlng2 = new google.maps.LatLng(36.624160, 127.459647);
+            var mapOptions2 = {
+                zoom: zoom,
+                center: myLatlng2,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map2 = new google.maps.Map(document.getElementById('now_view'), mapOptions2);
+            var marker2 = new google.maps.Marker({position: myLatlng2, map: map2, title: "기숙사"});
+            var infowindow2 = new google.maps.InfoWindow(
+                 {
+                     content: content2,
+                     maxWidth: 300
+                 }
+             );
+            google.maps.event.addListener(marker2, 'click', function(){
+                infowindow2.open(map2, marker2);
+            });
+        }
+    </script>
 </html>

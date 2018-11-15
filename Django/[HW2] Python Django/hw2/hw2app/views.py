@@ -3,10 +3,24 @@ from django.contrib import messages
 import json
 
 # Create your views here.
-def home(request):
+def main(request):
     return render(request, 'content/main.html')
 
-notes = {'columns': ['Title', 'Note'], 'data': []}
+def login(request):
+    return render(request, 'content/login.html')
+
+def loginact(request):
+    if (request.method == 'POST'):
+        username = request.POST.get("username")
+        password = request.POST.get("password")
+        if (username == "skh" and password == "1018"):
+            messages.success(request, 'content/loginact.html')
+    return render(request, 'content/loginact.html')
+
+def info(request):
+    return render(request, 'content/intro.html')
+
+notes = {'Title': [], 'Note': []}
 title = ""
 note = ""
 
@@ -18,8 +32,11 @@ def list(request):
         try:
             title = request.POST.get("title")
             note = request.POST.get("note")
-            notes['data'].append([title, note])
-            notesa = json.load(notes)
+            notes['Title'].append(title)
+            notes['Note'].append(note)
         except Exception as e:
             messages.error(request, repr(e))
     return render(request, 'content/list.html')
+
+def home(request):
+    return render(request, 'content/home.html')
