@@ -6,17 +6,18 @@
         <div class="row">
             <div class="col m4 offset-m4">
                 <div class="input-field">
-                    <input id="username" name="username" type="text" class="validate">
                     <label for="username">Username</label>
+                    <input id="username" name="username" type="text" class="validate">
                 </div>
                 
                 <div class="input-field">
-                    <input id="password" name="password" type="password" class="validate">
                     <label for="password">Password</label>
+                    <input id="password" name="password" type="password" class="validate">
                 </div>
-                <input type="submit" class="btn waves-effect waves-light" value="login">
+                <input type="submit" class="btn waves-effect waves-light" value="check me">
             </div>
         </div>
+        {% include 'content/message.html' %}
     </form>
 </div>
 {% endblock %}

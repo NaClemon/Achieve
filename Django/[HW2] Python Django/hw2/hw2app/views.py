@@ -14,7 +14,9 @@ def loginact(request):
         username = request.POST.get("username")
         password = request.POST.get("password")
         if (username == "skh" and password == "1018"):
-            messages.success(request, 'content/loginact.html')
+            return render(request, 'content/main.html')
+        else:
+            messages.error(request, "Go Away! You're Not Son!")
     return render(request, 'content/loginact.html')
 
 def info(request):
