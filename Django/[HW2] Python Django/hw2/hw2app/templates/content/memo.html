@@ -32,21 +32,19 @@
         <div class="notelist">
             <form class="for-horizontal" action="{% url 'memo' %}" method="post">
                 {% csrf_token %}
-                <div class="input-field">
-                    <label for="title">Title</label>
-                    <input type="text" id="title" name="title" class="validate">
+                <div class="input-field form-group">
+                    <label class="col-sm-2 control-label" for="title" style="color: #E6E6E6; font-size: 20px">Title</label>
+                    <input type="text" class="form-control" id="title" name="title" class="validate">
                 </div>
-                <div class="input-field">
-                    <label for="memo">Memo</label>
-                    <input type="text" id="memo" name="memo" class="validate">
+                <div class="input-field form-group">
+                    <label class="col-sm-2 control-label" for="memo" style="color: #E6E6E6; font-size: 20px">Memo</label>
+                    <input type="text" class="form-control" id="memo" name="memo" class="validate">
                 </div>
                 <input type="submit" class="btn waves-effect waves-light" value="Note">
-                <table id="insertTable" class="table">
-                    <tr>
-                        <th>Table</th>
-                        <th>Memo</th>
-                    </tr>
-                </table>
+                <br><br>
+                <ul class="list-unstyled" style="color: #E6E6E6; font-size: 20px">
+                    <li>Table / Memo</li>
+                </ul>
                 {% include 'content/message.html' %}
             </form>
         </div>

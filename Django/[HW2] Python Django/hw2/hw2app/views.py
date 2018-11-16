@@ -48,11 +48,11 @@ def memo(request):
         try:
             title = request.POST.get("title")
             note = request.POST.get("memo")
-            notes.append([title, memo])
+            notes.append([title, note])
             temp = len(notes)
             for row in range(0, temp):
-                stri = "{0} {1} \t {2} \n".format(stri, notes[row][0], notes[row][1])
-            messages.info(request, stri)
+                stri = notes[row][0] + " / " + notes[row][1] + "\n"
+                messages.info(request, stri)
         except Exception as e:
             messages.error(request, repr(e))
     return render(request, 'content/memo.html')
