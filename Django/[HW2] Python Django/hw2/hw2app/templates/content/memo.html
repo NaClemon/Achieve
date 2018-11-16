@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+        <link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css">
+    </head>
+    
+    <body onload="initialize()">
+        <header style="background-image: linear-gradient(rgba(120, 120, 120, 0.8), rgba(60, 60, 60, 0.8)), url({% static 'background.jpg' %})">
+            <div>
+                <a href="{% url 'main' %}">
+                    <img onmouseenter="movecursor()" onmouseout="outcursor()" class="logo" src="{% static 'logo.png' %}">
+                </a>
+                <img id="cursor" class="cursor" src="{% static 'cursor.png' %}">
+            </div>
+            <div>
+                <ul class="nav">
+                    <li><a href="{% url 'info' %}">Inform</a></li>
+                    <li><a href="{% url 'note' %}">Gradecalc</a></li>
+                    <li class="active"><a href="{% url 'memo' %}">Memo</a></li>
+                    <li><a href="{% url 'home' %}">Home</a></li>
+                </ul>
+            </div>
+        </header>
+        
+        <div class="mainword">
+            <h1 class="text-center">Son's Gradeclac</h1>
+        </div>
+        <div class="notelist">
+            <form class="for-horizontal" action="{% url 'memo' %}" method="post">
+                {% csrf_token %}
+                <div class="input-field">
+                    <label for="title">Title</label>
+                    <input type="text" id="title" name="title" class="validate">
+                </div>
+                <div class="input-field">
+                    <label for="memo">Memo</label>
+                    <input type="text" id="memo" name="memo" class="validate">
+                </div>
+                <input type="submit" class="btn waves-effect waves-light" value="Note">
+                <table id="insertTable" class="table">
+                    <tr>
+                        <th>Table</th>
+                        <th>Memo</th>
+                    </tr>
+                </table>
+                {% include 'content/message.html' %}
+            </form>
+        </div>
+        
+        <script type="text/javascript" src="{% static 'script.js' %}"></script>
+    </body>
+</html>

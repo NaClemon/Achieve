@@ -40,5 +40,23 @@ def note(request):
             messages.error(request, repr(e))
     return render(request, 'content/note.html')
 
+notes = []
+
+def memo(request):
+    stri = ""
+    if request.method == "POST":
+        try:
+            title = request.POST.get("title")
+            note = request.POST.get("memo")
+            notes.append([title, memo])
+            temp = len(notes)
+            for row in range(0, temp):
+                stri = "{0} {1} \t {2} \n".format(stri, notes[row][0], notes[row][1])
+            messages.info(request, stri)
+        except Exception as e:
+            messages.error(request, repr(e))
+    return render(request, 'content/memo.html')
+
+
 def home(request):
     return render(request, 'content/home.html')

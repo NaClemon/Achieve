@@ -20,6 +20,7 @@
                 <ul class="nav">
                     <li><a href="{% url 'info' %}">Inform</a></li>
                     <li class="active"><a href="{% url 'note' %}">Gradecalc</a></li>
+                    <li><a href="{% url 'memo' %}">Memo</a></li>
                     <li><a href="{% url 'home' %}">Home</a></li>
                 </ul>
             </div>
@@ -31,17 +32,21 @@
         <div class="notelist">
             <form class="for-horizontal" action="{% url 'note' %}" method="post">
                 {% csrf_token %}
-                <div id="lecture">
-                    <h2 style="color: #d9d9d9">Calc Grade</h2>
-                    <input class="btn btn-warning" type="button" value="Clear" onclick="delete()">
-                    <input class="btn btn-success" type="button" value="Add" onclick="add()">
-                    <div class="col-xs-2">
-                        <input type="text" class="form-control" id="count" name="count" readonly>
-                    </div>
-                    <table id="insertTable" class="table">
-                    </table>
-                    <input type="submit" class="btn waves-effect waves-light" value="Calc">
+                <h2 style="color: #d9d9d9">Calc Grade</h2>
+                <input class="btn btn-warning" type="button" value="Clear" onclick="delete()">
+                <input class="btn btn-success" type="button" value="Add" onclick="add()">
+                <div class="col-xs-2">
+                    <input type="text" class="form-control" id="count" name="count" readonly>
                 </div>
+                <table id="insertTable" class="table">
+                    <tr>
+                        <th>과목명</th>
+                        <th>학점</th>
+                        <th>점수</th>
+                    </tr>
+                </table>
+                <input type="submit" class="btn waves-effect waves-light" value="Calc">
+                
                 {% include 'content/message.html' %}
             </form>
         </div>
@@ -49,8 +54,8 @@
         <script type="text/javascript" src="{% static 'script.js' %}"></script>
     </body>
     <script>
-        var ttable = document.getElementById("insertTable");
         var id = 0;
+        var ttable = document.getElementById("insertTable");
         var count = document.getElementById("count");
         
         function add(){
@@ -58,9 +63,9 @@
             var cell1 = row.insertCell(0);
             var cell2 = row.insertCell(1);
             var cell3 = row.insertCell(2);
-            cell1.innerHTML = "<input type='text' class='form-control' id='name" + id + "' name='name" + id + "' placeholder='Name'>"
-            cell3.innerHTML = "<input type='text' class='form-control' id='unit" + id + "' name='unit" + id + "' placeholder='Units'>"
-            cell2.innerHTML = "<input type='text' class='form-control' id='grade" + id + "' name='grade" + id + "' placeholder='Grade'>"
+            cell1.innerHTML = "<input type='text' class='form-control' id='name" + id + "' name='name" + id + "' placeholder='Name'>";
+            cell2.innerHTML = "<input type='text' class='form-control' id='grade" + id + "' name='grade" + id + "' placeholder='Name'>";
+            cell3.innerHTML = "<input type='text' class='form-control' id='unit" + id + "' name='unit" + id + "' placeholder='Name'>";
             id++;
             count.value = id;
         }
