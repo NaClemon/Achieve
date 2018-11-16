@@ -31,20 +31,22 @@
         </div>
         
         <div class="notelist">
-            <h2 style="color: #d9d9d9;">Calc Grade</h2>
-            <input type="button" class="btn btn-warning" onclick="deletetemp()" value="Delete">
-            <input type="button" class="btn btn-success" onclick="add()" value="Add">
-            <div class="col-xs-2">
-                <input type="text" class="form-control" id="count" name="count" readonly>
-            </div>
             
             <form class="form-horizontal" action="{% url 'note' %}" method="post">
                 {% csrf_token %}
+                <h2 style="color: #d9d9d9;">Calc Grade</h2>
+                <input type="button" class="btn btn-warning" onclick="deletetemp()" value="Delete">
+                <input type="button" class="btn btn-success" onclick="add()" value="Add">
+                <input type="submit" class="btn waves-effect waves-light" value="Calc">
+                <div class="col-xs-2">
+                    <input type="text" class="form-control" id="count" name="count" readonly>
+                </div>
                 <table id="inserttable" class="table">
                 </table>
-                <input type="submit" class="btn waves-effect waves-light" value="Calc">
-                
-                {% include 'content/message.html' %}
+                <div class="col-xs-8">
+                    <h4 class="col-xs-5" style="color: #E6E6E6;">학점 평균: </h4>
+                    <input type="text" class="form-control col-xs-2" style="border: none; color: #E6E6E6; background-color: inherit;" id="avg" name="avg" value="{{ avg }}" readonly>
+                </div>
             </form>
         </div>
         
@@ -62,7 +64,7 @@
             var cell3 = row.insertCell(2);
             cell1.innerHTML = "<input type='text' id='name" + id + "' name='name" + id + "' placeholder='Name'>";
             cell2.innerHTML = "<input type='text' id='grade" + id + "' name='grade" + id + "' placeholder='Grade'>";
-            cell3.innerHTML = "<input type='text' id='unit" + id + "' name='unit" + id + "' placeholder='Unit'>";
+            cell3.innerHTML = "<input type='text' id='unit" + id + "' name='unit" + id + "' placeholder='학점'>";
             id++;
             count.value = id;
         }

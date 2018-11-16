@@ -23,6 +23,7 @@ def info(request):
     return render(request, 'content/intro.html')
 
 def note(request):
+    avggrade = 0
     if request.method == "POST":
         try:
             count = request.POST.get("count")
@@ -32,13 +33,12 @@ def note(request):
                 stri = str(i)
                 grade = request.POST.get("grade" + stri)
                 unit = request.POST.get("unit" + stri)
-                sumgrade += float(grade)
+                sumgrade += float(grade)*float(unit)
                 sumunits += float(unit)
             avggrade = sumgrade / sumunits
-            messages.info(request, "평균 학점: " + str(avggrade))
         except Exception as e:
             messages.error(request, repr(e))
-    return render(request, 'content/note.html')
+    return render(request, 'content/note.html', {'avg': avggrade})
 
 notes = []
 
