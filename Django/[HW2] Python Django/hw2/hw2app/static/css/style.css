@@ -33,6 +33,12 @@ header{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#docalc{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .signinbox{
 	position: absolute;
 	width: 320px;
@@ -150,8 +156,13 @@ header{
 }
 .notelist{
     position: absolute;
-    top: 30%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 540px;
+}
+#count{
+    border: none;
+    color: #E6E6E6;
+    background-color: inherit;
 }
