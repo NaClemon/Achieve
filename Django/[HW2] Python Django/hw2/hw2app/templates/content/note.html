@@ -19,29 +19,32 @@
             <div>
                 <ul class="nav">
                     <li><a href="{% url 'info' %}">Inform</a></li>
-                    <li class="active"><a href="{% url 'note' %}">Note</a></li>
+                    <li class="active"><a href="{% url 'note' %}">Gradecalc</a></li>
                     <li><a href="{% url 'home' %}">Home</a></li>
                 </ul>
             </div>
         </header>
         
         <div class="mainword">
-            <h1 class="text-center">Son's Note</h1>
+            <h1 class="text-center">Son's Gradeclac</h1>
         </div>
-        <form class="notelist for-horizontal" action="{% url 'note' %}" method="post">
-            {% csrf_token %}
-            <div id="lecture">
-                <h2 style="color: #d9d9d9">Calc Grade</h2>
-                <input class="btn btn-warning" type="button" value="Clear" onclick="deleteall()">
-                <input class="btn btn-success" type="button" value="Add" onclick="add()">
-                <input type="text" id="count" readonly>
-                <table id="insertTable" class="table">
-                </table>
-                <input type="submit" class="btn waves-effect waves-light" value="Calc">
-            </div>
-            {% include 'content/message.html' %}
-        </form>
-        
+        <div class="notelist">
+            <form class="for-horizontal" action="{% url 'note' %}" method="post">
+                {% csrf_token %}
+                <div id="lecture">
+                    <h2 style="color: #d9d9d9">Calc Grade</h2>
+                    <input class="btn btn-warning" type="button" value="Clear" onclick="delete()">
+                    <input class="btn btn-success" type="button" value="Add" onclick="add()">
+                    <div class="col-xs-2">
+                        <input type="text" class="form-control" id="count" name="count" readonly>
+                    </div>
+                    <table id="insertTable" class="table">
+                    </table>
+                    <input type="submit" class="btn waves-effect waves-light" value="Calc">
+                </div>
+                {% include 'content/message.html' %}
+            </form>
+        </div>
         
         <script type="text/javascript" src="{% static 'script.js' %}"></script>
     </body>
@@ -55,13 +58,13 @@
             var cell1 = row.insertCell(0);
             var cell2 = row.insertCell(1);
             var cell3 = row.insertCell(2);
-            cell1.innerHTML = "<input type='text' class='form-control' id='name" + id + "' placeholder='Name'>"
-            cell2.innerHTML = "<input type='text' class='form-control' id='grade" + id + "' placeholder='Grade'>"
-            cell3.innerHTML = "<input type='text' class='form-control' id='unit" + id + "' placeholder='Units'>"
+            cell1.innerHTML = "<input type='text' class='form-control' id='name" + id + "' name='name" + id + "' placeholder='Name'>"
+            cell3.innerHTML = "<input type='text' class='form-control' id='unit" + id + "' name='unit" + id + "' placeholder='Units'>"
+            cell2.innerHTML = "<input type='text' class='form-control' id='grade" + id + "' name='grade" + id + "' placeholder='Grade'>"
             id++;
             count.value = id;
         }
-        function deleteall(){
+        function delete(){
             var i = ttable.rows.length;
             if(i == 0) return;
             ttable.deleteRow(i - 1);
