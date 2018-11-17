@@ -1,4 +1,4 @@
-#include <gl/glut.h>
+	#include <gl/glut.h>
 #include <math.h>
 
 int w = 1280, h = 720;
@@ -132,7 +132,7 @@ main(int argc, char ** argv)
 	glClearColor(0.0, 0.0, 0.0, 1.0);
 	glutDisplayFunc(Display);
 	glutKeyboardFunc(Keyboard);
-	//glutPassiveMotionFunc(Mouse);
+	glutPassiveMotionFunc(Mouse);
 	//glutEntryFunc(MouseState);
 	glutMainLoop();
 
