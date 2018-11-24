@@ -54,7 +54,12 @@ dept_val = [
     (58, "Korean", "N16")
 ]
 
-mycursor.executemany(dept_data, dept_val)
-mycursor.executemany(prof_data, prof_val)
-mycursor.executemany(stu_data, stu_val)
-mydb.commit()
+mycursor.execute('select pw, name from student where id=201400')
+
+list = mycursor.fetchone()
+
+result = list[0]
+x = list[1]
+
+print(result)
+print(x)
