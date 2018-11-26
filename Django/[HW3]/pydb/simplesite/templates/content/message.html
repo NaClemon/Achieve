@@ -1,0 +1,9 @@
+{% if messages %}
+    <ul class="list-unstyled">
+        {% for message in messages %}
+        <li style="{% if message.tags == 'error' %}color: red;{% endif %} font-size: 20px;">
+            {{ message }}
+        </li>
+        {% endfor %}
+    </ul>
+{% endif %}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+        <link href="{% static 'css/style.css' %}" rel="stylesheet" type="text/css">
+    </head>
+    
+    <body>
+        <header style="background-image: linear-gradient(rgba(120, 120, 120, 0.8), rgba(60, 60, 60, 0.8)), url({% static 'background.jpg' %})">
+        </header>
+        
+        <div>
+            <div class="signinbox">
+                <form action="{% url 'login' %}" method="post">
+                    {% csrf_token %}
+                    <div class="row">
+                        <div class="col m4 offset-m4">
+                            <div class="input-field">
+                                <label for="userid">Userid</label>
+                                <input id="userid" name="userid" type="text" class="validate">
+                            </div>
+                            
+                            <div class="input-field">
+                                <label for="password">Password</label>
+                                <input id="password" name="password" type="password" class="validate">
+                            </div>
+                            <input type="submit" class="btn waves-effect waves-light" value="Sign in">
+                        </div>
+                    </div>
+                    {% include 'content/message.html' %}
+                </form>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="{% static 'script.js' %}"></script>
+    </body>
+</html>

@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+    height: 100vh;
+    background-size: cover;
+	background-position: center;
+}
+.mainword{
+    position: absolute;
+    width: auto;
+    top: 2.5%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+	cursor: default;
+}
+.mainword h1{
+    color: #000000;
+    font-size: 50px;
+    font-family: "Arial" sans-serif;
+    font-style: italic;
+}
+.logo{
+	width: 120px;
+	height: auto;
+	float: left;
+	margin-left: 20px;
+}
+#dologin{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#docalc{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.signinbox{
+	position: absolute;
+	width: 320px;
+	height: 420px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 43px;
+}
+.signinbox input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.signinbox input[type="text"], input[type="password"]{
+	border: 0;
+	border-bottom: 1px solid #f2f2f2;
+	background: transparent;
+	height: 30px;
+	color: rgb(255, 255, 255);
+	outline: 0;
+	font-size: 15px;
+}
+.signinbox input[type="submit"]{
+	border: 0;
+	width: 50%;
+	background: #ffb805;
+	color: #fff;
+	font-family: "Arial" sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	border-radius: 25px;
+	opacity: 0.8;
+}
+.signinbox input[type="submit"]:hover{
+	opacity: 1;
+	cursor: pointer;
+}
+.cursor{
+    position: absolute;
+	width: 40px;
+	height: auto;
+    transform: translate(20px, 80px);
+    visibility: hidden;
+}
+#information{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 35%;
+    transform: translate(-50%, -50%);
+}
+#information td{
+    color: #E6E6E6;
+}
+#information th{
+    opacity: 0.5;
+}
+.nav{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.nav li{
+	display: inline-block;
+}
+.nav li a{
+	color: #d9d9d9;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Arial" sans-serif;
+	font-size: 30px;
+}
+.nav li.active a{
+	color: #ffb805;
+}
+.nav li a:hover{
+	color: #ffb805;
+}
+#homeword{
+    position: absolute;
+    color: #E6E6E6;
+    width: auto;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, 0%);
+	cursor: default;
+}
+#nowword{
+    position: absolute;
+    color: #E6E6E6;
+    width: auto;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, 0%);
+	cursor: default;
+}
+#home_view{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 300px;
+}
+#now_view{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 300px;
+}
+.notelist{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 540px;
+}
+#count{
+    border: none;
+    color: #E6E6E6;
+    background-color: inherit;
+}
