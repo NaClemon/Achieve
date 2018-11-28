@@ -38,13 +38,16 @@ create view sub_table (emp_no, title, from_date)
 as select emp_no, title, from_date
 from titles;
 
+insert into sub_table values
+(10002, 'Senior Engineer', '1988-02-22'),
+(10008, 'Engineer', '2000-06-19');
+
 create view manager_salary (emp_no, dept_no, salary, sl_from, sl_to, manager_from, manager_to)
 as select dm.emp_no, dm.dept_no, sl.salary, sl.from_date, sl.to_date, dm.from_date, dm.to_date
 from dept_manager as dm
 join salaries as sl on dm.emp_no = sl.emp_no
 where sl.from_date like '1995%';
 
-
 update manager_salary
-set salary = 59348
+set salary = 96647
 where emp_no = 110022;
