@@ -11,13 +11,14 @@
     <body>
         <header style="background-image: linear-gradient(rgba(120, 120, 120, 0.8), rgba(60, 60, 60, 0.8)), url({% static 'background.jpg' %})">
             <div>
-                <a href="{% url 'home' %}">
+                <a href="{% url 'main' %}">
                     <img onmouseenter="movecursor()" onmouseout="outcursor()" class="logo" src="{% static 'logo.png' %}">
                 </a>
                 <img id="cursor" class="cursor" src="{% static 'cursor.png' %}">
             </div>
             <div>
                 <ul class="nav">
+                    <li class="active"><a href="{% url 'home' %}">Inform</a></li>
                     <li><a href="{% url 'prof' %}">Contact Prof</a></li>
                 </ul>
             </div>
@@ -25,6 +26,42 @@
         
         <div class="mainword">
             <h1 class="text-center">{{stdname}}'s Homepage</h1>
+        </div>
+        
+        <div>
+            <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
+                <h2>STUDENT INFORM</h2>
+            </div>
+            <table id="information" class="table table-hover">
+                <tr>
+                    <th class="success" style="width: 30%; text-align: center">학번</th>
+                    <td>{{id}}</td>
+                </tr>
+                <tr>
+                    <th class="active" style="width: 30%; text-align: center">이름</th>
+                    <td>{{stdname}}</td>
+                </tr>
+                <tr>
+                    <th class="success" style="width: 30%; text-align: center">전화번호</th>
+                    <td>{{phone}}</td>
+                </tr>
+                <tr>
+                    <th class="active" style="width: 30%; text-align: center">이메일</th>
+                    <td>{{email}}</td>
+                </tr>
+                <tr>
+                    <th class="success" style="width: 30%; text-align: center">지도교수</th>
+                    <td>{{adviser}}</td>
+                </tr>
+                <tr>
+                    <th class="active" style="width: 30%; text-align: center">학과</th>
+                    <td>{{dept_name}}</td>
+                </tr>
+                <tr>
+                    <th class="success" style="width: 30%; text-align: center">학과 위치</th>
+                    <td>{{dept_loc}}</td>
+                </tr>
+            </table>
         </div>
         
         <script type="text/javascript" src="{% static 'script.js' %}"></script>

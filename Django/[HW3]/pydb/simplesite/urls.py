@@ -18,6 +18,7 @@ from . import views
 
 urlpatterns = [
     path('login', views.login, name='login'),
+    path('main', views.main, name='main'),
     path('home', views.home, name='home'),
     path('prof', views.prof, name='prof')
 ]

@@ -53,13 +53,16 @@ dept_val = [
     (21, "Physics", "S1-1"),
     (58, "Korean", "N16")
 ]
+sql_stu = 'select st.id, st.name, st.phone, st.email, ' \
+              'prof.name from student as st join professor as prof' \
+              ' on st.adviser = prof.id where st.id=201400'
+sql_dept = 'select dept.name, dept.location from department as dept join student as st ' \
+               'on dept.id = st.dept where st.id=201400 or st.id=201401'
+sql_prof = 'select prof.* from professor as prof join department as dept ' \
+               'on dept.id = prof.dept where dept.id = (select dept from student ' \
+               'where id=201400)'
+mycursor.execute(sql_dept)
 
-mycursor.execute('select pw, name from student where id=201400')
+list = mycursor.fetchall()
 
-list = mycursor.fetchone()
-
-result = list[0]
-x = list[1]
-
-print(result)
-print(x)
+print(list)
