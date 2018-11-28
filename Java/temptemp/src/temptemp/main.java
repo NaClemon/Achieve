@@ -11,7 +11,7 @@ public class main {
 	static final String DB_address = "jdbc:mysql://localhost:3306/employees?useSSL=false";
 	
 	static final String USER = "root";
-	static final String PASS = "tmvjswl@2877";
+	static final String PASS = "";
 	
 	public static void main(String[] args){
 		Connection conn = null;
@@ -42,7 +42,15 @@ public class main {
 			
 			String sql;
 			
-			sql = "select "
+			sql = "select first_name, gender, hire_date, title\r\n"
+					+ "from emp_title where hire_date like '1995-10%'\r\n"
+					+ "order by hire_date asc";
+			
+			ResultSet rs = stmt.executeQuery(sql);
+			
+			while(rs.next()) {
+				System.out.println(rs.getString(1) + ", " + rs.getString(2) + ", " + rs.getString(3) + ", " + rs.getString(4));
+			}
 			
 			/*
 			System.out.println("----------------------------------");

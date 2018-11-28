@@ -51,3 +51,7 @@ where sl.from_date like '1995%';
 update manager_salary
 set salary = 96647
 where emp_no = 110022;
+
+select first_name, gender, hire_date, title
+from emp_title where hire_date like '%10%'
+order by hire_date asc;
