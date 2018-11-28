@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb15776d-e058-4841-b55a-31ce5afe4bbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Django/[HW3]/pydb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/[HW3]/pydb/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Django/[HW3]/pydb/simplesite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/[HW3]/pydb/simplesite/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/ipch/AutoPCH/6d8de23999969c/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/.vs/OBJ/v15/ipch/AutoPCH/6d8de23999969c/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/Debug/OBJ.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/OBJ.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/ex.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/ex.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/OBJ/OBJ/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -53,7 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,6 +78,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,7 +147,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32948583" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -150,8 +164,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class main {
 	// STEP 1: DB Configuration
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	static final String DB_address = "jdbc:mysql://localhost:3306/hw2?useSSL=false";
+	static final String DB_address = "jdbc:mysql://localhost:3306/employees?useSSL=false";
 	
 	static final String USER = "root";
 	static final String PASS = "tmvjswl@2877";
@@ -28,6 +28,7 @@ public class main {
 			System.out.println("Creating statement...");
 			Statement stmt = conn.createStatement();
 			
+			/*
 			// STEP 5: Execute a query
 			String sql;
 			sql = "show databases";
@@ -37,9 +38,13 @@ public class main {
 			while(rs.next()){
 				System.out.println(rs.getString(1));
 			}
+			*/
 			
-			rs.close();
+			String sql;
 			
+			sql = "select "
+			
+			/*
 			System.out.println("----------------------------------");
 			sql = "select bre.*\r\n" + 
 					"from bremployee as bre\r\n" + 
@@ -122,8 +127,9 @@ public class main {
 			System.out.println("----------delete--------------");
 			sql = "delete from recompany where cmp_name = 'Temp'";
 			stmt.executeUpdate(sql);
+			*/
 			
-			
+			rs.close();
 			
 		}catch(Exception e){
 			e.printStackTrace();

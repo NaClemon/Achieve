@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#define MAX 100
+#define MAX 10000000
 
 // vertex 좌표를 저장할 구조체
 struct vertex {
