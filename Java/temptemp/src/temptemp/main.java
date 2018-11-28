@@ -28,7 +28,7 @@ public class main {
 			System.out.println("Creating statement...");
 			Statement stmt = conn.createStatement();
 			
-			/*
+			
 			// STEP 5: Execute a query
 			String sql;
 			sql = "show databases";
@@ -38,11 +38,8 @@ public class main {
 			while(rs.next()){
 				System.out.println(rs.getString(1));
 			}
-			*/
 			
-			String sql;
 			
-			sql = "select "
 			
 			/*
 			System.out.println("----------------------------------");
