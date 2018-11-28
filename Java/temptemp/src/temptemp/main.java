@@ -28,7 +28,7 @@ public class main {
 			System.out.println("Creating statement...");
 			Statement stmt = conn.createStatement();
 			
-			/*
+			
 			// STEP 5: Execute a query
 			String sql;
 			sql = "show databases";
@@ -38,10 +38,9 @@ public class main {
 			while(rs.next()){
 				System.out.println(rs.getString(1));
 			}
-			*/
 			
-			String sql;
 			
+<<<<<<< HEAD
 			sql = "select first_name, gender, hire_date, title\r\n"
 					+ "from emp_title where hire_date like '1995-10%'\r\n"
 					+ "order by hire_date asc";
@@ -51,6 +50,8 @@ public class main {
 			while(rs.next()) {
 				System.out.println(rs.getString(1) + ", " + rs.getString(2) + ", " + rs.getString(3) + ", " + rs.getString(4));
 			}
+=======
+>>>>>>> 2e5236ad0c6674f2289190251d788c992f968eb0
 			
 			/*
 			System.out.println("----------------------------------");

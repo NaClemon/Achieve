@@ -19,37 +19,13 @@
             <div>
                 <ul class="nav">
                     <li><a href="{% url 'home' %}">Inform</a></li>
-                    <li class="active"><a href="{% url 'prof' %}">Contact Prof</a></li>
+                    <li><a href="{% url 'prof' %}">Contact Prof</a></li>
                 </ul>
             </div>
         </header>
         
         <div class="mainword">
             <h1 class="text-center">{{stdname}}'s Homepage</h1>
-        </div>
-        
-        <div>
-            <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);">
-                <h2>PROFESSOR INFORM</h2>
-            </div>
-        </div>
-        <div id="intable">
-            {% for list in prof_result %}
-                <table class="profinform table">
-                    <tr>
-                        <th class="success" style="width: 30%; text-align: center">이름</th>
-                        <td>{{list.0}}</td>
-                    </tr>
-                    <tr>
-                        <th class="active" style="width: 30%; text-align: center">전화번호</th>
-                        <td>{{list.1}}</td>
-                    </tr>
-                    <tr>
-                        <th class="success" style="width: 30%; text-align: center">이메일</th>
-                        <td>{{list.2}}</td>
-                    </tr>
-                </table>
-            {% endfor %}
         </div>
         
         <script type="text/javascript" src="{% static 'script.js' %}"></script>

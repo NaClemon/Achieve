@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/995sk/Downloads/[ByAziz] Java MySQL Installation Guide/4. mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
 	<classpathentry kind="lib" path="C:/Users/995sk/Downloads/[ByAziz] Java MySQL Installation Guide/4. mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/egnaro/Desktop/temp/[ByAziz] Java MySQL Installation Guide/4. mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/egnaro/Desktop/temp/[ByAziz] Java MySQL Installation Guide/4. mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

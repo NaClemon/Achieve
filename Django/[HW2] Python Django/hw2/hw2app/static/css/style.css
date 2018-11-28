@@ -99,6 +99,21 @@ header{
 #information th{
     opacity: 0.5;
 }
+.profinform{
+    text-align: center;
+}
+.profinform td{
+    color: #E6E6E6;
+}
+.profinform th{
+    opacity: 0.3;
+}
+#intable{
+    position: absolute;
+    top: 55%;
+    left: 43.5%;
+    transform: translate(0%, -50%);
+}
 .nav{
 	float: right;
 	list-style: none;
