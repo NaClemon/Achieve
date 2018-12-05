@@ -1,11 +1,23 @@
-from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
+matplotlib.style.use('ggplot')
 
-a = cosine_similarity([[5, 5, 4, 2, 4]], [[5, 4, 4, 5, 5]])
-b = cosine_similarity([[2, 4, 4, 3, 3]], [[5, 4, 4, 5, 5]])
-c = cosine_similarity([[1, 2, 5, 1, 1]], [[5, 4, 4, 5, 5]])
-d = cosine_similarity([[2, 1, 2, 4, 1]], [[5, 4, 4, 5, 5]])
+alice = np.array([5, 3, 4, 4])
+user1 = np.array([3, 1, 2, 3])
+user2 = np.array([4, 3, 4, 3])
+user3 = np.array([3, 3, 1, 5])
+user4 = np.array([1, 5, 5, 2])
 
-print(a)
-print(b)
-print(c)
-print(d)
+plt.scatter(alice, user1)
+plt.show()
+
+"""matrix = np.array([[0, 0, 5, 0, 4, 5],
+                   [0, 0, 4, 0, 0, 5],
+                   [3, 0, 5, 4, 5, 5],
+                   [3, 2, 5, 0, 1, 5],
+                   [2, 0, 5, 3, 5, 0],
+                   [3, 5, 4, 4, 5, 1]
+                   ])
+corr = np.corrcoef(matrix)
+print(corr)"""
