@@ -1,0 +1,10 @@
+package com.dev.controller;
+
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+public interface Controller {
+	public void excute(HttpServletRequest request,HttpServletResponse response) throws ServletException,IOException;
+
+}
