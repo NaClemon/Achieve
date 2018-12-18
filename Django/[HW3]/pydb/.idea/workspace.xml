@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81aff205-b85e-437d-90c9-fb06e495aec8" name="Default Changelist" comment="" />
+    <list default="true" id="81aff205-b85e-437d-90c9-fb06e495aec8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SQL/[HW3].sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SQL/[HW3].sql" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simplesite/templates/content/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
+            <state relative-caret-position="361">
+              <caret line="40" column="85" lean-forward="true" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -97,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,8 +289,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simplesite/templates/content/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
+        <state relative-caret-position="361">
+          <caret line="40" column="85" lean-forward="true" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
         </state>
       </provider>
     </entry>
