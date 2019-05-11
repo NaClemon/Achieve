@@ -1,0 +1,7604 @@
+[
+	{
+		"name": "A Plague Tale: Innocence",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 49800
+	},
+	{
+		"name": "Total War: Three Kingdoms",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59800,
+		"sale_price": 53800
+	},
+	{
+		"name": "Rage 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 67000,
+		"sale_price": 49800
+	},
+	{
+		"name": "Rage 2 - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 89900,
+		"sale_price": 69800
+	},
+	{
+		"name": "Titan Quest: Atlantis",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 13000
+	},
+	{
+		"name": "Starlink: Battle for Atlas",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44000,
+		"sale_price": 41800
+	},
+	{
+		"name": "Starlink: Battle for Atlas - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 61600
+	},
+	{
+		"name": "Imperator: Rome",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Imperator: Rome Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 56000,
+		"sale_price": 45000
+	},
+	{
+		"name": "Dark Devotion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20500,
+		"sale_price": 19800
+	},
+	{
+		"name": "Phoenix Wright: Ace Attorney Trilogy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 28000
+	},
+	{
+		"name": "Phoenix Wright: Ace Attorney Trilogy - Turnabout Tunes Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 46000,
+		"sale_price": 40900
+	},
+	{
+		"name": "Super Dragon Ball Heroes World Mission",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 52000
+	},
+	{
+		"name": "GRIP: Combat Racing - Terra Garage Kit 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Pariah Garage Kit 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Nyvoss Garage Kit 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Cygon Garage Kit 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Vintek Garage Kit 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "UNDER NIGHT IN-BIRTH Exe:Late[st]",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"name": "Borderlands: Game of the Year Enhanced",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31700,
+		"sale_price": 29800
+	},
+	{
+		"name": "Tropico 6",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 45000
+	},
+	{
+		"name": "Tropico 6 El Prez Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59400,
+		"sale_price": 49800
+	},
+	{
+		"name": "PLAYERUNKNOWN'S BATTLEGROUNDS Survivor Pass 3 BUNDLE",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 37700,
+		"sale_price": 34100
+	},
+	{
+		"name": "PLAYERUNKNOWN'S BATTLEGROUNDS - Survivor Pass 3: Wild Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10700,
+		"sale_price": 9800
+	},
+	{
+		"name": "Space Junkies",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44000,
+		"sale_price": 41800
+	},
+	{
+		"name": "Sekiro: Shadows Die Twice",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59800,
+		"sale_price": 55000
+	},
+	{
+		"name": "ONE PIECE World Seeker",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 51000
+	},
+	{
+		"name": "ONE PIECE World Seeker Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75800,
+		"sale_price": 70500
+	},
+	{
+		"name": "ONE PIECE World Seeker Episode Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26800,
+		"sale_price": 25300
+	},
+	{
+		"name": "Devil May Cry 5",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 63000,
+		"sale_price": 56700
+	},
+	{
+		"name": "Devil May Cry 5 - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 83000,
+		"sale_price": 74700
+	},
+	{
+		"name": "Railway Empire - Germany",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 12900
+	},
+	{
+		"name": "Darksiders III - The Crucible",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7000,
+		"sale_price": 6500
+	},
+	{
+		"name": "Trials Rising - Expansion Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Trials Rising",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 27000,
+		"sale_price": 25500
+	},
+	{
+		"name": "Trials Rising GOLD EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44000,
+		"sale_price": 41300
+	},
+	{
+		"name": "DiRT Rally 2.0",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 61000,
+		"sale_price": 54900
+	},
+	{
+		"name": "DiRT Rally 2.0 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 82000,
+		"sale_price": 72000
+	},
+	{
+		"name": "Sudden Strike 4 - The Pacific War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "V-Rally 4 - Volkswagen Pikes Peak",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "Borderlands: The Handsome Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64100,
+		"sale_price": 61000
+	},
+	{
+		"name": "Far Cry New Dawn COMPLETE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 110000,
+		"sale_price": 104500
+	},
+	{
+		"name": "Far Cry New Dawn",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49000,
+		"sale_price": 47000
+	},
+	{
+		"name": "Far Cry New Dawn DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 60000,
+		"sale_price": 57000
+	},
+	{
+		"name": "JUMP FORCE",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 51700
+	},
+	{
+		"name": "JUMP FORCE - DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80800,
+		"sale_price": 75900
+	},
+	{
+		"name": "JUMP FORCE - ULTIMATE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 91800,
+		"sale_price": 85800
+	},
+	{
+		"name": "JUMP FORCE - Characters Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32800,
+		"sale_price": 31000
+	},
+	{
+		"name": "Far Cry New Dawn ULTIMATE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 130000,
+		"sale_price": 123500
+	},
+	{
+		"name": "Dungeons 3 - An Unexpected DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Sid Meier's Civilization VI - Gathering Storm",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 41900
+	},
+	{
+		"name": "AWAY: Journey to the Unexpected",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Monster Energy Supercross - The Official Videogame 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 49800
+	},
+	{
+		"name": "GOD EATER 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 51500
+	},
+	{
+		"name": "Spike Volleyball",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "ACE COMBAT 7: SKIES UNKNOWN",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 51500
+	},
+	{
+		"name": "ACE COMBAT 7: SKIES UNKNOWN - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26800,
+		"sale_price": 25500
+	},
+	{
+		"name": "ACE COMBAT 7: SKIES UNKNOWN - DIGITAL DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75800,
+		"sale_price": 71500
+	},
+	{
+		"name": "DRAGON BALL FIGHTERZ - FighterZ Pass 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26000,
+		"sale_price": 24500
+	},
+	{
+		"name": "Super Pixel Racers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "RESIDENT EVIL 2 / BIOHAZARD RE:2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59000,
+		"sale_price": 55000
+	},
+	{
+		"name": "RESIDENT EVIL 2 / BIOHAZARD RE:2 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 62000
+	},
+	{
+		"name": "V-Rally 4 DLC Citroën DS3 RX",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "WWE 2K19 - Rising Stars Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11600,
+		"sale_price": 9900
+	},
+	{
+		"name": "Mutant Year Zero: Road to Eden",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 36000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Mutant Year Zero: Road to Eden - DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 57000,
+		"sale_price": 52000
+	},
+	{
+		"name": "SWORD ART ONLINE: FATAL BULLET - COMPLETE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 58200,
+		"sale_price": 55000
+	},
+	{
+		"name": "My Time At Portia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 29500
+	},
+	{
+		"name": "Tales of Vesperia: Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47500
+	},
+	{
+		"name": "FOR HONOR - COMPLETE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 110000,
+		"sale_price": 105000
+	},
+	{
+		"name": "FOR HONOR - Year 3 Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31900
+	},
+	{
+		"name": "Crusader Kings II: Royal Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 237000,
+		"sale_price": 165000
+	},
+	{
+		"name": "Crusader Kings II: Imperial Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 380300,
+		"sale_price": 247500
+	},
+	{
+		"name": "Princess Maker 1&2&3&5 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 82300,
+		"sale_price": 69900
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE 2 - Extra Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32800,
+		"sale_price": 31000
+	},
+	{
+		"name": "WWE 2K19 - New Moves",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4800,
+		"sale_price": 3900
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "Railway Empire - Great Britain & Ireland",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 12900
+	},
+	{
+		"name": "Shadows: Awakening - Necrophage's Curse",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege - Year 4 Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 32000
+	},
+	{
+		"name": "Conan Exiles - Seekers of the Dawn Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 9900
+	},
+	{
+		"name": "Hand of Fate 2 - A Cold Hearth",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Europa Universalis IV: Golden Century",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "V-Rally 4 - Ford GT 2006",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "Jagged Alliance: Rage!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19000
+	},
+	{
+		"name": "Stellaris: MegaCorp",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Katamari Damacy REROLL",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26800,
+		"sale_price": 25000
+	},
+	{
+		"name": "RIDE 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51000,
+		"sale_price": 49800
+	},
+	{
+		"name": "Asterix & Obelix XXL 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 14300
+	},
+	{
+		"name": "Darksiders III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"name": "Darksiders III Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80000,
+		"sale_price": 76000
+	},
+	{
+		"name": "BATTLETECH Flashpoint",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Darksiders Blades & Whip Franchise Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 100000,
+		"sale_price": 90000
+	},
+	{
+		"name": "Shadows: Awakening",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "WWE 2K19 - Titans Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11600,
+		"sale_price": 9900
+	},
+	{
+		"name": "Sid Meier’s Civilization VI Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 106500,
+		"sale_price": 102000
+	},
+	{
+		"name": "Sunset Overdrive",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20500,
+		"sale_price": 19800
+	},
+	{
+		"name": "Surviving Mars: Marsvision Song Contest",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "Surviving Mars: Space Race",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Surviving Mars: Colony Design Set",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Surviving Mars: Space Race Plus",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20500,
+		"sale_price": 16500
+	},
+	{
+		"name": "V-Rally 4 - Supercharge Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Fallout 76",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 67000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Fallout 76 Tricentennial Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 89900,
+		"sale_price": 39800
+	},
+	{
+		"name": "Crusader Kings II: Holy Fury",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "HITMAN 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 54800
+	},
+	{
+		"name": "HITMAN 2 - Silver Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 89400,
+		"sale_price": 74800
+	},
+	{
+		"name": "HITMAN 2 - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 109400,
+		"sale_price": 96800
+	},
+	{
+		"name": "Tyranny - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 53000,
+		"sale_price": 41200
+	},
+	{
+		"name": "11-11 Memories Retold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21800,
+		"sale_price": 20500
+	},
+	{
+		"name": "GRIP: Combat Racing",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "GRIP: Combat Racing - Cygon Customisation Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Nyvoss Customisation Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Terra Customisation Pack ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "GRIP: Combat Racing - Vintek Garage Pack ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 1900
+	},
+	{
+		"name": "WWE 2K19 - WOOOOO! Edition Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9600,
+		"sale_price": 7900
+	},
+	{
+		"name": "MY HERO ONE'S JUSTICE",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 50800
+	},
+	{
+		"name": "Shadows: Awakening - The Chromaton Chronicles",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Cities: Skylines - Industries",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 13900
+	},
+	{
+		"name": "Cities: Skylines - Industries Plus",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Cities: Skylines - Synthetic Dawn Radio",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "SOULCALIBUR VI",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 50800
+	},
+	{
+		"name": "SOULCALIBUR VI Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80800,
+		"sale_price": 75200
+	},
+	{
+		"name": "SOULCALIBUR VI Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32800,
+		"sale_price": 31200
+	},
+	{
+		"name": "Railway Empire - Crossing the Andes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 7900
+	},
+	{
+		"name": "For Honor - Marching Fire Expansion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "BATTLETECH Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51000,
+		"sale_price": 42000
+	},
+	{
+		"name": "For Honor - MARCHING FIRE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 52000
+	},
+	{
+		"name": "BATTLETECH Mercenary Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 92000,
+		"sale_price": 80000
+	},
+	{
+		"name": "LEGO DC Super Villains",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43900,
+		"sale_price": 40900
+	},
+	{
+		"name": "LEGO DC Super Villains Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 58900,
+		"sale_price": 53900
+	},
+	{
+		"name": "NBA 2K Playgrounds 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "The Surge: Augmented Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 55000
+	},
+	{
+		"name": "Hand of Fate 2 - The Servant and the Beast",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "The MISSING: J.J. Macfield and the Island of Memories",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 29900
+	},
+	{
+		"name": "Sudden Strike 4 - Africa: Desert War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "WWE 2K19",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54200,
+		"sale_price": 49800
+	},
+	{
+		"name": "WWE 2K19 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 29900
+	},
+	{
+		"name": "WWE 2K19 - MyPlayer KickStart",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11600,
+		"sale_price": 9900
+	},
+	{
+		"name": "WWE 2K19 - Accelerator",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5800,
+		"sale_price": 4900
+	},
+	{
+		"name": "Europa Universalis IV: Dharma Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26100,
+		"sale_price": 20000
+	},
+	{
+		"name": "Conan Exiles - The Savage Frontier Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 5900
+	},
+	{
+		"name": "Assassin's Creed Odyssey - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44000,
+		"sale_price": 42700
+	},
+	{
+		"name": "Assassin's Creed Odyssey",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 61000
+	},
+	{
+		"name": "Assassin's Creed Odyssey - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 70500
+	},
+	{
+		"name": "WWE 2K19 Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 81000,
+		"sale_price": 74500
+	},
+	{
+		"name": "Mega Man 11",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 24600
+	},
+	{
+		"name": "Assassin's Creed Odyssey - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 110000,
+		"sale_price": 103000
+	},
+	{
+		"name": "Assassin's Creed Odyssey - Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 119000,
+		"sale_price": 111000
+	},
+	{
+		"name": "The Surge: The Good, the Bad and the Augmented Expansion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 9500
+	},
+	{
+		"name": "Dungeons 3 - Clash of Gods",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "V-Rally 4 Day One Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 49800
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "V-Rally 4 - Roadbook",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "V-Rally 4 - Career Booster",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands - YEAR 2 GOLD EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 72800
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands - ULTIMATE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 110000,
+		"sale_price": 106700
+	},
+	{
+		"name": "BLACK CLOVER: QUARTET KNIGHTS",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47900
+	},
+	{
+		"name": "BLACK CLOVER: QUARTET KNIGHTS Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59800,
+		"sale_price": 57900
+	},
+	{
+		"name": "BLACK CLOVER: QUARTET KNIGHTS Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16800,
+		"sale_price": 16300
+	},
+	{
+		"name": "Old School Musical",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 12900
+	},
+	{
+		"name": "NBA 2K19",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 59800
+	},
+	{
+		"name": "NBA 2K19 20th Anniversary Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 108000,
+		"sale_price": 99000
+	},
+	{
+		"name": "Europa Universalis IV: Dharma",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Europa Universalis IV: Dharma Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "TEKKEN 7 Season Pass 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26800,
+		"sale_price": 25900
+	},
+	{
+		"name": "TEKKEN 7 - Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86800,
+		"sale_price": 83900
+	},
+	{
+		"name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 52000
+	},
+	{
+		"name": "NARUTO TO BORUTO: SHINOBI STRIKER Deluxe Edition ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 87600,
+		"sale_price": 83200
+	},
+	{
+		"name": "Middle-earth: Shadow of War Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"name": "Railway Empire - The Great Lakes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 7900
+	},
+	{
+		"name": "Monster Hunter: World - Deluxe Kit",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14400
+	},
+	{
+		"name": "MONSTER HUNTER: WORLD",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 63000,
+		"sale_price": 49800
+	},
+	{
+		"name": "MONSTER HUNTER: WORLD Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 74200,
+		"sale_price": 59800
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Beast of Winter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "Conan Exiles - Jewel of the West Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 5900
+	},
+	{
+		"name": "This Is the Police 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "Mega Man X Legacy Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 18000
+	},
+	{
+		"name": "Mega Man X Legacy Collection 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 18000
+	},
+	{
+		"name": "Mega Man X Legacy Collection 1+2 Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 38000,
+		"sale_price": 34200
+	},
+	{
+		"name": "Gotcha Racing 2nd",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "Mars or Die!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "The Crew 2 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44000,
+		"sale_price": 42000
+	},
+	{
+		"name": "The Crew 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 62000
+	},
+	{
+		"name": "The Crew 2 - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 71500
+	},
+	{
+		"name": "The Crew 2 - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 95000,
+		"sale_price": 90500
+	},
+	{
+		"name": "Conan Exiles - The Imperial East Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 5900
+	},
+	{
+		"name": "Human: Fall Flat - 4 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26700,
+		"sale_price": 26700
+	},
+	{
+		"name": "LEGO The Incredibles",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 42900,
+		"sale_price": 39400
+	},
+	{
+		"name": "Sudden Strike 4 - Finland: Winter Storm",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "Hand of Fate 2 - Outlands and Outsiders",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 6900
+	},
+	{
+		"name": "Tennis World Tour",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "Tennis World Tour Legend Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 49800
+	},
+	{
+		"name": "Prey - Mooncrash",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Prey Digital Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44500,
+		"sale_price": 44500
+	},
+	{
+		"name": "Railway Empire - Mexico",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 7900
+	},
+	{
+		"name": "BLAZBLUE CROSS TAG BATTLE Basic Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 49800
+	},
+	{
+		"name": "BLAZBLUE CROSS TAG BATTLE Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69800,
+		"sale_price": 69800
+	},
+	{
+		"name": "SG/ZH: School Girl/Zombie Hunter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"name": "Street Fighter 30th Anniversary Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "Cities: Skylines - Parklife",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 13900
+	},
+	{
+		"name": "Cities: Skylines - Parklife Plus",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Cities: Skylines - Country Road Radio",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "DARK SOULS: REMASTERED",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43800,
+		"sale_price": 41600
+	},
+	{
+		"name": "Stellaris - Distant Stars Story Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Conan Exiles",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 16500
+	},
+	{
+		"name": "Conan Exiles - Barbarian Edition Content",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 30000,
+		"sale_price": 10500
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26000,
+		"sale_price": 24800
+	},
+	{
+		"name": "Dead Rising 4 - Frank's Big Package",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64000,
+		"sale_price": 49300
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15700,
+		"sale_price": 14900
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51000,
+		"sale_price": 51000
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"name": "Middle-earth: Shadow of War - The Desolation of Mordor Story Expansion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22500,
+		"sale_price": 21000
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Obsidian Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 77000,
+		"sale_price": 77000
+	},
+	{
+		"name": "Princess Maker 5",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Dead Cells",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Dead Cells - Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4000
+	},
+	{
+		"name": "Dead Cells & Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "EARTH DEFENSE FORCE 4.1 WINGDIVER THE SHOOTER",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "BATTLETECH Digital Deluxe Content",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13500,
+		"sale_price": 11000
+	},
+	{
+		"name": "BATTLETECH",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 35000
+	},
+	{
+		"name": "BATTLETECH Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Dungeons 3 - Lord of the Kings",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands - Year 2 Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 33600
+	},
+	{
+		"name": "Furi",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 4000
+	},
+	{
+		"name": "OF MICE AND SAND -REVISED-",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "Far Cry 5",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 62000
+	},
+	{
+		"name": "Far Cry 5 - GOLD EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 95000,
+		"sale_price": 90500
+	},
+	{
+		"name": "Far Cry 5 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 32000
+	},
+	{
+		"name": "Ni no Kuni II: Revenant Kingdom",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64800,
+		"sale_price": 61500
+	},
+	{
+		"name": "Ni no Kuni II: Revenant Kingdom Prince's edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86800,
+		"sale_price": 82500
+	},
+	{
+		"name": "Europa Universalis IV: Rule Britannia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Surviving Mars: Deluxe Upgrade Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 9000
+	},
+	{
+		"name": "Surviving Mars: Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 36000,
+		"sale_price": 30500
+	},
+	{
+		"name": "Surviving Mars: Stellaris Dome Set",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "Surviving Mars",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 27900
+	},
+	{
+		"name": "Surviving Mars: Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 35000
+	},
+	{
+		"name": "Surviving Mars: FIRST COLONY EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 67000,
+		"sale_price": 57000
+	},
+	{
+		"name": "Dungeons 3 - Evil of the Caribbean",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "The Raven Remastered Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "Devil May Cry HD Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "The Raven Remastered",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "For Honor - STARTER EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Kerbal Space Program: Making History",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Hearts of Iron IV: Waking the Tiger",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "CHUCHEL",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 10000
+	},
+	{
+		"name": "CHUCHEL Cherry Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17000,
+		"sale_price": 12900
+	},
+	{
+		"name": "Railway Empire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "ELEX",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 45000
+	},
+	{
+		"name": "SWORD ART ONLINE: Fatal Bullet",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32800,
+		"sale_price": 31000
+	},
+	{
+		"name": "Stellaris: Apocalypse",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Steel Division: Normandy 44 - Back to Hell",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 32500
+	},
+	{
+		"name": "Sid Meier’s Civilization VI: Rise and Fall",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32500,
+		"sale_price": 29900
+	},
+	{
+		"name": "Middle-earth: Shadow of War - The Blade of Galadriel Story Expansion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 15700
+	},
+	{
+		"name": "Dungeons 3 - Once Upon A Time",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "XCOM 2 Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 109000,
+		"sale_price": 105000
+	},
+	{
+		"name": "Strikers Edge",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "DRAGON BALL FighterZ - FighterZ Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86800,
+		"sale_price": 82500
+	},
+	{
+		"name": "DRAGON BALL FighterZ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54800,
+		"sale_price": 49800
+	},
+	{
+		"name": "DRAGON BALL Fighterz - Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 102800,
+		"sale_price": 97700
+	},
+	{
+		"name": "Yonder: The Cloud Catcher Chronicles",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25000,
+		"sale_price": 25000
+	},
+	{
+		"name": "Street Fighter V: Arcade Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "Street Fighter V: Season 3 Character Pass ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Street Fighter V: Arcade Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 68000,
+		"sale_price": 64500
+	},
+	{
+		"name": "WWE 2K18 - Enduring Icons Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10800,
+		"sale_price": 9900
+	},
+	{
+		"name": "Armello - Rivals Hero Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "L.A. Noire: The VR Case Files",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 30500
+	},
+	{
+		"name": "Grand Theft Auto V - Criminal Enterprise Starter Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "Arcana Heart 3 LOVEMAX SIXSTARS!!!!!!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"name": "Fallout 4 VR",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 63500
+	},
+	{
+		"name": "Mafia Triple Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 93000,
+		"sale_price": 86500
+	},
+	{
+		"name": "SpellForce 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 49800
+	},
+	{
+		"name": "Stellaris - Humanoids Species",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Boiling Bolt",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11900,
+		"sale_price": 11900
+	},
+	{
+		"name": "​The Surge: A Walk in the Park (DLC)​",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"name": "Cities: Skylines - All That Jazz",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "DOOM VFR",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 34600,
+		"sale_price": 33000
+	},
+	{
+		"name": "Titan Quest: Ragnarök",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 5000
+	},
+	{
+		"name": "Crusader Kings II: Jade Dragon",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Europa Universalis IV: Cradle of Civilization",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Europa Universalis IV: Cradle of Civilization Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Europa Universalis IV: Cradle of Civilization Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 21000
+	},
+	{
+		"name": "Crusader Kings II: Dynasty Starter Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80100,
+		"sale_price": 72000
+	},
+	{
+		"name": "LEGO Marvel Super Heroes 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 59800
+	},
+	{
+		"name": "LEGO Marvel Super Heroes 2 DELUXE EDITIN",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80900,
+		"sale_price": 74800
+	},
+	{
+		"name": "Injustice 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51000,
+		"sale_price": 45900
+	},
+	{
+		"name": "Pillars of Eternity - Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 19800
+	},
+	{
+		"name": "WWE 2K18 - Kurt Angle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5400,
+		"sale_price": 4900
+	},
+	{
+		"name": "WWE 2K18 - Cena (Nuff) Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8600,
+		"sale_price": 7800
+	},
+	{
+		"name": "Carnival Games VR: Alley Adventure",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8600,
+		"sale_price": 8200
+	},
+	{
+		"name": "Injustice 2 - Fighter Pack 1",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22500,
+		"sale_price": 21400
+	},
+	{
+		"name": "Injustice 2 - Fighter Pack 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22500,
+		"sale_price": 21400
+	},
+	{
+		"name": "Injustice 2 - Fighter Pack 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22500,
+		"sale_price": 21400
+	},
+	{
+		"name": "Injustice 2 - Ultimate Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45500,
+		"sale_price": 41900
+	},
+	{
+		"name": "Dungeons 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 39800
+	},
+	{
+		"name": "Agents of Mayhem - Carnage a Trois Skins Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Agents of Mayhem - Safeword Agent Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Hand of Fate 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Wolfenstein II: The New Colossus - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 28800,
+		"sale_price": 28200
+	},
+	{
+		"name": "WRC 7 FIA World Rally Championship",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Assassin's Creed Origins",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 59800
+	},
+	{
+		"name": "Sword Art Online: Hollow Realization Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 50800,
+		"sale_price": 48300
+	},
+	{
+		"name": "Assassin's Creed Origins - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 70000
+	},
+	{
+		"name": "Assassin's Creed Origins - GOLD EDITION Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 95000,
+		"sale_price": 88000
+	},
+	{
+		"name": "Wolfenstein II: The New Colossus",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 59800
+	},
+	{
+		"name": "Wolfenstein II: The New Colossus Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 94900,
+		"sale_price": 88000
+	},
+	{
+		"name": "Assassin's Creed Origins - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 41000
+	},
+	{
+		"name": "The Inner World - The Last Wind Monk",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "Sudden Strike 4 - Road to Dunkirk",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9800
+	},
+	{
+		"name": "Civilization VI - Khmer and Indonesia Civilization & Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 8000
+	},
+	{
+		"name": "Cities: Skylines - Green Cities",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 12900
+	},
+	{
+		"name": "Cities: Skylines - Content Creator Pack: European Suburbia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "WWE 2K18 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32500,
+		"sale_price": 29900
+	},
+	{
+		"name": "WWE 2K18 - MyPlayer Kick Start",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10800,
+		"sale_price": 9900
+	},
+	{
+		"name": "WWE 2K18 - Accelerator",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5400,
+		"sale_price": 4900
+	},
+	{
+		"name": "WWE 2K18",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54200,
+		"sale_price": 49800
+	},
+	{
+		"name": "WWE 2K18 Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 81000,
+		"sale_price": 74500
+	},
+	{
+		"name": "The Evil Within 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 59800
+	},
+	{
+		"name": "Middle - earth: Shadow of War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 53000,
+		"sale_price": 53000
+	},
+	{
+		"name": "Agents of Mayhem - Legal Action Pending DLC - Retail Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Agents of Mayhem - Legal Action Pending DLC - Digital Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Agents of Mayhem - Legal Action Pending DLC - Day One Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Agents of Mayhem - Lazarus Agent Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Middle-earth: Shadow of War Starter Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Middle-earth: Shadow of War Expansion Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43900,
+		"sale_price": 41900
+	},
+	{
+		"name": "Battle Chasers: Nightwar",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "River City Melee : Battle Royal Special",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Fallout 4 G.O.T.Y Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 63500
+	},
+	{
+		"name": "The LEGO NINJAGO Movie Video Game",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 39800
+	},
+	{
+		"name": "Project CARS 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 46500
+	},
+	{
+		"name": "Project CARS 2 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 78800,
+		"sale_price": 73000
+	},
+	{
+		"name": "Project CARS 2 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 26800
+	},
+	{
+		"name": "Marvel vs. Capcom: Infinite",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "Marvel vs. Capcom: Infinite - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59000,
+		"sale_price": 59000
+	},
+	{
+		"name": "Marvel vs. Capcom: Infinite Character Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Steel Division: Normandy 44 - Second Wave",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Stellaris - Synthetic Dawn",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Dishonored: Death of the Outsider",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 34600,
+		"sale_price": 33000
+	},
+	{
+		"name": "Dishonored: Death of the Outsider - Deluxe Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 65500
+	},
+	{
+		"name": "NBA 2K18",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 59800
+	},
+	{
+		"name": "NBA 2K18 Legend Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 108000,
+		"sale_price": 99000
+	},
+	{
+		"name": "NBA 2K18 Legend Edition Gold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 162500,
+		"sale_price": 149000
+	},
+	{
+		"name": "BlazBlue Centralfiction - Additional Playable Character JUBEI",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Agents of Mayhem - Johnny Gat Agent Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Accel World VS. Sword Art Online Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 50800,
+		"sale_price": 47800
+	},
+	{
+		"name": "Tyranny - Bastard's Wound",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 - The Sabotage",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "THE KING OF FIGHTERS XIII STEAM EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "METAL SLUG 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"name": "METAL SLUG X",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"name": "Agents of Mayhem - Firing Squad Skins Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "XCOM 2 - War of the Chosen",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 41400
+	},
+	{
+		"name": "One Piece: Unlimited World Red - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35800,
+		"sale_price": 34000
+	},
+	{
+		"name": "Cities: Skylines - Concerts ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6100
+	},
+	{
+		"name": "Agents of Mayhem",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"name": "observer",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Sudden Strike Trilogy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17700,
+		"sale_price": 15000
+	},
+	{
+		"name": "Sudden Strike 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 42000,
+		"sale_price": 42000
+	},
+	{
+		"name": "Vostok Inc.",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Mega Man Legacy Collection 1 & 2 Combo Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 27000
+	},
+	{
+		"name": "Mega Man Legacy Collection 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Last Day of June",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Civilization VI - Nubia Civilization & Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5000
+	},
+	{
+		"name": "Mafia III: Sign of the Times",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11300,
+		"sale_price": 10700
+	},
+	{
+		"name": "Torment: Tides of Numenera",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 52000,
+		"sale_price": 52000
+	},
+	{
+		"name": "Torment: Tides of Numenera - Legacy Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 71000,
+		"sale_price": 71000
+	},
+	{
+		"name": "Torment: Tides of Numenera - Legacy Edition Upgrade",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Quarantine",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Virginia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Portal Knights",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "How to Survive 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "ONECHANBARA Z2: CHAOS",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 19800
+	},
+	{
+		"name": "The Surge",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"name": "Princess Maker 3: Fairy Tales Come True",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Princess Maker 2&3 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 42000,
+		"sale_price": 35700
+	},
+	{
+		"name": "Princess Maker 2 & OST & 3 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 52500,
+		"sale_price": 42000
+	},
+	{
+		"name": "Get Even",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 36000,
+		"sale_price": 34500
+	},
+	{
+		"name": "Hearts of Iron IV: Death or Dishonor",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Europa Universalis IV: Third Rome",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Tyranny - Tales of the Tiers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 - Sniper Rifle McMillan TAC-338A",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 - All-terrain vehicle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 - Compound Bow",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 - The Escape of Lydia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Victor Vran Overkill Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "Victor Vran - Motorhead: Through the Ages",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11900,
+		"sale_price": 11900
+	},
+	{
+		"name": "Victor Vran - Fractured Worlds",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11900,
+		"sale_price": 11900
+	},
+	{
+		"name": "TEKKEN 7",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 48300
+	},
+	{
+		"name": "TEKKEN 7 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 28000
+	},
+	{
+		"name": "GUILTY GEAR Xrd REV 2 Upgrade",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18900,
+		"sale_price": 18900
+	},
+	{
+		"name": "GUILTY GEAR Xrd REVELATOR & REV 2 All-in-One",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44800,
+		"sale_price": 44800
+	},
+	{
+		"name": "Hover : Revolt Of Gamers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Mafia III: Stones Unturned",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16300,
+		"sale_price": 15500
+	},
+	{
+		"name": "RiME",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Steel Division: Normandy 44",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Steel Division: Normandy 44 DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 49500
+	},
+	{
+		"name": "Impact Winter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12000
+	},
+	{
+		"name": "Portal Knights - Bibot Box",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Portal Knights - Lobot Box",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Portal Knights - Emoji Box",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Cities: Skylines - Mass Transit",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 12900
+	},
+	{
+		"name": "Cities: Skylines - Rock City Radio",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "Prey",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33500,
+		"sale_price": 33500
+	},
+	{
+		"name": "Birthdays the Beginning",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 41000
+	},
+	{
+		"name": "Birthdays the Beginning - Digital Art Book",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Birthdays the Beginning - Digital Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Little Nightmares",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25800,
+		"sale_price": 25000
+	},
+	{
+		"name": "Warhammer 40,000: Dawn of War III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 39800
+	},
+	{
+		"name": "BLAZBLUE CENTRALFICTION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "Batman: Arkham VR",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Armello - The Bandit Clan",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Sniper Ghost Warrior 3 Season Pass Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"name": "Syberia 3 Standard Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 5000
+	},
+	{
+		"name": "Syberia 3 Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 6600
+	},
+	{
+		"name": "Stellaris - Utopia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Europa Universalis IV: Mandate of Heaven",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 16500
+	},
+	{
+		"name": "Europa Universalis IV: Mandate of Heaven Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Tyranny - Portrait Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Civilization VI - Persia and Macedon Civilization & Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8500,
+		"sale_price": 8000
+	},
+	{
+		"name": "DARK SOULS™ III - The Ringed City",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15800,
+		"sale_price": 15000
+	},
+	{
+		"name": "Mafia III - Faster, Baby!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16300,
+		"sale_price": 15500
+	},
+	{
+		"name": "Vikings - Wolves of Midgard Special Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Dead Rising 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "Furi - One More Fight",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "Furi & DLC & OST Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39100,
+		"sale_price": 29800
+	},
+	{
+		"name": "Furi & Furi - One More Fight DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24200,
+		"sale_price": 4500
+	},
+	{
+		"name": "Dead Rising 4 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 14000
+	},
+	{
+		"name": "LEGO Worlds",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 26800
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 53400
+	},
+	{
+		"name": "ULTIMATE MARVEL VS CAPCOM 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 23000
+	},
+	{
+		"name": "Crusader Kings II: Monks and Mystics",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Crusader Kings II: Hymns of Revelations",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 43500
+	},
+	{
+		"name": "Eraser & Builder",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Civilization VI - Australia Civilization & Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5000
+	},
+	{
+		"name": "Princess Maker Refine",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Princess Maker - Refine 1&2 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31500,
+		"sale_price": 26700
+	},
+	{
+		"name": "Princess Maker 2 Refine - OST Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31500,
+		"sale_price": 25300
+	},
+	{
+		"name": "Princess Maker Gainax Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 52500,
+		"sale_price": 44600
+	},
+	{
+		"name": "Princess Maker 1&3 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31500,
+		"sale_price": 26700
+	},
+	{
+		"name": "Princess Maker 1 & 2 & 3 & OST Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 63000,
+		"sale_price": 50400
+	},
+	{
+		"name": "Princess Maker - Refine 1 & 2 & OST Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 42000,
+		"sale_price": 33600
+	},
+	{
+		"name": "For Honor",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "For Honor - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "Splasher",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 11900
+	},
+	{
+		"name": "Splasher - Original Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "WWE 2K17 Digital Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 84700,
+		"sale_price": 72000
+	},
+	{
+		"name": "WWE 2K17",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 56500,
+		"sale_price": 50900
+	},
+	{
+		"name": "WWE 2K17 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33900,
+		"sale_price": 28000
+	},
+	{
+		"name": "NARUTO STORM 4: Road to Boruto Expansion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 28900,
+		"sale_price": 27500
+	},
+	{
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 58000,
+		"sale_price": 55000
+	},
+	{
+		"name": "Double Dragon IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8000,
+		"sale_price": 8000
+	},
+	{
+		"name": "Tales of Berseria",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45800,
+		"sale_price": 43500
+	},
+	{
+		"name": "Hearts of Iron IV: Sabaton Soundtrack Vol.2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Crypt of the NecroDancer: AMPLIFIED",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "RESIDENT EVIL 7 biohazard 7",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 27600
+	},
+	{
+		"name": "Resident Evil 7 - Season Pass /  BIOHAZARD 7",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Urban Empire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Caladrius Blaze",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "Zenith",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47300
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE 2 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 23700
+	},
+	{
+		"name": "Civilization VI - Vikings Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5000
+	},
+	{
+		"name": "Civilization VI - Poland Civilization & Scenario Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5000
+	},
+	{
+		"name": "The Dwarves",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 37800
+	},
+	{
+		"name": "Crypt of the NecroDancer",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "Hearts of Iron IV: Together For Victory",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "GUILTY GEAR Xrd -REVELATOR-",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "GUILTY GEAR Xrd -REVELATOR- DELUXE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 44800,
+		"sale_price": 44800
+	},
+	{
+		"name": "Alone in the Dark Anthology",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Steep",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 30600
+	},
+	{
+		"name": "Steep - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 20200
+	},
+	{
+		"name": "The Crew Calling All Units",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 30000,
+		"sale_price": 28800
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 64500
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege - Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 110000,
+		"sale_price": 107000
+	},
+	{
+		"name": "Watch Dogs 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 61500
+	},
+	{
+		"name": "Watch Dogs 2 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 71000
+	},
+	{
+		"name": "The Crew Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 53000
+	},
+	{
+		"name": "Watch Dogs 2 Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 105000,
+		"sale_price": 100000
+	},
+	{
+		"name": "Cities: Skylines - Natural Disasters",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 14900
+	},
+	{
+		"name": "Cities: Skylines - Relaxation Station",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 3900
+	},
+	{
+		"name": "Cities: Skylines - Content Creator Pack: High-Tech Buildings",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Watch Dogs 2 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 43600
+	},
+	{
+		"name": "Starry Nights: Helix",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"name": "Mafia III - Family Kick Back Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5000
+	},
+	{
+		"name": "Armello - Seasons Board Skins Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5000,
+		"sale_price": 5000
+	},
+	{
+		"name": "How To Survive 2 - Dead Dynamite",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"name": "Dishonored 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 46100,
+		"sale_price": 44000
+	},
+	{
+		"name": "Tyranny ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Tyranny - Deluxe Edition Upgrade Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 12400
+	},
+	{
+		"name": "Tyranny - Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Moto Racer 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"name": "Moto Racer 4 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"name": "Super Dungeon Bros",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim Special Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 46100,
+		"sale_price": 42800
+	},
+	{
+		"name": "Carnival Games VR",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24500,
+		"sale_price": 23300
+	},
+	{
+		"name": "How To Survive 2 - Pirates of the Bayou Skin Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "How To Survive 2 - Elite Soldier Skin Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "How To Survive 2 - Musketeer Skin Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "How To Survive 2 - Norse God Skin Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "DARK SOULS III - Ashes of Ariandel",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15800,
+		"sale_price": 15000
+	},
+	{
+		"name": "Sid Meier’s Civilization VI",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 59800
+	},
+	{
+		"name": "Sid Meier’s Civilization VI - Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86600,
+		"sale_price": 79000
+	},
+	{
+		"name": "Stellaris - Leviathans Story Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "WRC 6 FIA World Rally Championship",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 39000
+	},
+	{
+		"name": "INFERNO CLIMBER",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"name": "Wonder Boy Returns",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Europa Universalis IV: Rights of Man Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 21000
+	},
+	{
+		"name": "Europa Universalis IV: Rights of Man Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Europa Universalis IV: Rights of Man",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Europa Universalis IV: Songs of Regency Music Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Mafia III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 41400
+	},
+	{
+		"name": "Princess Maker 2 Refine - Original Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Mafia III Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 67000,
+		"sale_price": 61000
+	},
+	{
+		"name": "Mafia III - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32500,
+		"sale_price": 30900
+	},
+	{
+		"name": "Anima: Gate of Memories",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Quantum Break",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 42900,
+		"sale_price": 42900
+	},
+	{
+		"name": "Princess Maker 2 Refine",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Virginia Special edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12000,
+		"sale_price": 12000
+	},
+	{
+		"name": "NBA 2K17",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64500,
+		"sale_price": 59800
+	},
+	{
+		"name": "NBA 2K17 Legends Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86000,
+		"sale_price": 79000
+	},
+	{
+		"name": "NBA 2K17 Legends Edition Gold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 107500,
+		"sale_price": 99000
+	},
+	{
+		"name": "BioShock: The Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 63000,
+		"sale_price": 63000
+	},
+	{
+		"name": "How To Survive 2 - Abandoned Backpack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "One Piece Burning Blood",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47500
+	},
+	{
+		"name": "One Piece Burning Blood GOLD EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 74700,
+		"sale_price": 71000
+	},
+	{
+		"name": "Titan Quest Anniversary Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Cities: Skylines - Content Creator Pack: Art Deco",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Fallout 4 Nuka-World",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23000,
+		"sale_price": 21800
+	},
+	{
+		"name": "Armello - The Usurpers Hero Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "GOD EATER 2 Rage Burst",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47500
+	},
+	{
+		"name": "Crusader Kings II: The Reaper's Due",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Crusader Kings II: The Reaper's Due Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Crusader Kings II: The Reaper's Due Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Crusader Kings II: Full Plate Metal",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 2900
+	},
+	{
+		"name": "F1 2016",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69000,
+		"sale_price": 65000
+	},
+	{
+		"name": "Stellaris - Plantoids",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Layers of Fear: Inheritance",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "This Is the Police",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "ABZU",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Fallout 4 Vault-Tec Workshop",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6100,
+		"sale_price": 5800
+	},
+	{
+		"name": "Human: Fall Flat",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15200,
+		"sale_price": 15200
+	},
+	{
+		"name": "Human: Fall Flat - 2 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21500,
+		"sale_price": 21500
+	},
+	{
+		"name": "Furi - Original Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 11900
+	},
+	{
+		"name": "UNDER NIGHT IN-BIRTH Exe:Late",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Anarcute",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "Heart & Slash",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "XCOM 2 - Shen's Last Gift",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 10100
+	},
+	{
+		"name": "Biohazard Umbrella Corps/Umbrella Corps",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Biohazard Umbrella Corps Deluxe Edition/Umbrella Corps",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "PAC-MAN 256",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6400,
+		"sale_price": 6400
+	},
+	{
+		"name": "Deadlight: Director's Cut",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Fallout 4 Contraptions Workshop",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6100,
+		"sale_price": 5800
+	},
+	{
+		"name": "Sherlock Holmes: The Devil's Daughter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 41000
+	},
+	{
+		"name": "Hearts of Iron IV: Cadet Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Hearts of Iron IV: Colonel Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49000,
+		"sale_price": 41200
+	},
+	{
+		"name": "Dead Island Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Dead Island Riptide Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Fallout 4 Far Harbor",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 30000,
+		"sale_price": 28500
+	},
+	{
+		"name": "DOOM",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 19800
+	},
+	{
+		"name": "XCOM 2 - Alien Hunters",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 10100
+	},
+	{
+		"name": "Stellaris - Galaxy Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69900,
+		"sale_price": 57700
+	},
+	{
+		"name": "Stellaris",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Stellaris - Nova Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49900,
+		"sale_price": 41200
+	},
+	{
+		"name": "Battleborn: Full Game Upgrade",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35500,
+		"sale_price": 33000
+	},
+	{
+		"name": "Offworld Trading Company",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Ori and the Blind Forest: Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Melty Blood Actress Again Current Code",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "GUILTY GEAR 2 -OVERTURE-",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "DARK SOULS III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49800,
+		"sale_price": 47500
+	},
+	{
+		"name": "DARK SOULS III - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24800,
+		"sale_price": 23600
+	},
+	{
+		"name": "DARK SOULS III Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 71000,
+		"sale_price": 67500
+	},
+	{
+		"name": "Fallout 4 Wasteland Workshop",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6100,
+		"sale_price": 5800
+	},
+	{
+		"name": "Europa Universalis IV: Kairis Soundtrack II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2400
+	},
+	{
+		"name": "Europa Universalis IV: Mare Nostrum",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Europa Universalis IV: Mare Nostrum Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Trackmania Turbo",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"name": "Samorost 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"name": "Samorost 3 Cosmic Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 27000,
+		"sale_price": 23000
+	},
+	{
+		"name": "Europa Universalis IV DLC Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 53600
+	},
+	{
+		"name": "Fallout 4 Automatron",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12100,
+		"sale_price": 11500
+	},
+	{
+		"name": "Hand of Fate",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "XCOM 2 - Anarchy's Children",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5100
+	},
+	{
+		"name": "Worms World Party Remastered",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Worms Armageddon",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "WWE 2K16",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 45900
+	},
+	{
+		"name": "The Guest",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Tom Clancy's The Division - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 40000,
+		"sale_price": 40000
+	},
+	{
+		"name": "Tom Clancy's The Division",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 50000,
+		"sale_price": 47500
+	},
+	{
+		"name": "Tom Clancy's The Division Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 90000,
+		"sale_price": 85500
+	},
+	{
+		"name": "Screencheat",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "BlazBlue: Chronophantasma Extend",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Far Cry Primal",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 52500
+	},
+	{
+		"name": "Far Cry Primal Digital Apex Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 60000,
+		"sale_price": 57200
+	},
+	{
+		"name": "Cities: Skylines - Snowfall",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 12900
+	},
+	{
+		"name": "Pillars of Eternity - The White March Part II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 8000
+	},
+	{
+		"name": "Assassin’s Creed Chronicles: Russia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "Layers of Fear",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "LAYERS OF FEAR: MASTERPIECE EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26500,
+		"sale_price": 22000
+	},
+	{
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29800
+	},
+	{
+		"name": "XCOM 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 62300,
+		"sale_price": 56000
+	},
+	{
+		"name": "XCOM 2: Digital Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 80000,
+		"sale_price": 70400
+	},
+	{
+		"name": "XCOM 2 - Reinforcement Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19300
+	},
+	{
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25900,
+		"sale_price": 24000
+	},
+	{
+		"name": "Crusader Kings II: Conclave",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Crusader Kings II: Viking Metal",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Crusader Kings II: Conclave Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Tropico 5 - Complete Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 39900
+	},
+	{
+		"name": "World of Magicka",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 89900,
+		"sale_price": 74200
+	},
+	{
+		"name": "Resident Evil HD Remaster Collection[Biohazard]",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 38000,
+		"sale_price": 36500
+	},
+	{
+		"name": "Resident Evil 0 / biohazard 0 HD REMASTER",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Dragon's Dogma: Dark Arisen",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Assassin's Creed Chronicles: India",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "River City Super Sports Challenge ~All Stars Special~",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "GUILTY GEAR Xrd -SIGN- Big Blast Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "GUILTY GEAR Xrd -SIGN-",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 21400
+	},
+	{
+		"name": "Europa Universalis IV: The Cossacks",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 16500
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations 2 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Fallout 4 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 60400,
+		"sale_price": 54400
+	},
+	{
+		"name": "Fallout 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 34600,
+		"sale_price": 33000
+	},
+	{
+		"name": "Assassin's Creed Syndicate",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 45000,
+		"sale_price": 43800
+	},
+	{
+		"name": "Assassin's Creed Syndicate Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 35000
+	},
+	{
+		"name": "Assassin's Creed Syndicate Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 75000,
+		"sale_price": 73000
+	},
+	{
+		"name": "Darksiders II Deathinitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 28500
+	},
+	{
+		"name": "Batman: Arkham Knight",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19200
+	},
+	{
+		"name": "Batman: Arkham Knight Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Batman: Arkham Knight Premium Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 40400
+	},
+	{
+		"name": "MX vs. ATV Supercross Encore",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 29900
+	},
+	{
+		"name": "Tales of Zestiria",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 60000
+	},
+	{
+		"name": "Dungeons 2 - A Game of Winter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Sid Meier's Civilization: Beyond Earth",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Sid Meier's Civilization: Beyond Earth The Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 63800,
+		"sale_price": 54200
+	},
+	{
+		"name": "Sid Meier's Civilization: Beyond Earth - Rising Tide",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 29900
+	},
+	{
+		"name": "Steredenn",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 12900
+	},
+	{
+		"name": "Arcana Heart 3 LOVE MAX",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "NBA 2K16 Michael Jordan Special Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 86000,
+		"sale_price": 73100
+	},
+	{
+		"name": "NBA 2K16",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 55300
+	},
+	{
+		"name": "Grand Ages: Medieval",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Cities: Skylines - After Dark",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 14900
+	},
+	{
+		"name": "Magicka 2: Cardinal Points Super pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8900,
+		"sale_price": 8900
+	},
+	{
+		"name": "Dungeons 2 - A Song of Sand and Fire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Raiden IV: OverKill",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 14900
+	},
+	{
+		"name": "Armello",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"name": "Mad Max",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "One Piece Pirate Warriors 3 Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 56200,
+		"sale_price": 56200
+	},
+	{
+		"name": "One Piece Pirate Warriors 3 Story Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13800,
+		"sale_price": 13800
+	},
+	{
+		"name": "One Piece Pirate Warriors 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43200,
+		"sale_price": 43200
+	},
+	{
+		"name": "Victor Vran: Original Soundtrack and Artbook",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "Crookz - The Big Heist",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Pillars of Eternity - The White March Expansion Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 27000,
+		"sale_price": 11500
+	},
+	{
+		"name": "Pillars of Eternity - The White March Part I",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 8000
+	},
+	{
+		"name": "Mega Man Legacy Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 14000
+	},
+	{
+		"name": "Evoland 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Dungeons 2 - A Chance of Dragons",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Victor Vran",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Tropico 5 - T-Day",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Crusader Kings II: Horse Lords Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Crusader Kings II: Orchestral House Lords",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Crusader Kings II: Horse Lords Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Crusader Kings II: Horse Lords",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "F1 2015",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 41000
+	},
+	{
+		"name": "Battle Fantasia Revised Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 14000
+	},
+	{
+		"name": "The Book of Unwritten Tales 2 Almanac Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 34900,
+		"sale_price": 34900
+	},
+	{
+		"name": "The Book of Unwritten Tales 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 29900
+	},
+	{
+		"name": "The Book of Unwritten Tales 2 Almanac Edition Extras",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 10000
+	},
+	{
+		"name": "Tropico 5 - The Supercomputer",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Devil May Cry 4 Special Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Europa Universalis IV: Common Sense",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Europa Universalis IV: Sounds from the Community - Kairis Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2400
+	},
+	{
+		"name": "Europa Universalis IV: Common Sense Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Europa Universalis IV: Common Sense Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Watch Dogs Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 50400
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 66800,
+		"sale_price": 66800
+	},
+	{
+		"name": "Tropico 5 - Espionage",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 14000
+	},
+	{
+		"name": "Magicka 2 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 21000
+	},
+	{
+		"name": "Magicka 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "The Evil Within: The Executioner",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Project CARS",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 38900,
+		"sale_price": 38900
+	},
+	{
+		"name": "Dungeons 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Kerbal Space Program",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 39800
+	},
+	{
+		"name": "Assassin's Creed Chronicles: China",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "The Evil Within: The Consequence",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5700,
+		"sale_price": 5700
+	},
+	{
+		"name": "Tropico 5 - Inquisition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor - GOTY Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 20000
+	},
+	{
+		"name": "Grand Theft Auto V & Great White Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54600,
+		"sale_price": 40500
+	},
+	{
+		"name": "Grand Theft Auto V",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31500
+	},
+	{
+		"name": "Grand Theft Auto Online: Tiger Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5400,
+		"sale_price": 5400
+	},
+	{
+		"name": "Grand Theft Auto Online: Bull Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10800,
+		"sale_price": 10800
+	},
+	{
+		"name": "Grand Theft Auto Online: Megalodon Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 108300,
+		"sale_price": 108300
+	},
+	{
+		"name": "Grand Theft Auto Online: Whale Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 54000
+	},
+	{
+		"name": "Grand Theft Auto Online: Great White Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21600,
+		"sale_price": 21600
+	},
+	{
+		"name": "Grand Theft Auto Online: Red Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3200,
+		"sale_price": 3200
+	},
+	{
+		"name": "Grand Theft Auto V & Criminal Enterprise Starter Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 66000,
+		"sale_price": 55000
+	},
+	{
+		"name": "Grand Theft Auto V & Criminal Enterprise Starter Pack & Great White Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 87600,
+		"sale_price": 58000
+	},
+	{
+		"name": "Grand Theft Auto V & Criminal Enterprise Starter Pack & Whale Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 120000,
+		"sale_price": 73500
+	},
+	{
+		"name": "Grand Theft Auto V & Criminal Enterprise Starter Pack & Megalodon Shark Cash Card",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 174300,
+		"sale_price": 110000
+	},
+	{
+		"name": "Dark Souls II - Scholar of the First Sin",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51900,
+		"sale_price": 49000
+	},
+	{
+		"name": "Dead Rising 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Resident Evil 5 Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Tropico 5 - Supervillain",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Pillars of Eternity",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 11000
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel - Claptastic Voyage and Ultimate Vault Hunter Upgrade Pack 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Dead Rising 2 - Ninja Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2 - Psychopath Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2 - Soldier of Fortune Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2 - Sports Fan Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32400,
+		"sale_price": 32400
+	},
+	{
+		"name": "Sid Meier's Starships",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15900,
+		"sale_price": 14800
+	},
+	{
+		"name": "Assassin's Creed Rogue",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 23400
+	},
+	{
+		"name": "Cities: Skylines",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29800
+	},
+	{
+		"name": "Cities: Skylines Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 39800
+	},
+	{
+		"name": "The Evil Within: The Assignment",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5700,
+		"sale_price": 5700
+	},
+	{
+		"name": "Europa Universalis IV: El Dorado Content Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "DRAGON BALL XENOVERSE",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39800,
+		"sale_price": 39800
+	},
+	{
+		"name": "Europa Universalis IV: El Dorado",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Europa Universalis IV: El Dorado Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Europa Universalis IV: Guns, Drums and Steel Volume 2 Music Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2400
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor - The Bright Lord",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8900
+	},
+	{
+		"name": "The Book of Unwritten Tales Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 77000,
+		"sale_price": 69300
+	},
+	{
+		"name": "Total War: ATTILA - Viking Forefathers Culture Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8000,
+		"sale_price": 8000
+	},
+	{
+		"name": "Tropico 5 - Gone Green",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel - Lady Hammerlock the Baroness Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Grey Goo Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 29900
+	},
+	{
+		"name": "Resident Evil / Biohazard HD REMASTER",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Double Dragon Trilogy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "Tengami",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Tropico 5 - Surfs Up!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Tropico 5 - Waterborne ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel - Ultimate Vault Hunter Upgrade Pack: The Holodome Onslaught",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Borderlands: The Pre Sequel - Shock Drop Slaughter Pit",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Crusader Kings II: Iberian Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Tales of Treachery - Ebook",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "Crusader Kings II: Way of Life",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor - Lord of the Hunt",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8900
+	},
+	{
+		"name": "Crusader Kings II: Iberian Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "BlazBlue: Continuum Shift Extend",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Hegemony Rome: The Rise of Caesar - Advanced Tactics",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "The Crew",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 31300
+	},
+	{
+		"name": "The Crew Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 21300
+	},
+	{
+		"name": "Sid Meier’s Civilization: Beyond Earth - Exoplanets Map Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 2500
+	},
+	{
+		"name": "Cities in Motion 2 Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Cities in Motion Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49900,
+		"sale_price": 41000
+	},
+	{
+		"name": "Far Cry 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 33800
+	},
+	{
+		"name": "Far Cry 4 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Cities in Motion 2: Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Far Cry 4 Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 65000,
+		"sale_price": 63000
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel - Handsome Jack Doppelganger Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Tropico 5 - Joint Venture",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Europa Universalis IV: Art of War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Europa Universalis IV: Guns, Drums and Steel music pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2400
+	},
+	{
+		"name": "Europa Universalis IV: Evangelical Union Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Catholic League Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Songs of War Music Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: The Art of War Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 21000
+	},
+	{
+		"name": "Europa Universalis IV: Art of War E-book",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Sacred 3 Gold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Warlock 2: The Good, the Bad, & the Muddy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Warlock 2: Three Mighty Mages",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Warlock 2: Spectacular Spell Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Warlock 2: Wrath of the Nagas",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "F1 2014",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 30500
+	},
+	{
+		"name": "The Evil Within Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11500,
+		"sale_price": 11500
+	},
+	{
+		"name": "Crusader Kings II: Early Eastern Clothing Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Dynasty Shields Charlemagne",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Borderlands: The Pre-Sequal - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Crusader Kings II: Early Western Clothing Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Charlemagne",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "The Evil Within",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23000,
+		"sale_price": 21800
+	},
+	{
+		"name": "Crusader Kings II: The Song of Roland - Ebook",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Warlock 2: The Thrilling Trio",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Hegemony Rome: The Rise of Caesar - Mercenaries Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor - GOTY Edition Upgrade",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Raiden III Digital Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "Tropico 5 - Mad World",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "The Vanishing of Ethan Carter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 60000
+	},
+	{
+		"name": "Mafia II: Digital Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Dead Rising 3 - Apocalypse Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Remember Me",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Resident Evil 6 / Biohazard 6",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Metro Redux",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32900,
+		"sale_price": 32900
+	},
+	{
+		"name": "Metro: Last Light Redux",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Metro 2033 Redux",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Risen 3: Titan Lords Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Hegemony Rome: The Rise of Caesar",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Tropico 5 - The Big Cheese",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Painkiller Complete Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 69900,
+		"sale_price": 69900
+	},
+	{
+		"name": "SpellForce Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59900,
+		"sale_price": 59900
+	},
+	{
+		"name": "Crusader Kings II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Rise of Venice Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25000,
+		"sale_price": 25000
+	},
+	{
+		"name": "Crusader Kings II DLC Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 119000,
+		"sale_price": 99000
+	},
+	{
+		"name": "Europa Universalis IV: Conquest Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 59000,
+		"sale_price": 49500
+	},
+	{
+		"name": "Crusader Kings II Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 159000,
+		"sale_price": 132000
+	},
+	{
+		"name": "Paradox Grand Strategy Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 99000,
+		"sale_price": 82500
+	},
+	{
+		"name": "Saints Row: The Third",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 11000
+	},
+	{
+		"name": "Europa Universalis IV: Indian Subcontinent Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Indian Ships Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Saints Row: The Third - The Full Package",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Europa Universalis IV: Res Publica",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Europa Universalis IV: Republican Music Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Saints Row IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Saints Row IV: Game of the Century Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21900,
+		"sale_price": 21900
+	},
+	{
+		"name": "Europa Universalis IV Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 99000,
+		"sale_price": 82500
+	},
+	{
+		"name": "Saints Row Ultimate Franchise Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 55000,
+		"sale_price": 55000
+	},
+	{
+		"name": "Watch Dogs - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Watch Dogs",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 32700
+	},
+	{
+		"name": "GRID Autosport",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 43000,
+		"sale_price": 41000
+	},
+	{
+		"name": "MotoGP 14",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 16000
+	},
+	{
+		"name": "Cities in Motion 2: Players Choice Vehicle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Space Run",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Europa Universalis IV: Trade Nations Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Muslim Ships Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Wealth of Nations",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Europa Universalis IV: Wealth of Nations E-book",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Kill The Bad Guy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8000
+	},
+	{
+		"name": "Tropico 5 Special Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19800,
+		"sale_price": 19800
+	},
+	{
+		"name": "Crusader Kings II: Persian Units Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Persian Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Wolfenstein: The New Order",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23000,
+		"sale_price": 21800
+	},
+	{
+		"name": "Europa Universalis IV: Anthology of Alternate History",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "Bound By Flame",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"name": "Child of Light",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Batman: Arkham Origins - Cold, Cold Heart",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8900
+	},
+	{
+		"name": "Dreamscapes: The Sandman - Premium Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"name": "Borderlands 2: Headhunter 5 - Son of Crawmerax",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Warlock 2: The Great Mage Game E-book",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Warlock I & II: Soundtrack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Warlock 2: The Exiled",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Omerta: City of Gangsters - GOLD EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25000,
+		"sale_price": 25000
+	},
+	{
+		"name": "BioShock Infinite: Burial at Sea Episode 2 DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "Crusader Kings II: Turkish Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Turkish Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Songs of India",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Cities in Motion 2: European Cities",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 11000
+	},
+	{
+		"name": "Cities in Motion 2: European Vehicle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "XCOM: Enemy Unknown - The Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41900,
+		"sale_price": 41900
+	},
+	{
+		"name": "PAC-MAN MUSEUM",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25000,
+		"sale_price": 24000
+	},
+	{
+		"name": "PAC-MAN MUSEUM - Ms. PAC-MAN DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6400,
+		"sale_price": 6000
+	},
+	{
+		"name": "Europa Universalis IV: Colonial British and French Unit pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Native Americans II Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Muslim Advisor Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Ace Patrol Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6800,
+		"sale_price": 6800
+	},
+	{
+		"name": "Crusader Kings II: Finno-Ugric Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "BlazBlue: Calamity Trigger",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "Crusader Kings II: Saxon Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Borderlands 2: Headhunter 4 - Wedding Day Massacre",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Saints Row 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11000,
+		"sale_price": 11000
+	},
+	{
+		"name": "Saints Row IV: The Rectifier",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1500,
+		"sale_price": 1500
+	},
+	{
+		"name": "The LEGO Movie",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Sid Meier's Civilization V: The Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 41900,
+		"sale_price": 41900
+	},
+	{
+		"name": "Ethan: Meteor Hunter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8000
+	},
+	{
+		"name": "Saints Row IV: Game On Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Saints Row IV: College Daze Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Saints Row IV: Bling Bling Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "SpellForce 2: Demons of the Past",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17900,
+		"sale_price": 17900
+	},
+	{
+		"name": "Europa Universalis IV: Conquest of Paradise",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Europa Universalis IV: Conquistadors Unit pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Native Americans Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis IV: Songs of the New World",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Saints Row IV: Stone Age Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Tropico 4 Collecter's Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26000,
+		"sale_price": 24100
+	},
+	{
+		"name": "Cities in Motion 2: Marvellous Monorails",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Saints Row IV: Anime Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Hearts of Iron III Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49900,
+		"sale_price": 41200
+	},
+	{
+		"name": "Borderlands 2: Headhunter 3 - Mercenary Day",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Magicka: The Ninth Element Novel",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Painkiller Hell & Damnation: City Critters",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Saints Row IV: How the Saints Save Christmas",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 4000
+	},
+	{
+		"name": "Omerta: City of Gangsters - The Japanese Incentive",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9900
+	},
+	{
+		"name": "Saints Row IV: Hey Ash Whatcha Playin? Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Deadfall Adventures Standard Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 35000
+	},
+	{
+		"name": "Injustice: Gods Among Us Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Assassin's Creed IV Black Flag",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 22700
+	},
+	{
+		"name": "Assassin's Creed IV Black Flag Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 33100
+	},
+	{
+		"name": "Assassin's Creed IV Black Flag - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 22700
+	},
+	{
+		"name": "Borderlands 2: Headhunter 2 - Wattle Gobbler",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Saints Row IV: Zinyak Attack Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "Saints Row IV: Element of Destruction Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Rise of Venice - Beyond the Sea",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "The Bureau: XCOM Declassified - Hangar 6 R&D",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Crusader Kings II: Europa Universalis IV Converter",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Crusader Kings II: Warriors of Faith Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Sons of Abraham",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Crusader Kings II: Hymns of Abraham Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Military Orders Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "LEGO Marvel Super Heroes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "BioShock Infinite: Burial at Sea Episode 1 DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "Paradox Indie Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 49900,
+		"sale_price": 49900
+	},
+	{
+		"name": "XCOM: Enemy Within",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Saints Row IV - Pirate's Booty Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Ace Patrol: Pacific Skies",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Magicka: Dungeons and Gargoyles",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Demonicon - The Dark Eye",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Saints Row IV: Brady Games Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1500,
+		"sale_price": 1500
+	},
+	{
+		"name": "Saints Row IV: Super Saints Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Batman: Arkham Origins - Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Batman: Arkham Origins",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Saints Row IV: Enter the Dominatrix",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 4000
+	},
+	{
+		"name": "Borderlands 2: Headhunter 1 - Bloody Harvest",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "The Bureau: XCOM Declassified - Code Breakers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2500,
+		"sale_price": 2500
+	},
+	{
+		"name": "The Bureau: XCOM Declassified - Light Plasma Pistol",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "WRC 4: FIA World Rally Championship",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29900,
+		"sale_price": 24000
+	},
+	{
+		"name": "Borderlands 2 Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"name": "Painkiller Hell & Damnation: Demonic Vacation at the Blood Sea",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Dishonored - Definitive Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23000,
+		"sale_price": 21800
+	},
+	{
+		"name": "Teleglitch: Guns and Tunes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Cities in Motion 2: Olden Times",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Cities in Motion 2: Bus Mania",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Victoria II: Interwar Cavalry Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Rise of Venice",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"name": "Saints Row IV: Volition Comics Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Europa Universalis IV: American Dream",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Europa Universalis IV: National Monuments II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Saints Row IV: Wild West Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"name": "Cities in Motion 2: Back to the Past",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell Blacklist",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 22700
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell Blacklist Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 33100
+	},
+	{
+		"name": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Brothers - A Tale of Two Sons",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 1300
+	},
+	{
+		"name": "Port Royale 3 Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Cities in Motion 2: Lofty Landmarks",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Sid Meier's Ace Patrol",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Remember Me - Combo Lab Pack DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "The Bureau: XCOM Declassified",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Saints Row IV Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Dishonored",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11500,
+		"sale_price": 10800
+	},
+	{
+		"name": "Crusader Kings II: Customization Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Fallout 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Fallout 3: Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Fallout: New Vegas Ultimate Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Fallout: New Vegas",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9900
+	},
+	{
+		"name": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17300,
+		"sale_price": 16500
+	},
+	{
+		"name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23000,
+		"sale_price": 23000
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Return To Castle Wolfenstein",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5700,
+		"sale_price": 5700
+	},
+	{
+		"name": "Cities in Motion 2: Metro Madness",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Brink",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9200,
+		"sale_price": 8900
+	},
+	{
+		"name": "Brink Complete Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11500,
+		"sale_price": 10900
+	},
+	{
+		"name": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17300,
+		"sale_price": 16500
+	},
+	{
+		"name": "Dishonored: The Brigmore Witches",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5700,
+		"sale_price": 5700
+	},
+	{
+		"name": "Europa Universalis IV: Pre-Order Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6900,
+		"sale_price": 6900
+	},
+	{
+		"name": "Europa Universalis IV: Call-to-Arms Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Europa Universalis IV: Extreme Upgrade Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Europa Universalis IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Europa Universalis IV: Extreme Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 37100
+	},
+	{
+		"name": "Hearts of Iron III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Bioshock Infinite: Columbia's Finest",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Hearts of Iron III: Axis Minors Vehicle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Cities in Motion 2: Trekking Trolleys",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Cities in Motion 2: Wending Waterbuses",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Hearts of Iron III: Italian Vehicle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Teleglitch: Die More Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12900,
+		"sale_price": 11000
+	},
+	{
+		"name": "Sid Meier's Civilization V: Brave New World",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Crusader Kings II: Dynasty Shield III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Celtic Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Crusader Kings II: Celtic Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Painkiller Hell & Damnation: Heaven's Above",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Parker's Government Handgun + Custom Part: FBC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Jessica's G18 + Custom Part: BSAA",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Jill's Samurai Edge + Custom Part: S.T.A.R.S.",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Knights of Pen and Paper +1 Deluxier Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Knights of Pen and Paper +1 Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Rachael Ooze",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Lady HUNK DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Dollar Dash - Robbers Tool-Kit DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Enhancement Set",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Resident Evil / Biohazard: Revelations Resistance Set",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Painkiller Hell & Damnation: Operation ",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Crusader Kings II: Hymns to the Old Gods",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Norse Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Norse Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dollar Dash - More Ways to Win DLC",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Dishonored: Void Walker Arsenal",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2300,
+		"sale_price": 2300
+	},
+	{
+		"name": "Borderlands 2: Psycho Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Omerta: City of Gangsters - The Arms Industry",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4500,
+		"sale_price": 4500
+	},
+	{
+		"name": "Sniper: Ghost Warrior 2 Bundle Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29800,
+		"sale_price": 29800
+	},
+	{
+		"name": "Painkiller Hell & Damnation: Full Metal Rocket",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Resident Evil 6 / Biohazard 6: Siege Mode",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Painkiller Hell & Damnation Collector's Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 23900,
+		"sale_price": 23900
+	},
+	{
+		"name": "BioShock Infinite",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Victoria II: German Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Victoria II: Interwar Engineer Unit",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Victoria II: Songs of the Civil War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Songs of Albion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Omerta: City of Gangsters - Damsel in Distress",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4500,
+		"sale_price": 4500
+	},
+	{
+		"name": "Dishonored: The Knife of Dunwall",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5700,
+		"sale_price": 5700
+	},
+	{
+		"name": "Resident Evil 6 / Biohazard 6: Predator Mode",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Resident Evil 6 / Biohazard 6: Survivors Mode",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Magicka: Tower of Niflheim",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Borderlands 2 Ultimate Vault Hunters Upgrade Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Cities in Motion 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Omerta : City of Gangsters",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15000,
+		"sale_price": 15000
+	},
+	{
+		"name": "BioShock Infinite Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "BioShock Infinite: Clash in the Clouds",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Resident Evil 6 / Biohazard 6: Onslaught Mode",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Resident Evil 6 Complete Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"name": "Omerta: City of Gangsters - The Con Artist",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4500,
+		"sale_price": 4500
+	},
+	{
+		"name": "Dollar Dash",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8900,
+		"sale_price": 8900
+	},
+	{
+		"name": "DMC: Devil May Cry - Vergil's Downfall",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8900,
+		"sale_price": 8900
+	},
+	{
+		"name": "Painkiller Hell & Damnation: The Clock Strikes Meat Night",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "DMC: Devil May Cry - Weapon Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "SpellForce 2 Anniversary Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11900,
+		"sale_price": 11900
+	},
+	{
+		"name": "Cities XL Platinum",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10700,
+		"sale_price": 10700
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim - Dragonborn",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "DMC: Devil May Cry - Costume Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Painkiller Hell & Damnation: Medieval Horror",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "DMC: Devil May Cry",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 29000,
+		"sale_price": 29000
+	},
+	{
+		"name": "Crusader Kings II: The Republic",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Crusader Kings II: Mediterranean Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Songs of Prosperity",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Rage: The Scorchers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Crusader Kings II: Byzantine Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Hearts of Iron III: British Vehicle Sprite pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Hearts of Iron III: Japanese Vehicle Sprite pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Crusader Kings II: Russian Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Russian Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Songs of the Rus",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Borderlands 2 Collector's Edition Content",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Borderlands 2: Creature Slaughter Dome",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Dishonored: Dunwall City Trials",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3400,
+		"sale_price": 3400
+	},
+	{
+		"name": "Europa Universalis III Music of the World",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Europa Universalis III: Revolution II UnitPack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis III: Absolutism SpritePack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "The Book of Unwritten Tales: The Critter Chronicles Collectors Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "XCOM: Enemy Unknown - Slingshot Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "Far Cry 3 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 35000,
+		"sale_price": 35000
+	},
+	{
+		"name": "Far Cry 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Max Payne 3: Deathmatch Made In Heaven Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Borderlands 2: Mr. Torgue's Campaign of Carnage",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Crusader Kings II: Sunset Invasion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Fly'N",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 8000
+	},
+	{
+		"name": "Max Payne 3: Hostage Negotiation Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Defender's Quest: Valley of the Forgotten Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 14900
+	},
+	{
+		"name": "Magicka: Grimnir's Laboratory",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "XCOM: Enemy Unknown - Elite Soldier Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Crusader Kings II: Dynasty Shield II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: African Portraits",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Doom 3: BFG Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Crusader Kings II: Songs of Byzantium",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Crusader Kings II: Legacy of Rome",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "XCOM: Enemy Unknown",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Magicka: Dungeons and Daemons",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 4: Final Assault",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Borderlands 2: Mechromancer Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Borderlands 2: Captain Scarlett and her Pirate's Booty",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim - Hearthfire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 4900
+	},
+	{
+		"name": "Might & Magic Heroes VI Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Hearts of Iron III: Their Finest Hour",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Borderlands 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Borderlands 2 Season Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 3: Chaos Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Batman Arkham City: Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Death Rally",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim - Dawnguard",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Max Payne 3: Local Justice Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Hearts of Iron III: US Infantry Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Victoria II: A House Divided- American Civil War Spritepack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Aspiring Musician Robes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Heirlooms Item Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Mega Villain Robes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Peculiar Gadgets Item Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Alan Wake Franchise",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"name": "Spec Ops: The Line",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon: Future Soldier",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon: Future Soldier Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Crusader Kings II: African Unit Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Songs of the Caliph",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "LEGO Batman 2 DC Super Heroes",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Sid Meier's Civilization V: God's And Kings",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Magicka: The Other Side of the Coin",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Max Payne 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Max Payne 3: Rockstar Pass",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "Dungeons Gold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25000,
+		"sale_price": 25000
+	},
+	{
+		"name": "Alan Wake's American Nightmare",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9800,
+		"sale_price": 9800
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 1",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Botanicula",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 10000
+	},
+	{
+		"name": "Crusader Kings II: Songs of the Holy Land",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Ruler Design",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Crusader Kings II: Songs of Faith",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Assassin's Creed Revelations - Gold Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 24000
+	},
+	{
+		"name": "Cities In Motion: Design Dreams",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3900,
+		"sale_price": 3900
+	},
+	{
+		"name": "Magicka: Lonely Island Cruise",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Alan Wake",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"name": "Alan Wake Collector's Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"name": "Crusader Kings II: Dynasty Shield",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Crusader Kings II: Mongol Faces",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "The Darkness II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Dead Rising 2: Off the Record - COSPLAY Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2: Off the Record - BBQ Chef Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2: Off the Record - Cyborg Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Dead Rising 2: Off the Record - Firefighter Skills Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Victoria II: A House Divided",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Cities in Motion: US Cities",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "LEGO Harry Potter: Years 5-7",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Europa Universalis III: Medieval SpritePack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis III: Revolution SpritePack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Assassin's Creed Revelations",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"name": "Europa Universalis III: Reformation SpritePack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Europa Universalis III: Enlightenment SpritePack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Horror Props Item Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Magicka: The Stars Are Left",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Magicka: Holiday Spirit Item Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "L.A. Noire Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "L.A. Noire",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "L.A. Noire: DLC Bundle",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21500,
+		"sale_price": 20400
+	},
+	{
+		"name": "DCS: Black Shark 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 39900
+	},
+	{
+		"name": "ArcaniA + Gothic Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 39900
+	},
+	{
+		"name": "Duke Nukem Forever: Hail to the Icons Parody Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Dead Rising 2: Off the Record",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"name": "Airline Tycoon 2 Gold",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "RAGE",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 11500,
+		"sale_price": 10900
+	},
+	{
+		"name": "Fallout New Vegas: Courier's Stash",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Fallout New Vegas: Gun Runners' Arsenal",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"name": "Fallout New Vegas: Lonesome Road",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Brink: Doom / Psycho Combo Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Brink: Fallout / SpecOps Combo Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Hearts of Iron III: Mega German Spritepack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Brink: Agents of Change",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3400,
+		"sale_price": 3400
+	},
+	{
+		"name": "Red Faction: Armageddon Path to War",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5900,
+		"sale_price": 5900
+	},
+	{
+		"name": "Fallout New Vegas: Old World Blues",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "F.E.A.R. 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Hearts of Iron III: For the Motherland",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Europa Universalis III: Western - AD 1400 Spritepack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Final Frontier",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 2900,
+		"sale_price": 2900
+	},
+	{
+		"name": "Magicka: Frozen Lake",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: The Watchtower",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Wizard's Survival Kit",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Duke Nukem Forever",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Red Faction: Armageddon",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 15900,
+		"sale_price": 15900
+	},
+	{
+		"name": "Magicka: Nippon",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Fallout New Vegas: Honest Hearts",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Section 8: Prejudice",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Yar's Revenge",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Magicka: Marshlands",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Magicka: Vietnam",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4900,
+		"sale_price": 4900
+	},
+	{
+		"name": "Assassin’s Creed Brotherhood Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24000,
+		"sale_price": 22700
+	},
+	{
+		"name": "Assassin’s Creed Brotherhood",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"name": "Victoria II: Interwar Artillery Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Victoria II: Interwar Planes Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Cities in Motion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Fallout: New Vegas: Dead Money",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Magicka",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Europa Universalis III: Divine Wind",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Grand Theft Auto: The Trilogy",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29900
+	},
+	{
+		"name": "Mafia II DLC: Joe's Adventure",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Gothic Universe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Victoria II: Interwar Spritepack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1900,
+		"sale_price": 1900
+	},
+	{
+		"name": "Grand Theft Auto IV: The Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"name": "ArcaniA",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Haunted House",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "Mafia II DLC: Greaser Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Mafia II DLC: War Hero Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Mafia II DLC: Vegas Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Mafia II DLC: Renegade Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Sid Meier's Civilization V",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 25500,
+		"sale_price": 25500
+	},
+	{
+		"name": "Darksiders Warmastered Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 18900
+	},
+	{
+		"name": "Mafia II DLC: Jimmy's Vendetta",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Mafia II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"name": "Victoria II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 16500
+	},
+	{
+		"name": "Hearts of Iron III: German II Sprite pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Fallout 3 - Operation Anchorage",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Fallout 3 - Broken Steel",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Fallout 3 - Point Lookout",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Fallout 3 - The Pitt",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Fallout 3 - Mothership Zeta",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 2 - Resurgence Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "LEGO Harry Potter: Years 1-4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Call of Duty: Modern Warfare - 2 Stimulus Package",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "Grand Theft Auto Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 54000,
+		"sale_price": 49000
+	},
+	{
+		"name": "Grand Theft Auto: Episodes from Liberty City",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Batman: Arkham Asylum: Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"name": "Hearts of Iron III: Soviet Infantry Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Bioshock 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Samorost 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5000,
+		"sale_price": 5000
+	},
+	{
+		"name": "Hearts of Iron III: Soviet Music Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Hearts of Iron III: German Infantry Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Hearts of Iron III: Japanese Infantry Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Hearts of Iron III: Soviet Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Machinarium",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 10000
+	},
+	{
+		"name": "Operation Flashpoint: Dragon Rising",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10000
+	},
+	{
+		"name": "King's Bounty: The Legend",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"name": "Red Faction: Guerrilla ReMarstered",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "F.E.A.R. 2: Reborn",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Hearts of Iron III: German Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Hearts of Iron III: US Sprite Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 1000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Overlord II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10000
+	},
+	{
+		"name": "Sid Meier's Civilization IV: The Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 32000,
+		"sale_price": 29900
+	},
+	{
+		"name": "The Book of Unwritten Tales Digital Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 24900,
+		"sale_price": 24900
+	},
+	{
+		"name": "F.E.A.R. 2: Project Origin",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Grand Theft Auto IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Alone in the Dark",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Bully: Scholarship Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "LEGO Batman",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 19900,
+		"sale_price": 19900
+	},
+	{
+		"name": "Sid Meier's Civilization IV: Colonization",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19900
+	},
+	{
+		"name": "Call of Duty 4: Modern Warfare",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Bioshock",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "Quake 3 Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17000,
+		"sale_price": 16100
+	},
+	{
+		"name": "Quake",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5800,
+		"sale_price": 5500
+	},
+	{
+		"name": "Europa Universalis III Collection",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 39900,
+		"sale_price": 33000
+	},
+	{
+		"name": "Europa Universalis III Complete",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14900,
+		"sale_price": 12400
+	},
+	{
+		"name": "Sid Meier's Civilization IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"name": "CivCity: Rome",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9000,
+		"sale_price": 9000
+	},
+	{
+		"name": "Sid Meier's Civilization IV: Warlords",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4300,
+		"sale_price": 4300
+	},
+	{
+		"name": "Act of War: High Treason",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Full Spectrum Warrior: Ten Hammers",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Prince of Persia: The Two Thrones",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "Call of Duty 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Quake IV",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 17000,
+		"sale_price": 16100
+	},
+	{
+		"name": "Sid Meier's Pirates!",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Grand Theft Auto: San Andreas",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"name": "Act of War: Direct Action",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"name": "Prince of Persia: Warrior Within",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "Men of Valor",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "Full Spectrum Warrior",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Chris Sawyer's Locomotion",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "Painkiller: Black Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Delta Force: Black Hawk Down - Team Sabre",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Prince of Persia: The Sands of Time",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"name": "Max Payne 2: The Fall of Max Payne",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Max Payne 1 & Max Payne 2 Double Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 14900
+	},
+	{
+		"name": "SimCity 4 Deluxe Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 21000,
+		"sale_price": 19800
+	},
+	{
+		"name": "Grand Theft Auto: Vice City",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Red Faction II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Delta Force: Black Hawk Down",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6200,
+		"sale_price": 6200
+	},
+	{
+		"name": "Impossible Creatures",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 9900,
+		"sale_price": 9900
+	},
+	{
+		"name": "RollerCoaster Tycoon 2: Triple Thrill Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Syberia 1",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 14000,
+		"sale_price": 1000
+	},
+	{
+		"name": "Mafia",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Delta Force: Task Force Dagger",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Grand Theft Auto III",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Comanche 4",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Sid Meier's Civilization III Complete Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"name": "Red Faction",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 7900,
+		"sale_price": 7900
+	},
+	{
+		"name": "Max Payne",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 8700,
+		"sale_price": 8700
+	},
+	{
+		"name": "Fallout Tactics: Brotherhood of Steel",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9900
+	},
+	{
+		"name": "Delta Force Land Warrior",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Tachyon: The Fringe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Imperium Galactica II",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10000,
+		"sale_price": 10000
+	},
+	{
+		"name": "Delta Force 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Armored Fist 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Silver",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6000,
+		"sale_price": 6000
+	},
+	{
+		"name": "F-22 Lightning 3",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "RollerCoaster Tycoon: Deluxe",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "Delta Force",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "MiG-29 Fulcrum",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"name": "Fallout: A Post Nuclear Role Playing Game",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 10500,
+		"sale_price": 9900
+	},
+	{
+		"name": "Doom 2",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Injustice 2 - LEGENDARY EDITION",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 59100
+	},
+	{
+		"name": "Project Cars Game of the Year Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 64900,
+		"sale_price": 60000
+	},
+	{
+		"name": "Birthdays the Beginning - Digital Limited Edition",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 51800,
+		"sale_price": 46600
+	},
+	{
+		"name": "Europa Universalis IV: Empire Founder Pack",
+		"store_name": "다이렉트 게임즈",
+		"normal_price": 90900,
+		"sale_price": 78000
+	}
+]
