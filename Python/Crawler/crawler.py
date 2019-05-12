@@ -23,6 +23,7 @@ for page in range(60, 65):
             #time.sleep(2)
             game_page = driver.page_source
             game_detail = BeautifulSoup(game_page, 'lxml')
+            game_url = driver.current_url
             name = game_detail.find('div', attrs={'class': 'page-header'})
             g_name = name.select('h1 > span')
             game_name = re.sub('^ ', '', g_name[0].text)
@@ -35,7 +36,7 @@ for page in range(60, 65):
                 normal_price = '-1'
                 sale_price = '-1'
             print(game_name, normal_price, sale_price)
-            data = {'name': game_name, 'store_name':'다이렉트 게임즈', 'normal_price': int(normal_price), 'sale_price': int(sale_price)}
+            data = {'name': game_name, 'url': game_url, 'store_name':'다이렉트 게임즈', 'normal_price': int(normal_price), 'sale_price': int(sale_price)}
             datas.append(data)
             driver.back()
             #driver.implicitly_wait(2)
