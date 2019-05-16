@@ -1,9 +1,142 @@
 [
 	{
-		"name": "Dollar Plasma Bundle",
-		"url": "https://www.fanatical.com/ko/bundle/dollar-plasma-bundle",
-		"store_name": "fanatical",
-		"normal_price": 48019,
-		"sale_price": 1175
+		"name": "Corporate Lifestyle Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/corporate-lifestyle-simulator/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"name": "Three Dead Zed",
+		"url": "https://www.greenmangaming.com/ko/games/three-dead-zed/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"name": "RAGE",
+		"url": "https://www.greenmangaming.com/ko/games/rage/",
+		"store_name": "gmg",
+		"normal_price": 11530,
+		"sale_price": 11530
+	},
+	{
+		"name": "RAGE 2",
+		"url": "https://www.greenmangaming.com/ko/games/rage-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 67000,
+		"sale_price": 56280
+	},
+	{
+		"name": "RAGE 2 - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/rage-2-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 89900,
+		"sale_price": 75516
+	},
+	{
+		"name": "The Pasture",
+		"url": "https://www.greenmangaming.com/ko/games/the-pasture/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Farnham Fables",
+		"url": "https://www.greenmangaming.com/ko/games/farnham-fables/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "A Plague Tale: Innocence",
+		"url": "https://www.greenmangaming.com/ko/games/a-plague-tale-innocence-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Russian SuperHero Dead Ivan",
+		"url": "https://www.greenmangaming.com/ko/games/russian-superhero-dead-ivan/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"name": "Mortal Kombat 11",
+		"url": "https://www.greenmangaming.com/ko/games/mortal-kombat-11-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr Digital Collector's Edition Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-digital-collectors-edition-upgrade/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Titan Quest: Atlantis",
+		"url": "https://www.greenmangaming.com/ko/games/titan-quest-atlantis/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Mortal Kombat 11 Premium Edition",
+		"url": "https://www.greenmangaming.com/ko/games/mortal-kombat-11-premium-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 103000,
+		"sale_price": 77250
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 3 Super Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/borderlands-3-super-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 109900,
+		"sale_price": 109900
+	},
+	{
+		"name": "Rise of Industry",
+		"url": "https://www.greenmangaming.com/ko/games/rise-of-industry-pc/",
+		"store_name": "gmg",
+		"normal_price": 27000,
+		"sale_price": 22950
+	},
+	{
+		"name": "Age of Empires® III: Complete Collection",
+		"url": "https://www.greenmangaming.com/ko/games/age-of-empires-iii-complete-collection/",
+		"store_name": "gmg",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"name": "Warhammer: Chaosbane Magnus Edition",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-chaosbane-magnus-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 75600,
+		"sale_price": 75600
+	},
+	{
+		"name": "NCSOFT NCoin 400",
+		"url": "https://www.greenmangaming.com/ko/games/ncsoft-ncoin-400/",
+		"store_name": "gmg",
+		"normal_price": 5619,
+		"sale_price": 5619
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr Digital Collector's Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-digital-collectors-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 89900,
+		"sale_price": 77314
 	}
 ]
