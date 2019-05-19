@@ -98,7 +98,7 @@ public class BoardDAO {
 			}//end select
 		
 		//�۾��� 
-		public void write( String _title, String _author, String _content){
+		public void write(String _nickname, String _age, String _title, String _author, String _content){
 
 			
 			try{

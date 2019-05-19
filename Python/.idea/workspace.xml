@@ -3,13 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="55a93f28-3bf6-4ada-ae55-da95484c5ca7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/10Chapter_board/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/10Chapter_board/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/NewPractice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/NewPractice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Practice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/TeamProject/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/TeamProject/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Testst/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Testst/src/com/dao/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/src/com/dao/BoardDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Testst/src/com/service/BoardWriteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/src/com/service/BoardWriteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/abcdefg/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/abcdefg/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/asdfasdfsd/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/asdfasdfsd/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/dbproject/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/dbproject/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/dfhgdjkliug/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/dfhgdjkliug/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/html_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/html_practice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/model1_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/model1_practice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/model2_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/model2_practice/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/witness/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/witness/.classpath" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_myself/s.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_myself/s.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,19 +37,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice_myself/s.py">
+        <entry file="file://$PROJECT_DIR$/Practice/bigprac.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="361">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/pymongoprac.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="21" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/imp.py">
+        <entry file="file://$PROJECT_DIR$/Practice/ex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="771">
-              <caret line="346" selection-start-line="346" selection-end-line="346" />
+            <state relative-caret-position="445">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,6 +81,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -57,12 +94,14 @@
       <list>
         <option value="$PROJECT_DIR$/Practice_myself/mongotest.py" />
         <option value="$PROJECT_DIR$/Practice_myself/s.py" />
+        <option value="$PROJECT_DIR$/Practice/pymongoprac.py" />
+        <option value="$PROJECT_DIR$/Practice/bigprac.py" />
+        <option value="$PROJECT_DIR$/Practice/ex.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="905" />
-    <option name="y" value="-890" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -72,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,13 +122,12 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice_myself" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,7 +147,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s">
+  <component name="RunManager" selected="Python.ex">
+    <configuration name="bigprac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/bigprac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mongotest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,6 +203,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_myself/mongotest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pymongoprac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/pymongoprac.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,6 +255,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.pymongoprac" />
+        <item itemvalue="Python.bigprac" />
         <item itemvalue="Python.s" />
         <item itemvalue="Python.mongotest" />
       </list>
@@ -181,26 +286,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-1088" width="1936" height="1096" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.12313433" />
-      <window_info id="Structure" order="1" sideWeight="0.502079" side_tool="true" weight="0.12313433" />
-      <window_info id="Favorites" order="2" sideWeight="0.50143677" side_tool="true" weight="0.123667374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49588138" visible="true" weight="0.25273523" />
+      <window_info id="Structure" order="1" sideWeight="0.5041186" side_tool="true" weight="0.25273523" />
+      <window_info id="Favorites" order="2" sideWeight="0.5041186" side_tool="true" weight="0.25273523" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49671772" weight="0.49253732" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49562362" weight="0.34660926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.32938644" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50328225" side_tool="true" weight="0.49730894" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50437635" side_tool="true" weight="0.49730894" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="409" y="331" width="266" height="424" id="Mongo Explorer" order="3" visible="true" weight="0.16897655" />
+      <window_info anchor="right" x="409" y="331" width="266" height="424" id="Mongo Explorer" order="3" visible="true" weight="0.202407" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -217,6 +322,9 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/python/pywrap_tensorflow.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/python/pywrap_tensorflow_internal.py" />
     <entry file="file://$PROJECT_DIR$/Practice_myself/s.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -224,31 +332,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/python/pywrap_tensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/tensorflow/python/pywrap_tensorflow_internal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/imp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="346" selection-start-line="346" selection-end-line="346" />
+        <state relative-caret-position="466">
+          <caret line="340" column="33" selection-start-line="340" selection-start-column="33" selection-end-line="340" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/practice.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/bigprac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/pymongoprac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="21" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

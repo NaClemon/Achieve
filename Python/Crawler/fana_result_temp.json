@@ -1,0 +1,6183 @@
+[
+	{
+		"name": "Tabletop Simulator",
+		"url": "https://www.fanatical.com/ko/game/tabletop-simulator",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11220
+	},
+	{
+		"name": "Sid Meier's Civilization VI: Gathering Storm",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meier-s-civilization-vi-gathering-storm-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 35835
+	},
+	{
+		"name": "Devil May Cry 5: Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/devil-may-cry-5-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 84169,
+		"sale_price": -1
+	},
+	{
+		"name": "MONSTER HUNTER: WORLD",
+		"url": "https://www.fanatical.com/ko/game/monster-hunter-world",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 45156
+	},
+	{
+		"name": "METAL SLUG PACK",
+		"url": "https://www.fanatical.com/ko/bundle/metal-slug-pack",
+		"store_name": "fanatical",
+		"normal_price": 36994,
+		"sale_price": 4768
+	},
+	{
+		"name": "Sid Meier's Civilization VI: Gathering Storm",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meier-s-civilization-vi-gathering-storm",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 35835
+	},
+	{
+		"name": ">observer_",
+		"url": "https://www.fanatical.com/ko/game/observer",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 10742
+	},
+	{
+		"name": "Borderlands: The Handsome Collection",
+		"url": "https://www.fanatical.com/ko/game/borderlands-the-handsome-collection",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 22213
+	},
+	{
+		"name": "XCOM 2 Collection",
+		"url": "https://www.fanatical.com/ko/game/xcom-2-collection",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": 40615
+	},
+	{
+		"name": "Arc System Works Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/arc-system-works-bundle",
+		"store_name": "fanatical",
+		"normal_price": 113457,
+		"sale_price": 5963
+	},
+	{
+		"name": "F.E.A.R. Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/fear-bundle",
+		"store_name": "fanatical",
+		"normal_price": 65672,
+		"sale_price": 5963
+	},
+	{
+		"name": "Devil May Cry HD Collection",
+		"url": "https://www.fanatical.com/ko/game/devil-may-cry-hd-collection",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 21496
+	},
+	{
+		"name": "Garfield Kart",
+		"url": "https://www.fanatical.com/ko/game/garfield-kart",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 586
+	},
+	{
+		"name": "Dollar Anomaly Complete Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/dollar-anomaly-complete-bundle",
+		"store_name": "fanatical",
+		"normal_price": 53711,
+		"sale_price": 1195
+	},
+	{
+		"name": "Faraway Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/faraway-bundle",
+		"store_name": "fanatical",
+		"normal_price": 87133,
+		"sale_price": 1780
+	},
+	{
+		"name": "Grand Theft Auto V",
+		"url": "https://www.fanatical.com/ko/game/grand-theft-auto-v",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 17195
+	},
+	{
+		"name": "Tabletop Simulator 4 Pack",
+		"url": "https://www.fanatical.com/ko/game/tabletop-simulator-4-pack",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 35835
+	},
+	{
+		"name": "Sid Meier’s Civilization VI",
+		"url": "https://www.fanatical.com/ko/game/sid-meiers-civilization-vi-new-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 20063
+	},
+	{
+		"name": "GRAND THEFT AUTO V: PREMIUM ONLINE EDITION",
+		"url": "https://www.fanatical.com/ko/game/grand-theft-auto-v-premium-online-edition",
+		"store_name": "fanatical",
+		"normal_price": 71671,
+		"sale_price": 17912
+	},
+	{
+		"name": "OKAMI HD / 大神 絶景版",
+		"url": "https://www.fanatical.com/ko/game/okami-hd",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11459
+	},
+	{
+		"name": "RAGE 2 - 경기",
+		"url": "https://www.fanatical.com/ko/game/rage-2",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 59722
+	},
+	{
+		"name": "Dying Light: The Following – Enhanced Edition",
+		"url": "https://www.fanatical.com/ko/game/dying-light-enhanced-edition",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 21496
+	},
+	{
+		"name": "Sid Meier’s Civilization VI Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/civilization-vi-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": 35835
+	},
+	{
+		"name": "Watch_Dogs 2",
+		"url": "https://www.fanatical.com/ko/game/watch-dogs-2",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3",
+		"url": "https://www.fanatical.com/ko/game/call-of-duty-modern-warfare-3",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 23886
+	},
+	{
+		"name": "Expeditions: Viking",
+		"url": "https://www.fanatical.com/ko/game/expeditions-viking",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 17912
+	},
+	{
+		"name": "Battlestar Galactica Deadlock",
+		"url": "https://www.fanatical.com/ko/game/battlestar-galactica-deadlock",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 19107
+	},
+	{
+		"name": "Redout Complete Pack",
+		"url": "https://www.fanatical.com/ko/bundle/redout-complete-pack",
+		"store_name": "fanatical",
+		"normal_price": 103862,
+		"sale_price": 20254
+	},
+	{
+		"name": "Titan Quest Anniversary Edition",
+		"url": "https://www.fanatical.com/ko/game/titan-quest-anniversary-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "RESIDENT EVIL 2 / BIOHAZARD RE:2",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-2-biohazard-re-2",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 44439
+	},
+	{
+		"name": "Resident Evil 7 Biohazard - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/resident-evil-7-biohazard-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 20779
+	},
+	{
+		"name": "SUPERHOT VR",
+		"url": "https://www.fanatical.com/ko/game/superhot-vr",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 17912
+	},
+	{
+		"name": "ULTIMATE MARVEL VS. CAPCOM 3",
+		"url": "https://www.fanatical.com/ko/game/ultimate-marvel-vs-capcom-3",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 11937
+	},
+	{
+		"name": "Dollar Plasma Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/dollar-plasma-bundle",
+		"store_name": "fanatical",
+		"normal_price": 48824,
+		"sale_price": 1195
+	},
+	{
+		"name": "MONSTER HUNTER: WORLD Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/monster-hunter-world-digital-deluxe",
+		"store_name": "fanatical",
+		"normal_price": 83632,
+		"sale_price": 54356
+	},
+	{
+		"name": "BioShock: The Collection",
+		"url": "https://www.fanatical.com/ko/game/bioshock-the-collection",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 16478
+	},
+	{
+		"name": "PC Building Simulator",
+		"url": "https://www.fanatical.com/ko/game/pc-building-simulator",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 16717
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/middle-earth-shadow-of-mordor-bundle",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Rising Storm 2: VIETNAM",
+		"url": "https://www.fanatical.com/ko/game/rising-storm-2-vietnam",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 9846
+	},
+	{
+		"name": "Sid Meier’s Civilization VI: Rise and Fall DLC",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meiers-civilization-vi-rise-and-fall",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 20779
+	},
+	{
+		"name": "Devil May Cry Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/devil-may-cry-bundle",
+		"store_name": "fanatical",
+		"normal_price": 65696,
+		"sale_price": 31056
+	},
+	{
+		"name": "Axis Game Factory Complete Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/axis-game-factory-complete-bundle",
+		"store_name": "fanatical",
+		"normal_price": 250836,
+		"sale_price": 1780
+	},
+	{
+		"name": "Resident Evil HD REMASTER",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-hd",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 9547
+	},
+	{
+		"name": "XCOM: Enemy Unknown - The Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/xcom-enemy-unknown-complete-pack",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": 11937
+	},
+	{
+		"name": "Fanatical Anthology Fantasy Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/fanatical-anthology-fantasy-bundle",
+		"store_name": "fanatical",
+		"normal_price": 182666,
+		"sale_price": 3573
+	},
+	{
+		"name": "Fanatical Anthology Racing Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/fanatical-anthology-racing-bundle",
+		"store_name": "fanatical",
+		"normal_price": 130078,
+		"sale_price": 3573
+	},
+	{
+		"name": "Surviving Mars - First Colony Edition",
+		"url": "https://www.fanatical.com/ko/game/surviving-mars-first-colony-edition",
+		"store_name": "fanatical",
+		"normal_price": 77657,
+		"sale_price": 26396
+	},
+	{
+		"name": "Grand Theft Auto: San Andreas",
+		"url": "https://www.fanatical.com/ko/game/grand-theft-auto-san-andreas",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": -1
+	},
+	{
+		"name": "A Plague Tale: Innocence",
+		"url": "https://www.fanatical.com/ko/game/a-plague-tale-innocence",
+		"store_name": "fanatical",
+		"normal_price": 53759,
+		"sale_price": 46231
+	},
+	{
+		"name": "Surviving Mars",
+		"url": "https://www.fanatical.com/ko/game/surviving-mars",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11818
+	},
+	{
+		"name": "Sid Meier’s Civilization VI: Rise and Fall DLC",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meiers-civilization-vi-rise-and-fall-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 20779
+	},
+	{
+		"name": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+		"url": "https://www.fanatical.com/ko/game/the-king-of-fighters-98-ultimate-match-final-edition",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 5365
+	},
+	{
+		"name": "Resident Evil 4 - Ultimate HD Edition",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-4",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "XCOM 2: War of the Chosen DLC",
+		"url": "https://www.fanatical.com/ko/dlc/xcom-2-war-of-the-chosen",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 21496
+	},
+	{
+		"name": "The Elder Scrolls Online - Morrowind - Digital Collector's Edition",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-morrowind-digital-collectors-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "SimCity 4 Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/sim-city-4-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Frostpunk",
+		"url": "https://www.fanatical.com/ko/game/frostpunk",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 21496
+	},
+	{
+		"name": "RiME - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/rime",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Resident Evil 6",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-6",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8950
+	},
+	{
+		"name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+		"url": "https://www.fanatical.com/ko/game/the-king-of-fighters-2002-unlimited-match",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 5365
+	},
+	{
+		"name": "Dragon's Dogma: Dark Arisen",
+		"url": "https://www.fanatical.com/ko/game/dragons-dogma-dark-arisen",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11101
+	},
+	{
+		"name": "WWE 2K19 Digital Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/wwe-2k19-digital-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 107530,
+		"sale_price": 32251
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr - Digital Collectors Edition",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-elweyr-digital-collectors-edition",
+		"store_name": "fanatical",
+		"normal_price": 95581,
+		"sale_price": 83154
+	},
+	{
+		"name": "Stronghold Crusader HD",
+		"url": "https://www.fanatical.com/ko/game/stronghold-crusader-hd",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "FOR HONOR - Year 3 Pass",
+		"url": "https://www.fanatical.com/ko/dlc/for-honor-year-3-pass",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Siege - Standard Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancy-s-rainbow-six-siege-standard-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Saints Row: The Third - The Full Package",
+		"url": "https://www.fanatical.com/ko/game/saints-row-the-third-full-package",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 4469
+	},
+	{
+		"name": "FortressCraft Evolved!",
+		"url": "https://www.fanatical.com/ko/game/fortresscraft-evolved",
+		"store_name": "fanatical",
+		"normal_price": 15522,
+		"sale_price": 7755
+	},
+	{
+		"name": "Borderlands 2 Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/borderlands-2-game-of-the-year-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 9547
+	},
+	{
+		"name": "Mortal Kombat 11",
+		"url": "https://www.fanatical.com/ko/game/mortal-kombat-11",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier’s Civilization VI Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/civilization-vi-gold-edition-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "Death end re;Quest - Deluxe Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/death-end-re-quest-deluxe-bundle",
+		"store_name": "fanatical",
+		"normal_price": 71671,
+		"sale_price": 57332
+	},
+	{
+		"name": "Bionic Commando: Rearmed",
+		"url": "https://www.fanatical.com/ko/game/bionic-commando-rearmed",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel",
+		"url": "https://www.fanatical.com/ko/game/borderlands-the-pre-sequel",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 13371
+	},
+	{
+		"name": "Borderlands Game of the Year Enhanced",
+		"url": "https://www.fanatical.com/ko/game/borderlands-game-of-the-year-enhanced",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 21496
+	},
+	{
+		"name": "Kerbal Space Program",
+		"url": "https://www.fanatical.com/ko/game/kerbal-space-program",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 22930
+	},
+	{
+		"name": "Hitman Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/hitman-game-of-the-year-edition",
+		"store_name": "fanatical",
+		"normal_price": 70655,
+		"sale_price": -1
+	},
+	{
+		"name": "RollerCoaster Tycoon 3 Platinum",
+		"url": "https://www.fanatical.com/ko/game/rollercoaster-tycoon-3-platinum-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Saints Row IV: Game of the Century Edition (ASIA)",
+		"url": "https://www.fanatical.com/ko/game/saints-row-iv-game-of-the-century-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "SpellForce 3",
+		"url": "https://www.fanatical.com/ko/game/spell-force-3",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": 23886
+	},
+	{
+		"name": "STAR WARS - Knights of the Old Republic",
+		"url": "https://www.fanatical.com/ko/game/star-wars-knights-of-the-old-republic-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Dead Rising 2: Off the Record",
+		"url": "https://www.fanatical.com/ko/game/dead-rising-2-off-the-record",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 7158
+	},
+	{
+		"name": "Shaolin vs Wutang",
+		"url": "https://www.fanatical.com/ko/game/shaolin-vs-wutang",
+		"store_name": "fanatical",
+		"normal_price": 16717,
+		"sale_price": -1
+	},
+	{
+		"name": "TinyKeep",
+		"url": "https://www.fanatical.com/ko/game/tinykeep",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Arcade Pulp Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/arcade-pulp-bundle",
+		"store_name": "fanatical",
+		"normal_price": 9523,
+		"sale_price": 1780
+	},
+	{
+		"name": "The Elder Scrolls Online - Morrowind",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-morrowind",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Resident Evil : Revelations 2 - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-revelations-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 17912
+	},
+	{
+		"name": "This War of Mine",
+		"url": "https://www.fanatical.com/ko/game/this-war-of-mine",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 7158
+	},
+	{
+		"name": "DuckTales: Remastered",
+		"url": "https://www.fanatical.com/ko/game/duck-tales-remastered",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 5903
+	},
+	{
+		"name": "STRIDER™ / ストライダー飛竜®",
+		"url": "https://www.fanatical.com/ko/game/strider",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 5365
+	},
+	{
+		"name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+		"url": "https://www.fanatical.com/ko/game/playerunknowns-battlegrounds",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Dungeons & Dragons: Chronicles of Mystara",
+		"url": "https://www.fanatical.com/ko/game/dungeons-dragons-chronicles-of-mystara",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 5903
+	},
+	{
+		"name": "Quiplash",
+		"url": "https://www.fanatical.com/ko/game/quiplash",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Remember Me",
+		"url": "https://www.fanatical.com/ko/game/remember-me",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 7158
+	},
+	{
+		"name": "Saints Row: The Third",
+		"url": "https://www.fanatical.com/ko/game/saints-row-the-third",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-ultimate-vault-hunter-upgrade-pack-2-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1960
+	},
+	{
+		"name": "nail'd - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/naild",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1183
+	},
+	{
+		"name": "Watch_Dogs 2 - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/watch-dogs-2-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2 Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-season-pass-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11818
+	},
+	{
+		"name": "Hitman: Absolution",
+		"url": "https://www.fanatical.com/ko/game/hitman-absolution",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "PUBG: Survivor Pass 3 Bundle",
+		"url": "https://www.fanatical.com/ko/bundle/pubg-survivor-pass-3-bundle",
+		"store_name": "fanatical",
+		"normal_price": 41810,
+		"sale_price": 32968
+	},
+	{
+		"name": "NBA 2K Playgrounds 2",
+		"url": "https://www.fanatical.com/ko/game/nba-2-k-playgrounds-2",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 10742
+	},
+	{
+		"name": "Street Fighter V: Arcade Edition",
+		"url": "https://www.fanatical.com/ko/game/street-fighter-v-arcade-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 23408
+	},
+	{
+		"name": "Lords of the Realm II",
+		"url": "https://www.fanatical.com/ko/game/lords-of-the-realm-ii",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 2",
+		"url": "https://www.fanatical.com/ko/game/call-of-duty-modern-warfare-2",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11937
+	},
+	{
+		"name": "Gothic Universe Edition",
+		"url": "https://www.fanatical.com/ko/game/gothic-universe-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 4768
+	},
+	{
+		"name": "This War of Mine - The Little Ones DLC",
+		"url": "https://www.fanatical.com/ko/dlc/this-war-of-mine-the-little-ones-dlc",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2378
+	},
+	{
+		"name": "Tropico 5",
+		"url": "https://www.fanatical.com/ko/game/tropico-5",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "STAR WARS Knights of the Old Republic II - The Sith Lords",
+		"url": "https://www.fanatical.com/ko/game/star-wars-knights-of-the-old-republic-ii-the-sith-lords-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Darksiders Warmastered Edition",
+		"url": "https://www.fanatical.com/ko/game/darksiders",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "DmC: Devil May Cry",
+		"url": "https://www.fanatical.com/ko/game/dmc-devil-may-cry",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8950
+	},
+	{
+		"name": "Call of Duty: Black Ops Annihilation & Escalation Bundle – Mac Edition",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-black-ops-annihilation-escalation-bundle-mac-edition",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 14924
+	},
+	{
+		"name": "Call of Duty 2",
+		"url": "https://www.fanatical.com/ko/game/call-of-duty-2",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11937
+	},
+	{
+		"name": "Onikira - Demon Killer - Contributor's Pack",
+		"url": "https://www.fanatical.com/ko/game/onkira-contributors",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 2378
+	},
+	{
+		"name": "Grotesque Tactics: Evil Heroes",
+		"url": "https://www.fanatical.com/ko/game/grotesque-tactics-evil-heroes",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "Dead Rising® 2",
+		"url": "https://www.fanatical.com/ko/game/dead-rising-2",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 7158
+	},
+	{
+		"name": "Saints Row: Gat out of Hell",
+		"url": "https://www.fanatical.com/ko/game/saints-row-gat-out-of-hell",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 4469
+	},
+	{
+		"name": "Call of Duty 4: Modern Warfare",
+		"url": "https://www.fanatical.com/ko/game/call-of-duty-4-modern-warfare",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11937
+	},
+	{
+		"name": "Onikira - Demon Killer",
+		"url": "https://www.fanatical.com/ko/game/onikira",
+		"store_name": "fanatical",
+		"normal_price": 16717,
+		"sale_price": 1661
+	},
+	{
+		"name": "Darksiders III",
+		"url": "https://www.fanatical.com/ko/game/darksiders-iii",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 35835
+	},
+	{
+		"name": "Red Faction Guerrilla Re-Mars-tered",
+		"url": "https://www.fanatical.com/ko/game/red-faction-guerrilla",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 7874
+	},
+	{
+		"name": "Mortal Kombat 11 - Premium Edition",
+		"url": "https://www.fanatical.com/ko/game/mortal-kombat-11-premium-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "The Stronghold Collection",
+		"url": "https://www.fanatical.com/ko/game/the-stronghold-collection",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 8950
+	},
+	{
+		"name": "Dead Island Definitive Collection [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/dead-island-definitive-collection",
+		"store_name": "fanatical",
+		"normal_price": 47820,
+		"sale_price": 11949
+	},
+	{
+		"name": "The Disney Afternoon Collection",
+		"url": "https://www.fanatical.com/ko/game/the-disney-afternoon-collection",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 9547
+	},
+	{
+		"name": "THE KING OF FIGHTERS XIII STEAM EDITION",
+		"url": "https://www.fanatical.com/ko/game/the-king-of-fighters-xiii-steam-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Assassin's Creed Odyssey: Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/assassin-s-creed-odyssey-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 143377,
+		"sale_price": -1
+	},
+	{
+		"name": "DOOM - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/doom",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Sunset Overdrive",
+		"url": "https://www.fanatical.com/ko/game/sunset-overdrive",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six® Siege - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancy-s-rainbow-six-siege-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry® New Dawn",
+		"url": "https://www.fanatical.com/ko/game/far-cry-new-dawn",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Resident Evil 0",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-0-biohazard-0-hd-remaster",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 9547
+	},
+	{
+		"name": "Killing Floor 2",
+		"url": "https://www.fanatical.com/ko/game/killing-floor-2",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11818
+	},
+	{
+		"name": "Pandora: First Contact",
+		"url": "https://www.fanatical.com/ko/game/pandora-first-contact",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8950
+	},
+	{
+		"name": "ACE COMBAT 7: SKIES UNKNOWN",
+		"url": "https://www.fanatical.com/ko/game/ace-combat-7-skies-unknown",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Farm for your Life",
+		"url": "https://www.fanatical.com/ko/game/farm-for-your-life",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 3573
+	},
+	{
+		"name": "Stronghold Crusader 2 - Special Edition",
+		"url": "https://www.fanatical.com/ko/game/stronghold-crusader-2-special-edition",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": 5963
+	},
+	{
+		"name": "Street Fighter: 30th Anniversary Collection",
+		"url": "https://www.fanatical.com/ko/game/street-fighter-30th-anniversary-collection",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 27232
+	},
+	{
+		"name": "Celestian Tales: Old North",
+		"url": "https://www.fanatical.com/ko/game/celestian-tales-old-north",
+		"store_name": "fanatical",
+		"normal_price": 15522,
+		"sale_price": 5270
+	},
+	{
+		"name": "Gorky 17",
+		"url": "https://www.fanatical.com/ko/game/gorky17",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2378
+	},
+	{
+		"name": "Two Worlds II Castle Defense",
+		"url": "https://www.fanatical.com/ko/game/two-worlds-2-castle-defense",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "Mega Man Legacy Collection",
+		"url": "https://www.fanatical.com/ko/game/mega-man-legacy-collection",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 7158
+	},
+	{
+		"name": "Mighty No. 9 [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/mighty-no-9",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Death end re;Quest - Deluxe Pack",
+		"url": "https://www.fanatical.com/ko/dlc/death-end-re-quest-deluxe-pack",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 9547
+	},
+	{
+		"name": "GUILTY GEAR Xrd -REVELATOR- (+DLC Characters) + REV 2 All-in-One (does not include optional DLCs)",
+		"url": "https://www.fanatical.com/ko/game/guilty-gear-xrd-revelator-and-rev-2-all-in-one-and-dlc-characters",
+		"store_name": "fanatical",
+		"normal_price": 53759,
+		"sale_price": -1
+	},
+	{
+		"name": "Field of Glory II",
+		"url": "https://www.fanatical.com/ko/game/field-of-glory-ii",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 17553
+	},
+	{
+		"name": "Husk - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/husk",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 4768
+	},
+	{
+		"name": "Stronghold Crusader 2",
+		"url": "https://www.fanatical.com/ko/game/stronghold-crusader-2",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 4768
+	},
+	{
+		"name": "Steredenn",
+		"url": "https://www.fanatical.com/ko/game/steredenn",
+		"store_name": "fanatical",
+		"normal_price": 15522,
+		"sale_price": 6202
+	},
+	{
+		"name": "Super Inefficient Golf",
+		"url": "https://www.fanatical.com/ko/game/super-inefficient-golf",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2378
+	},
+	{
+		"name": "Ori and the Blind Forest: Definitive Edition",
+		"url": "https://www.fanatical.com/ko/game/ori-and-the-blind-forest-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "RESIDENT EVIL 7 biohazard",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-7-biohazard",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 22213
+	},
+	{
+		"name": "Borderlands 2: Creature Slaughterdome DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-creature-slaughterdome-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1960
+	},
+	{
+		"name": "American Fugitive",
+		"url": "https://www.fanatical.com/ko/game/american-fugitive",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 17912
+	},
+	{
+		"name": "Battle Chasers: Nightwar",
+		"url": "https://www.fanatical.com/ko/game/battle-chasers-nightwar",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11818
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six® Siege - Year 3 Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/tom-clancys-rainbow-six-siege-year-3-pass",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim - Legendary Edition",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-v-skyrim-legendary-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed Origins",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-origins",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Street Fighter V: Arcade Edition Deluxe",
+		"url": "https://www.fanatical.com/ko/game/street-fighter-v-arcade-edition-deluxe",
+		"store_name": "fanatical",
+		"normal_price": 83620,
+		"sale_price": 45980
+	},
+	{
+		"name": "Sid Meier's Civilization® V",
+		"url": "https://www.fanatical.com/ko/game/sid-meiers-civilization-v-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8591
+	},
+	{
+		"name": "Quantum Break",
+		"url": "https://www.fanatical.com/ko/game/quantum-break",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Kingdom Two Crowns",
+		"url": "https://www.fanatical.com/ko/game/kingdom-two-crowns",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 19107
+	},
+	{
+		"name": "Assassin's Creed Origins - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/assassins-creed-origins-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "JUMP FORCE - Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/jump-force-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "Fenix Rage",
+		"url": "https://www.fanatical.com/ko/game/fenix-rage",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 3573
+	},
+	{
+		"name": "Agents of Mayhem",
+		"url": "https://www.fanatical.com/ko/game/agents-of-mayhem",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 7158
+	},
+	{
+		"name": "THE LAST BLADE",
+		"url": "https://www.fanatical.com/ko/game/the-last-blade",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 5963
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr - Upgrade",
+		"url": "https://www.fanatical.com/ko/dlc/the-elder-scrolls-online-elweyr-upgrade",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 41571
+	},
+	{
+		"name": "Insurgency: Sandstorm",
+		"url": "https://www.fanatical.com/ko/game/insurgency-sandstorm",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry 5 - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/far-cry-5-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 107530,
+		"sale_price": -1
+	},
+	{
+		"name": "Mega Man 11",
+		"url": "https://www.fanatical.com/ko/game/mega-man-11",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 26874
+	},
+	{
+		"name": "Assetto Corsa",
+		"url": "https://www.fanatical.com/ko/game/assetto-corsa",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Snake Pass",
+		"url": "https://www.fanatical.com/ko/game/snake-pass",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 8113
+	},
+	{
+		"name": "Fahrenheit: Indigo Prophecy Remastered",
+		"url": "https://www.fanatical.com/ko/game/fahrenheit-indigo-prophecy-remastered",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "Hello Neighbor",
+		"url": "https://www.fanatical.com/ko/game/hello-neighbor",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Sailaway - The Sailing Simulator",
+		"url": "https://www.fanatical.com/ko/game/sailaway-the-sailing-simulator",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 28666
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six® Siege - Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancy-s-rainbow-six-siege-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "STAR WARS Jedi Knight - Jedi Academy",
+		"url": "https://www.fanatical.com/ko/game/star-wars-jedi-knight-jedi-academy-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Heroes of Normandie",
+		"url": "https://www.fanatical.com/ko/game/heroes-of-normandie",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 11818
+	},
+	{
+		"name": "Rocksmith 2014 Edition - Remastered",
+		"url": "https://www.fanatical.com/ko/game/rocksmith-2014-edition-remastered",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Headhunter 3: Mercenary Day DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-3-mercenary-day-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1063
+	},
+	{
+		"name": "Umbrella Corps - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/umbrella-corps-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 5963
+	},
+	{
+		"name": "My Time At Portia",
+		"url": "https://www.fanatical.com/ko/game/my-time-at-portia",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition",
+		"url": "https://www.fanatical.com/ko/game/star-wars-the-force-unleashed-ultimate-sith-edition-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Dead Rising 3 Apocalypse Edition",
+		"url": "https://www.fanatical.com/ko/game/dead-rising-3-apocalypse-edition",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 10742
+	},
+	{
+		"name": "Borderlands 2",
+		"url": "https://www.fanatical.com/ko/game/borderlands-2-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Meridian: New World Contributor Pack",
+		"url": "https://www.fanatical.com/ko/game/meridian-new-world-contributor-pack",
+		"store_name": "fanatical",
+		"normal_price": 15522,
+		"sale_price": 3872
+	},
+	{
+		"name": "Goat Simulator: Waste of Space DLC",
+		"url": "https://www.fanatical.com/ko/dlc/goat-simulator-waste-of-space",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1482
+	},
+	{
+		"name": "STAR WARS™ Jedi Knight II - Jedi Outcast™",
+		"url": "https://www.fanatical.com/ko/game/star-wars-jedi-knight-ii-jedi-outcast-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "UNO - 경기",
+		"url": "https://www.fanatical.com/ko/game/uno",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Sniper: Ghost Warrior Trilogy",
+		"url": "https://www.fanatical.com/ko/game/sniper-ghost-warrior-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Total War: ROME II - Rise of the Republic",
+		"url": "https://www.fanatical.com/ko/dlc/total-war-rome-ii-rise-of-the-republic",
+		"store_name": "fanatical",
+		"normal_price": 20302,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry® 5 Gold Edition + Far Cry® New Dawn Deluxe Edition Bundle",
+		"url": "https://www.fanatical.com/ko/game/far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle",
+		"store_name": "fanatical",
+		"normal_price": 155326,
+		"sale_price": -1
+	},
+	{
+		"name": "The Crew 2 - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/the-crew-2-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "SUPERHOT",
+		"url": "https://www.fanatical.com/ko/game/superhot",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 14924
+	},
+	{
+		"name": "Devil May Cry® 3 Special Edition",
+		"url": "https://www.fanatical.com/ko/game/devil-may-cry-3-special-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Jane's Advanced Strike Fighters",
+		"url": "https://www.fanatical.com/ko/game/janes-advanced-strike-fighters",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-ghost-recon-wildlands",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": -1
+	},
+	{
+		"name": "Osiris: New Dawn",
+		"url": "https://www.fanatical.com/ko/game/osiris-new-dawn",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 17912
+	},
+	{
+		"name": "Goat Simulator: PAYDAY DLC",
+		"url": "https://www.fanatical.com/ko/dlc/goat-simulator-payday",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1482
+	},
+	{
+		"name": "Stronghold HD",
+		"url": "https://www.fanatical.com/ko/game/stronghold-hd",
+		"store_name": "fanatical",
+		"normal_price": 7158,
+		"sale_price": 1780
+	},
+	{
+		"name": "Civilization VI: Persia and Macedon Civilization & Scenario Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/civilization-vi-persia-and-macedon-civilization-scenario-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 10742,
+		"sale_price": 5365
+	},
+	{
+		"name": "MONOPOLY® PLUS",
+		"url": "https://www.fanatical.com/ko/game/monopoly-plus",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": -1
+	},
+	{
+		"name": "Battle vs Chess",
+		"url": "https://www.fanatical.com/ko/game/battle-vs-chess",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 3573
+	},
+	{
+		"name": "Killer is Dead - Nightmare Edition",
+		"url": "https://www.fanatical.com/ko/game/killer-is-dead-nightmare-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 4768
+	},
+	{
+		"name": "XCOM 2: Digital Deluxe",
+		"url": "https://www.fanatical.com/ko/game/xcom-2-digital-deluxe-new",
+		"store_name": "fanatical",
+		"normal_price": 89606,
+		"sale_price": 26874
+	},
+	{
+		"name": "SOULCALIBUR VI",
+		"url": "https://www.fanatical.com/ko/game/soulcalibur-vi",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Seven: Enhanced Edition - Collector's Edition",
+		"url": "https://www.fanatical.com/ko/game/seven-enhanced-edition-collectors-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 23886
+	},
+	{
+		"name": "Stronghold Crusader 2: The Templar and The Duke DLC",
+		"url": "https://www.fanatical.com/ko/dlc/stronghold-crusader-2-the-templar-dlc",
+		"store_name": "fanatical",
+		"normal_price": 7158,
+		"sale_price": 3573
+	},
+	{
+		"name": "Wreckfest",
+		"url": "https://www.fanatical.com/ko/game/wreckfest",
+		"store_name": "fanatical",
+		"normal_price": 53759,
+		"sale_price": 26874
+	},
+	{
+		"name": "Borderlands 2: Headhunter 1: Bloody Harvest DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-1-bloody-harvest-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1063
+	},
+	{
+		"name": "BATTLETECH Urban Warfare",
+		"url": "https://www.fanatical.com/ko/game/battletech-urban-warfare",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 21257
+	},
+	{
+		"name": "FOR HONOR™ - Starter Edition",
+		"url": "https://www.fanatical.com/ko/game/for-honor-starter-edition",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": -1
+	},
+	{
+		"name": "The Jackbox Party Pack 3",
+		"url": "https://www.fanatical.com/ko/game/the-jackbox-party-pack-3",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry® New Dawn - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/far-cry-new-dawn-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": -1
+	},
+	{
+		"name": "Kholat - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/kholat",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 4768
+	},
+	{
+		"name": "Surviving Mars - Digital Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/surviving-mars-digital-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 16239
+	},
+	{
+		"name": "Starpoint Gemini Warlords",
+		"url": "https://www.fanatical.com/ko/game/starpoint-gemini-warlords",
+		"store_name": "fanatical",
+		"normal_price": 41810,
+		"sale_price": -1
+	},
+	{
+		"name": "Hoyle Official Card Games",
+		"url": "https://www.fanatical.com/ko/game/hoyle-official-card-games",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "RESIDENT EVIL 7 biohazard Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-7-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": 34640
+	},
+	{
+		"name": "The Jackbox Party Pack 5",
+		"url": "https://www.fanatical.com/ko/game/the-jackbox-party-pack-5",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Seven: Enhanced Edition",
+		"url": "https://www.fanatical.com/ko/game/seven-enhanced-edition",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 17912
+	},
+	{
+		"name": "Illusion: A Tale of the Mind",
+		"url": "https://www.fanatical.com/ko/game/illusion-a-tale-of-the-mind",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Dark Void™",
+		"url": "https://www.fanatical.com/ko/game/dark-void",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2378
+	},
+	{
+		"name": "Edge of Space Special Edition",
+		"url": "https://www.fanatical.com/ko/game/edge-of-space-special-edition",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": 5963
+	},
+	{
+		"name": "Cuphead - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/cuphead",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Risen - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/risen",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "State of Decay: Year One Survival Edition",
+		"url": "https://www.fanatical.com/ko/game/state-of-decay-year-one-survival-edition",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Alan Wake",
+		"url": "https://www.fanatical.com/ko/game/alanwake",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto Corsa Competizione",
+		"url": "https://www.fanatical.com/ko/game/assetto-corsa-competizione",
+		"store_name": "fanatical",
+		"normal_price": 41810,
+		"sale_price": -1
+	},
+	{
+		"name": "FOR HONOR™ : Marching Fire Expansion",
+		"url": "https://www.fanatical.com/ko/dlc/for-honor-marching-fire-expansion",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "International Snooker",
+		"url": "https://www.fanatical.com/ko/game/international-snooker-game",
+		"store_name": "fanatical",
+		"normal_price": 15522,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto Corsa Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/assetto-corsa-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 47653,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Headhunter 2: Wattle Gobbler DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-2-wattle-gobbler-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1063
+	},
+	{
+		"name": "Call of Duty: Black Ops - Mac Edition",
+		"url": "https://www.fanatical.com/ko/game/call-of-duty-black-ops-mac-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 11937
+	},
+	{
+		"name": "Dead Island Definitive Edition [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/dead-island-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 5963
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon® Wildlands - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/tom-clancys-ghost-recon-wildlands-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Headhunter 5: Son of Crawmerax DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-5-son-of-crawmerax-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1063
+	},
+	{
+		"name": "RESIDENT EVIL 2 / BIOHAZARD RE:2 - Extra DLC Pack",
+		"url": "https://www.fanatical.com/ko/dlc/resident-evil-2-biohazard-re-2-extra-dlc-pack",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": -1
+	},
+	{
+		"name": "Panzer Corps Sea Lion DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-sea-lion",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Headhunter 4: Wedding Day Massacre DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-4-wedding-day-massacre-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1063
+	},
+	{
+		"name": "Assetto Corsa - Dream Pack 1",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-dream-pack-1",
+		"store_name": "fanatical",
+		"normal_price": 8352,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Marvel Super Heroes 2",
+		"url": "https://www.fanatical.com/ko/game/lego-marvel-super-heroes-2-game",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Resident Evil : Revelations",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-revelations",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8233
+	},
+	{
+		"name": "Middle-earth: Shadow of War Definitive Edition",
+		"url": "https://www.fanatical.com/ko/game/middle-earth-shadow-of-war-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-elweyr",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 62362
+	},
+	{
+		"name": "Assassin's Creed Syndicate Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-syndicate-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 83632,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel",
+		"url": "https://www.fanatical.com/ko/game/borderlands-the-pre-sequel-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 13371
+	},
+	{
+		"name": "Assetto Corsa - Dream Pack 1",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-dream-pack-1",
+		"store_name": "fanatical",
+		"normal_price": 8352,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Marvel Super Heroes 2",
+		"url": "https://www.fanatical.com/ko/game/lego-marvel-super-heroes-2-game",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Resident Evil : Revelations",
+		"url": "https://www.fanatical.com/ko/game/resident-evil-revelations",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8233
+	},
+	{
+		"name": "Middle-earth: Shadow of War Definitive Edition",
+		"url": "https://www.fanatical.com/ko/game/middle-earth-shadow-of-war-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls Online: Elsweyr",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-elweyr",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": 62362
+	},
+	{
+		"name": "Assassin's Creed® Origins",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-origins-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed Syndicate Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-syndicate-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 83632,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel",
+		"url": "https://www.fanatical.com/ko/game/borderlands-the-pre-sequel-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 13371
+	},
+	{
+		"name": "Hitman: Blood Money",
+		"url": "https://www.fanatical.com/ko/game/hitman-blood-money",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 2975
+	},
+	{
+		"name": "Warhammer 40,000: Gladius - Relics of War",
+		"url": "https://www.fanatical.com/ko/game/warhammer-40-000-gladius-relics-of-war",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 31534
+	},
+	{
+		"name": "Warhammer: Vermintide 2",
+		"url": "https://www.fanatical.com/ko/game/warhammer-vermintide-2",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Anno 2205 Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/anno-2205-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 59734,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands - Year 2 Pass",
+		"url": "https://www.fanatical.com/ko/dlc/tom-clancy-s-ghost-recon-wildlands-year-2-pass",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Trulon: The Shadow Engine",
+		"url": "https://www.fanatical.com/ko/game/trulon-the-shadow-engine",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": 9547
+	},
+	{
+		"name": "Battlestar Galactica Deadlock: The Broken Alliance",
+		"url": "https://www.fanatical.com/ko/dlc/battlestar-galactica-deadlock-the-broken-alliance",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Bad North",
+		"url": "https://www.fanatical.com/ko/game/bad-north",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 13431
+	},
+	{
+		"name": "Close Combat - Panthers in the Fog",
+		"url": "https://www.fanatical.com/ko/game/close-combat-panthers-in-the-fog",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": 11937
+	},
+	{
+		"name": "Kathy Rain",
+		"url": "https://www.fanatical.com/ko/game/kathy-rain",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 3573
+	},
+	{
+		"name": "Football Manager 2019 Touch",
+		"url": "https://www.fanatical.com/ko/game/football-manager-2019-touch",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": -1
+	},
+	{
+		"name": "Broken Sword Trilogy",
+		"url": "https://www.fanatical.com/ko/game/broken-sword-trilogy-new",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "METAL SLUG 3",
+		"url": "https://www.fanatical.com/ko/game/metal-slug-3",
+		"store_name": "fanatical",
+		"normal_price": 9547,
+		"sale_price": 3812
+	},
+	{
+		"name": "JUMP FORCE",
+		"url": "https://www.fanatical.com/ko/game/jump-force",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "The Crew 2",
+		"url": "https://www.fanatical.com/ko/game/the-crew-2",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Fishing: Barents Sea",
+		"url": "https://www.fanatical.com/ko/game/fishing-barents-sea",
+		"store_name": "fanatical",
+		"normal_price": 23886,
+		"sale_price": -1
+	},
+	{
+		"name": "Atari Vault",
+		"url": "https://www.fanatical.com/ko/game/atari-vault",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Ziggurat",
+		"url": "https://www.fanatical.com/ko/game/ziggurat",
+		"store_name": "fanatical",
+		"normal_price": 17912,
+		"sale_price": 4469
+	},
+	{
+		"name": "Far Cry® 5 + Far Cry® New Dawn Deluxe Edition Bundle",
+		"url": "https://www.fanatical.com/ko/game/far-cry-5-far-cry-new-dawn-deluxe-edition-bundle",
+		"store_name": "fanatical",
+		"normal_price": 119479,
+		"sale_price": -1
+	},
+	{
+		"name": "Circle Empires",
+		"url": "https://www.fanatical.com/ko/game/circle-empires",
+		"store_name": "fanatical",
+		"normal_price": 9547,
+		"sale_price": -1
+	},
+	{
+		"name": "Farm Expert 2016",
+		"url": "https://www.fanatical.com/ko/game/farm-expert-2016",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": 4051
+	},
+	{
+		"name": "The Jackbox Party Pack 4",
+		"url": "https://www.fanatical.com/ko/game/the-jackbox-party-pack-4",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": -1
+	},
+	{
+		"name": "Ghost of a Tale",
+		"url": "https://www.fanatical.com/ko/game/ghost-of-a-tale",
+		"store_name": "fanatical",
+		"normal_price": 29861,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer: Vermintide 2 - Back to Ubersreik DLC",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-vermintide-2-back-to-ubersreik",
+		"store_name": "fanatical",
+		"normal_price": 11937,
+		"sale_price": -1
+	},
+	{
+		"name": "Injustice 2 - Legendary Edition",
+		"url": "https://www.fanatical.com/ko/game/injustice-2-legendary-edition",
+		"store_name": "fanatical",
+		"normal_price": 71683,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier's Civilization: Beyond Earth - Rising Tide DLC",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meier-s-civilization-beyond-earth-rising-tide-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35835,
+		"sale_price": 8950
+	},
+	{
+		"name": "Conan Exiles",
+		"url": "https://www.fanatical.com/ko/game/conan-exiles",
+		"store_name": "fanatical",
+		"normal_price": 47784,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer: Vermintide 2 - Shadows Over Bögenhafen",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-vermintide-2-shadows-over-bogenhafen",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six® Siege - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancy-s-rainbow-six-siege-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Train Simulator: North London Line Route Add-On",
+		"url": "https://www.fanatical.com/ko/game/train-simulator-north-london-line-route-add-on",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 9549
+	},
+	{
+		"name": "Train Simulator: West Somerset Railway Route Add-On",
+		"url": "https://www.fanatical.com/ko/dlc/train-simulator-west-somerset-railway-route-add-on",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 9549
+	},
+	{
+		"name": "Train Simulator: Norfolk Southern Coal District Route Add-On",
+		"url": "https://www.fanatical.com/ko/dlc/train-simulator-norfolk-southern-coal-district-route-add-on",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 9549
+	},
+	{
+		"name": "Train Simulator: East Coast Main Line London-Peterborough Route Add-On",
+		"url": "https://www.fanatical.com/ko/dlc/train-simulator-east-coast-main-line-london-peterborough-route-add-on",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 9549
+	},
+	{
+		"name": "Mega Man X Legacy Collection",
+		"url": "https://www.fanatical.com/ko/game/mega-man-x-legacy-collection",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 16002
+	},
+	{
+		"name": "Beat Cop",
+		"url": "https://www.fanatical.com/ko/game/beat-cop",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 5904
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 2 Stimulus Package DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-2-stimulus-package",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 2 Resurgence Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-2-resurgence-pack",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Capcom Beat 'Em Up Bundle",
+		"url": "https://www.fanatical.com/ko/game/capcom-beat-em-up-bundle",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 17914
+	},
+	{
+		"name": "Bomber Crew - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/bomber-crew-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Dead Rising 4 - Frank's Big Package",
+		"url": "https://www.fanatical.com/ko/game/deadrising-4-franks-big-package",
+		"store_name": "fanatical",
+		"normal_price": 59731,
+		"sale_price": 29865
+	},
+	{
+		"name": "Might & Magic® Heroes® VII - Full Pack",
+		"url": "https://www.fanatical.com/ko/game/might-magic-heroes-vii-full-pack",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "Skullgirls",
+		"url": "https://www.fanatical.com/ko/game/skullgirls",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Watch_Dogs Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/watch-dogs-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "Animation Arts Bundle",
+		"url": "https://www.fanatical.com/ko/game/animation-arts-bundle",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": 11939
+	},
+	{
+		"name": "The Crew 2 - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/the-crew-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 83644,
+		"sale_price": -1
+	},
+	{
+		"name": "Infinifactory",
+		"url": "https://www.fanatical.com/ko/game/infinifactory",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Age of Wonders: Planetfall",
+		"url": "https://www.fanatical.com/ko/game/age-of-wonders-planetfall",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": 52572
+	},
+	{
+		"name": "HITMAN 2 - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/hitman-2-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 119497,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry® 5 - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/far-cry-5-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Buzz Aldrin's Space Program Manager",
+		"url": "https://www.fanatical.com/ko/game/buzz-aldrin-s-space-program-manager",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 14329
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Obsidian Edition",
+		"url": "https://www.fanatical.com/ko/game/pillars-of-eternity-ii-deadfire-obsidian-edition",
+		"store_name": "fanatical",
+		"normal_price": 89620,
+		"sale_price": -1
+	},
+	{
+		"name": "Terrian Saga: KR-17",
+		"url": "https://www.fanatical.com/ko/game/terrian-saga-kr-17",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 884
+	},
+	{
+		"name": "Advanced System Care 12 Pro",
+		"url": "https://www.fanatical.com/ko/game/advanced-system-care-12-pro",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Kingdom Two Crowns - Royal Edition",
+		"url": "https://www.fanatical.com/ko/game/kingdom-two-crowns-royal-edition",
+		"store_name": "fanatical",
+		"normal_price": 27403,
+		"sale_price": 21918
+	},
+	{
+		"name": "Anno 2070 Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/anno-2070-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "FOR HONOR - Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/for-honor-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 131448,
+		"sale_price": -1
+	},
+	{
+		"name": "Dead Island: Riptide Definitive Edition [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/dead-island-riptide-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 5963
+	},
+	{
+		"name": "Star Trek™: Bridge Crew (Steam)",
+		"url": "https://www.fanatical.com/ko/game/star-trek-bridge-crew-steam",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Conan Exiles - Jewel of the West Pack",
+		"url": "https://www.fanatical.com/ko/dlc/conan-exiles-jewel-of-the-west-pack",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "ELEX - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/elex",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": 23890
+	},
+	{
+		"name": "Marvel vs. Capcom: Infinite - Digital Deluxe",
+		"url": "https://www.fanatical.com/ko/game/marvel-vs-capcom-infinite-digital-deluxe-game",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": 35124
+	},
+	{
+		"name": "Titan Quest: Atlantis",
+		"url": "https://www.fanatical.com/ko/game/titan-quest-atlantis",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Super Treasure Arena",
+		"url": "https://www.fanatical.com/ko/game/super-treasure-arena",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 4768
+	},
+	{
+		"name": "Borderlands 2: Tiny Tina's Assault on Dragon Keep DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-tiny-tina-s-assault-on-dragon-keep-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 3932
+	},
+	{
+		"name": "Civilization VI - Australia Civilization & Scenario Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/civilization-vi-australia-civilization-and-scenario-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Assassin's Creed: Director's Cut Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-directors-cut-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry Primal",
+		"url": "https://www.fanatical.com/ko/game/far-cry-primal",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "The Banner Saga 3",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga-3",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "HITMAN 2",
+		"url": "https://www.fanatical.com/ko/game/hitman-2",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed 2 - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Sacred 3 Gold (ASIA)",
+		"url": "https://www.fanatical.com/ko/game/sacred-3-gold",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 8951
+	},
+	{
+		"name": "Civilization VI - Poland Civilization & Scenario Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/civilization-vi-poland-civilization-scenario-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "The Jackbox Party Pack",
+		"url": "https://www.fanatical.com/ko/game/the-jackbox-party-pack",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-the-pre-sequel-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 16122
+	},
+	{
+		"name": "Rocksmith™",
+		"url": "https://www.fanatical.com/ko/game/rocksmith",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Meeple Station",
+		"url": "https://www.fanatical.com/ko/game/meeple-station",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed Unity",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-unity",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Gladius - Relics of War Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/warhammer-40-000-gladius-relics-of-war-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 53767,
+		"sale_price": 35482
+	},
+	{
+		"name": "Sid Meiers Civilization VI: Nubia Civilization & Scenario Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meiers-civilization-vi-nubia-civilization-scenario-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Fibbage XL",
+		"url": "https://www.fanatical.com/ko/game/fibbage-xl",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Trapped Dead: Lockdown",
+		"url": "https://www.fanatical.com/ko/game/trapped-dead-lockdown",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 1183
+	},
+	{
+		"name": "SHOCK TROOPERS 2nd Squad",
+		"url": "https://www.fanatical.com/ko/game/shock-troopers-2-nd-squad",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 4768
+	},
+	{
+		"name": "Stairs - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/stairs",
+		"store_name": "fanatical",
+		"normal_price": 15524,
+		"sale_price": 5270
+	},
+	{
+		"name": "Road Redemption",
+		"url": "https://www.fanatical.com/ko/game/road-redemption",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Portal Knights",
+		"url": "https://www.fanatical.com/ko/game/portal-knights",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Flock! - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/flock",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1183
+	},
+	{
+		"name": "Goat Simulator: GoatZ DLC",
+		"url": "https://www.fanatical.com/ko/dlc/goat-simulator-goat-z",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1482
+	},
+	{
+		"name": "City of God I - Prison Empire [上帝之城 I：监狱帝国]",
+		"url": "https://www.fanatical.com/ko/game/city-of-god-i-prison-empire",
+		"store_name": "fanatical",
+		"normal_price": 22695,
+		"sale_price": -1
+	},
+	{
+		"name": "Risen 3 - Titan Lords (ASIA)",
+		"url": "https://www.fanatical.com/ko/game/risen-3-titan-lords",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire",
+		"url": "https://www.fanatical.com/ko/game/pillars-of-eternity-ii-deadfire",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "Civilization VI - Vikings Scenario Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/civilization-vi-vikings-scenario-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Sanctum 2",
+		"url": "https://www.fanatical.com/ko/game/sanctum-2",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Far Cry 4 Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/far-cry-4-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "SEUM: Speedrunners from Hell",
+		"url": "https://www.fanatical.com/ko/game/seum-speedrunners-from-hell",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 5366
+	},
+	{
+		"name": "The Jackbox Party Pack 2",
+		"url": "https://www.fanatical.com/ko/game/the-jackbox-party-pack-2",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "BioShock Infinite",
+		"url": "https://www.fanatical.com/ko/game/bio-shock-infinite",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 8234
+	},
+	{
+		"name": "Dead Cells",
+		"url": "https://www.fanatical.com/ko/game/dead-cells",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "FOR HONOR™",
+		"url": "https://www.fanatical.com/ko/game/for-honor",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed Rogue - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-rogue-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Rush for Berlin Gold",
+		"url": "https://www.fanatical.com/ko/game/rush-for-berlin-gold",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Brothers - A Tale of Two Sons",
+		"url": "https://www.fanatical.com/ko/game/brothers-a-tale-of-two-sons",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Space Colony",
+		"url": "https://www.fanatical.com/ko/game/space-colony",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Phoenix Wright: Ace Attorney Trilogy",
+		"url": "https://www.fanatical.com/ko/game/phoenix-wright-ace-attorney-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Trials® Rising",
+		"url": "https://www.fanatical.com/ko/game/trials-rising",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon Wildlands Year 2 Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-ghost-recon-wildlands-year-2-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 95595,
+		"sale_price": -1
+	},
+	{
+		"name": "Homeworld Remastered Collection",
+		"url": "https://www.fanatical.com/ko/game/homeworld-remastered-collection",
+		"store_name": "fanatical",
+		"normal_price": 41816,
+		"sale_price": 10445
+	},
+	{
+		"name": "Assassin’s Creed IV Black Flag",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-iv-black-flag",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Dying Light: The Following DLC",
+		"url": "https://www.fanatical.com/ko/dlc/dying-light-the-following",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 8115
+	},
+	{
+		"name": "Max Payne 3",
+		"url": "https://www.fanatical.com/ko/game/max-payne-3",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "White Noise 2",
+		"url": "https://www.fanatical.com/ko/game/white-noise-2",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 3573
+	},
+	{
+		"name": "How to Survive 2",
+		"url": "https://www.fanatical.com/ko/game/how-to-survive-2",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Wolfenstein: Youngblood - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/wolfenstein-youngblood-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": 39665
+	},
+	{
+		"name": "Overcooked! 2",
+		"url": "https://www.fanatical.com/ko/game/overcooked-2",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Pillars of Eternity - Definitive Edition",
+		"url": "https://www.fanatical.com/ko/game/pillars-of-eternity-definitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "UNDER NIGHT IN-BIRTH Exe:Late[st]",
+		"url": "https://www.fanatical.com/ko/game/under-night-in-birth-exe-late-st",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Lunar Flight",
+		"url": "https://www.fanatical.com/ko/game/lunar-flight",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Cities In Motion Collection",
+		"url": "https://www.fanatical.com/ko/game/cim-collection",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": 14927
+	},
+	{
+		"name": "Panzer Corps",
+		"url": "https://www.fanatical.com/ko/game/panzer-corps",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 2378
+	},
+	{
+		"name": "Pharaonic",
+		"url": "https://www.fanatical.com/ko/game/pharaonic",
+		"store_name": "fanatical",
+		"normal_price": 19109,
+		"sale_price": 4768
+	},
+	{
+		"name": "Kerbal Space Program: Making History",
+		"url": "https://www.fanatical.com/ko/dlc/kerbal-space-program-making-history",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 11999
+	},
+	{
+		"name": "SoulCraft",
+		"url": "https://www.fanatical.com/ko/game/soulcraft",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2378
+	},
+	{
+		"name": "Pure Farming 2018 Deluxe",
+		"url": "https://www.fanatical.com/ko/game/pure-farming-2018-deluxe",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 17914
+	},
+	{
+		"name": "Assassin's Creed Syndicate",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-syndicate",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "RollerCoaster Tycoon Classic",
+		"url": "https://www.fanatical.com/ko/game/roller-coaster-tycoon-classic",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Project Highrise: Tokyo Towers DLC",
+		"url": "https://www.fanatical.com/ko/dlc/project-highrise-tokyo-towers",
+		"store_name": "fanatical",
+		"normal_price": 2378,
+		"sale_price": -1
+	},
+	{
+		"name": "Layers of Fear: Masterpiece Edition",
+		"url": "https://www.fanatical.com/ko/game/layers-of-fear-masterpiece-edition",
+		"store_name": "fanatical",
+		"normal_price": 27475,
+		"sale_price": 6860
+	},
+	{
+		"name": "THE LAST BLADE 2",
+		"url": "https://www.fanatical.com/ko/game/the-last-blade-2",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 5963
+	},
+	{
+		"name": "RimWorld",
+		"url": "https://www.fanatical.com/ko/game/rim-world",
+		"store_name": "fanatical",
+		"normal_price": 41816,
+		"sale_price": -1
+	},
+	{
+		"name": "InnerSpace",
+		"url": "https://www.fanatical.com/ko/game/inner-space",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 11939
+	},
+	{
+		"name": "TrackMania² Stadium",
+		"url": "https://www.fanatical.com/ko/game/track-mania-stadium",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Dark Void™ Zero",
+		"url": "https://www.fanatical.com/ko/game/dark-void-zero",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1781
+	},
+	{
+		"name": "Trapped Dead",
+		"url": "https://www.fanatical.com/ko/game/trapped-dead",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1183
+	},
+	{
+		"name": "Tom Clancy’s Splinter Cell Blacklist - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-splinter-cell-blacklist-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Bioshock Infinite: Columbia's Finest DLC",
+		"url": "https://www.fanatical.com/ko/dlc/bioshock-infinite-columbia-s-finest-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Watch_Dogs",
+		"url": "https://www.fanatical.com/ko/game/watch-dogs",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Delta Force",
+		"url": "https://www.fanatical.com/ko/game/delta-force",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": -1
+	},
+	{
+		"name": "Two Worlds II",
+		"url": "https://www.fanatical.com/ko/game/two-worlds2",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 3573
+	},
+	{
+		"name": "Assassin's Creed® Odyssey: Season Pass",
+		"url": "https://www.fanatical.com/ko/dlc/assassins-creed-odyssey-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "A Story About My Uncle",
+		"url": "https://www.fanatical.com/ko/game/a-story-about-my-uncle",
+		"store_name": "fanatical",
+		"normal_price": 15524,
+		"sale_price": 3872
+	},
+	{
+		"name": "Melty Blood Actress Again Current Code",
+		"url": "https://www.fanatical.com/ko/game/melty-blood-actress-again-current-code",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Deadlight",
+		"url": "https://www.fanatical.com/ko/game/deadlight",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Watch_Dogs 2 - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/watch-dogs-2-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "BioShock Infinite",
+		"url": "https://www.fanatical.com/ko/game/bio-shock-infinite-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 8234
+	},
+	{
+		"name": "Assassin's Creed Odyssey: Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/assassin-s-creed-odyssey-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 95595,
+		"sale_price": -1
+	},
+	{
+		"name": "Worms W.M.D (Asia)",
+		"url": "https://www.fanatical.com/ko/game/worms-w-m-d",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Devil May Cry 5",
+		"url": "https://www.fanatical.com/ko/game/devil-may-cry-5",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Juarez: Gunslinger",
+		"url": "https://www.fanatical.com/ko/game/call-of-juarez-gunslinger",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 10744
+	},
+	{
+		"name": "Secret Files: Tunguska",
+		"url": "https://www.fanatical.com/ko/game/secret-files-tunguska",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 4051
+	},
+	{
+		"name": "ADR1FT - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/adr1ft",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Dead Age",
+		"url": "https://www.fanatical.com/ko/game/dead-age",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Fallout 4: Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/fallout-4-game-of-the-year-edition",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Ford Racing 3",
+		"url": "https://www.fanatical.com/ko/game/ford-racing-3",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": -1
+	},
+	{
+		"name": "Darksiders III - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/darksiders-iii-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 95595,
+		"sale_price": 47792
+	},
+	{
+		"name": "Rocketbirds 2 Evolution",
+		"url": "https://www.fanatical.com/ko/game/rocketbirds-2-evolution",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 5963
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim Special Edition",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-v-skyrim-special-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Drawful 2",
+		"url": "https://www.fanatical.com/ko/game/drawful-2",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier's Civilization V: Complete",
+		"url": "https://www.fanatical.com/ko/game/sid-meiers-civilization-v-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "SHOCK TROOPERS",
+		"url": "https://www.fanatical.com/ko/game/shock-troopers",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 4768
+	},
+	{
+		"name": "War for the Overworld - Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/war-for-the-overworld-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed Brotherhood - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-brotherhood-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Farm Expert 2016 - Fruit Company DLC",
+		"url": "https://www.fanatical.com/ko/dlc/farm-expert-2016-fruit-company-dlc",
+		"store_name": "fanatical",
+		"normal_price": 2378,
+		"sale_price": 1183
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon: Future Soldier",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-ghost-recon-future-soldier",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Megadimension Neptunia VIIR - Deluxe Pack",
+		"url": "https://www.fanatical.com/ko/dlc/megadimension-neptunia-viir-deluxe-pack",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Sanctus Reach",
+		"url": "https://www.fanatical.com/ko/game/warhammer-40-000-sanctus-reach",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 10744
+	},
+	{
+		"name": "Far Cry 4",
+		"url": "https://www.fanatical.com/ko/game/far-cry-4",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "ZOMBI - 경기",
+		"url": "https://www.fanatical.com/ko/game/zombi",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Next Up Hero",
+		"url": "https://www.fanatical.com/ko/game/next-up-hero",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 11939
+	},
+	{
+		"name": "Trials® Rising Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/trials-rising-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "South Park: The Fractured But Whole",
+		"url": "https://www.fanatical.com/ko/game/south-park-the-fractured-but-whole",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Batman: Arkham Knight Premium Edition",
+		"url": "https://www.fanatical.com/ko/game/batman-arkham-knight-premium-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "L.A. Noire: The VR Case Files",
+		"url": "https://www.fanatical.com/ko/game/la-noire-the-vr-case-files",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Imperator: Rome",
+		"url": "https://www.fanatical.com/ko/game/imperator-rome",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "The Crew 2 - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/the-crew-2-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "The Guild II Renaissance",
+		"url": "https://www.fanatical.com/ko/game/the-guild2-renaissance",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '45 West DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-45-west",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Inner Chains",
+		"url": "https://www.fanatical.com/ko/game/inner-chains",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 9549
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '44 West DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-44-west",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps: U.S. Corps '42 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-us-corps-42",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps: U.S. Corps '44-'45 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-u-s-corps-44-45",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps: U.S. Corps '43 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-us-corps-43",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '45 East DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-45-east",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '44 East DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-44-east",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Lords of the Fallen Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/lords-of-the-fallen-game-of-the-year-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Deadlight: Director's Cut [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/deadlight-directors-cut",
+		"store_name": "fanatical",
+		"normal_price": 14329,
+		"sale_price": 3573
+	},
+	{
+		"name": "Tom Clancy's The Division - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/tom-clancys-the-division-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Sherlock Holmes: The Devil's Daughter",
+		"url": "https://www.fanatical.com/ko/game/sherlock-holmes-the-devils-daughter",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "Trainz Simulator 12",
+		"url": "https://www.fanatical.com/ko/game/trainz-simulator-12",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Victory and Glory: Napoleon",
+		"url": "https://www.fanatical.com/ko/game/victory-and-glory-napoleon",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 11819
+	},
+	{
+		"name": "Ion Maiden",
+		"url": "https://www.fanatical.com/ko/game/ion-maiden",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Greed: Black Border",
+		"url": "https://www.fanatical.com/ko/game/greed-black-border",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1183
+	},
+	{
+		"name": "Pillars of Eternity II: Deadfire - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/pillars-of-eternity-ii-deadfire-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Earth 2150 Trilogy",
+		"url": "https://www.fanatical.com/ko/game/earth2150-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": 2498
+	},
+	{
+		"name": "Arson and Plunder: Unleashed",
+		"url": "https://www.fanatical.com/ko/game/arson-and-plunder-unleashed",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": 2079
+	},
+	{
+		"name": "Hitman 2: Silent Assassin",
+		"url": "https://www.fanatical.com/ko/game/hitman-2-silent-assassin",
+		"store_name": "fanatical",
+		"normal_price": 10744,
+		"sale_price": 2677
+	},
+	{
+		"name": "Holy Avatar vs. Maidens of the Dead",
+		"url": "https://www.fanatical.com/ko/game/holy-avatar",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 2378
+	},
+	{
+		"name": "Watch_Dogs 2 Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/watch-dogs-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 83644,
+		"sale_price": -1
+	},
+	{
+		"name": "Meridian: Squad 22",
+		"url": "https://www.fanatical.com/ko/game/meridian-squad-22",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Stronghold 2: Steam Edition",
+		"url": "https://www.fanatical.com/ko/game/stronghold-2-steam-edition",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Grand Theft Auto Online : Great White Shark Cash Card",
+		"url": "https://www.fanatical.com/ko/dlc/grand-theft-auto-online-great-white-shark-cash-card",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Ghost Recon: Future Soldier - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-ghost-recon-future-soldier-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": -1
+	},
+	{
+		"name": "Farming Simulator 17",
+		"url": "https://www.fanatical.com/ko/game/farming-simulator-17",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "RollerCoaster Tycoon: Deluxe",
+		"url": "https://www.fanatical.com/ko/game/rollercoaster-tycoon-deluxe",
+		"store_name": "fanatical",
+		"normal_price": 7159,
+		"sale_price": -1
+	},
+	{
+		"name": "Field of Glory II: Age of Belisarius",
+		"url": "https://www.fanatical.com/ko/dlc/field-of-glory-ii-age-of-belisarius",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 11819
+	},
+	{
+		"name": "Beholder",
+		"url": "https://www.fanatical.com/ko/game/beholder",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "The Guest",
+		"url": "https://www.fanatical.com/ko/game/the-guest",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls Online: Morrowind - Digital Collector's Upgrade",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-morrowind-digital-collectors-upgrade",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "BlazBlue: Cross Tag Battle",
+		"url": "https://www.fanatical.com/ko/game/blaz-blue-cross-tag-battle",
+		"store_name": "fanatical",
+		"normal_price": 59743,
+		"sale_price": -1
+	},
+	{
+		"name": "Tropico 5 - Complete Collection",
+		"url": "https://www.fanatical.com/ko/game/tropico-5-complete-collection",
+		"store_name": "fanatical",
+		"normal_price": 54341,
+		"sale_price": -1
+	},
+	{
+		"name": "Furi - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/furi",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 1 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-3-collection-1",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 3: Chaos Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-3-collection-3-chaos-pack",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Sacred Citadel Complete",
+		"url": "https://www.fanatical.com/ko/game/sacred-citadel-complete",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 2976
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 2 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-3-collection-2",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Assetto Corsa - Red Pack",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-red-pack",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": -1
+	},
+	{
+		"name": "Enclave - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/enclave-new",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2378
+	},
+	{
+		"name": "BioShock Infinite - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/bio-shock-infinite-season-pass-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 11461
+	},
+	{
+		"name": "Far Cry 2: Fortune's Edition",
+		"url": "https://www.fanatical.com/ko/game/far-cry-2-fortunes-edition",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Rayman® Legends",
+		"url": "https://www.fanatical.com/ko/game/rayman-legends",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "OVERKILL's The Walking Dead - Starter Edition",
+		"url": "https://www.fanatical.com/ko/game/overkill-s-the-walking-dead-starter-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Dishonored 2",
+		"url": "https://www.fanatical.com/ko/game/dishonored-2",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Prison Tycoon Alcatraz",
+		"url": "https://www.fanatical.com/ko/game/prison-tycoon-alcatraz",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Sanctus Reach - Sons of Cadia",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-40-000-sanctus-reach-sons-of-cadia",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Safety First!",
+		"url": "https://www.fanatical.com/ko/game/safety-first",
+		"store_name": "fanatical",
+		"normal_price": 3573,
+		"sale_price": 1422
+	},
+	{
+		"name": "Learn Japanese To Survive! Hiragana Battle",
+		"url": "https://www.fanatical.com/ko/game/learn-japanese-to-survive-hiragana-battle",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": -1
+	},
+	{
+		"name": "Grotesque Tactics 2 – Dungeons and Donuts",
+		"url": "https://www.fanatical.com/ko/game/grotesque-tactics-2-dungeons-and-donuts",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 2378
+	},
+	{
+		"name": "Assassin's Creed Black Flag - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-iv-black-flag-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Farming Simulator 19",
+		"url": "https://www.fanatical.com/ko/game/farming-simulator-19",
+		"store_name": "fanatical",
+		"normal_price": 41816,
+		"sale_price": -1
+	},
+	{
+		"name": "FOR HONOR®: Marching Fire™ Edition",
+		"url": "https://www.fanatical.com/ko/game/for-honor-marching-fire-edition",
+		"store_name": "fanatical",
+		"normal_price": 71693,
+		"sale_price": -1
+	},
+	{
+		"name": "Neverwinter Nights: Enhanced Edition",
+		"url": "https://www.fanatical.com/ko/game/neverwinter-nights-enhanced-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Cyberdimension Neptunia: 4 Goddesses Online",
+		"url": "https://www.fanatical.com/ko/game/cyberdimension-neptunia-4-goddesses-online",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed Rogue",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-rogue",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed Syndicate Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/assassins-creed-syndicate-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Hitman: Codename 47",
+		"url": "https://www.fanatical.com/ko/game/hitman-codename-47",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 2378
+	},
+	{
+		"name": "Cities: Skylines - Industries Plus",
+		"url": "https://www.fanatical.com/ko/dlc/cities-skylines-industries-plus",
+		"store_name": "fanatical",
+		"normal_price": 21500,
+		"sale_price": -1
+	},
+	{
+		"name": "Supraland",
+		"url": "https://www.fanatical.com/ko/game/supraland",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "GoNNER - Press Jump To Die Edition",
+		"url": "https://www.fanatical.com/ko/game/gonner-and-soundtrack",
+		"store_name": "fanatical",
+		"normal_price": 15524,
+		"sale_price": 6203
+	},
+	{
+		"name": "Wargroove",
+		"url": "https://www.fanatical.com/ko/game/wargroove",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Freddi Fish Complete Pack",
+		"url": "https://www.fanatical.com/ko/game/freddi-fish-complete-pack",
+		"store_name": "fanatical",
+		"normal_price": 41816,
+		"sale_price": -1
+	},
+	{
+		"name": "ABZU - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/abzu",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Distrust",
+		"url": "https://www.fanatical.com/ko/game/distrust",
+		"store_name": "fanatical",
+		"normal_price": 14329,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry 3",
+		"url": "https://www.fanatical.com/ko/game/far-cry-3",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "CHAOS CODE -NEW SIGN OF CATASTROPHE-",
+		"url": "https://www.fanatical.com/ko/game/chaos-code-new-sign-of-catastrophe",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Hyperdrive Massacre",
+		"url": "https://www.fanatical.com/ko/game/hyperdrive-massacre",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 1183
+	},
+	{
+		"name": "Europa Universalis III Complete",
+		"url": "https://www.fanatical.com/ko/game/europa-universalis-III-complete",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 4470
+	},
+	{
+		"name": "Dying Light Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/dying-light-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 12178
+	},
+	{
+		"name": "South Park: The Fractured But Whole - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/south-park-the-fractured-but-whole-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Saints Row IV: Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/saints-row-iv-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Meridian: New World",
+		"url": "https://www.fanatical.com/ko/game/meridian-new-world",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": 2079
+	},
+	{
+		"name": "SOULCALIBUR VI Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/soulcalibur-vi-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 107546,
+		"sale_price": -1
+	},
+	{
+		"name": "Secret Files 2: Puritas Cordis",
+		"url": "https://www.fanatical.com/ko/game/secret-files-2-puritas-cordis",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 4051
+	},
+	{
+		"name": "Rising Storm 2: VIETNAM - Digital Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/rising-storm-2-vietnam-digital-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Californium",
+		"url": "https://www.fanatical.com/ko/game/californium",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "SEUM: The Drunk Side of the Moon DLC",
+		"url": "https://www.fanatical.com/ko/dlc/seum-the-drunk-side-of-the-moon",
+		"store_name": "fanatical",
+		"normal_price": 7159,
+		"sale_price": 3573
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell Chaos Theory®",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-splinter-cell-chaos-theory",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Cities: Skylines - Mass Transit DLC",
+		"url": "https://www.fanatical.com/ko/dlc/cities-skylines-mass-transit",
+		"store_name": "fanatical",
+		"normal_price": 15524,
+		"sale_price": -1
+	},
+	{
+		"name": "The Incredible Adventures of Van Helsing: Final Cut",
+		"url": "https://www.fanatical.com/ko/game/the-incredible-adventures-of-van-helsing-final-cut",
+		"store_name": "fanatical",
+		"normal_price": 53767,
+		"sale_price": -1
+	},
+	{
+		"name": "Field of Glory II: Rise of Persia",
+		"url": "https://www.fanatical.com/ko/dlc/field-of-glory-ii-rise-of-persia",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 11819
+	},
+	{
+		"name": "Marvel vs. Capcom: Infinite",
+		"url": "https://www.fanatical.com/ko/game/marvel-vs-capcom-infinite-game",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": 23412
+	},
+	{
+		"name": "Rise of Industry",
+		"url": "https://www.fanatical.com/ko/game/rise-of-industry",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Battlefleet Gothic: Armada 2",
+		"url": "https://www.fanatical.com/ko/game/battlefleet-gothic-armada-2",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "GRAND THEFT AUTO V: PREMIUM ONLINE EDITION & Megalodon Shark Card Bundle",
+		"url": "https://www.fanatical.com/ko/game/grand-theft-auto-v-premium-online-edition-and-megalodon-shark-card-bundle",
+		"store_name": "fanatical",
+		"normal_price": 143387,
+		"sale_price": 47314
+	},
+	{
+		"name": "How To Survive: Third Person Standalone",
+		"url": "https://www.fanatical.com/ko/game/how-to-survive-third-person-standalone",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Mortal Kombat X Premium Edition",
+		"url": "https://www.fanatical.com/ko/game/mkx-premium-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Super Sanctum TD",
+		"url": "https://www.fanatical.com/ko/game/super-sanctum-td",
+		"store_name": "fanatical",
+		"normal_price": 4768,
+		"sale_price": 2378
+	},
+	{
+		"name": "Assetto Corsa - Ready To Race Pack",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-ready-to-race-pack",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": -1
+	},
+	{
+		"name": "Redout - Soundtrack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-soundtrack",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 2856
+	},
+	{
+		"name": "Dead Island Retro Revenge",
+		"url": "https://www.fanatical.com/ko/game/dead-island-retro-revenge",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Assetto Corsa - Porsche Pack III",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-porsche-pack-iii",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": -1
+	},
+	{
+		"name": "Alan Wake's American Nightmare",
+		"url": "https://www.fanatical.com/ko/game/alan-wakes-american-nightmare",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Alan Wake Collector's Edition",
+		"url": "https://www.fanatical.com/ko/game/alan-wake-collectors-edition",
+		"store_name": "fanatical",
+		"normal_price": 41816,
+		"sale_price": -1
+	},
+	{
+		"name": "Saint's Row: Gat Out of Hell - Devil's Workshop Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/saints-row-gat-out-of-hell-devils-workshop-pack",
+		"store_name": "fanatical",
+		"normal_price": 2378,
+		"sale_price": 1183
+	},
+	{
+		"name": "Sanctum - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/sanctum",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 2976
+	},
+	{
+		"name": "MEMORIES OF MARS",
+		"url": "https://www.fanatical.com/ko/game/memories-of-mars",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto Corsa -Tripl3 Pack",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-tripl-3-pack",
+		"store_name": "fanatical",
+		"normal_price": 2378,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Duty: Modern Warfare 3 Collection 4: Final Assault DLC",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-modern-warfare-3-collection-4-final-assault",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Virginia",
+		"url": "https://www.fanatical.com/ko/game/virginia",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Mighty No. 9 - Ray Expansion DLC",
+		"url": "https://www.fanatical.com/ko/dlc/mighty-no-9-ray-expansion",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2976
+	},
+	{
+		"name": "Pixel Heroes: Byte & Magic",
+		"url": "https://www.fanatical.com/ko/game/pixel-heroes-byte-and-magic",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 4768
+	},
+	{
+		"name": "KnightShift",
+		"url": "https://www.fanatical.com/ko/game/knightshift",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": 2498
+	},
+	{
+		"name": "Wolfenstein: Youngblood",
+		"url": "https://www.fanatical.com/ko/game/wolfenstein-youngblood",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": 29746
+	},
+	{
+		"name": "Dub Dash",
+		"url": "https://www.fanatical.com/ko/game/dub-dash",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1482
+	},
+	{
+		"name": "Depths of Fear :: Knossos",
+		"url": "https://www.fanatical.com/ko/game/depths-of-fear-knossos",
+		"store_name": "fanatical",
+		"normal_price": 7159,
+		"sale_price": 1064
+	},
+	{
+		"name": "Mafia III",
+		"url": "https://www.fanatical.com/ko/game/mafia-iii-game-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": 10983
+	},
+	{
+		"name": "Panzer Corps: Grand Campaign '39 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-39",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '41 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-41",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '40 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-40",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '42 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-42",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Panzer Corps Grand Campaign '43 DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-grand-campaign-43",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 2318
+	},
+	{
+		"name": "Quarantine",
+		"url": "https://www.fanatical.com/ko/game/quarantine",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Tower 57",
+		"url": "https://www.fanatical.com/ko/game/tower-57",
+		"store_name": "fanatical",
+		"normal_price": 14329,
+		"sale_price": 4864
+	},
+	{
+		"name": "Tormentor❌Punisher",
+		"url": "https://www.fanatical.com/ko/game/tormentor-punisher",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 3334
+	},
+	{
+		"name": "Umbrella Corps",
+		"url": "https://www.fanatical.com/ko/game/umbrella-corps-biohazard-umbrella-corps",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 4768
+	},
+	{
+		"name": "Redout - Back to Earth Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-back-to-earth-pack",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 3573
+	},
+	{
+		"name": "Redout - Space Exploration Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-space-exploration-pack",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 3573
+	},
+	{
+		"name": "Redout - Neptune Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-neptune-pack",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 2856
+	},
+	{
+		"name": "Redout - Mars Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-mars-pack",
+		"store_name": "fanatical",
+		"normal_price": 8354,
+		"sale_price": 2498
+	},
+	{
+		"name": "Redout - V.E.R.T.E.X. Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/redout-vertex-pack",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1781
+	},
+	{
+		"name": "Layers of Fear",
+		"url": "https://www.fanatical.com/ko/game/layers-of-fear",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 5963
+	},
+	{
+		"name": "BASEBALL STARS 2",
+		"url": "https://www.fanatical.com/ko/game/baseball-stars-2",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": 4768
+	},
+	{
+		"name": "LEGO® Worlds: Classic Space Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/lego-worlds-classic-space-pack",
+		"store_name": "fanatical",
+		"normal_price": 4768,
+		"sale_price": -1
+	},
+	{
+		"name": "RAGE - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/rage",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Last Day of June",
+		"url": "https://www.fanatical.com/ko/game/last-day-of-june",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Deadly 30",
+		"url": "https://www.fanatical.com/ko/game/deadly30",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": 1482
+	},
+	{
+		"name": "Dandara - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/dandara",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8055
+	},
+	{
+		"name": "Panzer Corps: Afrika Korps DLC",
+		"url": "https://www.fanatical.com/ko/dlc/panzer-corps-afrika-korps",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 5904
+	},
+	{
+		"name": "GoNNER - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/gonner",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": 4768
+	},
+	{
+		"name": "Endless Space® - Collection",
+		"url": "https://www.fanatical.com/ko/game/endless-space-collection",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 5963
+	},
+	{
+		"name": "Battlestar Galactica Deadlock: Anabasis",
+		"url": "https://www.fanatical.com/ko/game/battlestar-galactica-deadlock-anabasis",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "How to Survive",
+		"url": "https://www.fanatical.com/ko/game/how-to-survive-game",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Battlestar Galactica Deadlock: Reinforcement Pack",
+		"url": "https://www.fanatical.com/ko/dlc/battlestar-galactica-deadlock-reinforcement-pack",
+		"store_name": "fanatical",
+		"normal_price": 5963,
+		"sale_price": -1
+	},
+	{
+		"name": "Child of Light",
+		"url": "https://www.fanatical.com/ko/game/child-of-light",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Trials Evolution: Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/trials-evolution-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-splinter-cell",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Prince of Persia: The Forgotten Sands - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/prince-of-persia-the-forgotten-sands-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy’s Splinter Cell Blacklist",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-splinter-cell-blacklist",
+		"store_name": "fanatical",
+		"normal_price": 35841,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Vegas 2",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-rainbow-six-vegas-2",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Vegas",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-rainbow-six-vegas",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Grand Theft Auto IV",
+		"url": "https://www.fanatical.com/ko/game/grand-theft-auto-iv",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Furi - One More Fight DLC",
+		"url": "https://www.fanatical.com/ko/dlc/furi-one-more-fight",
+		"store_name": "fanatical",
+		"normal_price": 4768,
+		"sale_price": -1
+	},
+	{
+		"name": "I Am Alive",
+		"url": "https://www.fanatical.com/ko/game/i-am-alive",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Prince of Persia: The Two Thrones",
+		"url": "https://www.fanatical.com/ko/game/prince-of-persia-the-two-thrones",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Prince of Persia: The Forgotten Sands",
+		"url": "https://www.fanatical.com/ko/game/prince-of-persia-the-forgotten-sands",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "Far Cry 3 - Blood Dragon",
+		"url": "https://www.fanatical.com/ko/game/far-cry-3-blood-dragon",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "FATE - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/fate",
+		"store_name": "fanatical",
+		"normal_price": 9549,
+		"sale_price": -1
+	},
+	{
+		"name": "Watch_Dogs - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/watch-dogs-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Prince of Persia®: The Sands of Time",
+		"url": "https://www.fanatical.com/ko/game/prince-of-persia-the-sands-of-time",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "RIOT - Civil Unrest",
+		"url": "https://www.fanatical.com/ko/game/riot-civil-unrest",
+		"store_name": "fanatical",
+		"normal_price": 15524,
+		"sale_price": -1
+	},
+	{
+		"name": "Trials Fusion",
+		"url": "https://www.fanatical.com/ko/game/trials-fusion",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": -1
+	},
+	{
+		"name": "Revolution Under Siege Gold",
+		"url": "https://www.fanatical.com/ko/game/revolution-under-siege-gold",
+		"store_name": "fanatical",
+		"normal_price": 29865,
+		"sale_price": 7457
+	},
+	{
+		"name": "Anarcute",
+		"url": "https://www.fanatical.com/ko/game/anarcute",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": -1
+	},
+	{
+		"name": "Thea: The Awakening",
+		"url": "https://www.fanatical.com/ko/game/thea-the-awakening",
+		"store_name": "fanatical",
+		"normal_price": 23890,
+		"sale_price": 11939
+	},
+	{
+		"name": "Cold Fear™",
+		"url": "https://www.fanatical.com/ko/game/cold-fear",
+		"store_name": "fanatical",
+		"normal_price": 11939,
+		"sale_price": -1
+	},
+	{
+		"name": "BioShock Infinite: Burial at Sea - Episode One DLC",
+		"url": "https://www.fanatical.com/ko/dlc/bio-shock-infinite-burial-at-sea-episode-one-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "BioShock Infinite: Burial at Sea - Episode Two DLC",
+		"url": "https://www.fanatical.com/ko/dlc/bio-shock-infinite-burial-at-sea-episode-two-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 17914,
+		"sale_price": 8951
+	},
+	{
+		"name": "Trials Fusion - The Awesome MAX Edition",
+		"url": "https://www.fanatical.com/ko/game/trials-fusion-the-awesome-max-edition",
+		"store_name": "fanatical",
+		"normal_price": 47792,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Splinter Cell Double Agent®",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-splinter-cell-double-agent",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Rayman Raving Rabbids",
+		"url": "https://www.fanatical.com/ko/game/rayman-raving-rabbids",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Grow Home",
+		"url": "https://www.fanatical.com/ko/game/grow-home",
+		"store_name": "fanatical",
+		"normal_price": 9541,
+		"sale_price": -1
+	},
+	{
+		"name": "Prince of Persia®",
+		"url": "https://www.fanatical.com/ko/game/prince-of-persia",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Risen 3 - Adventure Garb DLC",
+		"url": "https://www.fanatical.com/ko/dlc/risen-3-adventure-garb",
+		"store_name": "fanatical",
+		"normal_price": 2376,
+		"sale_price": 1182
+	},
+	{
+		"name": "Steep - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/steep-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Qvadriga",
+		"url": "https://www.fanatical.com/ko/game/qvadriga",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 5720
+	},
+	{
+		"name": "Chicken Shoot Gold",
+		"url": "https://www.fanatical.com/ko/game/chickenshoot-gold",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 2496
+	},
+	{
+		"name": "Field of Glory II: Immortal Fire",
+		"url": "https://www.fanatical.com/ko/dlc/field-of-glory-ii-immortal-fire",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 11810
+	},
+	{
+		"name": "Bridge Constructor Trains - Expansion Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/bridge-constructor-trains-expansion-pack",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": 2496
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-v-skyrim",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Grow Up - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/grow-up",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Might & Magic: Heroes VI - Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/might-magic-heroes-vi-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "The Waste Land",
+		"url": "https://www.fanatical.com/ko/game/the-waste-land",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 1779
+	},
+	{
+		"name": "In Between",
+		"url": "https://www.fanatical.com/ko/game/in-between",
+		"store_name": "fanatical",
+		"normal_price": 14318,
+		"sale_price": 5720
+	},
+	{
+		"name": "South Park: The Stick of Truth",
+		"url": "https://www.fanatical.com/ko/game/south-park-the-stick-of-truth",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Valiant Hearts: The Great War",
+		"url": "https://www.fanatical.com/ko/game/valiant-hearts-the-great-war",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "KryptCrawler",
+		"url": "https://www.fanatical.com/ko/game/kryptcrawler",
+		"store_name": "fanatical",
+		"normal_price": 9541,
+		"sale_price": 4765
+	},
+	{
+		"name": "Far Cry - 경기",
+		"url": "https://www.fanatical.com/ko/game/far-cry",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "ICY: Frostbite Edition",
+		"url": "https://www.fanatical.com/ko/game/icy-frostbite-edition",
+		"store_name": "fanatical",
+		"normal_price": 15512,
+		"sale_price": 4645
+	},
+	{
+		"name": "The Elder Scrolls Online: Summerset Upgrade",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-summerset-upgrade",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Brothers in Arms: Hell's Highway",
+		"url": "https://www.fanatical.com/ko/game/brothers-in-arms-hells-highway",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "The Settlers® : Rise of an Empire - History Edition",
+		"url": "https://www.fanatical.com/ko/game/the-settlers-rise-of-an-empire-history-edition",
+		"store_name": "fanatical",
+		"normal_price": 14318,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto Corsa - Porsche Pack I",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-porsche-pack-i",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Hearts of Iron IV: Man the Guns",
+		"url": "https://www.fanatical.com/ko/dlc/hearts-of-iron-iv-man-the-guns",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "TRISTOY - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/tristoy",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 2078
+	},
+	{
+		"name": "Assetto Corsa - Porsche Pack II",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-porsche-pack-ii",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Majesty Gold HD",
+		"url": "https://www.fanatical.com/ko/game/majesty-gold",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Alea Jacta Est: Parthian Wars DLC",
+		"url": "https://www.fanatical.com/ko/dlc/alea-jacta-est-parthian-wars",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 11691
+	},
+	{
+		"name": "Wolfenstein 3D",
+		"url": "https://www.fanatical.com/ko/game/wolfenstein-3d",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Lumo - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/lumo-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto corsa - Japanese Pack",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-japanese-pack",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "Star Hammer: The Vanguard Prophecy",
+		"url": "https://www.fanatical.com/ko/game/star-hammer-the-vanguard-prophecy",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 5959
+	},
+	{
+		"name": "Sprint Cars Road to Knoxville",
+		"url": "https://www.fanatical.com/ko/game/sprint-cars-road-to-knoxville",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Ultimate Vault Hunters Upgrade Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-ultimate-vault-hunters-upgrade-pack-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": 1958
+	},
+	{
+		"name": "Battle vs. Chess - Dark Desert DLC",
+		"url": "https://www.fanatical.com/ko/dlc/battle-vs-chess-dark-desert-dlc",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 5589
+	},
+	{
+		"name": "Lost Horizon",
+		"url": "https://www.fanatical.com/ko/game/lost-horizon",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "Anno 2205",
+		"url": "https://www.fanatical.com/ko/game/anno-2205",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin's Creed Freedom Cry",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-freedom-cry",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Saints Row IV (ASIA)",
+		"url": "https://www.fanatical.com/ko/game/saints-row-iv",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 4466
+	},
+	{
+		"name": "Double Dragon Trilogy",
+		"url": "https://www.fanatical.com/ko/game/double-dragon-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 7153,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed Brotherhood",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-brotherhood",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's EndWar",
+		"url": "https://www.fanatical.com/ko/game/tom-clancys-end-war",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Nippon Marathon",
+		"url": "https://www.fanatical.com/ko/game/nippon-marathon",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Sniper Elite V2 Remastered",
+		"url": "https://www.fanatical.com/ko/game/sniper-elite-v-2-remastered",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": 35515
+	},
+	{
+		"name": "Batman: Arkham City - Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/batman-arkham-city-goty",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Juarez",
+		"url": "https://www.fanatical.com/ko/game/call-of-juarez",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "Secret Files 3",
+		"url": "https://www.fanatical.com/ko/game/secret-files-3",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 8108
+	},
+	{
+		"name": "Anno 2205™ - Season Pass",
+		"url": "https://www.fanatical.com/ko/dlc/anno-2205-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Flashing Lights - Police Fire EMS",
+		"url": "https://www.fanatical.com/ko/game/flashing-lights-police-fire-ems",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Silent Hunter 5®: Battle of the Atlantic",
+		"url": "https://www.fanatical.com/ko/game/silent-hunter-5-battle-of-the-atlantic",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Darksiders II Deathinitive Edition",
+		"url": "https://www.fanatical.com/ko/game/darksiders-ii-deathinitive-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": 8944
+	},
+	{
+		"name": "LEGO Jurassic World",
+		"url": "https://www.fanatical.com/ko/game/lego-jurassic-world",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Tom Clancy's Rainbow Six Lockdown™",
+		"url": "https://www.fanatical.com/ko/game/tom-clancy-s-rainbow-six-lockdown",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "The Settlers® 7 : History Edition",
+		"url": "https://www.fanatical.com/ko/game/the-settlers-7-history-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Dying Light: Bad Blood",
+		"url": "https://www.fanatical.com/ko/game/dying-light-bad-blood",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 15990
+	},
+	{
+		"name": "Steep: Road to the Olympics Expansion DLC",
+		"url": "https://www.fanatical.com/ko/dlc/steep-road-to-the-olympics",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Assetto Corsa - Dream Pack 2",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-dream-pack-2",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Project Highrise",
+		"url": "https://www.fanatical.com/ko/game/project-highrise",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "FOR HONOR™ YEAR 1 : HEROES BUNDLE",
+		"url": "https://www.fanatical.com/ko/dlc/for-honor-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Glass Masquerade 2: Illusions",
+		"url": "https://www.fanatical.com/ko/game/glass-masquerade-2-illusions",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "TransRoad: USA",
+		"url": "https://www.fanatical.com/ko/game/trans-road-usa",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Northgard",
+		"url": "https://www.fanatical.com/ko/game/northgard",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Dungeons & Robots",
+		"url": "https://www.fanatical.com/ko/game/dungeons-robots",
+		"store_name": "fanatical",
+		"normal_price": 10736,
+		"sale_price": 3642
+	},
+	{
+		"name": "Mining Industry Simulator",
+		"url": "https://www.fanatical.com/ko/game/mining-industry-simulator",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2376
+	},
+	{
+		"name": "Anno 2070",
+		"url": "https://www.fanatical.com/ko/game/anno-2070",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Wurm Unlimited",
+		"url": "https://www.fanatical.com/ko/game/wurm-unlimited",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls IV: Oblivion® Game of the Year Edition Deluxe",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-iv-oblivionr-game-of-the-year-edition-deluxe",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Little Nightmares",
+		"url": "https://www.fanatical.com/ko/game/little-nightmares",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Valnir Rok Survival RPG",
+		"url": "https://www.fanatical.com/ko/game/valnir-rok-survival-rpg-mystery",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Epistory - Typing Chronicles",
+		"url": "https://www.fanatical.com/ko/game/epistory-typing-chronicles",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Mega Man Legacy Collection 2",
+		"url": "https://www.fanatical.com/ko/game/mega-man-legacy-collection-2",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 14318
+	},
+	{
+		"name": "BATTLETECH Season Pass",
+		"url": "https://www.fanatical.com/ko/dlc/battletech-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Summoner",
+		"url": "https://www.fanatical.com/ko/game/summoner-game",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Falcon 4.0",
+		"url": "https://www.fanatical.com/ko/game/falcon-4-0",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Steep - X-Games Pass",
+		"url": "https://www.fanatical.com/ko/game/steep-x-games-pass",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Advanced Tactics Gold",
+		"url": "https://www.fanatical.com/ko/game/advanced-tactics-gold",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": 11810
+	},
+	{
+		"name": "Warhammer: Vermintide 2 - Collector's Edition",
+		"url": "https://www.fanatical.com/ko/game/warhammer-vermintide-2-collectors-edition",
+		"store_name": "fanatical",
+		"normal_price": 53726,
+		"sale_price": -1
+	},
+	{
+		"name": "Might & Magic: Heroes VI - Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/might-magic-heroes-vi-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Battle Academy 2: Eastern Front",
+		"url": "https://www.fanatical.com/ko/game/battle-academy-2-eastern-front",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": 11930
+	},
+	{
+		"name": "Imperator: Rome - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/imperator-rome-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 65668,
+		"sale_price": -1
+	},
+	{
+		"name": "Out of the Park Baseball 19",
+		"url": "https://www.fanatical.com/ko/game/out-of-the-park-baseball-19",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Iconoclasts",
+		"url": "https://www.fanatical.com/ko/game/iconoclasts",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Blades of Time Limited Edition",
+		"url": "https://www.fanatical.com/ko/game/blades-of-time-limited-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2 - Captain Scarlett and her Pirate's Booty DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-captain-scarlett-and-her-pirate-s-booty-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 3929
+	},
+	{
+		"name": "Just Dance 2017",
+		"url": "https://www.fanatical.com/ko/game/just-dance-2017",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Lost Horizon 2",
+		"url": "https://www.fanatical.com/ko/game/lost-horizon-2",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 3571
+	},
+	{
+		"name": "HITMAN™ 2 - Expansion Pass",
+		"url": "https://www.fanatical.com/ko/dlc/hitman-2-expansion-pass",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Pajama Sam 4: Life Is Rough When You Lose Your Stuff!",
+		"url": "https://www.fanatical.com/ko/game/pajama-sam-4-life-is-rough-when-you-lose-your-stuff",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Dream Pinball 3D",
+		"url": "https://www.fanatical.com/ko/game/dream-pinball-3d",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 2496
+	},
+	{
+		"name": "The Escapists 2 [ASIA]",
+		"url": "https://www.fanatical.com/ko/game/the-escapists-2",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Heroes of Might & Magic V: Tribes of the East",
+		"url": "https://www.fanatical.com/ko/game/heroes-of-might-magic-v-tribes-of-the-east",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "The Westport Independent",
+		"url": "https://www.fanatical.com/ko/game/the-westport-independent",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "Universe Sandbox ²",
+		"url": "https://www.fanatical.com/ko/game/universe-sandbox-2",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Fallout: New Vegas Ultimate Edition",
+		"url": "https://www.fanatical.com/ko/game/fallout-new-vegas-ultimate-edition",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Star Trek™: Bridge Crew (Oculus)",
+		"url": "https://www.fanatical.com/ko/game/star-trek-bridge-crew-oculus-rift",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Learn Japanese To Survive! Katakana War",
+		"url": "https://www.fanatical.com/ko/game/learn-japanese-to-survive-katakana-war",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Shadow Tactics: Blades of the Shogun",
+		"url": "https://www.fanatical.com/ko/game/shadow-tactics-blades-of-the-shogun",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "The Wild Eight",
+		"url": "https://www.fanatical.com/ko/game/the-wild-eight",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Euro Truck Simulator 2 - Italia DLC",
+		"url": "https://www.fanatical.com/ko/dlc/euro-truck-simulator-2-italia",
+		"store_name": "fanatical",
+		"normal_price": 21483,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed® Chronicles: India",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-chronicles-india",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "YOU DON'T KNOW JACK Classic Pack",
+		"url": "https://www.fanatical.com/ko/game/you-dont-know-jack-classic-pack",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Gurumin: A Monstrous Adventure",
+		"url": "https://www.fanatical.com/ko/game/gurumin",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "EXAPUNKS",
+		"url": "https://www.fanatical.com/ko/game/exapunks",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "SHENZHEN I/O",
+		"url": "https://www.fanatical.com/ko/game/shenzhen-i-o",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Leisure Suit Larry - Wet Dreams Don't Dry",
+		"url": "https://www.fanatical.com/ko/game/leisure-suit-larry-wet-dreams-don-t-dry",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Cities: Skylines Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/cities-skylines-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Europa Universalis IV: The Cossacks DLC",
+		"url": "https://www.fanatical.com/ko/dlc/europa-universalis-iv-the-cossacks-dlc",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Trials Fusion Season Pass",
+		"url": "https://www.fanatical.com/ko/dlc/trials-fusion-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed® Chronicles: Russia",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-chronicles-russia",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "DARK SOULS III - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/dark-souls-iii-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Flying Tigers: Shadows Over China",
+		"url": "https://www.fanatical.com/ko/game/flying-tigers-shadows-over-china",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "The Banner Saga 2",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga-2",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Silent Service 2",
+		"url": "https://www.fanatical.com/ko/game/silent-service-2",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Overcooked",
+		"url": "https://www.fanatical.com/ko/game/overcooked",
+		"store_name": "fanatical",
+		"normal_price": 20289,
+		"sale_price": -1
+	},
+	{
+		"name": "Mad Max - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/mad-max",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Stellaris",
+		"url": "https://www.fanatical.com/ko/game/stellaris",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Hearts of Iron IV: Waking the Tiger DLC",
+		"url": "https://www.fanatical.com/ko/dlc/hearts-of-iron-iv-waking-the-tiger",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Cities XL Platinum",
+		"url": "https://www.fanatical.com/ko/game/cities-xl-platinum",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "DisplayFusion",
+		"url": "https://www.fanatical.com/ko/game/display-fusion",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Opus Magnum",
+		"url": "https://www.fanatical.com/ko/game/opus-magnum",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Armageddon - Angels of Death DLC",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-40-000-armageddon-angels-of-death",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": 3511
+	},
+	{
+		"name": "Warhammer 40,000: Armageddon - Vulkan's Wrath DLC",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-40-000-armageddon-vulkan-s-wrath",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": 3511
+	},
+	{
+		"name": "Warhammer 40,000: Armageddon - Glory of Macragge DLC",
+		"url": "https://www.fanatical.com/ko/dlc/warhammer-40-000-armageddon-glory-of-macragge",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": 3511
+	},
+	{
+		"name": "Kingdom Come: Deliverance",
+		"url": "https://www.fanatical.com/ko/game/kingdom-come-deliverance",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Dark Souls III - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/dark-souls-iii-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 101481,
+		"sale_price": -1
+	},
+	{
+		"name": "Graveyard Keeper",
+		"url": "https://www.fanatical.com/ko/game/graveyard-keeper",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Pajama Sam: No Need to Hide When It's Dark Outside",
+		"url": "https://www.fanatical.com/ko/game/pajama-sam-no-need-to-hide",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+		"url": "https://www.fanatical.com/ko/game/guilty-gear-xx-accent-core-plus-r",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Slain: Back from Hell",
+		"url": "https://www.fanatical.com/ko/game/slain",
+		"store_name": "fanatical",
+		"normal_price": 15512,
+		"sale_price": -1
+	},
+	{
+		"name": "Helicopter 2015: Natural Disasters",
+		"url": "https://www.fanatical.com/ko/game/helicopter-2015-natural-disasters",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "The Banner Saga",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Aliens versus Predator Classic 2000",
+		"url": "https://www.fanatical.com/ko/game/aliens-versus-predator-classic-2000",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Fallout 4",
+		"url": "https://www.fanatical.com/ko/game/fallout-4",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Pro Rugby Manager 2015",
+		"url": "https://www.fanatical.com/ko/game/pro-rugby-manager-2015",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Project CARS 2 - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/project-cars-2-deluxe-edition-game",
+		"store_name": "fanatical",
+		"normal_price": 107464,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls V: Skyrim VR",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-v-skyrim-vr",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Middle-earth: Shadow of Mordor Game of the Year Edition",
+		"url": "https://www.fanatical.com/ko/game/shadow-of-mordor-game-of-the-year-edition",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Assassin’s Creed Chronicles Trilogy",
+		"url": "https://www.fanatical.com/ko/game/assassins-creed-chronicles-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "CASE: Animatronics",
+		"url": "https://www.fanatical.com/ko/game/case-animatronics",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Armikrog",
+		"url": "https://www.fanatical.com/ko/game/armikrog",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Headhunter 1: Bloody Harvest DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-headhunter-1-bloody-harvest",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "Baldur's Gate II: Enhanced Edition",
+		"url": "https://www.fanatical.com/ko/game/baldurs-gate-ii-enhanced-edition",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Pajama Sam 3: You Are What You Eat From Your Head To Your Feet",
+		"url": "https://www.fanatical.com/ko/game/pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Cities: Skylines",
+		"url": "https://www.fanatical.com/ko/game/cities-skylines",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Cossacks 3",
+		"url": "https://www.fanatical.com/ko/game/cossacks-3",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Kings of Kung Fu",
+		"url": "https://www.fanatical.com/ko/game/kings-of-kung-fu",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "ATOMEGA - 스팀 게임",
+		"url": "https://www.fanatical.com/ko/game/atomega",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "DESOLATE",
+		"url": "https://www.fanatical.com/ko/game/desolate",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Victoria I Complete",
+		"url": "https://www.fanatical.com/ko/game/victoria-i-complete",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "Wolfenstein II: The New Colossus - Digital Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/wolfenstein-ii-the-new-colossus-digital-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 95522,
+		"sale_price": -1
+	},
+	{
+		"name": "Trials of the Blood Dragon",
+		"url": "https://www.fanatical.com/ko/game/trials-of-the-blood-dragon",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Freddi Fish and The Case of the Missing Kelp Seeds",
+		"url": "https://www.fanatical.com/ko/game/freddi-fish-case-of-missing-sea-kelp",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Fallout 4 Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/fallout-4-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Pajama Sam 2: Thunder and Lightning Aren't So Frightening",
+		"url": "https://www.fanatical.com/ko/game/pajama-sam-2-thunder-and-lightning-aren-t-so-frightening",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Might & Magic X - Legacy - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/might-magic-x-legacy-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "American Truck Simulator Gold",
+		"url": "https://www.fanatical.com/ko/game/american-truck-simulator-gold",
+		"store_name": "fanatical",
+		"normal_price": 35885,
+		"sale_price": -1
+	},
+	{
+		"name": "Might & Magic X - Legacy",
+		"url": "https://www.fanatical.com/ko/game/might-magic-x-legacy",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Mortal Kombat X: Alien DLC",
+		"url": "https://www.fanatical.com/ko/dlc/mkx-alien",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Battle Academy 2 - Battle of Kursk DLC",
+		"url": "https://www.fanatical.com/ko/dlc/battle-academy-2-battle-of-kursk",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": 5959
+	},
+	{
+		"name": "Cyber Chicken",
+		"url": "https://www.fanatical.com/ko/game/cyber-chicken",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Dungeons 3",
+		"url": "https://www.fanatical.com/ko/game/dungeons-3",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Railway Empire",
+		"url": "https://www.fanatical.com/ko/game/railway-empire",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Stellaris: MegaCorp",
+		"url": "https://www.fanatical.com/ko/dlc/stellaris-mega-corp",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "GUILTY GEAR Xrd -SIGN-",
+		"url": "https://www.fanatical.com/ko/game/guilty-gear-xrd-sign",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Sniper Ghost Warrior 3",
+		"url": "https://www.fanatical.com/ko/game/sniper-ghost-warrior-3",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Construction Machines Simulator 2016",
+		"url": "https://www.fanatical.com/ko/game/construction-machines-simulator-2016",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 2974
+	},
+	{
+		"name": "Obscuritas",
+		"url": "https://www.fanatical.com/ko/game/obscuritas",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 3571
+	},
+	{
+		"name": "Sword Art Online: Hollow Realization Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/sword-art-online-hollow-realization-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Project CARS 2",
+		"url": "https://www.fanatical.com/ko/game/project-cars-2-game",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Ys VIII: Lacrimosa of DANA",
+		"url": "https://www.fanatical.com/ko/game/ys-viii-lacrimosa-of-dana-viii-lacrimosa-of-dana",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands 2: Mr. Torgue’s Campaign of Carnage DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-2-mr-torgue-s-campaign-of-carnage-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 3929
+	},
+	{
+		"name": "Dead Rising 4 - Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/dead-rising-4-season-pass",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 7750
+	},
+	{
+		"name": "Assetto Corsa - Dream Pack 3",
+		"url": "https://www.fanatical.com/ko/dlc/assetto-corsa-dream-pack-3",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "Brothers in Arms: Road to Hill 30",
+		"url": "https://www.fanatical.com/ko/game/brothers-in-arms-road-to-hill-30",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO DC Super-Villains - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/lego-dc-super-villains-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 65668,
+		"sale_price": -1
+	},
+	{
+		"name": "GUILTY GEAR 2 -OVERTURE-",
+		"url": "https://www.fanatical.com/ko/game/guilty-gear-2-overture",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Legendary",
+		"url": "https://www.fanatical.com/ko/game/PCD4823X",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "Starpoint Gemini 2",
+		"url": "https://www.fanatical.com/ko/game/starpoint-gemini-2",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Command: Modern Air / Naval Operations WOTY",
+		"url": "https://www.fanatical.com/ko/game/command-modern-air-naval-operations-woty",
+		"store_name": "fanatical",
+		"normal_price": 95522,
+		"sale_price": 31514
+	},
+	{
+		"name": "BATTLETECH",
+		"url": "https://www.fanatical.com/ko/game/battletech",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Dishonored Complete Collection",
+		"url": "https://www.fanatical.com/ko/game/dishonored-complete-collection",
+		"store_name": "fanatical",
+		"normal_price": 95522,
+		"sale_price": -1
+	},
+	{
+		"name": "Geometry Wars 3: Dimensions Evolved",
+		"url": "https://www.fanatical.com/ko/game/geometry-wars-3-dimensions-evolved",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 8944
+	},
+	{
+		"name": "Battlezone 98 Redux",
+		"url": "https://www.fanatical.com/ko/game/battlezone-98-redux",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "State of Mind",
+		"url": "https://www.fanatical.com/ko/game/state-of-mind",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Hearts of Iron IV: Cadet Edition",
+		"url": "https://www.fanatical.com/ko/game/hearts-of-iron-iv-cadet-edition",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Stellaris: Apocalypse DLC",
+		"url": "https://www.fanatical.com/ko/dlc/stellaris-apocalypse",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "War for the Overworld",
+		"url": "https://www.fanatical.com/ko/game/war-for-the-overworld",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "The Elder Scrolls Online: Summerset Digital Collector’s Upgrade",
+		"url": "https://www.fanatical.com/ko/game/the-elder-scrolls-online-summerset-digital-collectors-upgrade",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "METAL SLUG X",
+		"url": "https://www.fanatical.com/ko/game/metal-slug-x",
+		"store_name": "fanatical",
+		"normal_price": 9541,
+		"sale_price": 4192
+	},
+	{
+		"name": "Battle vs Chess - Floating Island DLC",
+		"url": "https://www.fanatical.com/ko/dlc/battle-vs-chess-floating-island-dlc",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 5589
+	},
+	{
+		"name": "Scribblenauts Unlimited",
+		"url": "https://www.fanatical.com/ko/game/scribblenauts-unlimited",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Mist Survival",
+		"url": "https://www.fanatical.com/ko/game/mist-survival",
+		"store_name": "fanatical",
+		"normal_price": 13124,
+		"sale_price": -1
+	},
+	{
+		"name": "House Party",
+		"url": "https://www.fanatical.com/ko/game/house-party",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Crazy Machines",
+		"url": "https://www.fanatical.com/ko/game/crazy-machines",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier's Civilization: Beyond Earth",
+		"url": "https://www.fanatical.com/ko/game/sid-meiers-civilization-beyond-earth-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": 11930
+	},
+	{
+		"name": "THE KING OF FIGHTERS Triple Pack",
+		"url": "https://www.fanatical.com/ko/bundle/the-king-of-fighters-triple-pack",
+		"store_name": "fanatical",
+		"normal_price": 59673,
+		"sale_price": -1
+	},
+	{
+		"name": "Endless Legend: Classic Edition",
+		"url": "https://www.fanatical.com/ko/game/endless-legend-classic-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Letter Quest: Grimm's Journey Remastered",
+		"url": "https://www.fanatical.com/ko/game/letter-quest-grimms-journey-remastered",
+		"store_name": "fanatical",
+		"normal_price": 9541,
+		"sale_price": -1
+	},
+	{
+		"name": "Bad Bots",
+		"url": "https://www.fanatical.com/ko/game/bad-bots",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": 585
+	},
+	{
+		"name": "Freddi Fish 5: The Case of the Creature of Coral Cove",
+		"url": "https://www.fanatical.com/ko/game/freddi-fish-5-the-case-of-the-creature-of-coral-cove",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Marvel Super Heroes 2 - Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/lego-marvel-super-heroes-2-deluxe-edition-game",
+		"store_name": "fanatical",
+		"normal_price": 65668,
+		"sale_price": -1
+	},
+	{
+		"name": "Starpoint Gemini Warlords: Rise of Numibia DLC",
+		"url": "https://www.fanatical.com/ko/dlc/starpoint-gemini-warlords-rise-of-numibia",
+		"store_name": "fanatical",
+		"normal_price": 9541,
+		"sale_price": -1
+	},
+	{
+		"name": "Batman: Arkham Knight",
+		"url": "https://www.fanatical.com/ko/game/batman-arkham-knight",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Stars in Shadow",
+		"url": "https://www.fanatical.com/ko/game/stars-in-shadow",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Blueprint Tycoon",
+		"url": "https://www.fanatical.com/ko/game/blueprint-tycoon",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "Lucy -The Eternity She Wished For-",
+		"url": "https://www.fanatical.com/ko/game/lucy-the-eternity-she-wished-for",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Sacred Gold",
+		"url": "https://www.fanatical.com/ko/game/sacred-gold",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Dawn of Andromeda",
+		"url": "https://www.fanatical.com/ko/game/dawn-of-andromeda",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Jagged Alliance 1: Gold Edition",
+		"url": "https://www.fanatical.com/ko/game/jagged-alliance-1-gold-edition",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Van Helsing II : Complete Pack",
+		"url": "https://www.fanatical.com/ko/game/the-incredible-adventures-of-van-helsing-ii-complete-pack",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "War for the Overworld Underlord Edition",
+		"url": "https://www.fanatical.com/ko/game/war-for-the-overworld-underlord-edition",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Truck Mechanic Simulator 2015",
+		"url": "https://www.fanatical.com/ko/game/truck-mechanic-simulator-2015",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 4048
+	},
+	{
+		"name": "DOOM 3 Resurrection of Evil DLC",
+		"url": "https://www.fanatical.com/ko/dlc/doom-3-resurrection-of-evil",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "Blood Bowl 2 - Legendary Edition",
+		"url": "https://www.fanatical.com/ko/game/blood-bowl-2-legendary-edition",
+		"store_name": "fanatical",
+		"normal_price": 53726,
+		"sale_price": -1
+	},
+	{
+		"name": "Ancestors Legacy",
+		"url": "https://www.fanatical.com/ko/game/ancestors-legacy",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier's Civilization® III Complete",
+		"url": "https://www.fanatical.com/ko/game/sid-meier-s-civilization-iii-complete",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Chivalry: Medieval Warfare",
+		"url": "https://www.fanatical.com/ko/game/chivalry-medieval-warfare",
+		"store_name": "fanatical",
+		"normal_price": 29843,
+		"sale_price": -1
+	},
+	{
+		"name": "Disciples II: Gallean's Return",
+		"url": "https://www.fanatical.com/ko/game/disciples-2-galleans-return",
+		"store_name": "fanatical",
+		"normal_price": 7750,
+		"sale_price": -1
+	},
+	{
+		"name": "Hoyle Official Casino Games",
+		"url": "https://www.fanatical.com/ko/game/hoyle-official-casino-games",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Borderlands: The Pre-Sequel Season Pass DLC",
+		"url": "https://www.fanatical.com/ko/dlc/borderlands-the-pre-sequel-season-pass-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": 17184
+	},
+	{
+		"name": "Startup Company",
+		"url": "https://www.fanatical.com/ko/game/startup-company",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Putt-Putt Complete Pack",
+		"url": "https://www.fanatical.com/ko/game/putt-putt-complete-pack",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Conarium",
+		"url": "https://www.fanatical.com/ko/game/conarium",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "TrackMania² Canyon",
+		"url": "https://www.fanatical.com/ko/game/track-mania-canyon",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Harry Potter: Years 1-4",
+		"url": "https://www.fanatical.com/ko/game/lego-harry-potter-years-1-4",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Knights and Merchants",
+		"url": "https://www.fanatical.com/ko/game/knights-merchants",
+		"store_name": "fanatical",
+		"normal_price": 8347,
+		"sale_price": 2496
+	},
+	{
+		"name": "The Caligula Effect: Overdose - Digital Limited Edition",
+		"url": "https://www.fanatical.com/ko/game/the-caligula-effect-overdose-digital-limited-edition",
+		"store_name": "fanatical",
+		"normal_price": 94424,
+		"sale_price": -1
+	},
+	{
+		"name": "The Age of Decadence",
+		"url": "https://www.fanatical.com/ko/game/the-age-of-decadence",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Pandemic: The Board Game",
+		"url": "https://www.fanatical.com/ko/game/pandemic-the-board-game",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "Emily Wants To Play",
+		"url": "https://www.fanatical.com/ko/game/emily-wants-to-play",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Euro Truck Simulator 2",
+		"url": "https://www.fanatical.com/ko/game/euro-truck-simulator-2",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer: End Times - Vermintide",
+		"url": "https://www.fanatical.com/ko/game/warhammer-end-times-vermintide",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Fallout Classic Collection",
+		"url": "https://www.fanatical.com/ko/game/fallout-classic-collection",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "PAYDAY 2",
+		"url": "https://www.fanatical.com/ko/game/payday-2",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "GOD EATER 3",
+		"url": "https://www.fanatical.com/ko/game/god-eater-3",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Megadimension Neptunia VII",
+		"url": "https://www.fanatical.com/ko/game/megadimension-neptunia-vii",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "OVERKILL's The Walking Dead",
+		"url": "https://www.fanatical.com/ko/game/overkill-s-the-walking-dead",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "The Banner Saga 3: Legendary Edition",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga-3-legendary-edition",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Little Nightmares Complete Edition",
+		"url": "https://www.fanatical.com/ko/game/little-nightmares-complete-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Batman: Arkham Origins",
+		"url": "https://www.fanatical.com/ko/game/batman-arkham-origins",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Sid Meier's Civilization V: Brave New World DLC",
+		"url": "https://www.fanatical.com/ko/dlc/sid-meiers-civilization-v-brave-new-world-aspyr",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": 8944
+	},
+	{
+		"name": "Vietnam ‘65",
+		"url": "https://www.fanatical.com/ko/game/vietnam-65",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": 5840
+	},
+	{
+		"name": "For The King",
+		"url": "https://www.fanatical.com/ko/game/for-the-king",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO DC Super-Villains",
+		"url": "https://www.fanatical.com/ko/game/lego-dc-super-villains",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Battle Fantasia -Revised Edition-",
+		"url": "https://www.fanatical.com/ko/game/battle-fantasia-revised-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "Guild of Dungeoneering",
+		"url": "https://www.fanatical.com/ko/game/guild-of-dungeoneering",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "articy:draft 2 SE",
+		"url": "https://www.fanatical.com/ko/game/articy-draft-2-se",
+		"store_name": "fanatical",
+		"normal_price": 238824,
+		"sale_price": -1
+	},
+	{
+		"name": "The Settlers® : Heritage of Kings - History Edition",
+		"url": "https://www.fanatical.com/ko/game/the-settlers-heritage-of-kings-history-edition",
+		"store_name": "fanatical",
+		"normal_price": 14318,
+		"sale_price": -1
+	},
+	{
+		"name": "Type:Rider",
+		"url": "https://www.fanatical.com/ko/game/type-rider",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Total War Saga: THRONES OF BRITANNIA - Blood, Sweat and Spears",
+		"url": "https://www.fanatical.com/ko/dlc/total-war-saga-thrones-of-britannia-blood-sweat-and-spears",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+		"url": "https://www.fanatical.com/ko/game/naruto-to-boruto-shinobi-striker",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "The Banner Saga 2 Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Bounty Train - Trainium Edition",
+		"url": "https://www.fanatical.com/ko/game/bounty-train-trainium-edition",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Tiny Troopers",
+		"url": "https://www.fanatical.com/ko/game/tiny-troopers",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "MY HERO ONE'S JUSTICE",
+		"url": "https://www.fanatical.com/ko/game/my-hero-one-s-justice",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Disgaea 5 Complete / 魔界戦記ディスガイア5",
+		"url": "https://www.fanatical.com/ko/game/disgaea-5-complete",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Stronghold Legends: Steam Edition",
+		"url": "https://www.fanatical.com/ko/game/stronghold-legends-steam-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 5899
+	},
+	{
+		"name": "European Ship Simulator",
+		"url": "https://www.fanatical.com/ko/game/european-ship-simulator",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Prey - Mooncrash DLC",
+		"url": "https://www.fanatical.com/ko/game/prey-mooncrash",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "TrackMania² Valley",
+		"url": "https://www.fanatical.com/ko/game/track-mania-valley",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Cthulhu",
+		"url": "https://www.fanatical.com/ko/game/call-of-cthulhu",
+		"store_name": "fanatical",
+		"normal_price": 53726,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Batman Trilogy ",
+		"url": "https://www.fanatical.com/ko/game/lego-batman-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Mechanicus OMNISSIAH EDITION",
+		"url": "https://www.fanatical.com/ko/game/warhammer-40-000-mechanicus-omnissiah-edition",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Damascus Gear Operation Tokyo HD",
+		"url": "https://www.fanatical.com/ko/game/damascus-gear-operation-tokyo-hd",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "theHunter: Call of the Wild",
+		"url": "https://www.fanatical.com/ko/game/the-hunter-call-of-the-wild",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Guild of Dungeoneering",
+		"url": "https://www.fanatical.com/ko/game/guild-of-dungeoneering",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "articy:draft 2 SE",
+		"url": "https://www.fanatical.com/ko/game/articy-draft-2-se",
+		"store_name": "fanatical",
+		"normal_price": 238824,
+		"sale_price": -1
+	},
+	{
+		"name": "The Settlers® : Heritage of Kings - History Edition",
+		"url": "https://www.fanatical.com/ko/game/the-settlers-heritage-of-kings-history-edition",
+		"store_name": "fanatical",
+		"normal_price": 14318,
+		"sale_price": -1
+	},
+	{
+		"name": "Type:Rider",
+		"url": "https://www.fanatical.com/ko/game/type-rider",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "Total War Saga: THRONES OF BRITANNIA - Blood, Sweat and Spears",
+		"url": "https://www.fanatical.com/ko/dlc/total-war-saga-thrones-of-britannia-blood-sweat-and-spears",
+		"store_name": "fanatical",
+		"normal_price": 3571,
+		"sale_price": -1
+	},
+	{
+		"name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+		"url": "https://www.fanatical.com/ko/game/naruto-to-boruto-shinobi-striker",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "The Banner Saga 2 Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/the-banner-saga-2-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 35813,
+		"sale_price": -1
+	},
+	{
+		"name": "Bounty Train - Trainium Edition",
+		"url": "https://www.fanatical.com/ko/game/bounty-train-trainium-edition",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Tiny Troopers",
+		"url": "https://www.fanatical.com/ko/game/tiny-troopers",
+		"store_name": "fanatical",
+		"normal_price": 5959,
+		"sale_price": -1
+	},
+	{
+		"name": "MY HERO ONE'S JUSTICE",
+		"url": "https://www.fanatical.com/ko/game/my-hero-one-s-justice",
+		"store_name": "fanatical",
+		"normal_price": 71639,
+		"sale_price": -1
+	},
+	{
+		"name": "Disgaea 5 Complete / 魔界戦記ディスガイア5",
+		"url": "https://www.fanatical.com/ko/game/disgaea-5-complete",
+		"store_name": "fanatical",
+		"normal_price": 47755,
+		"sale_price": -1
+	},
+	{
+		"name": "Stronghold Legends: Steam Edition",
+		"url": "https://www.fanatical.com/ko/game/stronghold-legends-steam-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 5899
+	},
+	{
+		"name": "European Ship Simulator",
+		"url": "https://www.fanatical.com/ko/game/european-ship-simulator",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Prey - Mooncrash DLC",
+		"url": "https://www.fanatical.com/ko/game/prey-mooncrash",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "TrackMania² Valley",
+		"url": "https://www.fanatical.com/ko/game/track-mania-valley",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Cthulhu",
+		"url": "https://www.fanatical.com/ko/game/call-of-cthulhu",
+		"store_name": "fanatical",
+		"normal_price": 53726,
+		"sale_price": -1
+	},
+	{
+		"name": "Call of Duty: Black Ops - Rezurrection Mac Edition",
+		"url": "https://www.fanatical.com/ko/dlc/call-of-duty-black-ops-rezurrection-mac-edition",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": 8944
+	},
+	{
+		"name": "Stellaris: Distant Stars Story Pack DLC",
+		"url": "https://www.fanatical.com/ko/dlc/stellaris-distant-stars-story-pack",
+		"store_name": "fanatical",
+		"normal_price": 11930,
+		"sale_price": -1
+	},
+	{
+		"name": "BATTLETECH - Digital Deluxe Edition",
+		"url": "https://www.fanatical.com/ko/game/battletech-digital-deluxe-edition",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Surgeon Simulator: Experience Reality",
+		"url": "https://www.fanatical.com/ko/game/surgeon-simulator-experience-reality",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	},
+	{
+		"name": "Disgaea 5 Complete - Digital Dood Edition",
+		"url": "https://www.fanatical.com/ko/game/disgaea-5-complete-digital-dood-edition",
+		"store_name": "fanatical",
+		"normal_price": 51027,
+		"sale_price": -1
+	},
+	{
+		"name": "911 Operator - Special Resources DLC",
+		"url": "https://www.fanatical.com/ko/dlc/911-operator-special-resources",
+		"store_name": "fanatical",
+		"normal_price": 4765,
+		"sale_price": -1
+	},
+	{
+		"name": "LEGO Batman Trilogy ",
+		"url": "https://www.fanatical.com/ko/game/lego-batman-trilogy",
+		"store_name": "fanatical",
+		"normal_price": 59697,
+		"sale_price": -1
+	},
+	{
+		"name": "Warhammer 40,000: Mechanicus OMNISSIAH EDITION",
+		"url": "https://www.fanatical.com/ko/game/warhammer-40-000-mechanicus-omnissiah-edition",
+		"store_name": "fanatical",
+		"normal_price": 41784,
+		"sale_price": -1
+	},
+	{
+		"name": "Damascus Gear Operation Tokyo HD",
+		"url": "https://www.fanatical.com/ko/game/damascus-gear-operation-tokyo-hd",
+		"store_name": "fanatical",
+		"normal_price": 17901,
+		"sale_price": -1
+	},
+	{
+		"name": "theHunter: Call of the Wild",
+		"url": "https://www.fanatical.com/ko/game/the-hunter-call-of-the-wild",
+		"store_name": "fanatical",
+		"normal_price": 23872,
+		"sale_price": -1
+	}
+]

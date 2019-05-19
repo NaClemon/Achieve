@@ -10,14 +10,15 @@ public class BoardWriteCommand implements BoardCommand {
 	@Override
 	public void execute(HttpServletRequest request, HttpServletResponse response) {
 		
-	
+		String nickname = request.getParameter( "nickname" );
+		String age = request.getParameter( "age" );
 				String title = request.getParameter( "title" );
 				String author = request.getParameter( "author" );
 				String content = request.getParameter( "content" );
 
 
 				BoardDAO dao = new BoardDAO();
-				dao.write( title, author , content );
+				dao.write(nickname, age, title, author , content );
 		
 
 	}
