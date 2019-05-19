@@ -12,7 +12,7 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 
 datas = []
 
-for page in range(1, 2):
+for page in range(30, 40):
     path = "https://www.fanatical.com/ko/search?page="
     driver.get(path + str(page))
     data = {}
@@ -26,11 +26,13 @@ for page in range(1, 2):
 
     for i in range(1, 37):
         if (i!=1 and i%8 == 1):
-            body = driver.find_element_by_tag_name('body')
-            body.send_keys(Keys.PAGE_DOWN)
-        body = driver.find_element_by_tag_name('body')
-        body.send_keys(Keys.PAGE_DOWN)
-        body.send_keys(Keys.PAGE_DOWN)
+            # body = driver.find_element_by_tag_name('body')
+            # body.send_keys(Keys.PAGE_DOWN)
+            y = 850 * (i/8)
+            driver.execute_script("window.scrollTo(0, " + str(y) + ");")
+        # body = driver.find_element_by_tag_name('body')
+        # body.send_keys(Keys.PAGE_DOWN)
+        # body.send_keys(Keys.PAGE_DOWN)
         time.sleep(2)
         path = '//*[@class="ais-Hits__root"]/div[' + str(i) + ']/div/div[2]/div/div[2]/a'
         driver.implicitly_wait(2)
@@ -50,6 +52,7 @@ for page in range(1, 2):
                 name = game_detail.find('div', attrs={'class': 'purchase-info-title'})
                 g_name = name.select('div > h1')
                 game_name = re.sub('^ ', '', g_name[0].text)
+                print('name', e)
             try:
                 #-------할인 딜-------
                 price_content = game_detail.find('div', attrs={'class': 'price-container'})
@@ -76,6 +79,7 @@ for page in range(1, 2):
             data = {'name': game_name, 'url': game_url, 'store_name': 'fanatical', 'normal_price': int(normal_price),
                     'sale_price': int(sale_price)}
             datas.append(data)
+            print(page, i)
         except:
             pass
 

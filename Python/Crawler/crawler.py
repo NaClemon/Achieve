@@ -42,10 +42,10 @@ for page in range(60, 65):
             #driver.implicitly_wait(2)
             #time.sleep(2)
             print(page, i, j)
-            if ((i == 7 and j == 2) or (page == 64 and i == 3 and j == 1)):
+            if ((i == 7 and j == 2) or (page == 64 and i == 4 and j == 1)):
                 break
-        if (page == 64 and i == 3 and j == 1):
+        if (page == 64 and i == 4 and j == 1):
             break
 
-with open(os.path.join(base_dir, 'result2.json'), 'w+', encoding='utf-8') as file:
+with open(os.path.join(base_dir, 'result_temp.json'), 'w+', encoding='utf-8') as file:
     json.dump(datas, file, ensure_ascii=False, indent='\t')
