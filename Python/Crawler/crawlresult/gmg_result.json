@@ -1,0 +1,5882 @@
+[
+	{
+		"title": "Monster Hunter World (PC)",
+		"url": "https://www.greenmangaming.com/ko/games/monster-hunter-world-pc/",
+		"store_name": "gmg",
+		"normal_price": 63000,
+		"sale_price": 31601
+	},
+	{
+		"title": "RAGE 2",
+		"url": "https://www.greenmangaming.com/ko/games/rage-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 67000,
+		"sale_price": 54940
+	},
+	{
+		"title": "RESIDENT EVIL 2 / BIOHAZARD RE:2 Standard Edition",
+		"url": "https://www.greenmangaming.com/ko/games/resident-evil-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 59000,
+		"sale_price": 29594
+	},
+	{
+		"title": "Dying Light: The Following - Enhanced Edition",
+		"url": "https://www.greenmangaming.com/ko/games/dying-light-the-following-enhanced-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 19500
+	},
+	{
+		"title": "Surviving Mars - First Colony Edition",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-first-colony-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 67000,
+		"sale_price": 22780
+	},
+	{
+		"title": "Surviving Mars - Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 20743
+	},
+	{
+		"title": "RAGE 2 - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/rage-2-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 89900,
+		"sale_price": 71920
+	},
+	{
+		"title": "Resident Evil 7",
+		"url": "https://www.greenmangaming.com/ko/games/resident-evil-7/",
+		"store_name": "gmg",
+		"normal_price": 29000,
+		"sale_price": 11600
+	},
+	{
+		"title": "Surviving Mars: Green Planet",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-green-planet/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 18040
+	},
+	{
+		"title": "Death end re;Quest - Deluxe Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/death-end-request-deluxe-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 49200,
+		"sale_price": 39360
+	},
+	{
+		"title": "Surviving Mars - Stellaris Dome Set",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-stellaris-dome-set-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 3036
+	},
+	{
+		"title": "Surviving Mars: Colony Design Set",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-colony-design-set-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 3795
+	},
+	{
+		"title": "Mortal Kombat 11",
+		"url": "https://www.greenmangaming.com/ko/games/mortal-kombat-11-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 45750
+	},
+	{
+		"title": "Monster Hunter World Deluxe Edition (PC)",
+		"url": "https://www.greenmangaming.com/ko/games/monster-hunter-world-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 74260,
+		"sale_price": 41199
+	},
+	{
+		"title": "Surviving Mars",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 10540
+	},
+	{
+		"title": "The Elder Scrolls Online: Elsweyr Digital Collector's Edition Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-digital-collectors-edition-upgrade/",
+		"store_name": "gmg",
+		"normal_price": 56000,
+		"sale_price": 45920
+	},
+	{
+		"title": "Prison Architect",
+		"url": "https://www.greenmangaming.com/ko/games/prison-architect-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Grand Theft Auto: San Andreas",
+		"url": "https://www.greenmangaming.com/ko/games/grand-theft-auto-san-andreas/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "A Plague Tale: Innocence",
+		"url": "https://www.greenmangaming.com/ko/games/a-plague-tale-innocence-pc/",
+		"store_name": "gmg",
+		"normal_price": 51118,
+		"sale_price": 43961
+	},
+	{
+		"title": "Forager",
+		"url": "https://www.greenmangaming.com/ko/games/forager-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 18450
+	},
+	{
+		"title": "Surviving Mars - Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-digital-deluxe-edition/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 13940
+	},
+	{
+		"title": "Surviving Mars: Project Laika",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-project-laika/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 5720
+	},
+	{
+		"title": "PC Building Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/pc-building-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 14350
+	},
+	{
+		"title": "The Elder Scrolls Online: Elsweyr Digital Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-digital-upgrade/",
+		"store_name": "gmg",
+		"normal_price": 44500,
+		"sale_price": 36490
+	},
+	{
+		"title": "OCTOPATH TRAVELER™",
+		"url": "https://www.greenmangaming.com/ko/games/octopath-traveler-pc/",
+		"store_name": "gmg",
+		"normal_price": 67305,
+		"sale_price": 67305
+	},
+	{
+		"title": "Cuphead",
+		"url": "https://www.greenmangaming.com/ko/games/cuphead-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Dying Light - Harran Ranger Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/dying-light-harran-ranger-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 2211
+	},
+	{
+		"title": "RESIDENT EVIL 2 / BIOHAZARD RE:2 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/resident-evil-2-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 69000,
+		"sale_price": 41400
+	},
+	{
+		"title": "Vampire: The Masquerade® - Bloodlines™ 2",
+		"url": "https://www.greenmangaming.com/ko/games/vampire-the-masquerade-bloodlines-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"title": "Vampire: The Masquerade® - Bloodlines™ 2: Blood Moon Edition",
+		"url": "https://www.greenmangaming.com/ko/games/vampire-the-masquerade-bloodlines-2-blood-moon-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 92000,
+		"sale_price": 92000
+	},
+	{
+		"title": "Vampire: The Masquerade® - Bloodlines™ 2: Unsanctioned Edition",
+		"url": "https://www.greenmangaming.com/ko/games/vampire-the-masquerade-bloodlines-2-unsanctioned-edition/",
+		"store_name": "gmg",
+		"normal_price": 72000,
+		"sale_price": 72000
+	},
+	{
+		"title": "Our World Is Ended.",
+		"url": "https://www.greenmangaming.com/ko/games/our-world-is-ended-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 48800
+	},
+	{
+		"title": "Borderlands 3",
+		"url": "https://www.greenmangaming.com/ko/games/borderlands-3-pc/",
+		"store_name": "gmg",
+		"normal_price": 64900,
+		"sale_price": 64900
+	},
+	{
+		"title": "Borderlands 3 Super Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/borderlands-3-super-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 109900,
+		"sale_price": 109900
+	},
+	{
+		"title": "Borderlands 3 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/borderlands-3-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 88900,
+		"sale_price": 88900
+	},
+	{
+		"title": "Age of Wonders: Planetfall - Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/age-of-wonders-planetfall-digital-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 52460
+	},
+	{
+		"title": "Age of Wonders: Planetfall",
+		"url": "https://www.greenmangaming.com/ko/games/age-of-wonder-planetfall-pc/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 43860
+	},
+	{
+		"title": "Age of Wonders: Planetfall - Premium Edition",
+		"url": "https://www.greenmangaming.com/ko/games/age-of-wonders-planetfall-premium-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 92000,
+		"sale_price": 92000
+	},
+	{
+		"title": "WOLFENSTEIN: Cyberpilot",
+		"url": "https://www.greenmangaming.com/ko/games/wolfenstein-cyberpilot-pc/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 18920
+	},
+	{
+		"title": "Wolfenstein®: Youngblood™",
+		"url": "https://www.greenmangaming.com/ko/games/wolfenstein-young-blood-pc/",
+		"store_name": "gmg",
+		"normal_price": 33500,
+		"sale_price": 28810
+	},
+	{
+		"title": "Wolfenstein®: Youngblood™ Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/wolfenstein-youngblood-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 44500,
+		"sale_price": 38270
+	},
+	{
+		"title": "Steel Division 2 - General Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/steel-division-2-general-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 79000,
+		"sale_price": 79000
+	},
+	{
+		"title": "Steel Division 2 - Commander Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/steel-division-2-commander-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 69000,
+		"sale_price": 69000
+	},
+	{
+		"title": "Steel Division 2",
+		"url": "https://www.greenmangaming.com/ko/games/steel-division-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"title": "Steel Division 2 - Total Conflict Edition",
+		"url": "https://www.greenmangaming.com/ko/games/steel-division-2-total-conflict-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 90000,
+		"sale_price": 90000
+	},
+	{
+		"title": "Warhammer: Chaosbane Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-chaosbane-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 59400,
+		"sale_price": 59400
+	},
+	{
+		"title": "The Elder Scrolls Online: Elsweyr Digital Collector's Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-digital-collectors-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 89900,
+		"sale_price": 73718
+	},
+	{
+		"title": "The Elder Scrolls Online: Elsweyr",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-elsweyr-pc/",
+		"store_name": "gmg",
+		"normal_price": 67000,
+		"sale_price": 54940
+	},
+	{
+		"title": "BATTLETECH Urban Warfare",
+		"url": "https://www.greenmangaming.com/ko/games/battletech-urban-warfare-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 18450
+	},
+	{
+		"title": "Warhammer: Chaosbane Magnus Edition",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-chaosbane-magnus-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 75600,
+		"sale_price": 75600
+	},
+	{
+		"title": "Warhammer: Chaosbane",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-chaosbane-pc/",
+		"store_name": "gmg",
+		"normal_price": 54000,
+		"sale_price": 54000
+	},
+	{
+		"title": "Kotodama: The 7 Mysteries of Fujisawa",
+		"url": "https://www.greenmangaming.com/ko/games/kotodama-the-7-mysteries-of-fujisawa-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 24800
+	},
+	{
+		"title": "Conan Unconquered - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/conan-unconquered-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 41300,
+		"sale_price": 41300
+	},
+	{
+		"title": "ShockRods",
+		"url": "https://www.greenmangaming.com/ko/games/shockrods-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 15375
+	},
+	{
+		"title": "Conan Unconquered",
+		"url": "https://www.greenmangaming.com/ko/games/conan-unconquered-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "American Fugitive",
+		"url": "https://www.greenmangaming.com/ko/games/american-fugitive-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 15416
+	},
+	{
+		"title": "Dungeons 3 – Famous Last Words",
+		"url": "https://www.greenmangaming.com/ko/games/dungeons-3-famous-last-words-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 4675
+	},
+	{
+		"title": "Hitman Birthday Bonus",
+		"url": "https://www.greenmangaming.com/ko/games/hitman-birthday-bonus-voucher/",
+		"store_name": "gmg",
+		"normal_price": 0,
+		"sale_price": 0
+	},
+	{
+		"title": "Death end re;Quest",
+		"url": "https://www.greenmangaming.com/ko/games/death-end-request-pc/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 40800
+	},
+	{
+		"title": "Bubsy: Paws on Fire!",
+		"url": "https://www.greenmangaming.com/ko/games/bubsy-paws-on-fire-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 20800
+	},
+	{
+		"title": "Death end re;Quest - Deluxe Pack",
+		"url": "https://www.greenmangaming.com/ko/games/death-end-request-deluxe-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 8400
+	},
+	{
+		"title": "Galactic Civilizations III Gold",
+		"url": "https://www.greenmangaming.com/ko/games/galactic-civilisations-iii-gold-pc/",
+		"store_name": "gmg",
+		"normal_price": 134000,
+		"sale_price": 36000
+	},
+	{
+		"title": "Sniper Elite V2 Remastered",
+		"url": "https://www.greenmangaming.com/ko/games/sniper-elite-v2-remastered-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "Swag and Sorcery",
+		"url": "https://www.greenmangaming.com/ko/games/swag-and-sorcery-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Kurr Snaga",
+		"url": "https://www.greenmangaming.com/ko/games/kurr-snaga-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 10000
+	},
+	{
+		"title": "Blazing Beaks",
+		"url": "https://www.greenmangaming.com/ko/games/blazing-beaks-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 11625
+	},
+	{
+		"title": "Titan Quest: Atlantis",
+		"url": "https://www.greenmangaming.com/ko/games/titan-quest-atlantis/",
+		"store_name": "gmg",
+		"normal_price": 15000,
+		"sale_price": 15000
+	},
+	{
+		"title": "Conan Exiles - The Riddle of Steel",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-the-riddle-of-steel-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Pax Nova",
+		"url": "https://www.greenmangaming.com/ko/games/pax-nova-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Life is Strange 2 - Episode 3",
+		"url": "https://www.greenmangaming.com/ko/games/life-is-strange-2-episode-3-pc/",
+		"store_name": "gmg",
+		"normal_price": 8964,
+		"sale_price": 8964
+	},
+	{
+		"title": "Pandemic Express - Zombie Escape",
+		"url": "https://www.greenmangaming.com/ko/games/pandemic-express-zombie-escape-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "PC Building Simulator - Overclocked Edition Content",
+		"url": "https://www.greenmangaming.com/ko/games/pc-building-simulator-overclocked-edition-content-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Guard Duty",
+		"url": "https://www.greenmangaming.com/ko/games/guard-duty-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Sand is the Soul",
+		"url": "https://www.greenmangaming.com/ko/games/sand-is-the-soul-pc/",
+		"store_name": "gmg",
+		"normal_price": 21351,
+		"sale_price": 21351
+	},
+	{
+		"title": "Fade to Silence",
+		"url": "https://www.greenmangaming.com/ko/games/fade-to-silence-pc/",
+		"store_name": "gmg",
+		"normal_price": 39999,
+		"sale_price": 39999
+	},
+	{
+		"title": "Starlink: Battle for Atlas – Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/starlink-battle-for-atlas-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 55900
+	},
+	{
+		"title": "Starlink: Battle for Atlas",
+		"url": "https://www.greenmangaming.com/ko/games/starlink-battle-for-atlas-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 37840
+	},
+	{
+		"title": "PC Building Simulator - Razer Workshop",
+		"url": "https://www.greenmangaming.com/ko/games/pc-building-simulator-razer-workshop-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Imperator: Rome Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/imperator-rome-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 56000,
+		"sale_price": 56000
+	},
+	{
+		"title": "Imperator: Rome",
+		"url": "https://www.greenmangaming.com/ko/games/imperator-rome-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "PROZE: Enlightenment",
+		"url": "https://www.greenmangaming.com/ko/games/proze-enlightenment-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "HMM Metal Pass Premium Season 4",
+		"url": "https://www.greenmangaming.com/ko/games/hmm-metal-pass-premium-season-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 8400
+	},
+	{
+		"title": "HMM Metal Pass Premium Season 4 + 1300 Cash",
+		"url": "https://www.greenmangaming.com/ko/games/hmm-metal-pass-premium-season-4-1300-cash-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 16400
+	},
+	{
+		"title": "HMM Metal Pass Premium Season 4 + 20 Levels",
+		"url": "https://www.greenmangaming.com/ko/games/hmm-metal-pass-premium-season-4-20-levels-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 20800
+	},
+	{
+		"title": "Mortal Kombat 11 Premium Edition",
+		"url": "https://www.greenmangaming.com/ko/games/mortal-kombat-11-premium-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 103000,
+		"sale_price": 77250
+	},
+	{
+		"title": "God's Trigger",
+		"url": "https://www.greenmangaming.com/ko/games/gods-trigger-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Elon Must - Road to Respect",
+		"url": "https://www.greenmangaming.com/ko/games/elon-must-road-to-respect-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Overcooked! 2 Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/overcooked-2-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 18040
+	},
+	{
+		"title": "Overcooked! 2 - Campfire Cook Off",
+		"url": "https://www.greenmangaming.com/ko/games/overcooked-2-campfire-cook-off-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 5720
+	},
+	{
+		"title": "Faeria: Chronicles of Gagana",
+		"url": "https://www.greenmangaming.com/ko/games/faeria-chronicles-of-gagana-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Heaven's Vault",
+		"url": "https://www.greenmangaming.com/ko/games/heavens-vault-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Anno 1800 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/anno-1800-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 75000,
+		"sale_price": 75000
+	},
+	{
+		"title": "Anno 1800",
+		"url": "https://www.greenmangaming.com/ko/games/anno-1800-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 65000
+	},
+	{
+		"title": "One Finger Death Punch 2",
+		"url": "https://www.greenmangaming.com/ko/games/one-finger-death-punch-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Conan Exiles - Treasures of Turan Pack",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-treasures-of-turan-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Conan Exiles - Year 2 Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-year-2-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 33750,
+		"sale_price": 33750
+	},
+	{
+		"title": "Haxor",
+		"url": "https://www.greenmangaming.com/ko/games/haxor-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Phoenix Wright: Ace Attorney Trilogy",
+		"url": "https://www.greenmangaming.com/ko/games/phoenix-wright-ace-attorney-trilogy-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Lovecraft's Untold Stories OST",
+		"url": "https://www.greenmangaming.com/ko/games/lovecrafts-untold-stories-ost-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Dance of Death: Du Lac & Fey",
+		"url": "https://www.greenmangaming.com/ko/games/dance-of-death-du-lac-fey-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Killer Chambers",
+		"url": "https://www.greenmangaming.com/ko/games/killer-chambers-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Lovecraft's Untold Stories + OST",
+		"url": "https://www.greenmangaming.com/ko/games/lovecrafts-untold-stories-plus-ost-pc/",
+		"store_name": "gmg",
+		"normal_price": 17840,
+		"sale_price": 17840
+	},
+	{
+		"title": "Supraland",
+		"url": "https://www.greenmangaming.com/ko/games/supraland-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "YOU DON'T KNOW JACK Vol. 3",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-vol-3-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK Vol. 4 The Ride",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-vol-4-the-ride-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Death Mark",
+		"url": "https://www.greenmangaming.com/ko/games/death-mark-pc/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 51000
+	},
+	{
+		"title": "YOU DON'T KNOW JACK Vol. 2",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-vol-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK Vol. 6 The Lost Gold",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-vol-6-the-lost-gold-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Cryofall",
+		"url": "https://www.greenmangaming.com/ko/games/cryofall-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "YOU DON'T KNOW JACK TELEVISION",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-television-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK MOVIES",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-movies-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK Vol. 1 XL",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-vol-1-xl-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK SPORTS",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-sports-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "YOU DON'T KNOW JACK HEADRUSH",
+		"url": "https://www.greenmangaming.com/ko/games/you-dont-know-jack-headrush-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Borderlands: Game of the Year Enhanced",
+		"url": "https://www.greenmangaming.com/ko/games/borderlands-game-of-the-year-enhanced-pc/",
+		"store_name": "gmg",
+		"normal_price": 31700,
+		"sale_price": 26945
+	},
+	{
+		"title": "Dead by Daylight - Ash vs Evil Dead",
+		"url": "https://www.greenmangaming.com/ko/games/dead-by-daylight-ash-vs-evil-dead-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Skyworld: Kingdom Brawl",
+		"url": "https://www.greenmangaming.com/ko/games/skyworld-kingdom-brawl-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Bedtime Blues",
+		"url": "https://www.greenmangaming.com/ko/games/bedtime-blues-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Tropico 6",
+		"url": "https://www.greenmangaming.com/ko/games/tropico-6-pc/",
+		"store_name": "gmg",
+		"normal_price": 54000,
+		"sale_price": 54000
+	},
+	{
+		"title": "Tropico 6 El Prez Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tropico-6-el-prez-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 59400,
+		"sale_price": 59400
+	},
+	{
+		"title": "Assassin's Creed III Remastered",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-iii-remastered/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Survivor Pass 3: Wild Card",
+		"url": "https://www.greenmangaming.com/ko/games/survivor-pass-3-wild-card-pc/",
+		"store_name": "gmg",
+		"normal_price": 10700,
+		"sale_price": 10700
+	},
+	{
+		"title": "The Childs Sight",
+		"url": "https://www.greenmangaming.com/ko/games/the-childs-sight-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "PUBG: Survivor Pass 3 Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/pubg-survivor-pass-3-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 37700,
+		"sale_price": 37700
+	},
+	{
+		"title": "Volcanoids",
+		"url": "https://www.greenmangaming.com/ko/games/volcanoids-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Willowbrooke Post",
+		"url": "https://www.greenmangaming.com/ko/games/willowbrooke-post-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Outward",
+		"url": "https://www.greenmangaming.com/ko/games/outward-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Nelke & the Legendary Alchemists: Ateliers of the New World",
+		"url": "https://www.greenmangaming.com/ko/games/nelke-the-legendary-alchemists-ateliers-of-the-new-world-pc/",
+		"store_name": "gmg",
+		"normal_price": 64800,
+		"sale_price": 64800
+	},
+	{
+		"title": "Space Junkies™",
+		"url": "https://www.greenmangaming.com/ko/games/space-junkies-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Space Junkies™",
+		"url": "https://www.greenmangaming.com/ko/games/space-junkies-oculus-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Generation Zero",
+		"url": "https://www.greenmangaming.com/ko/games/generation-zero/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "FINAL FANTASY® XV - Episode Ardyn",
+		"url": "https://www.greenmangaming.com/ko/games/final-fantasy-xv-episode-ardyn-pc/",
+		"store_name": "gmg",
+		"normal_price": 11208,
+		"sale_price": 11208
+	},
+	{
+		"title": "Out of the Park Baseball 20",
+		"url": "https://www.greenmangaming.com/ko/games/out-of-the-park-baseball-20-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Men of War: Assault Squad 2 War Chest Edition",
+		"url": "https://www.greenmangaming.com/ko/games/men-of-war-assault-squad-2-war-chest-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 45925,
+		"sale_price": 45925
+	},
+	{
+		"title": "We. The Revolution",
+		"url": "https://www.greenmangaming.com/ko/games/we-the-revolution-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Heathen Engineering's Terran",
+		"url": "https://www.greenmangaming.com/ko/games/heathen-engineerings-terran/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Dead by Daylight - Demise of the Faithful Chapter",
+		"url": "https://www.greenmangaming.com/ko/games/dead-by-daylight-demise-of-the-faithful-chapter-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "BATTLETECH Shadow Hawk Pack",
+		"url": "https://www.greenmangaming.com/ko/games/battletech-shadow-hawk-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Space mining clicker",
+		"url": "https://www.greenmangaming.com/ko/games/space-mining-clicker-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "A song in the void",
+		"url": "https://www.greenmangaming.com/ko/games/a-song-in-the-void-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Tom Clancy's The Division 2 Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-the-division-2-ultimate-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 119000,
+		"sale_price": 119000
+	},
+	{
+		"title": "Tom Clancy's The Division 2 Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-the-division-2-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 110000,
+		"sale_price": 110000
+	},
+	{
+		"title": "Tom Clancy's The Division 2",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-the-division-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 65000
+	},
+	{
+		"title": "Mortadelo y Filemón: Una aventura de cine - Edición especial",
+		"url": "https://www.greenmangaming.com/ko/games/mortadelo-y-filemon-una-aventura-de-cine-edicion-especial-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "DISSIDIA® FINAL FANTASY® NT Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/dissidia-final-fantasy-nt-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 51118,
+		"sale_price": 51118
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Eiji's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-eijis-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Mifue's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-mifues-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Digital Art Book",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-digital-art-book-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Casual Clothes Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-casual-clothes-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Izuru's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-izurus-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Ayana's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-ayanas-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-pc/",
+		"store_name": "gmg",
+		"normal_price": 54800,
+		"sale_price": 54800
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Male Protagonist's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-male-protagonists-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Truberbrook",
+		"url": "https://www.greenmangaming.com/ko/games/truberbrook-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Suzuna's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-suzunas-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Shogo's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-shogos-swimsuit-costume/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose Digital Limited Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-digital-limited-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 86560,
+		"sale_price": 86560
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Swimsuit Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-swimsuit-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 21120,
+		"sale_price": 21120
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Kotaro's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-kotaros-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Kensuke's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-kensukes-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "DISSIDIA® FINAL FANTASY® NT Standard Edition",
+		"url": "https://www.greenmangaming.com/ko/games/dissidia-final-fantasy-nt-standard-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 34075
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Digital Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-digital-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Kotono's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-kotaros-swimsuit-costume-47729ae4-en.aspx/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Naruko's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-narukos-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Caligula Effect: Overdose - Female Protagonist's Swimsuit Costume",
+		"url": "https://www.greenmangaming.com/ko/games/the-caligula-effect-overdose-female-protagonists-swimsuit-costume-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Cyborg Invasion Shooter 3: Savior Of The World",
+		"url": "https://www.greenmangaming.com/ko/games/cyborg-invasion-shooter-3-savior-of-the-world-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Devil May Cry 5",
+		"url": "https://www.greenmangaming.com/ko/games/devil-may-cry-5-pc/",
+		"store_name": "gmg",
+		"normal_price": 63000,
+		"sale_price": 49140
+	},
+	{
+		"title": "Fantasy Blacksmith",
+		"url": "https://www.greenmangaming.com/ko/games/fantasy-blacksmith-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Devil May Cry 5 - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/devil-may-cry-5-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 83000,
+		"sale_price": 64740
+	},
+	{
+		"title": "Eternity: The Last Unicorn",
+		"url": "https://www.greenmangaming.com/ko/games/eternity-the-last-unicorn-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "LEFT ALIVE™",
+		"url": "https://www.greenmangaming.com/ko/games/left-alive-pc/",
+		"store_name": "gmg",
+		"normal_price": 68161,
+		"sale_price": 68161
+	},
+	{
+		"title": "Creo God Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/creo-god-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Railway Empire: Germany",
+		"url": "https://www.greenmangaming.com/ko/games/railway-empire-germany-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Dead or Alive 6",
+		"url": "https://www.greenmangaming.com/ko/games/dead-or-alive-6-pc/",
+		"store_name": "gmg",
+		"normal_price": 64800,
+		"sale_price": 64800
+	},
+	{
+		"title": "Flashback",
+		"url": "https://www.greenmangaming.com/ko/games/flashback-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 7946
+	},
+	{
+		"title": "Hearts of Iron IV: Man The Guns",
+		"url": "https://www.greenmangaming.com/ko/games/hearts-of-iron-iv-man-the-guns-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Offworld Trading Company - Market Corrections DLC",
+		"url": "https://www.greenmangaming.com/ko/games/offworld-trading-company-market-corrections-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "PlanTechtor",
+		"url": "https://www.greenmangaming.com/ko/games/plantechtor-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Tech Support: Error Unknown",
+		"url": "https://www.greenmangaming.com/ko/games/tech-support-error-unknown-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "NITE Team 4",
+		"url": "https://www.greenmangaming.com/ko/games/nite-team-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+		"url": "https://www.greenmangaming.com/ko/games/the-king-of-fighters-2002-unlimited-match-pc/",
+		"store_name": "gmg",
+		"normal_price": 17032,
+		"sale_price": 8516
+	},
+	{
+		"title": "Trials Rising - Expansion Pass",
+		"url": "https://www.greenmangaming.com/ko/games/trials-rising-expansion-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"title": "Townsmen - A Kingdom Rebuilt",
+		"url": "https://www.greenmangaming.com/ko/games/townsmen-a-kingdom-rebuilt-pc/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Darksiders III - The Crucible DLC",
+		"url": "https://www.greenmangaming.com/ko/games/darksiders-iii-the-crucible-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 6999,
+		"sale_price": 6999
+	},
+	{
+		"title": "NieR:Automata™ Game of the YoRHa Edition",
+		"url": "https://www.greenmangaming.com/ko/games/nierautomata-game-of-the-yorha-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Trials Rising",
+		"url": "https://www.greenmangaming.com/ko/games/trials-rising-pc/",
+		"store_name": "gmg",
+		"normal_price": 27000,
+		"sale_price": 27000
+	},
+	{
+		"title": "Trials Rising Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/trials-rising-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "DiRT Rally 2.0",
+		"url": "https://www.greenmangaming.com/ko/games/dirt-rally-20-pc/",
+		"store_name": "gmg",
+		"normal_price": 69753,
+		"sale_price": 48827
+	},
+	{
+		"title": "DiRT Rally 2.0 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/dirt-rally-20-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 93008,
+		"sale_price": 65106
+	},
+	{
+		"title": "Sudden Strike 4 - The Pacific War",
+		"url": "https://www.greenmangaming.com/ko/games/sudden-strike-4-the-pacific-war-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Hell Warders",
+		"url": "https://www.greenmangaming.com/ko/games/hell-warders-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Galactic Civilizations III: Retribution Expansion",
+		"url": "https://www.greenmangaming.com/ko/games/galactic-civilizations-iii-retribution-expansion-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Train Sim World®: Main Spessart Bahn: Aschaffenburg - Gemünden",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-main-spessart-bahn-aschaffenburg-gemunden-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Dungeons 3 - An Unexpected DLC",
+		"url": "https://www.greenmangaming.com/ko/games/dungeons-3-an-unexpected-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Far Cry New Dawn Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/far-cry-new-dawn-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 60000,
+		"sale_price": 60000
+	},
+	{
+		"title": "Train Simulator: North Wales Coastal Route Extension Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-simulator-north-wales-coastal-route-extension-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Far Cry 5 Gold Edition + Far Cry New Dawn Deluxe Edition Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle/",
+		"store_name": "gmg",
+		"normal_price": 130000,
+		"sale_price": 130000
+	},
+	{
+		"title": "Far Cry New Dawn",
+		"url": "https://www.greenmangaming.com/ko/games/far-cry-new-dawn-pc/",
+		"store_name": "gmg",
+		"normal_price": 49000,
+		"sale_price": 49000
+	},
+	{
+		"title": "Far Cry® 5 + Far Cry® New Dawn Deluxe Edition Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/far-cry-5-far-cry-new-dawn-deluxe-edition-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 110000,
+		"sale_price": 110000
+	},
+	{
+		"title": "Warframe: Master Thief Pinnacle Pack",
+		"url": "https://www.greenmangaming.com/ko/games/warframe-master-thief-pinnacle-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"title": "Warframe: Equilibrium Pinnacle Pack",
+		"url": "https://www.greenmangaming.com/ko/games/warframe-equilibrium-pinnacle-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Degrees of Separation",
+		"url": "https://www.greenmangaming.com/ko/games/degrees-of-separation-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Warframe: Rage Pinnacle Pack",
+		"url": "https://www.greenmangaming.com/ko/games/warframe-rage-pinnacle-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 103000,
+		"sale_price": 103000
+	},
+	{
+		"title": "Resort Boss: Golf",
+		"url": "https://www.greenmangaming.com/ko/games/resort-boss-golf-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Artillery Globe",
+		"url": "https://www.greenmangaming.com/ko/games/artillery-globe-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Warframe: Endurance Drift Pinnacle Pack",
+		"url": "https://www.greenmangaming.com/ko/games/warframe-endurance-drift-pinnacle-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Sid Meier's Civilization® VI: Gathering Storm",
+		"url": "https://www.greenmangaming.com/ko/games/sid-meiers-civilization-vi-gathering-storm-pc/",
+		"store_name": "gmg",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"title": "Tannenberg",
+		"url": "https://www.greenmangaming.com/ko/games/tannenberg/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Plane Mechanic Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/plane-mechanic-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 13623,
+		"sale_price": 13623
+	},
+	{
+		"title": "Tannenberg - Supporter Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tannenberg-supporter-edition/",
+		"store_name": "gmg",
+		"normal_price": 27764,
+		"sale_price": 27764
+	},
+	{
+		"title": "AWAY: Journey to the Unexpected",
+		"url": "https://www.greenmangaming.com/ko/games/away-journey-to-the-unexpected-pc/",
+		"store_name": "gmg",
+		"normal_price": 19304,
+		"sale_price": 19304
+	},
+	{
+		"title": "Tom Clancy's Rainbow Six Siege Standard Edition Year 4",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-rainbow-six-siege-standard-edition-year-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"title": "Arcade Spirits",
+		"url": "https://www.greenmangaming.com/ko/games/arcade-spirits-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "THE SETTLERS 6 - Rise of an Empire History Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-settlers-6-rise-of-an-empire-history-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "Arcade Spirits - Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/arcade-spirits-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Arcade Spirits - Artbook",
+		"url": "https://www.greenmangaming.com/ko/games/arcade-spirits-artbook-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "THE SETTLERS 5 - Heritage of Kings History Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-settlers-5-heritage-of-kings-history-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "Arcade Spirits Soundtrack & Artbook Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/arcade-spirits-soundtrack-artbook-bundle/",
+		"store_name": "gmg",
+		"normal_price": 29300,
+		"sale_price": 26077
+	},
+	{
+		"title": "Tom Clancy's Rainbow Six Siege Gold Edition Year 4",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-rainbow-six-siege-gold-edition-year-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 65000
+	},
+	{
+		"title": "Tom Clancy's Rainbow Six Siege Deluxe Edition Year 4",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-rainbow-six-siege-deluxe-edition-year-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"title": "Tom Clancy's Rainbow Six Siege Ultimate Edition Year 4",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-rainbow-six-siege-ultimate-edition-year-4/",
+		"store_name": "gmg",
+		"normal_price": 110000,
+		"sale_price": 110000
+	},
+	{
+		"title": "Evoland Legendary Edition",
+		"url": "https://www.greenmangaming.com/ko/games/evoland-legendary-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Project Winter",
+		"url": "https://www.greenmangaming.com/ko/games/project-winter-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "The Stillness of the Wind",
+		"url": "https://www.greenmangaming.com/ko/games/the-stillness-of-the-wind-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Hazardous Space",
+		"url": "https://www.greenmangaming.com/ko/games/hazardous-space-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Kingdom Come: Deliverance - Band of Bastards",
+		"url": "https://www.greenmangaming.com/ko/games/kingdom-come-deliverance-band-of-bastards-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Spike Volleyball",
+		"url": "https://www.greenmangaming.com/ko/games/spike-volleyball-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Helheim",
+		"url": "https://www.greenmangaming.com/ko/games/helheim-pc/",
+		"store_name": "gmg",
+		"normal_price": 9450,
+		"sale_price": 9450
+	},
+	{
+		"title": "Re-Legion - Digital_Soundtrack_",
+		"url": "https://www.greenmangaming.com/ko/games/re-legion-digital-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Re-Legion",
+		"url": "https://www.greenmangaming.com/ko/games/re-legion-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Record of Agarest War Mariage - Deluxe Pack",
+		"url": "https://www.greenmangaming.com/ko/games/record-of-agarest-war-mariage-deluxe-pack/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Record of Agarest War Mariage - Deluxe Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/record-of-agarest-war-mariage-deluxe-bundle/",
+		"store_name": "gmg",
+		"normal_price": 33200,
+		"sale_price": 33200
+	},
+	{
+		"title": "Lovecraft's Untold Stories",
+		"url": "https://www.greenmangaming.com/ko/games/lovecrafts-untold-stories-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "WARP-TEK",
+		"url": "https://www.greenmangaming.com/ko/games/warptek-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Re-Legion - Digital_Artbook_",
+		"url": "https://www.greenmangaming.com/ko/games/re-legion-digital-artbook-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Re-Legion - Deluxe_Edition_",
+		"url": "https://www.greenmangaming.com/ko/games/re-legion-deluxe_edition_/",
+		"store_name": "gmg",
+		"normal_price": 23688,
+		"sale_price": 23688
+	},
+	{
+		"title": "Bleep Bloop",
+		"url": "https://www.greenmangaming.com/ko/games/bleep-bloop-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Robothorium: Sci-fi Dungeon Crawler",
+		"url": "https://www.greenmangaming.com/ko/games/robothorium-sci-fi-dungeon-crawler-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Record of Agarest War Mariage",
+		"url": "https://www.greenmangaming.com/ko/games/record-of-agarest-war-mariage-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Warhammer Quest 2: The End Times",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-quest-2-the-end-times-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "The Warhorn",
+		"url": "https://www.greenmangaming.com/ko/games/the-warhorn-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Earth Atlantis",
+		"url": "https://www.greenmangaming.com/ko/games/earth-atlantis-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Dead In Vinland - Endless Mode: Battle Of The Heodenings",
+		"url": "https://www.greenmangaming.com/ko/games/dead-in-vinland-endless-mode-battle-of-the-heodenings/",
+		"store_name": "gmg",
+		"normal_price": 5670,
+		"sale_price": 5670
+	},
+	{
+		"title": "Life is Strange 2 - Episode 2",
+		"url": "https://www.greenmangaming.com/ko/games/life-is-strange-2-episode-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 9290,
+		"sale_price": 9290
+	},
+	{
+		"title": "Battlefleet Gothic: Armada 2",
+		"url": "https://www.greenmangaming.com/ko/games/battlefleet-gothic-armada-2/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "When Ski Lifts Go Wrong",
+		"url": "https://www.greenmangaming.com/ko/games/when-ski-lifts-go-wrong-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "THE SETTLERS 7 - History Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-settlers-7-history-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Thrusty Ship",
+		"url": "https://www.greenmangaming.com/ko/games/thrusty-ship-pc/",
+		"store_name": "gmg",
+		"normal_price": 19500,
+		"sale_price": 19500
+	},
+	{
+		"title": "AT SUNDOWN: Shots in the Dark",
+		"url": "https://www.greenmangaming.com/ko/games/at-sundown-shots-in-the-dark/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "WWE 2K19 Rising Stars Pack",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-rising-stars-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 11600,
+		"sale_price": 11600
+	},
+	{
+		"title": "A Fisherman's Tale",
+		"url": "https://www.greenmangaming.com/ko/games/a-fishermans-tale-pc/",
+		"store_name": "gmg",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"title": "Meeple Station",
+		"url": "https://www.greenmangaming.com/ko/games/meeple-station-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "ZAMB! Endless Extermination",
+		"url": "https://www.greenmangaming.com/ko/games/zamb-endless-extermination-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Ravva and the Cyclops Curse",
+		"url": "https://www.greenmangaming.com/ko/games/ravva-and-the-cyclops-curse-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Space Viking Raiders",
+		"url": "https://www.greenmangaming.com/ko/games/space-viking-raiders-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "RD's Adventure Mini Golf",
+		"url": "https://www.greenmangaming.com/ko/games/rds-adventure-mini-golf-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Onimusha Warlords",
+		"url": "https://www.greenmangaming.com/ko/games/onimusha-warlords-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Rift Keeper",
+		"url": "https://www.greenmangaming.com/ko/games/rift-keeper-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Aftercharge",
+		"url": "https://www.greenmangaming.com/ko/games/aftercharge-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Double Cross",
+		"url": "https://www.greenmangaming.com/ko/games/double-cross-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Endangered",
+		"url": "https://www.greenmangaming.com/ko/games/endangered-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Bury me, my Love",
+		"url": "https://www.greenmangaming.com/ko/games/bury-me-my-love-pc/",
+		"store_name": "gmg",
+		"normal_price": 5670,
+		"sale_price": 5670
+	},
+	{
+		"title": "Deliverance: The Making of Kingdom Come",
+		"url": "https://www.greenmangaming.com/ko/games/deliverance-the-making-of-kingdom-come-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Roof Rage",
+		"url": "https://www.greenmangaming.com/ko/games/roof-rage-pc/",
+		"store_name": "gmg",
+		"normal_price": 13623,
+		"sale_price": 6812
+	},
+	{
+		"title": "For Honor Year 3 Pass",
+		"url": "https://www.greenmangaming.com/ko/games/for-honor-year-3-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"title": "Miscreated",
+		"url": "https://www.greenmangaming.com/ko/games/miscreated-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "WWE 2K19 New Moves Pack",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-new-moves-pack/",
+		"store_name": "gmg",
+		"normal_price": 4800,
+		"sale_price": 4800
+	},
+	{
+		"title": "For Honor Complete Edition",
+		"url": "https://www.greenmangaming.com/ko/games/for-honor-complete-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 110000,
+		"sale_price": 110000
+	},
+	{
+		"title": "Your Diary +",
+		"url": "https://www.greenmangaming.com/ko/games/your-diary-pc/",
+		"store_name": "gmg",
+		"normal_price": 28394,
+		"sale_price": 28394
+	},
+	{
+		"title": "Sins of a Solar Empire: Rebellion - Minor Factions ",
+		"url": "https://www.greenmangaming.com/ko/games/sins-of-a-solar-empire-rebellion-minor-factions-dlc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Duck Hunting Challenge",
+		"url": "https://www.greenmangaming.com/ko/games/duck-hunting-challenge-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Treasure Hunter Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/treasure-hunter-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 19304,
+		"sale_price": 19304
+	},
+	{
+		"title": "Railway Empire: Great Britain & Ireland",
+		"url": "https://www.greenmangaming.com/ko/games/railway-empire-great-britain-ireland-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Football Director 2019",
+		"url": "https://www.greenmangaming.com/ko/games/football-director-2019-pc/",
+		"store_name": "gmg",
+		"normal_price": 11500,
+		"sale_price": 11500
+	},
+	{
+		"title": "The Banner Saga 3 - Eternal Arena",
+		"url": "https://www.greenmangaming.com/ko/games/the-banner-saga-3-eternal-arena-pc/",
+		"store_name": "gmg",
+		"normal_price": 5240,
+		"sale_price": 5240
+	},
+	{
+		"title": "Shadows: Awakening - Necrophage's Curse",
+		"url": "https://www.greenmangaming.com/ko/games/shadows-awakening-necrophages-curse/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Subterraneus",
+		"url": "https://www.greenmangaming.com/ko/games/subterraneus-pc/",
+		"store_name": "gmg",
+		"normal_price": 14759,
+		"sale_price": 14759
+	},
+	{
+		"title": "Lucius III",
+		"url": "https://www.greenmangaming.com/ko/games/lucius-iii-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Pillars of Eternity 2 Deadfire: The Forgotten Sanctum",
+		"url": "https://www.greenmangaming.com/ko/games/pillars-of-eternity-2-deadfire-the-forgotten-sanctum/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Train Sim World: Northern Trans-Pennine: Manchester - Leeds Route Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-northern-trans-pennine-manchester-leeds-route-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"title": "Conan Exiles Seekers of the Dawn Pack",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-seekers-of-the-dawn-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 11250,
+		"sale_price": 11250
+	},
+	{
+		"title": "Insurgency: Sandstorm",
+		"url": "https://www.greenmangaming.com/ko/games/insurgency-sandstorm/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "Europa Universalis IV: Golden Century",
+		"url": "https://www.greenmangaming.com/ko/games/europa-universalis-iv-golden-century/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "'90s Football Stars",
+		"url": "https://www.greenmangaming.com/ko/games/90s-football-stars-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "MechaNika",
+		"url": "https://www.greenmangaming.com/ko/games/mechanika-pc/",
+		"store_name": "gmg",
+		"normal_price": 4533,
+		"sale_price": 4533
+	},
+	{
+		"title": "Desert Child",
+		"url": "https://www.greenmangaming.com/ko/games/desert-child-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Ancient Frontier: Steel Shadows",
+		"url": "https://www.greenmangaming.com/ko/games/ancient-frontier-steel-shadows-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Agatha Knife",
+		"url": "https://www.greenmangaming.com/ko/games/agatha-knife-pc/",
+		"store_name": "gmg",
+		"normal_price": 13623,
+		"sale_price": 13623
+	},
+	{
+		"title": "Double Switch - 25th Anniversary Edition",
+		"url": "https://www.greenmangaming.com/ko/games/double-switch-25th-anniversary-edition/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Tom Clancy's Rainbow Six Siege - Year 4 Pass",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-rainbow-six-siege-year-4-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"title": "Battle Royale Tycoon",
+		"url": "https://www.greenmangaming.com/ko/games/battle-royale-tycoon-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Dead by Daylight: Darkness Among Us",
+		"url": "https://www.greenmangaming.com/ko/games/dead-by-daylight-darkness-among-us-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Northgard - Nidhogg, Clan of the Dragon",
+		"url": "https://www.greenmangaming.com/ko/games/northgard-nidhogg-clan-of-the-dragon/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Warhammer: Vermintide 2 - Back to Ubersreik",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-vermintide-2-back-to-ubersreik-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Tokyo Xanadu eX+",
+		"url": "https://www.greenmangaming.com/ko/games/tokyo-xanadu-ex-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"title": "NBA 2K19 + NBA 2K Playgrounds 2 Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/nba-2k19-nba-2k-playgrounds-2-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 85000,
+		"sale_price": 85000
+	},
+	{
+		"title": "Train Simulator: LGV Rhône-Alpes & Méditerranée Route Extension Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-simulator-lgv-rhone-alpes-mediterranee-route-extension-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 19500,
+		"sale_price": 11700
+	},
+	{
+		"title": "Jagged Alliance: Rage!",
+		"url": "https://www.greenmangaming.com/ko/games/jagged-alliance-rage-pc/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Stellaris: MegaCorp",
+		"url": "https://www.greenmangaming.com/ko/games/stellaris-megacorp-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition",
+		"url": "https://www.greenmangaming.com/ko/games/dynasty-warriors-7-xtreme-legends-definitive-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 22600,
+		"sale_price": 22600
+	},
+	{
+		"title": "Atelier Rorona ~The Alchemist of Arland~ DX",
+		"url": "https://www.greenmangaming.com/ko/games/atelier-rorona-the-alchemist-of-arland-dx/",
+		"store_name": "gmg",
+		"normal_price": 41800,
+		"sale_price": 41800
+	},
+	{
+		"title": "Arca's Path VR",
+		"url": "https://www.greenmangaming.com/ko/games/arcas-path-vr-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Just Cause 4 Expansion Pass",
+		"url": "https://www.greenmangaming.com/ko/games/just-cause-4-expansion-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 34075
+	},
+	{
+		"title": "Just Cause 4 Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/just-cause-4-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 102248,
+		"sale_price": 102248
+	},
+	{
+		"title": "Override: Mech City Brawl – Super Charged Mega Edition",
+		"url": "https://www.greenmangaming.com/ko/games/override-mech-city-brawl-super-charged-mega-edition/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Just Cause 4 Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/just-cause-4-digital-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 79523,
+		"sale_price": 79523
+	},
+	{
+		"title": "Mutant Year Zero: Road to Eden - Fan Edition",
+		"url": "https://www.greenmangaming.com/ko/games/mutant-year-zero-road-to-eden-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 57000,
+		"sale_price": 57000
+	},
+	{
+		"title": "Override: Mech City Brawl",
+		"url": "https://www.greenmangaming.com/ko/games/override-mech-city-brawl-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Beholder 2",
+		"url": "https://www.greenmangaming.com/ko/games/beholder-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 15000,
+		"sale_price": 15000
+	},
+	{
+		"title": "Atelier Meruru ~The Apprentice of Arland~ DX",
+		"url": "https://www.greenmangaming.com/ko/games/atelier-meruru-the-apprentice-of-arland-dx/",
+		"store_name": "gmg",
+		"normal_price": 41800,
+		"sale_price": 41800
+	},
+	{
+		"title": "Atelier Totori ~The Adventurer of Arland~ DX",
+		"url": "https://www.greenmangaming.com/ko/games/atelier-totori-the-adventurer-of-arland-dx/",
+		"store_name": "gmg",
+		"normal_price": 41800,
+		"sale_price": 41800
+	},
+	{
+		"title": "Just Cause 4",
+		"url": "https://www.greenmangaming.com/ko/games/just-cause-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 68161,
+		"sale_price": 68161
+	},
+	{
+		"title": "Mutant Year Zero: Road to Eden",
+		"url": "https://www.greenmangaming.com/ko/games/mutant-year-zero-road-to-eden-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "War of Rights",
+		"url": "https://www.greenmangaming.com/ko/games/war-of-rights-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "XCOM 2: War of the Chosen - Tactical Legacy Pack",
+		"url": "https://www.greenmangaming.com/ko/games/xcom-2-war-of-the-chosen-tactical-legacy-pack/",
+		"store_name": "gmg",
+		"normal_price": 8600,
+		"sale_price": 8600
+	},
+	{
+		"title": "X4: Foundations Collector's Edition",
+		"url": "https://www.greenmangaming.com/ko/games/x4-foundations-collectors-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 88906,
+		"sale_price": 88906
+	},
+	{
+		"title": "X4: Foundations",
+		"url": "https://www.greenmangaming.com/ko/games/x4-foundations-pc/",
+		"store_name": "gmg",
+		"normal_price": 59000,
+		"sale_price": 59000
+	},
+	{
+		"title": "Broken Reality",
+		"url": "https://www.greenmangaming.com/ko/games/broken-reality-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Euro Truck Simulator 2 - Beyond the Baltic Sea",
+		"url": "https://www.greenmangaming.com/ko/games/euro-truck-simulator-2-beyond-the-baltic-sea-pc/",
+		"store_name": "gmg",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"title": "Pro Fishing Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/pro-fishing-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "NAIRI: Tower of Shirin",
+		"url": "https://www.greenmangaming.com/ko/games/nairi-tower-of-shirin-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Rapture Rejects",
+		"url": "https://www.greenmangaming.com/ko/games/rapture-rejects-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Crimson Keep",
+		"url": "https://www.greenmangaming.com/ko/games/crimson-keep-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "MMA Team Manager",
+		"url": "https://www.greenmangaming.com/ko/games/mma-team-manager-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Asterix & Obelix XXL 2",
+		"url": "https://www.greenmangaming.com/ko/games/asterix-obelix-xxl-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 27260
+	},
+	{
+		"title": "Gal*Gun 2 - Doki Doki VR Mode",
+		"url": "https://www.greenmangaming.com/ko/games/galgun-2-doki-doki-vr-mode-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Darksiders III: Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/darksiders-iii-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 80000,
+		"sale_price": 80000
+	},
+	{
+		"title": "Train Sim World: BR Class 33 Loco Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-br-class-33-loco-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Darksiders Blades & Whip Franchise Pack",
+		"url": "https://www.greenmangaming.com/ko/games/darksiders-blades-whip-franchise-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 99999,
+		"sale_price": 99999
+	},
+	{
+		"title": "BATTLETECH Flashpoint",
+		"url": "https://www.greenmangaming.com/ko/games/battletech-flashpoint-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Darksiders III",
+		"url": "https://www.greenmangaming.com/ko/games/darksiders-iii/",
+		"store_name": "gmg",
+		"normal_price": 60000,
+		"sale_price": 60000
+	},
+	{
+		"title": "Woodpunk",
+		"url": "https://www.greenmangaming.com/ko/games/woodpunk-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "StickyBots",
+		"url": "https://www.greenmangaming.com/ko/games/stickybots-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "Train Sim World: Long Island Rail Road: New York – Hicksville Route Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-long-island-rail-road-new-york-hicksville-route-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"title": "WWE 2K19 Titans Pack",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-titans-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 11600,
+		"sale_price": 11600
+	},
+	{
+		"title": "Fishing Sim World: Quad Lake Pass",
+		"url": "https://www.greenmangaming.com/ko/games/fishing-sim-world-quad-lake-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 38500,
+		"sale_price": 38500
+	},
+	{
+		"title": "Sid Meier's Civilization VI® Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/sid-meiers-civilization-vi-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 106500,
+		"sale_price": 106500
+	},
+	{
+		"title": "Christmas Carol",
+		"url": "https://www.greenmangaming.com/ko/games/christmas-carol-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Farming Simulator 19",
+		"url": "https://www.greenmangaming.com/ko/games/farming-simulator-19-pc/",
+		"store_name": "gmg",
+		"normal_price": 39510,
+		"sale_price": 39510
+	},
+	{
+		"title": "Gal*Gun 2 - VR Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/galgun-2-vr-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 72300,
+		"sale_price": 68685
+	},
+	{
+		"title": "Double",
+		"url": "https://www.greenmangaming.com/ko/games/double-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Sanctus Mortem",
+		"url": "https://www.greenmangaming.com/ko/games/sanctus-mortem/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Voronium - Locust Sols",
+		"url": "https://www.greenmangaming.com/ko/games/voronium-locust-sols-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Sunset Overdrive",
+		"url": "https://www.greenmangaming.com/ko/games/sunset-overdrive-pc/",
+		"store_name": "gmg",
+		"normal_price": 20900,
+		"sale_price": 20900
+	},
+	{
+		"title": "Underworld Ascendant",
+		"url": "https://www.greenmangaming.com/ko/games/underworld-ascendant-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 34075
+	},
+	{
+		"title": "killer7: 2018 Remastered Original Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/killer7-2018-remastered-original-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Warhammer 40,000: Mechanicus",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-40000-mechanicus-pc/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "Surviving Mars: Marsvision Song Contest",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-marsvision-song-contest-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 3036
+	},
+	{
+		"title": "Windlands 2",
+		"url": "https://www.greenmangaming.com/ko/games/windlands-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Cosmic Top Secret",
+		"url": "https://www.greenmangaming.com/ko/games/cosmic-top-secret-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Surviving Mars: Space Race Plus",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-space-race-plus-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 14145
+	},
+	{
+		"title": "Little Dragons Café",
+		"url": "https://www.greenmangaming.com/ko/games/little-dragons-cafe-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 61000
+	},
+	{
+		"title": "Just Cause 3: XXL Edition",
+		"url": "https://www.greenmangaming.com/ko/games/just-cause-3-xxl-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 34075
+	},
+	{
+		"title": "Badminton Warrior",
+		"url": "https://www.greenmangaming.com/ko/games/badminton-warrior-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "killer7: Digital Art Booklet",
+		"url": "https://www.greenmangaming.com/ko/games/killer7-digital-art-booklet-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "killer7: Digital Limited Edition",
+		"url": "https://www.greenmangaming.com/ko/games/killer7-digital-limited-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 31320,
+		"sale_price": 31320
+	},
+	{
+		"title": "Warhammer 40,000: Mechanicus - Omnissiah Edition",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-40000-mechanicus-omnissiah-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Surviving Mars: Space Race",
+		"url": "https://www.greenmangaming.com/ko/games/surviving-mars-space-race-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 9315
+	},
+	{
+		"title": "Gravity Wars",
+		"url": "https://www.greenmangaming.com/ko/games/gravity-wars-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Beyond the Sky",
+		"url": "https://www.greenmangaming.com/ko/games/beyond-the-sky/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "This War of Mine: Stories - The Last Broadcast (ep 2)",
+		"url": "https://www.greenmangaming.com/ko/games/this-war-of-mine-stories-the-last-broadcast/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Who Must Die",
+		"url": "https://www.greenmangaming.com/ko/games/who-must-die-pc/",
+		"store_name": "gmg",
+		"normal_price": 7942,
+		"sale_price": 7942
+	},
+	{
+		"title": "Oriental Empires: Genghis",
+		"url": "https://www.greenmangaming.com/ko/games/oriental-empires-genghis-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Crusader Kings II: Holy Fury",
+		"url": "https://www.greenmangaming.com/ko/games/crusader-kings-ii-holy-fury-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "HITMAN™2 Silver Edition",
+		"url": "https://www.greenmangaming.com/ko/games/hitman-2-silver-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 89400,
+		"sale_price": 89400
+	},
+	{
+		"title": "Project Highrise Architect's Edition",
+		"url": "https://www.greenmangaming.com/ko/games/project-highrise-architects-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "HITMAN™2 Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/hitman-2-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 109400,
+		"sale_price": 109400
+	},
+	{
+		"title": "HITMAN™2",
+		"url": "https://www.greenmangaming.com/ko/games/hitman-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 62000,
+		"sale_price": 62000
+	},
+	{
+		"title": "Avaris 2: The Return of the Empress",
+		"url": "https://www.greenmangaming.com/ko/games/avaris-2-the-return-of-the-empress-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Aces of the Luftwaffe - Squadron - Nebelgeschwader",
+		"url": "https://www.greenmangaming.com/ko/games/aces-of-the-luftwaffe-squadron-nebelgeschwader-pc/",
+		"store_name": "gmg",
+		"normal_price": 16800,
+		"sale_price": 16800
+	},
+	{
+		"title": "Fishing: Barents Sea - King Crab",
+		"url": "https://www.greenmangaming.com/ko/games/fishing-barents-sea-king-crab-pc/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "Galactic Civilizations III - Heroes of Star Control: Origins DLC",
+		"url": "https://www.greenmangaming.com/ko/games/galactic-civilizations-iii-star-control-origins-heroes-dlc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Zero Caliber VR",
+		"url": "https://www.greenmangaming.com/ko/games/zero-caliber-vr-pc/",
+		"store_name": "gmg",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"title": "Cybarian: The Time Travelling Warrior",
+		"url": "https://www.greenmangaming.com/ko/games/cybarian-the-time-travelling-warrior-pc/",
+		"store_name": "gmg",
+		"normal_price": 4500,
+		"sale_price": 4500
+	},
+	{
+		"title": "Tyranny - Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tyranny-gold-edition/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 51000
+	},
+	{
+		"title": "Tyranny - Deluxe Edition Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/tyranny-deluxe-edition-upgrade-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "SimpleRockets 2",
+		"url": "https://www.greenmangaming.com/ko/games/simplerockets-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "SOMOS",
+		"url": "https://www.greenmangaming.com/ko/games/somos-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "ARK: Extinction - Expansion Pack",
+		"url": "https://www.greenmangaming.com/ko/games/ark-extinction-expansion-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 11531
+	},
+	{
+		"title": "Leisure Suit Larry - Wet Dreams Don't Dry",
+		"url": "https://www.greenmangaming.com/ko/games/leisure-suit-larry-wet-dreams-dont-dry-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Holy Potatoes! A Spy Story?!",
+		"url": "https://www.greenmangaming.com/ko/games/holy-potatoes-a-spy-story-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "KURSK",
+		"url": "https://www.greenmangaming.com/ko/games/kursk-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Swords and Soldiers 2 Shawarmageddon",
+		"url": "https://www.greenmangaming.com/ko/games/swords-and-soldiers-2-shawarmageddon-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "WWE 2K19 Ronda & Rey Pack",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-ronda-rey-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 9600,
+		"sale_price": 9600
+	},
+	{
+		"title": "WWE 2K19 Wooooo! Edition Pack!",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-wooooo-edition-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 9600,
+		"sale_price": 9600
+	},
+	{
+		"title": "The Shapeshifting Detective",
+		"url": "https://www.greenmangaming.com/ko/games/the-shapeshifting-detective-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "WORLD OF FINAL FANTASY MAXIMA Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/world-of-final-fantasy-maxima-upgrade-pc/",
+		"store_name": "gmg",
+		"normal_price": 18168,
+		"sale_price": 18168
+	},
+	{
+		"title": "WORLD OF FINAL FANTASY™ COMPLETE EDITION",
+		"url": "https://www.greenmangaming.com/ko/games/world-of-final-fantasy-complete-edition/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "PLAYNE : The Meditation Game",
+		"url": "https://www.greenmangaming.com/ko/games/playne-the-meditation-game-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 9450
+	},
+	{
+		"title": "THE QUIET MAN™",
+		"url": "https://www.greenmangaming.com/ko/games/the-quiet-man-pc/",
+		"store_name": "gmg",
+		"normal_price": 17032,
+		"sale_price": 17032
+	},
+	{
+		"title": "KartKraft™",
+		"url": "https://www.greenmangaming.com/ko/games/kartkraft/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"title": "Apparition",
+		"url": "https://www.greenmangaming.com/ko/games/apparition-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Halloween Bundle 4 in 1",
+		"url": "https://www.greenmangaming.com/ko/games/halloween-bundle-4-in-1-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "AppGameKit Exclusive Collection",
+		"url": "https://www.greenmangaming.com/ko/games/appgamekit-exclusive-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 210500,
+		"sale_price": 126300
+	},
+	{
+		"title": "GameGuru Exclusive Collection",
+		"url": "https://www.greenmangaming.com/ko/games/gameguru-exclusive-collection/",
+		"store_name": "gmg",
+		"normal_price": 160000,
+		"sale_price": 96000
+	},
+	{
+		"title": "Steep X Games Pass",
+		"url": "https://www.greenmangaming.com/ko/games/steep-x-games-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Steep X Games Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/steep-x-games-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Project Hospital",
+		"url": "https://www.greenmangaming.com/ko/games/project-hospital-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Citrouille",
+		"url": "https://www.greenmangaming.com/ko/games/citrouille-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "Pirate Survival Fantasy Shooter",
+		"url": "https://www.greenmangaming.com/ko/games/pirate-survival-fantasy-shooter-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Call of Cthulhu®",
+		"url": "https://www.greenmangaming.com/ko/games/call-of-cthulhu-pc/",
+		"store_name": "gmg",
+		"normal_price": 51118,
+		"sale_price": 51118
+	},
+	{
+		"title": "Dead Climb",
+		"url": "https://www.greenmangaming.com/ko/games/dead-climb-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "The Earth Dies Screaming",
+		"url": "https://www.greenmangaming.com/ko/games/the-earth-dies-screaming-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Shadows: Awakening - The Legendary Armour Pack",
+		"url": "https://www.greenmangaming.com/ko/games/shadows-awakening-the-legendary-armour-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Shadows: Awakening - The Chromaton Chronicles",
+		"url": "https://www.greenmangaming.com/ko/games/shadows-awakening-the-chromaton-chronicles/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Eternum EX",
+		"url": "https://www.greenmangaming.com/ko/games/eternum-ex-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Men of War: Assault Squad 2 - Ostfront Veteranen",
+		"url": "https://www.greenmangaming.com/ko/games/men-of-war-assault-squad-2-ostfront-veteranen-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Party Hard 2",
+		"url": "https://www.greenmangaming.com/ko/games/party-hard-2/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "BATTLE X Arcade",
+		"url": "https://www.greenmangaming.com/ko/games/battle-x-arcade-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Circle Empires: Apex Monsters!",
+		"url": "https://www.greenmangaming.com/ko/games/circle-empires-apex-monsters/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Do Not Feed the Monkeys",
+		"url": "https://www.greenmangaming.com/ko/games/do-not-feed-the-monkeys-pc/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "The Colonists",
+		"url": "https://www.greenmangaming.com/ko/games/the-colonists-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Faeria - Puzzle Pack Elements",
+		"url": "https://www.greenmangaming.com/ko/games/faeria-puzzle-pack-elements-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Lethal League Blaze",
+		"url": "https://www.greenmangaming.com/ko/games/lethal-league-blaze-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "ANTIFECTOR",
+		"url": "https://www.greenmangaming.com/ko/games/antifector-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Cities: Skylines - Synthetic Dawn Radio",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-synthetic-dawn-radio-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "MudRunner - American Wilds Expansion",
+		"url": "https://www.greenmangaming.com/ko/games/spintires-mudrunner-american-wilds-expansion-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "Cities: Skylines - Industries Plus",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-industries-plus/",
+		"store_name": "gmg",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"title": "Bomber Crew: USAAF",
+		"url": "https://www.greenmangaming.com/ko/games/bomber-crew-usaaf-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "MudRunner - American Wilds Edition",
+		"url": "https://www.greenmangaming.com/ko/games/spintires-mudrunner-american-wilds-edition/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Cities: Skylines - Industries",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-industries-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Disgaea 5 Complete - Digital Art Book",
+		"url": "https://www.greenmangaming.com/ko/games/disgaea-5-complete-digital-art-book-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Deluxe Pack",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-deluxe-pack/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Megadimension Neptunia VIIR",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Hero Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-hero-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Magician Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-magician-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Novice Class Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-novice-class-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Starter Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-starter-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Inventory Expansion 3",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-inventory-expansion-3/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Deluxe Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-deluxe-bundle/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Adventurer Class Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-adventurer-class-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Disgaea 5 Complete - Digital Dood Edition",
+		"url": "https://www.greenmangaming.com/ko/games/disgaea-5-complete-digital-dood-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 44175,
+		"sale_price": 44175
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Samurai's Soul Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-samurais-soul-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - DLC Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-dlc-bundle/",
+		"store_name": "gmg",
+		"normal_price": 49770,
+		"sale_price": 49770
+	},
+	{
+		"title": "Disgaea 5 Complete",
+		"url": "https://www.greenmangaming.com/ko/games/disgaea-5-complete-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - 4 Goddesses Online Legendary Weapon Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-4-goddesses-online-legendary-weapon-set/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Inventory Expansion 2",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-inventory-expansion-2/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Complete Deluxe Set",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-complete-deluxe-set/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Skeletal Dance Party",
+		"url": "https://www.greenmangaming.com/ko/games/skeletal-dance-party-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "Megadimension Neptunia VIIR - Inventory Expansion 1",
+		"url": "https://www.greenmangaming.com/ko/games/megadimension-neptunia-viir-inventory-expansion-1/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Damsel",
+		"url": "https://www.greenmangaming.com/ko/games/damsel-pc/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Railway Empire - Crossing the Andes",
+		"url": "https://www.greenmangaming.com/ko/games/railway-empire-crossing-the-andes-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "BATTLETECH Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/battletech-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 51000
+	},
+	{
+		"title": "BATTLETECH Mercenary Collection",
+		"url": "https://www.greenmangaming.com/ko/games/battletech-mercenary-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 92000,
+		"sale_price": 92000
+	},
+	{
+		"title": "The Jackbox Party Pack 5",
+		"url": "https://www.greenmangaming.com/ko/games/the-jackbox-party-pack-5-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "The Jackbox Party Pack 5 - Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/the-jackbox-party-pack-5-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "WARRIORS OROCHI 4",
+		"url": "https://www.greenmangaming.com/ko/games/warriors-orochi-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 64800,
+		"sale_price": 64800
+	},
+	{
+		"title": "LEGO® DC Super-Villains",
+		"url": "https://www.greenmangaming.com/ko/games/lego-dc-super-villains-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "LEGO® DC Super-Villains Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/lego-dc-super-villains-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 58900,
+		"sale_price": 58900
+	},
+	{
+		"title": "NBA 2K Playgrounds 2",
+		"url": "https://www.greenmangaming.com/ko/games/nba-2k-playgrounds-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 33000,
+		"sale_price": 33000
+	},
+	{
+		"title": "WARRIORS OROCHI 4 - Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/warriors-orochi-4-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 38200,
+		"sale_price": 38200
+	},
+	{
+		"title": "For Honor Marching Fire Edition",
+		"url": "https://www.greenmangaming.com/ko/games/for-honor-marching-fire-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 55000,
+		"sale_price": 55000
+	},
+	{
+		"title": "For Honor - Marching Fire Expansion",
+		"url": "https://www.greenmangaming.com/ko/games/for-honor-marching-fire-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Kingdom Come: Deliverance - The Amorous Adventures of Bold Sir Hans Capon",
+		"url": "https://www.greenmangaming.com/ko/games/kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Escape Legacy: Ancient Scrolls",
+		"url": "https://www.greenmangaming.com/ko/games/escape-legacy-ancient-scrolls-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "INSOMNIA: The Ark - Deluxe Set",
+		"url": "https://www.greenmangaming.com/ko/games/insomnia-the-ark-deluxe-set-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "AI War 2",
+		"url": "https://www.greenmangaming.com/ko/games/ai-war-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Alone in the Dark Anthology",
+		"url": "https://www.greenmangaming.com/ko/games/alone-in-the-dark-anthology-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Call of Duty®: Black Ops 4",
+		"url": "https://www.greenmangaming.com/ko/games/call-of-duty-black-ops-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"title": "Call of Duty®: Black Ops 4 - Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/call-of-duty-black-ops-4-digital-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 85000,
+		"sale_price": 68000
+	},
+	{
+		"title": "Sudden Strike 4 - Africa: Desert War",
+		"url": "https://www.greenmangaming.com/ko/games/sudden-strike-4-africa-desert-war-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Timberman VS",
+		"url": "https://www.greenmangaming.com/ko/games/timberman-vs-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "President Yukino",
+		"url": "https://www.greenmangaming.com/ko/games/president-yukino-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Space Pilgrim Academy: Year 3",
+		"url": "https://www.greenmangaming.com/ko/games/space-pilgrim-academy-year-3-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Farm Together",
+		"url": "https://www.greenmangaming.com/ko/games/farm-together-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Papper Balls",
+		"url": "https://www.greenmangaming.com/ko/games/papper-balls-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Train Simulator 2019",
+		"url": "https://www.greenmangaming.com/ko/games/train-simulator-2019-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Joggernauts",
+		"url": "https://www.greenmangaming.com/ko/games/joggernauts-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "The Captives: Plot of the Demiurge",
+		"url": "https://www.greenmangaming.com/ko/games/the-captives-plot-of-the-demiurge-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Chamber of Darkness",
+		"url": "https://www.greenmangaming.com/ko/games/chamber-of-darkness-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Starship Corporation: Cruise Ships",
+		"url": "https://www.greenmangaming.com/ko/games/starship-corporation-cruise-ships-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Shortest Trip to Earth",
+		"url": "https://www.greenmangaming.com/ko/games/shortest-trip-to-earth-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "WWE 2K19 - MyPlayer KickStart",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-myplayer-kickstart/",
+		"store_name": "gmg",
+		"normal_price": 10800,
+		"sale_price": 10800
+	},
+	{
+		"title": "Space Hulk: Tactics",
+		"url": "https://www.greenmangaming.com/ko/games/space-hulk-tactics-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "WWE 2K19 - Accelerator",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-accelerator/",
+		"store_name": "gmg",
+		"normal_price": 5400,
+		"sale_price": 5400
+	},
+	{
+		"title": "Warhammer 40,000: Space Wolf - Sigurd Ironside",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-40000-space-wolf-sigurd-ironside-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Europa Universalis IV: Dharma Collection",
+		"url": "https://www.greenmangaming.com/ko/games/europa-universalis-iv-dharma-collection/",
+		"store_name": "gmg",
+		"normal_price": 26100,
+		"sale_price": 26100
+	},
+	{
+		"title": "Conan Exiles - The Savage Frontier Pack",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-the-savage-frontier-pack/",
+		"store_name": "gmg",
+		"normal_price": 11250,
+		"sale_price": 11250
+	},
+	{
+		"title": "My Memory of Us Collectors Edition",
+		"url": "https://www.greenmangaming.com/ko/games/my-memory-of-us-collectors-edition/",
+		"store_name": "gmg",
+		"normal_price": 26200,
+		"sale_price": 20960
+	},
+	{
+		"title": "Paradox Grand Strategy Classics Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/paradox-grand-strategy-classics-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 72000,
+		"sale_price": 54000
+	},
+	{
+		"title": "WWE 2K19",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "My Memory of Us",
+		"url": "https://www.greenmangaming.com/ko/games/my-memory-of-us-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "WWE 2K19 Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 32500,
+		"sale_price": 32500
+	},
+	{
+		"title": "WWE 2K19 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/wwe-2k19-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 81000,
+		"sale_price": 81000
+	},
+	{
+		"title": "Antigraviator: Viper Trails",
+		"url": "https://www.greenmangaming.com/ko/games/antigraviator-viper-trails-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Franchise Hockey Manager 5",
+		"url": "https://www.greenmangaming.com/ko/games/franchise-hockey-manager-5-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Assassin's Creed Odyssey",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-odyssey-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 65000
+	},
+	{
+		"title": "Assassin's Creed Odyssey - Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-odyssey-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Assassin's Creed Odyssey Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-odyssey-deluxe-pc/",
+		"store_name": "gmg",
+		"normal_price": 81000,
+		"sale_price": 81000
+	},
+	{
+		"title": "American Truck Simulator - Oregon",
+		"url": "https://www.greenmangaming.com/ko/games/american-truck-simulator-oregon/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "Grimm & Tonic",
+		"url": "https://www.greenmangaming.com/ko/games/grimm-tonic-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Overcooked! 2 - Surf and Turf",
+		"url": "https://www.greenmangaming.com/ko/games/overcooked-2-surf-and-turf-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Urbance Clans Card Battle!",
+		"url": "https://www.greenmangaming.com/ko/games/urbance-clans-card-battle-pc/",
+		"store_name": "gmg",
+		"normal_price": 5670,
+		"sale_price": 5670
+	},
+	{
+		"title": "Assault Spy - OST",
+		"url": "https://www.greenmangaming.com/ko/games/assault-spy-ost-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Assault Spy - Elite Spy Edition",
+		"url": "https://www.greenmangaming.com/ko/games/assault-spy-elite-spy-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 35625,
+		"sale_price": 35625
+	},
+	{
+		"title": "Assassin's Creed Odyssey Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-odyssey-ultimate-pc/",
+		"store_name": "gmg",
+		"normal_price": 125000,
+		"sale_price": 125000
+	},
+	{
+		"title": "Assassin's Creed Odyssey Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/assassins-creed-odyssey-gold-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Assault Spy",
+		"url": "https://www.greenmangaming.com/ko/games/assault-spy-pc/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "Valthirian Arc: Hero School Story",
+		"url": "https://www.greenmangaming.com/ko/games/valthirian-arc-hero-school-story-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Visage",
+		"url": "https://www.greenmangaming.com/ko/games/visage-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Mega Man 11",
+		"url": "https://www.greenmangaming.com/ko/games/mega-man-11-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Age of Wonders Franchise",
+		"url": "https://www.greenmangaming.com/ko/games/age-of-wonders-franchise-pc/",
+		"store_name": "gmg",
+		"normal_price": 101000,
+		"sale_price": 101000
+	},
+	{
+		"title": "Blood Bond - Into the Shroud",
+		"url": "https://www.greenmangaming.com/ko/games/blood-bond-into-the-shroud-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Dungeons 3 - Clash of Gods",
+		"url": "https://www.greenmangaming.com/ko/games/dungeons-3-clash-of-gods-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Eximius: Seize the Frontline",
+		"url": "https://www.greenmangaming.com/ko/games/eximius-seize-the-frontline-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Europa Universalis IV: Empire Founder Pack",
+		"url": "https://www.greenmangaming.com/ko/games/europa-universalis-iv-empire-founder-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 87500,
+		"sale_price": 87500
+	},
+	{
+		"title": "Pit Blocks 3D",
+		"url": "https://www.greenmangaming.com/ko/games/pit-blocks-3d-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "INSOMNIA: The Ark",
+		"url": "https://www.greenmangaming.com/ko/games/insomnia-the-ark-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Crusader Kings II: Dynasty Starter Pack",
+		"url": "https://www.greenmangaming.com/ko/games/crusader-kings-ii-dynasty-starter-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 77000,
+		"sale_price": 77000
+	},
+	{
+		"title": "I'm not a Monster",
+		"url": "https://www.greenmangaming.com/ko/games/im-not-a-monster-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Merrily Perilly",
+		"url": "https://www.greenmangaming.com/ko/games/merrily-perilly-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Mana Spark",
+		"url": "https://www.greenmangaming.com/ko/games/mana-spark-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "Resynth",
+		"url": "https://www.greenmangaming.com/ko/games/resynth-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Pig Eat Ball",
+		"url": "https://www.greenmangaming.com/ko/games/pig-eat-ball-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Bloody Faerie",
+		"url": "https://www.greenmangaming.com/ko/games/bloody-faerie-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Deep Sky Derelicts",
+		"url": "https://www.greenmangaming.com/ko/games/deep-sky-derelicts/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Life is Strange 2 - Episode 2-5 Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/life-is-strange-2-episode-2-5-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 37484,
+		"sale_price": 37484
+	},
+	{
+		"title": "Life is Strange 2 (PC) - Complete Season",
+		"url": "https://www.greenmangaming.com/ko/games/life-is-strange-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Life is Strange 2 - Episode 1",
+		"url": "https://www.greenmangaming.com/ko/games/life-is-strange-2-episode-1-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Creed: Rise to Glory",
+		"url": "https://www.greenmangaming.com/ko/games/creed-rise-to-glory-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "V-Rally 4 Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/v-rally-4-ultimate-edition/",
+		"store_name": "gmg",
+		"normal_price": 79523,
+		"sale_price": 79523
+	},
+	{
+		"title": "Pathfinder: Kingmaker Explorer Edition",
+		"url": "https://www.greenmangaming.com/ko/games/pathfinder-kingmaker-explorer-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "V-Rally 4",
+		"url": "https://www.greenmangaming.com/ko/games/v-rally-4-pc/",
+		"store_name": "gmg",
+		"normal_price": 56799,
+		"sale_price": 56799
+	},
+	{
+		"title": "HEVN",
+		"url": "https://www.greenmangaming.com/ko/games/hevn-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Galactic Civilizations III Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/galactic-civilizations-iii-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Dead by Daylight - Shattered Bloodline",
+		"url": "https://www.greenmangaming.com/ko/games/dead-by-daylight-shattered-bloodline-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Stones of Yalmrith",
+		"url": "https://www.greenmangaming.com/ko/games/stones-of-yalmrith-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "Robbie Swifthand and the Orb of Mysteries",
+		"url": "https://www.greenmangaming.com/ko/games/robbie-swifthand-and-the-orb-of-mysteries-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "The Slater",
+		"url": "https://www.greenmangaming.com/ko/games/the-slater-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Royal Adventure",
+		"url": "https://www.greenmangaming.com/ko/games/royal-adventure-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "The Gardens Between",
+		"url": "https://www.greenmangaming.com/ko/games/the-gardens-between-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Dead In Vinland - The Vallhund",
+		"url": "https://www.greenmangaming.com/ko/games/dead-in-vinland-the-vallhund/",
+		"store_name": "gmg",
+		"normal_price": 2261,
+		"sale_price": 2261
+	},
+	{
+		"title": "Majula Frontier",
+		"url": "https://www.greenmangaming.com/ko/games/majula-frontier-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Ring of Elysium - Founder's Pack",
+		"url": "https://www.greenmangaming.com/ko/games/ring-of-elysium-founders-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Lamplight City",
+		"url": "https://www.greenmangaming.com/ko/games/lamplight-city-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Jane's Realty",
+		"url": "https://www.greenmangaming.com/ko/games/janes-realty-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Ring of Elysium",
+		"url": "https://www.greenmangaming.com/ko/games/ring-of-elysium-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Faeria - Resurgence DLC",
+		"url": "https://www.greenmangaming.com/ko/games/faeria-resurgence-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Ellen's Friends eBook Collection (Majula Frontier backstory)",
+		"url": "https://www.greenmangaming.com/ko/games/ellens-friends-ebook-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 11500,
+		"sale_price": 11500
+	},
+	{
+		"title": "Majula Frontier Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/majula-frontier-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "The Bard's Tale IV: Barrows Deep",
+		"url": "https://www.greenmangaming.com/ko/games/the-bards-tale-iv-barrows-deep-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk - Meel's Manania Pact",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-meels-manania-pact-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "The Bard's Tale IV: Barrows Deep Platinum Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-bards-tale-iv-barrows-deep-platinum-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 67000,
+		"sale_price": 67000
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk - Meel's Best Shield",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-meels-best-shield-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk - Meel's Strategy Guide Pact",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-meels-strategy-guide-pact-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "killer7",
+		"url": "https://www.greenmangaming.com/ko/games/killer7-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Transference",
+		"url": "https://www.greenmangaming.com/ko/games/transference-pc/",
+		"store_name": "gmg",
+		"normal_price": 27000,
+		"sale_price": 27000
+	},
+	{
+		"title": "The Bard's Tale IV: Barrows Deep Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-bards-tale-iv-barrows-deep-ultimate-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Fishing Sim World",
+		"url": "https://www.greenmangaming.com/ko/games/fishing-sim-world-pc/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Gingerbread Story",
+		"url": "https://www.greenmangaming.com/ko/games/gingerbread-story-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Tom Clancy’s Ghost Recon Wildlands Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-ghost-recon-wildlands-ultimate-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk Digital Limited Edition",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-digital-limited-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 57780,
+		"sale_price": 57780
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk – Digital Art Book",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-digital-art-book/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk - Meel's Best Earring",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-meels-best-earring-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Seers Isle",
+		"url": "https://www.greenmangaming.com/ko/games/seers-isle/",
+		"store_name": "gmg",
+		"normal_price": 14759,
+		"sale_price": 14759
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Tom Clancy’s Ghost Recon Wildlands Year 2 Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tom-clancys-ghost-recon-wildlands-year-2-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 75000,
+		"sale_price": 75000
+	},
+	{
+		"title": "The Bard's Tale IV: Barrows Deep Premium Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-bards-tale-iv-barrows-deep-premium-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 51000,
+		"sale_price": 51000
+	},
+	{
+		"title": "Labyrinth of Refrain: Coven of Dusk – Meel’s Best Bell",
+		"url": "https://www.greenmangaming.com/ko/games/labyrinth-of-refrain-coven-of-dusk-meels-best-bell-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Adelantado Trilogy. Book Three",
+		"url": "https://www.greenmangaming.com/ko/games/adelantado-trilogy-book-three-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Super Lucky's Tale",
+		"url": "https://www.greenmangaming.com/ko/games/super-luckys-tale-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Victory at Sea Pacific",
+		"url": "https://www.greenmangaming.com/ko/games/victory-at-sea-pacific-pc/",
+		"store_name": "gmg",
+		"normal_price": 41000,
+		"sale_price": 41000
+	},
+	{
+		"title": "Shadow of the Tomb Raider",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-pc/",
+		"store_name": "gmg",
+		"normal_price": 68161,
+		"sale_price": 68161
+	},
+	{
+		"title": "Monkey King: Master of the Clouds",
+		"url": "https://www.greenmangaming.com/ko/games/monkey-king-master-of-the-clouds-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 2200
+	},
+	{
+		"title": "Shadow of the Tomb Raider - Croft Edition",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-croft-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 102248,
+		"sale_price": 102248
+	},
+	{
+		"title": "Shadow of the Tomb Raider - Deluxe Extras",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-deluxe-extras-pc/",
+		"store_name": "gmg",
+		"normal_price": 13623,
+		"sale_price": 13623
+	},
+	{
+		"title": "Zoo Tycoon: Ultimate Animal Collection",
+		"url": "https://www.greenmangaming.com/ko/games/zoo-tycoon-ultimate-animal-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Disneyland Adventures",
+		"url": "https://www.greenmangaming.com/ko/games/disneyland-adventures-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Shadow of the Tomb Raider - Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 79523,
+		"sale_price": 79523
+	},
+	{
+		"title": "Shadow of the Tomb Raider - Croft Extras",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-croft-extras-pc/",
+		"store_name": "gmg",
+		"normal_price": 9078,
+		"sale_price": 9078
+	},
+	{
+		"title": "ReCore: Definitive Edition",
+		"url": "https://www.greenmangaming.com/ko/games/recore-definitive-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Frozen Synapse 2",
+		"url": "https://www.greenmangaming.com/ko/games/frozen-synapse-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Shadow of the Tomb Raider - Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/shadow-of-the-tomb-raider-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 34075,
+		"sale_price": 34075
+	},
+	{
+		"title": "RAZED",
+		"url": "https://www.greenmangaming.com/ko/games/razed-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "BFF or Die",
+		"url": "https://www.greenmangaming.com/ko/games/bff-or-die-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Super Seducer 2 - Bonus Video 1: Meeting the Right Women",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-bonus-video-1-meeting-the-right-women-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Old School Musical",
+		"url": "https://www.greenmangaming.com/ko/games/old-school-musical-pc/",
+		"store_name": "gmg",
+		"normal_price": 14759,
+		"sale_price": 14759
+	},
+	{
+		"title": "Super Seducer 2 - Documentary: The Dark Side of Seduction?",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-documentary-the-dark-side-of-seduction-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Super Seducer 2 - Book: Soulmate Sequence, Your Guide to Social Confidence and Finding the One",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-book-soulmate-sequence-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Super Seducer 2 - Bonus Video 2: Creating Abundance",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-bonus-video-2-creating-abundance-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Dying Light: Bad Blood Founder's Pack",
+		"url": "https://www.greenmangaming.com/ko/games/dying-light-bad-blood-founders-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "A Hat in Time - Seal the Deal",
+		"url": "https://www.greenmangaming.com/ko/games/a-hat-in-time-seal-the-deal-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Super Seducer 2 - Bonus Video 3: Girlfriend Guaranteed",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-bonus-video-3-girlfriend-guaranteed-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Super Seducer 2",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Super Seducer 2 - Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/super-seducer-2-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "BATTLE X",
+		"url": "https://www.greenmangaming.com/ko/games/battle-x-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Gift of Parthax",
+		"url": "https://www.greenmangaming.com/ko/games/gift-of-parthax-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Boundless",
+		"url": "https://www.greenmangaming.com/ko/games/boundless-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Boundless Digital Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/boundless-digital-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 68161,
+		"sale_price": 68161
+	},
+	{
+		"title": "Boundless Digital Deluxe Upgrade",
+		"url": "https://www.greenmangaming.com/ko/games/boundless-digital-deluxe-upgrade-pc/",
+		"store_name": "gmg",
+		"normal_price": 28394,
+		"sale_price": 28394
+	},
+	{
+		"title": "Card Battle Spirit Link - 2 Pack",
+		"url": "https://www.greenmangaming.com/ko/games/card-battle-spirit-link-2-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Card Battle Spirit Link",
+		"url": "https://www.greenmangaming.com/ko/games/card-battle-spirit-link-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Echoes III",
+		"url": "https://www.greenmangaming.com/ko/games/echoes-iii-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Huge Enemy - Worldbreakers",
+		"url": "https://www.greenmangaming.com/ko/games/huge-enemy-worldbreakers-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "CHOP",
+		"url": "https://www.greenmangaming.com/ko/games/chop-pc/",
+		"store_name": "gmg",
+		"normal_price": 13623,
+		"sale_price": 10898
+	},
+	{
+		"title": "Europa Universalis IV: Dharma Content Pack",
+		"url": "https://www.greenmangaming.com/ko/games/europa-universalis-iv-dharma-content-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Unknown Fate",
+		"url": "https://www.greenmangaming.com/ko/games/unknown-fate-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Europa Universalis IV: Dharma",
+		"url": "https://www.greenmangaming.com/ko/games/europa-universalis-iv-dharma-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Another Sight",
+		"url": "https://www.greenmangaming.com/ko/games/another-sight-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "The Inner Friend",
+		"url": "https://www.greenmangaming.com/ko/games/the-inner-friend-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Hyperdimension Neptunia Re;Birth 1 - Tag Along DLC",
+		"url": "https://www.greenmangaming.com/ko/games/hyperdimension-neptunia-rebirth-1-tag-along-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Hyperdimension Neptunia Re;Birth 1 - Colosseum + Characters DLC",
+		"url": "https://www.greenmangaming.com/ko/games/hyperdimension-neptunia-rebirth-1-colosseum-characters-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Hyperdimension Neptunia Re;Birth 1 - Colossal Characters Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/hyperdimension-neptunia-rebirth-1-colossal-characters-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 5610,
+		"sale_price": 5610
+	},
+	{
+		"title": "Squids Odyssey",
+		"url": "https://www.greenmangaming.com/ko/games/squids-odyssey-pc/",
+		"store_name": "gmg",
+		"normal_price": 17032,
+		"sale_price": 6813
+	},
+	{
+		"title": "Hyperdimension Neptunia Re;Birth 1 - AV Club DLC",
+		"url": "https://www.greenmangaming.com/ko/games/hyperdimension-neptunia-rebirth-1-av-club-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "tiny & Tall: Gleipnir",
+		"url": "https://www.greenmangaming.com/ko/games/tiny-tall-gleipnir-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Claws of Furry",
+		"url": "https://www.greenmangaming.com/ko/games/claws-of-furry-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "PLANET ALPHA",
+		"url": "https://www.greenmangaming.com/ko/games/planet-alpha-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "GameGuru - Antiques In The Attic Pack",
+		"url": "https://www.greenmangaming.com/ko/games/gameguru-antiques-in-the-attic-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Super Gravity Ball + Soundtrack Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/super-gravity-ball-soundtrack-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Starpoint Gemini Warlords Gold Pack",
+		"url": "https://www.greenmangaming.com/ko/games/starpoint-gemini-warlords-gold-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 62280,
+		"sale_price": 62280
+	},
+	{
+		"title": "Ninjin: Clash of Carrots",
+		"url": "https://www.greenmangaming.com/ko/games/ninjin-clash-of-carrots-pc/",
+		"store_name": "gmg",
+		"normal_price": 27500,
+		"sale_price": 27500
+	},
+	{
+		"title": "PLANET ALPHA Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/planet-alpha-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "PLANET ALPHA Artbook",
+		"url": "https://www.greenmangaming.com/ko/games/planet-alpha-artbook-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "DRAGON QUEST® XI: Echoes of an Elusive Age™ - Digital Edition of Light",
+		"url": "https://www.greenmangaming.com/ko/games/dragon-quest-xi-pc/",
+		"store_name": "gmg",
+		"normal_price": 68161,
+		"sale_price": 68161
+	},
+	{
+		"title": "Super Gravity Ball Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/super-gravity-ball-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Super Gravity Ball",
+		"url": "https://www.greenmangaming.com/ko/games/super-gravity-ball-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Reaching for Petals",
+		"url": "https://www.greenmangaming.com/ko/games/reaching-for-petals-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Before the Blood",
+		"url": "https://www.greenmangaming.com/ko/games/before-the-blood-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 16400
+	},
+	{
+		"title": "Rigid Force Alpha",
+		"url": "https://www.greenmangaming.com/ko/games/rigid-force-alpha-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Shadows: Awakening",
+		"url": "https://www.greenmangaming.com/ko/games/shadows-awakening-pc/",
+		"store_name": "gmg",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"title": "RESEQUENCED",
+		"url": "https://www.greenmangaming.com/ko/games/resequenced-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Strange Brigade Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/strange-brigade-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "Fear The Wolves",
+		"url": "https://www.greenmangaming.com/ko/games/fear-the-wolves-pc/",
+		"store_name": "gmg",
+		"normal_price": 22713,
+		"sale_price": 22713
+	},
+	{
+		"title": "Need to Know",
+		"url": "https://www.greenmangaming.com/ko/games/need-to-know-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Torn",
+		"url": "https://www.greenmangaming.com/ko/games/torn-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Strange Brigade - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/strange-brigade-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 82000,
+		"sale_price": 82000
+	},
+	{
+		"title": "Strange Brigade",
+		"url": "https://www.greenmangaming.com/ko/games/strange-brigade-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Warhammer: Vermintide 2 - Shadows Over Bögenhafen",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-vermintide-2-shadows-over-bogenhafen-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "SPLASH BLAST PANIC",
+		"url": "https://www.greenmangaming.com/ko/games/splash-blast-panic-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Middle-earth: Shadow of War Definitive Edition",
+		"url": "https://www.greenmangaming.com/ko/games/middle-earth-shadow-of-war-definitive-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 61000,
+		"sale_price": 20740
+	},
+	{
+		"title": "The Golf Club 2019 featuring the PGA TOUR",
+		"url": "https://www.greenmangaming.com/ko/games/the-golf-club-2019-featuring-the-pga-tour-pc/",
+		"store_name": "gmg",
+		"normal_price": 54000,
+		"sale_price": 54000
+	},
+	{
+		"title": "The Universim",
+		"url": "https://www.greenmangaming.com/ko/games/the-universim-pc/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "Adera",
+		"url": "https://www.greenmangaming.com/ko/games/adera-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Planet of the Apes: Last Frontier",
+		"url": "https://www.greenmangaming.com/ko/games/planet-of-the-apes-last-frontier-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "F1 2018",
+		"url": "https://www.greenmangaming.com/ko/games/f1-2018-pc/",
+		"store_name": "gmg",
+		"normal_price": 69753,
+		"sale_price": 17438
+	},
+	{
+		"title": "My Farm",
+		"url": "https://www.greenmangaming.com/ko/games/my-farm-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "The King's Bird",
+		"url": "https://www.greenmangaming.com/ko/games/the-kings-bird-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "ValeGuard",
+		"url": "https://www.greenmangaming.com/ko/games/valeguard-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Tyler: Model 005",
+		"url": "https://www.greenmangaming.com/ko/games/tyler-model-005-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "OneShift",
+		"url": "https://www.greenmangaming.com/ko/games/oneshift-pc/",
+		"store_name": "gmg",
+		"normal_price": 3500,
+		"sale_price": 3500
+	},
+	{
+		"title": "R.O.V.E.R.",
+		"url": "https://www.greenmangaming.com/ko/games/rover-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Death Fungeon",
+		"url": "https://www.greenmangaming.com/ko/games/death-fungeon-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Railway Empire: The Great Lakes",
+		"url": "https://www.greenmangaming.com/ko/games/railway-empire-the-great-lakes-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Polygod",
+		"url": "https://www.greenmangaming.com/ko/games/polygod-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Dad Quest",
+		"url": "https://www.greenmangaming.com/ko/games/dad-quest/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Train Sim World: Ruhr-Sieg Nord: Hagen - Finnentrop Route Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-ruhr-sieg-nord-hagen-finnentrop-route-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 43000,
+		"sale_price": 43000
+	},
+	{
+		"title": "Fell Seal: Arbiter's Mark",
+		"url": "https://www.greenmangaming.com/ko/games/fell-seal-arbiters-mark-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "Graveyard Keeper",
+		"url": "https://www.greenmangaming.com/ko/games/graveyard-keeper-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "State of Mind",
+		"url": "https://www.greenmangaming.com/ko/games/state-of-mind-pc/",
+		"store_name": "gmg",
+		"normal_price": 37000,
+		"sale_price": 37000
+	},
+	{
+		"title": "Deathgarden",
+		"url": "https://www.greenmangaming.com/ko/games/deathgarden-pc/",
+		"store_name": "gmg",
+		"normal_price": 32000,
+		"sale_price": 32000
+	},
+	{
+		"title": "Phantom Doctrine Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/phantom-doctrine-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Deathgarden Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/deathgarden-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 52000,
+		"sale_price": 52000
+	},
+	{
+		"title": "The Bard's Tale Trilogy",
+		"url": "https://www.greenmangaming.com/ko/games/the-bards-tale-trilogy-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Phantom Doctrine OST/Artbook",
+		"url": "https://www.greenmangaming.com/ko/games/phantom-doctrine-ost-artbook-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Phantom Doctrine",
+		"url": "https://www.greenmangaming.com/ko/games/phantom-doctrine-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Vive le Roi 2",
+		"url": "https://www.greenmangaming.com/ko/games/vive-le-roi-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 4533,
+		"sale_price": 4533
+	},
+	{
+		"title": "GROUND BRANCH",
+		"url": "https://www.greenmangaming.com/ko/games/ground-branch/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Sword Legacy Omen",
+		"url": "https://www.greenmangaming.com/ko/games/sword-legacy-omen-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "EXAPUNKS",
+		"url": "https://www.greenmangaming.com/ko/games/exapunks-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Starpoint Gemini Warlords: Endpoint",
+		"url": "https://www.greenmangaming.com/ko/games/starpoint-gemini-warlords-endpoint-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Monster Hunter: World Deluxe Kit",
+		"url": "https://www.greenmangaming.com/ko/games/monster-hunter-world-deluxe-kit-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Doctor Who Infinity - The Lady of the Lake",
+		"url": "https://www.greenmangaming.com/ko/games/doctor-who-infinity-the-lady-of-the-lake-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Circle Empires",
+		"url": "https://www.greenmangaming.com/ko/games/circle-empires-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Doctor Who Infinity",
+		"url": "https://www.greenmangaming.com/ko/games/doctor-who-infinity-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Overcooked! 2",
+		"url": "https://www.greenmangaming.com/ko/games/overcooked-2-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Electronauts",
+		"url": "https://www.greenmangaming.com/ko/games/electronauts-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Overcooked! 2 - Too Many Cooks Pack",
+		"url": "https://www.greenmangaming.com/ko/games/overcooked-2-too-many-cooks-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Alter Army",
+		"url": "https://www.greenmangaming.com/ko/games/alter-army-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 4400
+	},
+	{
+		"title": "Conan Exiles - Jewel of the West Pack",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-jewel-of-the-west-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 11250,
+		"sale_price": 11250
+	},
+	{
+		"title": "PUSS!",
+		"url": "https://www.greenmangaming.com/ko/games/puss-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Pillars of Eternity II - Beast of Winter",
+		"url": "https://www.greenmangaming.com/ko/games/pillars-of-eternity-ii-beast-of-winter-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Grimmwood - They Come at Night",
+		"url": "https://www.greenmangaming.com/ko/games/grimmwood-they-come-at-night-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "This Is the Police 2",
+		"url": "https://www.greenmangaming.com/ko/games/this-is-the-police-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 15000,
+		"sale_price": 15000
+	},
+	{
+		"title": "Anamorphine",
+		"url": "https://www.greenmangaming.com/ko/games/anamorphine-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Fractured Lands",
+		"url": "https://www.greenmangaming.com/ko/games/fractured-lands-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Forsaken Remastered",
+		"url": "https://www.greenmangaming.com/ko/games/forsaken-remastered-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Radiant One",
+		"url": "https://www.greenmangaming.com/ko/games/radiant-one-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Dungeon Girl",
+		"url": "https://www.greenmangaming.com/ko/games/dungeon-girl-pc/",
+		"store_name": "gmg",
+		"normal_price": 13000,
+		"sale_price": 13000
+	},
+	{
+		"title": "Undead Legions II",
+		"url": "https://www.greenmangaming.com/ko/games/undead-legions-ii-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Banner Saga 3 Legendary Edition",
+		"url": "https://www.greenmangaming.com/ko/games/banner-saga-3-legendary-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Banner Saga 3 Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/banner-saga-3-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Banner Saga 3 Standard Edition",
+		"url": "https://www.greenmangaming.com/ko/games/banner-saga-3-pc/",
+		"store_name": "gmg",
+		"normal_price": 26260,
+		"sale_price": 26260
+	},
+	{
+		"title": "ZKILLER",
+		"url": "https://www.greenmangaming.com/ko/games/zkiller-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "GameGuru - Enhanced Weapons Pack",
+		"url": "https://www.greenmangaming.com/ko/games/gameguru-enhanced-weapons-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "War Tech Fighters",
+		"url": "https://www.greenmangaming.com/ko/games/war-tech-fighters/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "The End",
+		"url": "https://www.greenmangaming.com/ko/games/the-end-pc/",
+		"store_name": "gmg",
+		"normal_price": 11351,
+		"sale_price": 11351
+	},
+	{
+		"title": "Star Trek Bridge Crew: The Next Generation",
+		"url": "https://www.greenmangaming.com/ko/games/star-trek-bridge-crew-the-next-generation-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Star Trek Bridge Crew: The Next Generation (Oculus)",
+		"url": "https://www.greenmangaming.com/ko/games/star-trek-bridge-crew-the-next-generation-oculus-pc/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Mega Man X Legacy Collection 1+2",
+		"url": "https://www.greenmangaming.com/ko/games/megaman-x-legacy-collection-12-pc/",
+		"store_name": "gmg",
+		"normal_price": 38000,
+		"sale_price": 38000
+	},
+	{
+		"title": "Mega Man X Legacy Collection 2",
+		"url": "https://www.greenmangaming.com/ko/games/mega-man-x-legacy-collection-2-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Train Sim World®",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-pc/",
+		"store_name": "gmg",
+		"normal_price": 68800,
+		"sale_price": 68800
+	},
+	{
+		"title": "Headsnatchers",
+		"url": "https://www.greenmangaming.com/ko/games/headsnatchers-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Aces of the Luftwaffe - Squadron",
+		"url": "https://www.greenmangaming.com/ko/games/aces-of-the-luftwaffe-squadron-pc/",
+		"store_name": "gmg",
+		"normal_price": 16800,
+		"sale_price": 16800
+	},
+	{
+		"title": "Semblance",
+		"url": "https://www.greenmangaming.com/ko/games/semblance-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Star Trek Bridge Crew + The Next Generation DLC",
+		"url": "https://www.greenmangaming.com/ko/games/star-trek-bridge-crew-and-the-next-generation-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 60000,
+		"sale_price": 54000
+	},
+	{
+		"title": "Mega Man X Legacy Collection",
+		"url": "https://www.greenmangaming.com/ko/games/mega-man-x-legacy-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 19000,
+		"sale_price": 19000
+	},
+	{
+		"title": "Depraved",
+		"url": "https://www.greenmangaming.com/ko/games/depraved-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "ZEscape",
+		"url": "https://www.greenmangaming.com/ko/games/zescape-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Gal*Gun 2",
+		"url": "https://www.greenmangaming.com/ko/games/galgun-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 59800,
+		"sale_price": 59800
+	},
+	{
+		"title": "To Hell with Hell",
+		"url": "https://www.greenmangaming.com/ko/games/to-hell-with-hell-pc/",
+		"store_name": "gmg",
+		"normal_price": 17500,
+		"sale_price": 17500
+	},
+	{
+		"title": "Project Highrise: Brilliant Berlin",
+		"url": "https://www.greenmangaming.com/ko/games/project-highrise-brilliant-berlin-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Detective Case and Clown Bot in: The Express Killer",
+		"url": "https://www.greenmangaming.com/ko/games/detective-case-and-clown-bot-in-the-express-killer-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "A Rite from the Stars",
+		"url": "https://www.greenmangaming.com/ko/games/a-rite-from-the-stars-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Northgard - Sváfnir, Clan of the Snake",
+		"url": "https://www.greenmangaming.com/ko/games/northgard-svafnir-clan-of-the-snake/",
+		"store_name": "gmg",
+		"normal_price": 5670,
+		"sale_price": 5670
+	},
+	{
+		"title": "Impulsion",
+		"url": "https://www.greenmangaming.com/ko/games/impulsion-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Treasure Hunter Claire",
+		"url": "https://www.greenmangaming.com/ko/games/treasure-hunter-claire-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Faeria - Fall of Everlife DLC",
+		"url": "https://www.greenmangaming.com/ko/games/faeria-fall-of-everlife-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Faeria - Premium Edition DLC",
+		"url": "https://www.greenmangaming.com/ko/games/faeria-premium-edition-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Mugsters",
+		"url": "https://www.greenmangaming.com/ko/games/mugsters-pc/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "TEMPEST 4000",
+		"url": "https://www.greenmangaming.com/ko/games/tempest-4000-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "MOTHERGUNSHIP",
+		"url": "https://www.greenmangaming.com/ko/games/mothergunship-pc/",
+		"store_name": "gmg",
+		"normal_price": 24500,
+		"sale_price": 24500
+	},
+	{
+		"title": "Thief of Thieves: Season One",
+		"url": "https://www.greenmangaming.com/ko/games/thief-of-thieves-season-one-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Furious Seas",
+		"url": "https://www.greenmangaming.com/ko/games/furious-seas-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Beasts&Chests",
+		"url": "https://www.greenmangaming.com/ko/games/beastschests-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "MoonQuest",
+		"url": "https://www.greenmangaming.com/ko/games/moonquest-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Crooked Waters",
+		"url": "https://www.greenmangaming.com/ko/games/crooked-waters-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Mars or Die!",
+		"url": "https://www.greenmangaming.com/ko/games/mars-or-die-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Coach Bus Simulator Parking",
+		"url": "https://www.greenmangaming.com/ko/games/coach-bus-simulator-parking-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Epic Loon",
+		"url": "https://www.greenmangaming.com/ko/games/epic-loon-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Outpost Zero",
+		"url": "https://www.greenmangaming.com/ko/games/outpost-zero-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "The Cooking Game VR",
+		"url": "https://www.greenmangaming.com/ko/games/the-cooking-game-vr-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "The Spiral Scouts",
+		"url": "https://www.greenmangaming.com/ko/games/the-spiral-scouts-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Seeking Dawn",
+		"url": "https://www.greenmangaming.com/ko/games/seeking-dawn-pc/",
+		"store_name": "gmg",
+		"normal_price": 31000,
+		"sale_price": 31000
+	},
+	{
+		"title": "MagiCats Builder Infinite Pack",
+		"url": "https://www.greenmangaming.com/ko/games/magicats-builder-infinite-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 17032,
+		"sale_price": 17032
+	},
+	{
+		"title": "Stifled",
+		"url": "https://www.greenmangaming.com/ko/games/stifled-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Muddledash",
+		"url": "https://www.greenmangaming.com/ko/games/muddledash-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Roguebreaker",
+		"url": "https://www.greenmangaming.com/ko/games/roguebreaker-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 3520
+	},
+	{
+		"title": "City of God I - Prison Empire",
+		"url": "https://www.greenmangaming.com/ko/games/city-of-god-i-prison-empire-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "City of God I - Prison Empire + Season Pass Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/city-of-god-i-prison-empire-season-pass-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 92800,
+		"sale_price": 63104
+	},
+	{
+		"title": "Extinction: Skybound Sentinel",
+		"url": "https://www.greenmangaming.com/ko/games/extinction-skybound-sentinel-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "City of God I - Prison Empire - Faithful Panda Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/city-of-god-i-prison-empire-faithful-panda-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 73300,
+		"sale_price": 49844
+	},
+	{
+		"title": "ESPER",
+		"url": "https://www.greenmangaming.com/ko/games/esper-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "Exotic Matter",
+		"url": "https://www.greenmangaming.com/ko/games/exotic-matter-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Steampunker",
+		"url": "https://www.greenmangaming.com/ko/games/steampunker-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Hue Defense",
+		"url": "https://www.greenmangaming.com/ko/games/hue-defense-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Jade's Dungeon Descent",
+		"url": "https://www.greenmangaming.com/ko/games/jades-dungeon-descent-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Kingdom Come: Deliverance - From the Ashes",
+		"url": "https://www.greenmangaming.com/ko/games/kingdom-come-deliverance-from-the-ashes-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Aragami Nightfall",
+		"url": "https://www.greenmangaming.com/ko/games/aragami-nightfall-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "SHOWMAKER Nepgear Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/showmaker-nepgear-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 13930,
+		"sale_price": 13930
+	},
+	{
+		"title": "18 Floors",
+		"url": "https://www.greenmangaming.com/ko/games/18-floors-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Seeds of Resilience",
+		"url": "https://www.greenmangaming.com/ko/games/seeds-of-resilience-pc/",
+		"store_name": "gmg",
+		"normal_price": 14500,
+		"sale_price": 14500
+	},
+	{
+		"title": "Red Faction: Guerrilla Re-Mars-tered",
+		"url": "https://www.greenmangaming.com/ko/games/red-faction-guerilla/",
+		"store_name": "gmg",
+		"normal_price": 20000,
+		"sale_price": 20000
+	},
+	{
+		"title": "Chicago 1930",
+		"url": "https://www.greenmangaming.com/ko/games/chicago-1930-pc/",
+		"store_name": "gmg",
+		"normal_price": 5670,
+		"sale_price": 3402
+	},
+	{
+		"title": "The Forge Arena - DEAGLE EDITION",
+		"url": "https://www.greenmangaming.com/ko/games/the-forge-arena-deagle-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 26692,
+		"sale_price": 26692
+	},
+	{
+		"title": "The Forge Arena - GOLDEN EDITION",
+		"url": "https://www.greenmangaming.com/ko/games/the-forge-arena-golden-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 106800,
+		"sale_price": 106800
+	},
+	{
+		"title": "The Forge Arena - TRIFECTA EDITION",
+		"url": "https://www.greenmangaming.com/ko/games/the-forge-arena-trifecta-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 53395,
+		"sale_price": 53395
+	},
+	{
+		"title": "The Crew 2 - Deluxe Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-crew-2-deluxe-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 75000,
+		"sale_price": 75000
+	},
+	{
+		"title": "999",
+		"url": "https://www.greenmangaming.com/ko/games/999-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "The Crew 2 - Gold Edition",
+		"url": "https://www.greenmangaming.com/ko/games/the-crew-2-gold-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 95000,
+		"sale_price": 95000
+	},
+	{
+		"title": "The Crew 2",
+		"url": "https://www.greenmangaming.com/ko/games/the-crew-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 65000,
+		"sale_price": 65000
+	},
+	{
+		"title": "Crazy Soccer",
+		"url": "https://www.greenmangaming.com/ko/games/crazy-soccer-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "The Crew 2 - Season Pass",
+		"url": "https://www.greenmangaming.com/ko/games/the-crew-2-season-pass-pc/",
+		"store_name": "gmg",
+		"normal_price": 44000,
+		"sale_price": 44000
+	},
+	{
+		"title": "Dream Alone",
+		"url": "https://www.greenmangaming.com/ko/games/dream-alone-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Along the Edge",
+		"url": "https://www.greenmangaming.com/ko/games/along-the-edge-pc/",
+		"store_name": "gmg",
+		"normal_price": 14759,
+		"sale_price": 14759
+	},
+	{
+		"title": "Youropa",
+		"url": "https://www.greenmangaming.com/ko/games/youropa-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "LUMINES REMASTERED",
+		"url": "https://www.greenmangaming.com/ko/games/lumines-remastered-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Capsella The Lights of Lucern",
+		"url": "https://www.greenmangaming.com/ko/games/capsella-the-lights-of-lucern-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Conan Exiles - The Imperial East Pack",
+		"url": "https://www.greenmangaming.com/ko/games/conan-exiles-the-imperial-east-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 11250,
+		"sale_price": 11250
+	},
+	{
+		"title": "Lost in Harmony",
+		"url": "https://www.greenmangaming.com/ko/games/lost-in-harmony-pc/",
+		"store_name": "gmg",
+		"normal_price": 7942,
+		"sale_price": 7942
+	},
+	{
+		"title": "Warhammer 40,000: Space Wolf - Sentry Gun Pack",
+		"url": "https://www.greenmangaming.com/ko/games/warhammer-40000-space-wolf-sentry-gun-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Fobia",
+		"url": "https://www.greenmangaming.com/ko/games/fobia-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Haimrik",
+		"url": "https://www.greenmangaming.com/ko/games/haimrik/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "SUPER BALL WRESTLE YES",
+		"url": "https://www.greenmangaming.com/ko/games/super-ball-wrestle-yes-pc/",
+		"store_name": "gmg",
+		"normal_price": 11500,
+		"sale_price": 11500
+	},
+	{
+		"title": "Aggelos",
+		"url": "https://www.greenmangaming.com/ko/games/aggelos-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "LEGO The Incredibles",
+		"url": "https://www.greenmangaming.com/ko/games/lego-the-incredibles-pc/",
+		"store_name": "gmg",
+		"normal_price": 42900,
+		"sale_price": 42900
+	},
+	{
+		"title": "Scheming Through The Zombie Apocalypse: The Beginning",
+		"url": "https://www.greenmangaming.com/ko/games/scheming-through-the-zombie-apocalypse-the-beginning-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Medieval Shopkeeper Simulator",
+		"url": "https://www.greenmangaming.com/ko/games/medieval-shopkeeper-simulator-pc/",
+		"store_name": "gmg",
+		"normal_price": 9500,
+		"sale_price": 9500
+	},
+	{
+		"title": "Hyperdrive Massacre - Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/hyperdrive-massacre-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Wreckfest",
+		"url": "https://www.greenmangaming.com/ko/games/wreckfest-pc/",
+		"store_name": "gmg",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"title": "Sudden Strike 4 - Finland: Winter Storm",
+		"url": "https://www.greenmangaming.com/ko/games/sudden-strike-4-finland-winter-storm-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Tennis World Tour Legends Edition",
+		"url": "https://www.greenmangaming.com/ko/games/tennis-world-tour-legends-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 73842,
+		"sale_price": 73842
+	},
+	{
+		"title": "Dead by Daylight - Curtain Call Chapter",
+		"url": "https://www.greenmangaming.com/ko/games/dead-by-daylight-curtain-call-chapter-pc/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Lust for Darkness",
+		"url": "https://www.greenmangaming.com/ko/games/lust-for-darkness-pc/",
+		"store_name": "gmg",
+		"normal_price": 17032,
+		"sale_price": 17032
+	},
+	{
+		"title": "Tennis World Tour",
+		"url": "https://www.greenmangaming.com/ko/games/tennis-world-tour-pc/",
+		"store_name": "gmg",
+		"normal_price": 56799,
+		"sale_price": 56799
+	},
+	{
+		"title": "PREY - Mooncrash",
+		"url": "https://www.greenmangaming.com/ko/games/prey-mooncrash-pc/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"title": "Sairento VR - Weapons Pack 1",
+		"url": "https://www.greenmangaming.com/ko/games/sairento-vr-weapons-pack-1-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Railway Empire: Mexico",
+		"url": "https://www.greenmangaming.com/ko/games/railway-empire-mexico-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Ghost of a Tale",
+		"url": "https://www.greenmangaming.com/ko/games/ghost-of-a-tale-pc/",
+		"store_name": "gmg",
+		"normal_price": 28394,
+		"sale_price": 28394
+	},
+	{
+		"title": "Flashing Lights - Police Fire EMS",
+		"url": "https://www.greenmangaming.com/ko/games/flashing-lights-police-fire-ems-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Catch & Release",
+		"url": "https://www.greenmangaming.com/ko/games/catch-release-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Bighead Runner",
+		"url": "https://www.greenmangaming.com/ko/games/bighead-runner-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "Gray Dawn",
+		"url": "https://www.greenmangaming.com/ko/games/gray-dawn/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Bighead Runner: Original Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/bighead-runner-original-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 1100,
+		"sale_price": 1100
+	},
+	{
+		"title": "NukGames Games Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/nukgames-games-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": 6778,
+		"sale_price": 6778
+	},
+	{
+		"title": "Nukgames Complete Bundle",
+		"url": "https://www.greenmangaming.com/ko/games/nukgames-complete-bundle-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "ANTIGRAVIATOR",
+		"url": "https://www.greenmangaming.com/ko/games/antigraviator-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 26000
+	},
+	{
+		"title": "Memories of Mars",
+		"url": "https://www.greenmangaming.com/ko/games/memories-of-mars-pc/",
+		"store_name": "gmg",
+		"normal_price": 22713,
+		"sale_price": 22713
+	},
+	{
+		"title": "Bounty Train - New West",
+		"url": "https://www.greenmangaming.com/ko/games/bounty-train-new-west-pc/",
+		"store_name": "gmg",
+		"normal_price": 6000,
+		"sale_price": 6000
+	},
+	{
+		"title": "KryptCrawler",
+		"url": "https://www.greenmangaming.com/ko/games/kryptcrawler-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "Shaq Fu: A Legend Reborn",
+		"url": "https://www.greenmangaming.com/ko/games/shaq-fu-a-legend-reborn-pc/",
+		"store_name": "gmg",
+		"normal_price": 21000,
+		"sale_price": 21000
+	},
+	{
+		"title": "Shape of the World",
+		"url": "https://www.greenmangaming.com/ko/games/shape-of-the-world-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Extinction: Ravenii Rampage",
+		"url": "https://www.greenmangaming.com/ko/games/extinction-ravenii-rampage/",
+		"store_name": "gmg",
+		"normal_price": 7500,
+		"sale_price": 7500
+	},
+	{
+		"title": "Vampyr",
+		"url": "https://www.greenmangaming.com/ko/games/vampyr/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "In memory of TITAN",
+		"url": "https://www.greenmangaming.com/ko/games/in-memory-of-titan-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Extreme-G 2",
+		"url": "https://www.greenmangaming.com/ko/games/extreme-g-2-pc/",
+		"store_name": "gmg",
+		"normal_price": 6500,
+		"sale_price": 6500
+	},
+	{
+		"title": "Stunt Kite Masters VR",
+		"url": "https://www.greenmangaming.com/ko/games/stunt-kite-masters-vr/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "CRUSH",
+		"url": "https://www.greenmangaming.com/ko/games/crush-new-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Quantum Replica",
+		"url": "https://www.greenmangaming.com/ko/games/quantum-replica/",
+		"store_name": "gmg",
+		"normal_price": 16500,
+		"sale_price": 16500
+	},
+	{
+		"title": "Milanoir",
+		"url": "https://www.greenmangaming.com/ko/games/milanoir-pc/",
+		"store_name": "gmg",
+		"normal_price": 13500,
+		"sale_price": 13500
+	},
+	{
+		"title": "Smoke & Sacrifice",
+		"url": "https://www.greenmangaming.com/ko/games/smoke-sacrifice-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Eggs 1942",
+		"url": "https://www.greenmangaming.com/ko/games/eggs-1942-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Shift Quantum",
+		"url": "https://www.greenmangaming.com/ko/games/shift-quantum-pc/",
+		"store_name": "gmg",
+		"normal_price": 22713,
+		"sale_price": 15899
+	},
+	{
+		"title": "Street Fighter 30th Anniversary Collection",
+		"url": "https://www.greenmangaming.com/ko/games/street-fighter-30th-anniversary-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 39000,
+		"sale_price": 39000
+	},
+	{
+		"title": "Die for Valhalla!",
+		"url": "https://www.greenmangaming.com/ko/games/die-for-valhalla-pc/",
+		"store_name": "gmg",
+		"normal_price": 12500,
+		"sale_price": 12500
+	},
+	{
+		"title": "Legendary Eleven: Epic Football",
+		"url": "https://www.greenmangaming.com/ko/games/legendary-eleven-epic-football-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Yoku's Island Express",
+		"url": "https://www.greenmangaming.com/ko/games/yokus-island-express-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Moonlighter",
+		"url": "https://www.greenmangaming.com/ko/games/moonlighter-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 11275
+	},
+	{
+		"title": "Tsundere Idol",
+		"url": "https://www.greenmangaming.com/ko/games/tsundere-idol-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Golem",
+		"url": "https://www.greenmangaming.com/ko/games/golem/",
+		"store_name": "gmg",
+		"normal_price": 16000,
+		"sale_price": 16000
+	},
+	{
+		"title": "Hexologic",
+		"url": "https://www.greenmangaming.com/ko/games/hexologic-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Pro Cycling Manager 2018",
+		"url": "https://www.greenmangaming.com/ko/games/pro-cycling-manager-2018-pc/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Urizen Shadows of the Cold Deluxe Frosty Edition",
+		"url": "https://www.greenmangaming.com/ko/games/urizen-shadows-of-the-cold-deluxe-frosty-edition/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "COSMIC SNAKE 8473/3671(HAMLETs)",
+		"url": "https://www.greenmangaming.com/ko/games/cosmic-snake-84733671hamlets-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Ants! Mission of the salvation",
+		"url": "https://www.greenmangaming.com/ko/games/ants-mission-of-the-salvation-pc/",
+		"store_name": "gmg",
+		"normal_price": 2200,
+		"sale_price": 2200
+	},
+	{
+		"title": "Arizona Sunshine - Dead Man DLC",
+		"url": "https://www.greenmangaming.com/ko/games/arizona-sunshine-dead-man-dlc-pc/",
+		"store_name": "gmg",
+		"normal_price": 3300,
+		"sale_price": 3300
+	},
+	{
+		"title": "Unforeseen Incidents",
+		"url": "https://www.greenmangaming.com/ko/games/unforeseen-incidents-pc/",
+		"store_name": "gmg",
+		"normal_price": 20500,
+		"sale_price": 20500
+	},
+	{
+		"title": "Cities: Skylines - Parklife",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-parklife-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Euro Fishing Ultimate Edition",
+		"url": "https://www.greenmangaming.com/ko/games/euro-fishing-ultimate-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": 45200,
+		"sale_price": 45200
+	},
+	{
+		"title": "Cities Skylines: Country Road Radio",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-country-road-radio-pc/",
+		"store_name": "gmg",
+		"normal_price": 4400,
+		"sale_price": 4400
+	},
+	{
+		"title": "Train Sim World: West Somerset Railway Route Add-On",
+		"url": "https://www.greenmangaming.com/ko/games/train-sim-world-west-somerset-railway-route-add-on-pc/",
+		"store_name": "gmg",
+		"normal_price": 26000,
+		"sale_price": 10400
+	},
+	{
+		"title": "Imperatum",
+		"url": "https://www.greenmangaming.com/ko/games/imperatum-pc/",
+		"store_name": "gmg",
+		"normal_price": 20050,
+		"sale_price": 20050
+	},
+	{
+		"title": "303 Squadron: Battle of Britain",
+		"url": "https://www.greenmangaming.com/ko/games/303-squadron-battle-of-britain-pc/",
+		"store_name": "gmg",
+		"normal_price": 22713,
+		"sale_price": 22713
+	},
+	{
+		"title": "Egypt: Old Kingdom",
+		"url": "https://www.greenmangaming.com/ko/games/egypt-old-kingdom-pc/",
+		"store_name": "gmg",
+		"normal_price": 15500,
+		"sale_price": 15500
+	},
+	{
+		"title": "Cities: Skylines - Parklife Plus",
+		"url": "https://www.greenmangaming.com/ko/games/cities-skylines-parklife-plus-pc/",
+		"store_name": "gmg",
+		"normal_price": 18500,
+		"sale_price": 18500
+	},
+	{
+		"title": "Stay Safe",
+		"url": "https://www.greenmangaming.com/ko/games/stay-safe-pc/",
+		"store_name": "gmg",
+		"normal_price": 26110,
+		"sale_price": 26110
+	},
+	{
+		"title": "Ancestors Legacy Digital Artbook",
+		"url": "https://www.greenmangaming.com/ko/games/ancestors-legacy-digital-artbook-pc/",
+		"store_name": "gmg",
+		"normal_price": 5500,
+		"sale_price": 5500
+	},
+	{
+		"title": "Ancestors Legacy",
+		"url": "https://www.greenmangaming.com/ko/games/ancestors-legacy-pc/",
+		"store_name": "gmg",
+		"normal_price": 36000,
+		"sale_price": 36000
+	},
+	{
+		"title": "Ancestors Legacy + Digital Artbook + Digital Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/ancestors-legacy-digital-artbook-digital-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 45000,
+		"sale_price": 45000
+	},
+	{
+		"title": "Space Hulk: Deathwing - Enhanced Edition",
+		"url": "https://www.greenmangaming.com/ko/games/space-hulk-deathwing/",
+		"store_name": "gmg",
+		"normal_price": 45437,
+		"sale_price": 45437
+	},
+	{
+		"title": "Stellaris: Distant Stars Story Pack",
+		"url": "https://www.greenmangaming.com/ko/games/stellaris-distant-stars-story-pack-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "Ancestors Legacy Soundtrack",
+		"url": "https://www.greenmangaming.com/ko/games/ancestors-legacy-soundtrack-pc/",
+		"store_name": "gmg",
+		"normal_price": 8500,
+		"sale_price": 8500
+	},
+	{
+		"title": "The Elder Scrolls Online: Summerset (Collector's Edition)",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-summerset-collectors-edition-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "The Elder Scrolls Online: Summerset (Standard Upgrade)",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-summerset-standard-upgrade-pc/",
+		"store_name": "gmg",
+		"normal_price": 22000,
+		"sale_price": 22000
+	},
+	{
+		"title": "The Elder Scrolls Online: Summerset (Collector's Upgrade)",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-summerset-collectors-upgrade-pc/",
+		"store_name": "gmg",
+		"normal_price": 33500,
+		"sale_price": 33500
+	},
+	{
+		"title": "The Elder Scrolls Online: Summerset",
+		"url": "https://www.greenmangaming.com/ko/games/the-elder-scrolls-online-summerset-pc/",
+		"store_name": "gmg",
+		"normal_price": 46000,
+		"sale_price": 46000
+	},
+	{
+		"title": "GameGuru Mega Pack 1",
+		"url": "https://www.greenmangaming.com/ko/games/gameguru-mega-pack-1-pc/",
+		"store_name": "gmg",
+		"normal_price": -1,
+		"sale_price": -1
+	},
+	{
+		"title": "Creepy Road",
+		"url": "https://www.greenmangaming.com/ko/games/creepy-road-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "FRAMED Collection",
+		"url": "https://www.greenmangaming.com/ko/games/framed-collection-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 10500
+	},
+	{
+		"title": "FAST BEAT LOOP RACER GT",
+		"url": "https://www.greenmangaming.com/ko/games/fast-beat-loop-racer-gt-pc/",
+		"store_name": "gmg",
+		"normal_price": 10500,
+		"sale_price": 6300
+	}
+]
