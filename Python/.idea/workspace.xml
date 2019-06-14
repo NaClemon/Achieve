@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55a93f28-3bf6-4ada-ae55-da95484c5ca7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/10Chapter_board/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/10Chapter_board/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/NewPractice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/NewPractice/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Practice/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/TeamProject/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/TeamProject/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Testst/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Testst/src/com/dao/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/src/com/dao/BoardDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Testst/src/com/service/BoardWriteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Testst/src/com/service/BoardWriteCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/abcdefg/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/abcdefg/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/asdfasdfsd/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/asdfasdfsd/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/dbproject/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/dbproject/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/dfhgdjkliug/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/dfhgdjkliug/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/html_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/html_practice/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/model1_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/model1_practice/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/model2_practice/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/model2_practice/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/witness/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/witness/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="55a93f28-3bf6-4ada-ae55-da95484c5ca7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,15 +100,21 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tensorflow" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -305,7 +287,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="409" y="331" width="266" height="424" id="Mongo Explorer" order="3" visible="true" weight="0.202407" />
+      <window_info anchor="right" x="409" y="331" width="266" height="424" id="Mongo Explorer" order="3" visible="true" weight="0.20678337" />
     </layout>
   </component>
   <component name="editorHistoryManager">

@@ -4,6 +4,11 @@ import numpy as np
 #------예제 6---------
 src = cv2.imread('Image/1.png', cv2.IMREAD_COLOR)
 
+image = cv2.imread('Image/a.jpg', cv2.IMREAD_ANYCOLOR)
+cv2.imshow('temp', image)
+height, width, channel = image.shape
+print(height, width, channel)
+cv2.waitKey(0)
 #==윤곽선==
 # gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
 # ret, binary = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
