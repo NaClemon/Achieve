@@ -4,15 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <orderEntry type="jdk" jdkName="Python 3.7 (every)" jdkType="Python SDK" />
-=======
     <orderEntry type="jdk" jdkName="Python 3.7 (pymongo)" jdkType="Python SDK" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-    <orderEntry type="jdk" jdkName="Python 3.7 (pymongo)" jdkType="Python SDK" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

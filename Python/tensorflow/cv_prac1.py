@@ -4,19 +4,11 @@ import numpy as np
 #------예제 6---------
 src = cv2.imread('Image/1.png', cv2.IMREAD_COLOR)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 image = cv2.imread('Image/a.jpg', cv2.IMREAD_ANYCOLOR)
 cv2.imshow('temp', image)
 height, width, channel = image.shape
 print(height, width, channel)
 cv2.waitKey(0)
-=======
-=======
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
 #==윤곽선==
 # gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
 # ret, binary = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
@@ -133,11 +125,4 @@ cv2.waitKey(0)
 # # cv2.imshow('dst2', dst2)
 # cv2.waitKey(0)
 # capture.release()
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
 cv2.destroyAllWindows()

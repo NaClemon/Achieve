@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9474702-2a12-4f8d-a69a-3e59b377b7b3" name="Default Changelist" comment="">
-<<<<<<< HEAD
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" afterDir="false" />
@@ -22,12 +20,6 @@
       <change beforePath="$PROJECT_DIR$/../recommend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recommend/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/tensorflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow.iml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/../../Django/[HW3]/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/[HW3]/.idea/workspace.xml" afterDir="false" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-      <change beforePath="$PROJECT_DIR$/../../Django/[HW3]/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/[HW3]/.idea/workspace.xml" afterDir="false" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv_prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_prac1.py" afterDir="false" />
     </list>
@@ -91,11 +83,7 @@
         <entry file="file://$PROJECT_DIR$/prac6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-<<<<<<< HEAD
               <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-=======
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
             </state>
           </provider>
         </entry>
@@ -115,23 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_prac1.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
             <state relative-caret-position="627">
               <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-=======
-            <state relative-caret-position="1121">
-              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-            <state relative-caret-position="1121">
-              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-            <state relative-caret-position="1121">
-              <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -140,31 +113,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/cv_prac1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-=======
-        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112005">
-              <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112005">
-              <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112005">
-              <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
             </state>
           </provider>
         </entry>
@@ -194,19 +146,7 @@
         <option value="$PROJECT_DIR$/prac4.py" />
         <option value="$PROJECT_DIR$/prac5.py" />
         <option value="$PROJECT_DIR$/prac6.py" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/practice.py" />
-=======
-        <option value="$PROJECT_DIR$/test.py" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <option value="$PROJECT_DIR$/test.py" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <option value="$PROJECT_DIR$/test.py" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
         <option value="$PROJECT_DIR$/cv_prac1.py" />
         <option value="$PROJECT_DIR$/temp.py" />
       </list>
@@ -259,19 +199,7 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   <component name="RunManager" selected="Python.practice">
-=======
-  <component name="RunManager" selected="Python.temp">
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-  <component name="RunManager" selected="Python.temp">
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-  <component name="RunManager" selected="Python.temp">
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
     <configuration name="cv_prac1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,19 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
       <module name="tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,19 +275,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,19 +307,7 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         <item itemvalue="Python.practice" />
-=======
-        <item itemvalue="Python.temp" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <item itemvalue="Python.temp" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <item itemvalue="Python.temp" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
         <item itemvalue="Python.cv_prac1" />
         <item itemvalue="Python.prac6" />
         <item itemvalue="Python.prac5" />
@@ -462,11 +354,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/prac4.py">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
@@ -478,7 +365,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/practice.py">
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
@@ -510,7 +396,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prac5.py">
-<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
           <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
@@ -521,8 +406,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_prac1.py">
-=======
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
           <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
@@ -541,14 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prac6.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         <state relative-caret-position="627">
           <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-=======
-        <state relative-caret-position="95">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -556,41 +433,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
           <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
-=======
         <state relative-caret-position="95">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
-        <state relative-caret-position="95">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-<<<<<<< HEAD
         <state relative-caret-position="133">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-=======
-=======
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
+        <state relative-caret-position="112005">
+          <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112005">
@@ -600,18 +464,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.py">
       <provider selected="true" editor-type-id="text-editor">
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
         <state relative-caret-position="171">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
->>>>>>> d92131fff5559cc42296402fc783487e1ef77067
-=======
->>>>>>> fc8b24ebc62e18a2b78e948229c25f12b51244db
           </folding>
         </state>
       </provider>
