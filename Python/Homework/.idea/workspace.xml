@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50babce7-3497-448a-8d57-2662904d1f42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crawler/.idea/Crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/Crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crawler/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tensorflow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tensorflow/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tensorflow/.idea/tensorflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../tensorflow/.idea/tensorflow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tensorflow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tensorflow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tensorflow/cv_prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tensorflow/cv_prac1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +93,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +201,7 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15426695" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15426695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -219,24 +215,24 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952183" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.3253638" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32952183" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>

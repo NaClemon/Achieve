@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9474702-2a12-4f8d-a69a-3e59b377b7b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crawler/.idea/Crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/Crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Crawler/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/Homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3/.idea/hw3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/hw3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/Practice_myself.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/Practice_myself.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/python-mysql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/python-mysql.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recommend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recommend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recommend/.idea/recommend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../recommend/.idea/recommend.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../recommend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recommend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tensorflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_prac1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_prac1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
+            <state relative-caret-position="380">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -103,20 +99,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_prac1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="95">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv_prac1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -163,6 +150,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,12 +167,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/posenettest/posenet-python-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -364,17 +351,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="380">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/prac2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -405,60 +392,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_prac1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112005">
-          <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prac6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv_prac1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="61" column="40" selection-start-line="61" selection-start-column="40" selection-end-line="61" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         <state relative-caret-position="95">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.py">
+    <entry file="file://$PROJECT_DIR$/cv_prac1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="95">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112005">
-          <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1849668804/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112005">
-          <caret line="5910" column="4" selection-start-line="5910" selection-start-column="4" selection-end-line="5910" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
