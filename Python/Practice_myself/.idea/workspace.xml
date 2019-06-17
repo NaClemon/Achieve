@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD:Python/.idea/workspace.xml
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/Browse.VC.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/ipch/e55221fbed1540cf.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/.vs/Practice/v15/ipch/e55221fbed1540cf.ipch" afterDir="false" />
@@ -24,39 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Practice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../OpenGL/Practice/Practice/Practice.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-=======
-    <list default="true" id="54c529f9-35d4-4be5-b04e-b07bcea1365c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../AndroidStudio/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/ipch/AutoPCH/cbbd4c503661a5fd/소스.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/.vs/Project1/v15/ipch/AutoPCH/cbbd4c503661a5fd/소스.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Debug/Project1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/Project1.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/Project1.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/vc141.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/vc141.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/소스.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/Debug/소스.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/소스.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OpenGL/Project1/Project1/소스.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
->>>>>>> 1f7134c31783d721b5ede338c291ab7df121296c:Python/Practice_myself/.idea/workspace.xml
     </list>
->>>>>>> f6a8dccfdd7ad18104e6fd6a52422e58df4e6dc3
-=======
-    <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="" />
->>>>>>> 24e21697485a333e119ad92e05d1d5ba26728f49
-=======
-    <list default="true" id="d534629f-a4df-4dd9-a4a6-aae8fca51c6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-=======
->>>>>>> f78f876ecbfc3ce6020df48974aac395f599b8f8
-    </list>
->>>>>>> 4df8cc8ff19b4419933c8ffda4c737013214148b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,17 +147,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-<<<<<<< HEAD:Python/.idea/workspace.xml
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice.py" />
-=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
->>>>>>> f78f876ecbfc3ce6020df48974aac395f599b8f8
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
->>>>>>> 1f7134c31783d721b5ede338c291ab7df121296c:Python/Practice_myself/.idea/workspace.xml
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import random
 
 a=[1,2,3]
@@ -47,7 +46,6 @@ while (ans != num):
         print("down")
     count += 1
 print(count, "정답")
-=======
 class JustCounter:
     __secretCount = 0
 
@@ -61,5 +59,3 @@ counter = JustCounter()
 counter.count()
 counter.count()
 print(counter._JustCounter__secretCount)
-
->>>>>>> d9250d1baf19be59860aaea87b46f7793238fb74
