@@ -1,4 +1,5 @@
 # file input linear regression
+# 출처: https://github.com/hunkim/DeepLearningZeroToAll
 import tensorflow as tf
 import numpy as np
 

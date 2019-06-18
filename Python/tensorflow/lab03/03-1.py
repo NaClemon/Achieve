@@ -1,5 +1,5 @@
 # minimizing cost show graph
-
+# 출처: https://github.com/hunkim/DeepLearningZeroToAll
 import tensorflow as tf
 import matplotlib.pyplot as plt
 

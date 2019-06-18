@@ -1,4 +1,5 @@
 # minimizing cost tf gradient
+# 출처: https://github.com/hunkim/DeepLearningZeroToAll
 import tensorflow as tf
 
 X = [1, 2, 3]

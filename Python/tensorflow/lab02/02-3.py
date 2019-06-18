@@ -1,3 +1,4 @@
+# 출처: https://github.com/hunkim/DeepLearningZeroToAll
 import tensorflow as tf
 
 x_train = [1, 2, 3, 4]
