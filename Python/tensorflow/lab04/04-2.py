@@ -1,4 +1,5 @@
 # multi variable matmul linear regression
+# 출처: https://github.com/hunkim/DeepLearningZeroToAll
 import tensorflow as tf
 tf.set_random_seed(777)
 
