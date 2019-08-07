@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40635dff-7526-4f5d-a287-264615d010c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Crawler/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/Homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/Practice_myself.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/Practice_myself.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice_myself/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_myself/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/python-mysql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/python-mysql.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-mysql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-mysql/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/recommend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recommend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tensorflow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tensorflow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tensorflow/logs/hello_tf_190516-1/events.out.tfevents.1557933384.DESKTOP-NSLBD69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tensorflow/logs/hello_tf_190516-1/events.out.tfevents.1557933974.DESKTOP-NSLBD69" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/ex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -69,7 +56,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,6 +67,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +156,7 @@
     <entry file="file://$PROJECT_DIR$/ex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
